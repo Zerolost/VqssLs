@@ -20,12 +20,6 @@ proxies:
       public-key: your_public_key
       short-id: ""
 
-proxy-groups:
-  - name: "Music" 
-    type: select
-    proxies:
-      - music_encrypted_proxy
-
 rules:
   - HOST,music.makifx.com,Music  
   - HOST,music2.makifx.com,Music
