@@ -1,5 +1,32 @@
 # name: music
 
-HOST,music.makifx.com,Music
-HOST,music2.makifx.com,Muisc
-HOST-SUFFIX,lrc.makifx.com,Music
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  nameserver:
+    - https://1.1.1.1/dns-query
+
+proxies:
+  - name: "music_encrypted_proxy"
+    type: vless
+    server: your_proxy_server.com
+    port: 443
+    uuid: your_uuid
+    network: tcp
+    tls: true
+    servername: camouflage-domain.com
+    flow: xtls-rprx-vision
+    reality-opts:
+      public-key: your_public_key
+      short-id: ""
+
+proxy-groups:
+  - name: "Music" 
+    type: select
+    proxies:
+      - music_encrypted_proxy
+
+rules:
+  - HOST,music.makifx.com,Music  
+  - HOST,music2.makifx.com,Music
+  - HOST-SUFFIX,lrc.makifx.com,Music
