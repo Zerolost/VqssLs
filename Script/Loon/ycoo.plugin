@@ -1,0 +1,37 @@
+#!name=ycoo签到
+#!desc=自动获取Cookie、每日签到、Cookie更新
+#!author=LooCx
+#!homepage=https://github.com/LooCx/ycoo-loon
+#!category=Forum
+
+#==================================================
+# ycoo 自动签到
+#
+# 功能：
+# • 自动获取Cookie
+# • Cookie自动更新
+# • Cookie失效提醒
+# • 每日自动签到
+# • 获取连续签到
+# • 获取累计签到
+# • 获取今日排名
+# • 获取积分
+# • 获取签到奖励
+#==================================================
+
+[Argument]
+EnableCookie = switch,true,tag=[开关] 自动获取Cookie,desc=访问论坛时自动保存Cookie
+EnableNotify = switch,true,tag=[开关] 本地通知,desc=是否发送Loon通知
+Debug = switch,false,tag=[开关] Debug日志,desc=输出详细运行日志
+RunTime = input,"30 7 * * *",tag=签到时间,desc=默认每天07:30执行
+Retry = input,"3",tag=失败重试次数,desc=网络异常自动重试
+Timeout = input,"20",tag=请求超时(秒),desc=HTTP请求超时时间
+
+[Script]
+#每日签到
+cron {RunTime} script-path=https://raw.githubusercontent.com/LooCx/ycoo-loon/main/js/ycoo.sign.js, tag=ycoo每日签到, timeout={Timeout}
+#自动获取Cookie
+http-request ^https:\/\/ycoo\.net\/.* script-path=https://raw.githubusercontent.com/LooCx/ycoo-loon/main/js/ycoo.cookie.js, tag=ycoo获取Cookie, enable={EnableCookie}, timeout={Timeout}
+
+[MITM]
+hostname = ycoo.net
