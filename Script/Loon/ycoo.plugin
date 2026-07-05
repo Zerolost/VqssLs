@@ -29,9 +29,9 @@ Timeout = input,"20",tag=请求超时(秒),desc=HTTP请求超时时间
 
 [Script]
 #每日签到
-cron {RunTime} script-path=https://raw.githubusercontent.com/LooCx/ycoo-loon/main/js/ycoo.sign.js, tag=ycoo每日签到, timeout={Timeout}
+cron {RunTime} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/ycoo.sign.js, tag=每日签到, timeout={Timeout}
 #自动获取Cookie
-http-request ^https:\/\/ycoo\.net\/.* script-path=https://raw.githubusercontent.com/LooCx/ycoo-loon/main/js/ycoo.cookie.js, tag=ycoo获取Cookie, enable={EnableCookie}, timeout={Timeout}
+http-request ^https:\/\/ycoo\.net\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/ycoo.sign.js, tag=获取Cookie, enable={EnableCookie}, timeout={Timeout}
 
 [MITM]
 hostname = ycoo.net
