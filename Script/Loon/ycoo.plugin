@@ -1,5 +1,5 @@
 #!name = 源论坛每日签到
-#!desc = 自动完成ycoo.net每日签到,支持自动抓取Cookie(无需手动复制)、自定义签到时间
+#!desc = 自动完成ycoo.net每日签到,支持自动抓取Cookie、自定义签到时间
 #!category = 签到
 
 [Argument]
