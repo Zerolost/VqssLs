@@ -1,15 +1,18 @@
-/*
-name:Vomic每日签到
-Version: 1.0.0
-*/
+//Vomic 自动签到
+//Version: 1.0.0
 
 const SCRIPT_NAME = "Vomic";
 const TOKEN_KEY = "Vomic_Token";
+const HEADER_KEY = "Vomic_Header";
+
 const $ = new Env(SCRIPT_NAME);
+
 const isCapture = ($argument || "").includes("capture");
 const isCron = ($argument || "").includes("cron");
+
 const notifyEnable = !($argument || "").includes("notify=false");
 const debugEnable = ($argument || "").includes("debug=true");
+
 function log(msg) {
     if (debugEnable) console.log(`[${SCRIPT_NAME}] ${msg}`);
 }
@@ -52,7 +55,7 @@ function notify(title, sub, body) {
 
 })();
 
-//抓取Token
+//抓取请求头
 function captureToken() {
 
     if (!$request) {
@@ -60,49 +63,35 @@ function captureToken() {
         return;
     }
 
-    const auth = $request.headers["authorization"]
-        || $request.headers["Authorization"];
+    const headers = Object.assign({}, $request.headers);
+
+    const auth = headers["authorization"] || headers["Authorization"];
 
     if (!auth) {
-
-        log("请求中不存在Authorization");
-
+        log("未发现Authorization");
         $.done();
-
         return;
     }
 
     const token = auth.replace(/^Bearer\s+/i, "").trim();
 
-    if (!token) {
+    headers["authorization"] = "Bearer " + token;
+    headers["Authorization"] = "Bearer " + token;
 
-        $.done();
-
-        return;
-
-    }
-
-    const oldToken = $.read(TOKEN_KEY);
-
-    if (oldToken === token) {
-
-        log("Token未变化");
-
-        $.done();
-
-        return;
-
-    }
+    const old = $.read(TOKEN_KEY);
 
     $.write(token, TOKEN_KEY);
+    $.write(JSON.stringify(headers), HEADER_KEY);
 
-    notify(
-        SCRIPT_NAME,
-        "Token更新成功",
-        "已自动保存最新登录信息"
-    );
+    if (old != token) {
+        notify(
+            SCRIPT_NAME,
+            "Token已更新",
+            "新的登录信息已保存"
+        );
+    }
 
-    log("Token已保存");
+    log("Header已保存");
 
     $.done();
 
@@ -111,76 +100,79 @@ function captureToken() {
 //网络请求
 function request(method, url, body = null) {
 
-    const token = $.read(TOKEN_KEY);
-
     return new Promise((resolve, reject) => {
 
-        if (!token) {
+        const headerStr = $.read(HEADER_KEY);
 
-            reject("未获取Token");
-
+        if (!headerStr) {
+            reject("未获取请求头");
             return;
-
         }
 
-        const headers = {
+        let headers;
 
-            "authorization": "Bearer " + token,
-            "platform": "ios",
-            "store": "ios",
-            "version": "1.2.0",
-            "auditplatform": "default",
-            "name": "pics",
-            "showtoast": "false",
-            "showsuccess": "false",
-            "hide-content": "0",
-            "content-type": "application/json; charset=utf-8"
+        try {
+            headers = JSON.parse(headerStr);
+        } catch {
+            reject("请求头损坏");
+            return;
+        }
 
-        };
+        const token = $.read(TOKEN_KEY);
+
+        if (!token) {
+            reject("Token不存在");
+            return;
+        }
+
+        headers["authorization"] = "Bearer " + token;
+        headers["Authorization"] = "Bearer " + token;
+
+        headers["content-type"] = "application/json; charset=utf-8";
+        headers["Content-Type"] = "application/json; charset=utf-8";
+        
+        headers["accept"] = "application/json";
+        headers["accept-encoding"] = "gzip";
+        headers["user-agent"] = "Vomic/1.2.0 CFNetwork Darwin";
+
+        delete headers["Content-Length"];
+        delete headers["content-length"];
+        delete headers["Host"];
+        delete headers["host"];
 
         const req = {
-
-            url: url,
-            headers: headers
-
+            url,
+            headers
         };
 
-        if (body) {
-
+        if (body !== null) {
             req.body = body;
-
+            headers["content-length"] = String(body.length);
         }
 
         const callback = (err, resp, data) => {
 
             if (err) {
-
                 reject(err);
-
                 return;
-
             }
+
+            let obj;
 
             try {
-
-                resolve(JSON.parse(data));
-
+                obj = JSON.parse(data);
             } catch {
-
-                reject(data);
-
+                obj = data;
             }
+
+            resolve(obj);
 
         };
 
         if (method === "GET") {
-
             $.get(req, callback);
-
         } else {
-
             $.post(req, callback);
-
         }
 
     });
@@ -191,9 +183,7 @@ function request(method, url, body = null) {
 function formatDate(date) {
 
     const y = date.getFullYear();
-
     const m = String(date.getMonth() + 1).padStart(2, "0");
-
     const d = String(date.getDate()).padStart(2, "0");
 
     return `${y}-${m}-${d}`;
@@ -211,13 +201,9 @@ function getMonthRange() {
     );
 
     return {
-
         start: formatDate(start),
-
         end: formatDate(now),
-
         today: formatDate(now)
-
     };
 
 }
@@ -327,6 +313,7 @@ async function signTask() {
     if (result.code === 200) {
 
         const data = result.data || {};
+
         const exp = data.exp || 0;
         const coin = data.coin || 0;
         const streak = data.streak || 0;
@@ -389,179 +376,4 @@ function Env(name) {
             $done(v);
         }
     })(name);
-}
-
-//数据存储
-const HEADER_KEY = "Vomic_Header";
-
-//抓取请求头
-function captureToken() {
-
-    if (!$request) {
-
-        $.done();
-
-        return;
-
-    }
-
-    const headers = Object.assign({}, $request.headers);
-
-    const auth = headers["authorization"] || headers["Authorization"];
-
-    if (!auth) {
-
-        log("未发现Authorization");
-
-        $.done();
-
-        return;
-
-    }
-
-    const token = auth.replace(/^Bearer\s+/i, "").trim();
-
-    headers["authorization"] = "Bearer " + token;
-    headers["Authorization"] = "Bearer " + token;
-
-    const old = $.read(TOKEN_KEY);
-
-    $.write(token, TOKEN_KEY);
-    $.write(JSON.stringify(headers), HEADER_KEY);
-
-    if (old != token) {
-
-        notify(
-               SCRIPT_NAME,
-               "Token已更新",
-               "新的登录信息已保存"
-
-        );
-
-    }
-
-    log("Header已保存");
-
-    $.done();
-
-}
-
-//请求
-function request(method, url, body = null) {
-
-    return new Promise((resolve, reject) => {
-
-        const headerStr = $.read(HEADER_KEY);
-
-        if (!headerStr) {
-
-            reject("未获取请求头");
-
-            return;
-
-        }
-
-        let headers;
-
-        try {
-
-            headers = JSON.parse(headerStr);
-
-        } catch {
-
-            reject("请求头损坏");
-
-            return;
-
-        }
-
-        const token = $.read(TOKEN_KEY);
-
-        if (!token) {
-
-               reject("Token不存在");
-
-               return;
-
-        }
-
-       headers["authorization"] =
-          "Bearer " + token;
-
-       headers["Authorization"] =
-          "Bearer " + token;
-
-        headers["content-type"] =
-            "application/json; charset=utf-8";
-
-        headers["Content-Type"] =
-            "application/json; charset=utf-8";
-        
-        headers["accept"] = "application/json";
-
-        headers["accept-encoding"] = "gzip";
-
-        headers["user-agent"] =
-             "Vomic/1.2.0 CFNetwork Darwin";
-
-        delete headers["Content-Length"];
-        delete headers["content-length"];
-        delete headers["Host"];
-        delete headers["host"];
-
-        const req = {
-
-            url,
-
-            headers
-
-        };
-
-      if (body !== null) {
-
-           req.body = body;
-
-           headers["content-length"] =
-                     String(body.length);
-
-      }
-
-        const callback = (err, resp, data) => {
-
-            if (err) {
-
-                reject(err);
-
-                return;
-
-            }
-
-            let obj;
-
-            try {
-
-                obj = JSON.parse(data);
-
-            } catch {
-
-                obj = data;
-
-            }
-
-            resolve(obj);
-
-        };
-
-        if (method === "GET") {
-
-            $.get(req, callback);
-
-        } else {
-
-            $.post(req, callback);
-
-        }
-
-    });
-
 }
