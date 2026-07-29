@@ -1,5 +1,7 @@
-#Vomic每日签到
-#Version: 1.0.0
+/*
+name:Vomic每日签到
+Version: 1.0.0
+*/
 
 const SCRIPT_NAME = "Vomic";
 const TOKEN_KEY = "Vomic_Token";
@@ -50,7 +52,7 @@ function notify(title, sub, body) {
 
 })();
 
-#抓取Token
+//抓取Token
 function captureToken() {
 
     if (!$request) {
@@ -106,7 +108,7 @@ function captureToken() {
 
 }
 
-#网络请求
+//网络请求
 function request(method, url, body = null) {
 
     const token = $.read(TOKEN_KEY);
@@ -185,7 +187,7 @@ function request(method, url, body = null) {
 
 }
 
-#日期
+//日期
 function formatDate(date) {
 
     const y = date.getFullYear();
@@ -220,7 +222,7 @@ function getMonthRange() {
 
 }
 
-#签到记录
+//签到记录
 async function getSignInfo() {
 
     const date = getMonthRange();
@@ -237,7 +239,7 @@ async function getSignInfo() {
 
 }
 
-#执行签到
+//执行签到
 async function doSign() {
 
     const url =
@@ -251,7 +253,7 @@ async function doSign() {
 
 }
 
-#主任务
+//主任务
 async function signTask() {
 
     const token = $.read(TOKEN_KEY);
@@ -362,7 +364,7 @@ async function signTask() {
 
 }
 
-#Env
+//Env
 function Env(name) {
     return new (class {
         constructor(name) {
@@ -389,10 +391,10 @@ function Env(name) {
     })(name);
 }
 
-#数据存储
+//数据存储
 const HEADER_KEY = "Vomic_Header";
 
-#抓取请求头
+//抓取请求头
 function captureToken() {
 
     if (!$request) {
@@ -444,7 +446,7 @@ function captureToken() {
 
 }
 
-#请求
+//请求
 function request(method, url, body = null) {
 
     return new Promise((resolve, reject) => {
