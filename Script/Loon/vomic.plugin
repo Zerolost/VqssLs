@@ -8,8 +8,8 @@ Debug = switch,false,tag=调试日志,desc=输出详细日志
 RunTime = input,"30 8 * * *",tag=签到时间,desc=Cron表达式
 
 [Script]
-cron {RunTime} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic自动签到, timeout=30, argument=cron&notify={Notify}&debug={Debug}
-http-request ^https:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic获取Token, requires-body=false, enable={CaptureToken}, timeout=15, argument=capture&debug={Debug}
+cron {RunTime} script-path=https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@refs/heads/main/Script/Loon/vomic.js, tag=Vomic自动签到, timeout=30, argument=cron&notify={Notify}&debug={Debug}
+http-request ^https:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/.* script-path=https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@refs/heads/main/Script/Loon/vomic.js, tag=Vomic获取Token, requires-body=false, enable={CaptureToken}, timeout=15, argument=capture&debug={Debug}
 
 [MITM]
 hostname = api.vomicmh.com
