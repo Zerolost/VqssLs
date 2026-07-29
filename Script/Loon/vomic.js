@@ -1,4 +1,4 @@
-#Vomic 自动签到
+#Vomic每日签到
 #Version: 1.0.0
 
 const SCRIPT_NAME = "Vomic";
