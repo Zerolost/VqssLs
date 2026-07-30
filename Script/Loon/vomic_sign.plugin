@@ -3,6 +3,8 @@
 #!author = Zerolost
 #!icon = https://vomicmh.com/images/light.png
 #!system = ios
+#!loon_version = 3.2.1(733)
+#!tag = 签到
 
 [Argument]
 VomicSignEnable = switch,true,tag=签到开关,desc=是否启用 Vomic 自动签到
@@ -12,7 +14,7 @@ VomicSignCron = input,"30 8 * * *",tag=签到时间,desc=签到定时 cron 表�
 
 [Script]
 cron {VomicSignCron} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic自动签到, enable={VomicSignEnable}, timeout=30
-http-request ^https?:\/\/api\.vomicmh\.com\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic获取Cookie, enable={VomicCookieEnable}, timeout=15
+http-request ^https?:\/\/api\.vomicmh\.com\/ script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic获取Cookie, enable={VomicCookieEnable}, timeout=15
 
 [MITM]
 hostname = api.vomicmh.com
