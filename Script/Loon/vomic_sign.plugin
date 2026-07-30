@@ -1,17 +1,19 @@
 #!name = Vomic 漫画签到
 #!desc = Vomic 漫画自动签到，每日领取经验与金币
-#!icon = https://vomicmh.com/images/light.png
-#!system = ios
+#!author = Zerolost
+#!icon = https://cdn.vomicer.com/favicon.ico
+#!system = iOS
+#!tag = 签到,Vomic
 
 [Argument]
 VomicSignEnable = switch,true,tag=签到开关,desc=是否启用 Vomic 自动签到
 VomicCookieEnable = switch,true,tag=Cookie提取开关,desc=是否自动提取 Authorization token
-VomicDebugEnable = switch,false,tag=调试模式,desc=开启后可查看详细日志排查问题
+VomicDebugEnable = switch,false,tag=调试模式,desc=开启后输出详细日志方便排查
 VomicSignCron = input,"30 8 * * *",tag=签到时间,desc=签到定时 cron 表达式（默认每天 08:30）
 
-[Script]
-cron {VomicSignCron} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic自动签到, enable={VomicSignEnable}, timeout=30
-http-request ^https?:\/\/api\.vomicmh\.com\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic获取Cookie, enable={VomicCookieEnable}, timeout=15
+[script]
+cron {VomicSignCron} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic自动签到, enable={VomicSignEnable}, timeout=30, argument=[{VomicSignEnable},{VomicCookieEnable},{VomicDebugEnable}]
+http-request ^https?:\/\/api\.vomicmh\.com\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic.js, tag=Vomic获取Cookie, enable={VomicCookieEnable}, timeout=15, argument=[{VomicSignEnable},{VomicCookieEnable},{VomicDebugEnable}]
 
-[MITM]
+[mitm]
 hostname = api.vomicmh.com
