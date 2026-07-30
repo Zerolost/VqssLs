@@ -1,5 +1,5 @@
 #!name = Vomic 签到
-#!desc = Vomic 漫画自动签到 v1.0.0
+#!desc = Vomic 漫画自动签到 v1.1.0 — 打开App即签
 #!author = Zerolost
 #!icon = https://vomicmh.com/images/light.png
 #!system = ios
@@ -7,13 +7,10 @@
 #!tag = 签到
 
 [Argument]
-SignSwitch = switch,true,tag=签到开关,desc=是否启用自动签到
-CookieSwitch = switch,true,tag=Cookie开关,desc=是否自动提取Token
-SignCron = input,"30 8 * * *",tag=签到时间,desc=cron表达式(默认每天08:30)
+SignSwitch = switch,true,tag=签到开关,desc=打开App时自动签到
 
 [Script]
-cron {SignCron} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic_sign_in.js, tag=Vomic签到, enable={SignSwitch}, timeout=30
-http-request ^https?:\/\/api\.vomicmh\.com\/ script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic_sign_in.js, tag=Vomic获取Cookie, enable={CookieSwitch}, timeout=15
+http-response ^https?:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/(recommend|homePage|getBanner) script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/vomic_sign_in.js, tag=Vomic签到, enable={SignSwitch}, timeout=60, requires-body=false
 
 [MITM]
 hostname = api.vomicmh.com
