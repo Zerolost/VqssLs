@@ -1,7 +1,7 @@
 #!name = Vomic 漫画签到
 #!desc = Vomic 漫画自动签到，每日领取经验与金币
 #!author = Senior Developer
-#!icon = https://cdn.vomicer.com/favicon.ico
+#!icon = https://vomicmh.com/images/light.png
 #!system = ios
 
 [Argument]
