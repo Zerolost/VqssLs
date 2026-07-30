@@ -1,15 +1,15 @@
-#!name=Vomic签到
-#!desc=实现Vomic每日签到
+#!name = Vomic漫画签到
+#!desc = Vomic漫画自动签到，每日领取经验与金币
+#!icon = https://vomicmh.com/images/light.png
+#!system = ios
 
 [Argument]
-CaptureToken = switch,true,tag=自动抓取Token,desc=自动监听请求并更新登录Token
-Notify = switch,true,tag=签到通知,desc=开启签到结果通知
-Debug = switch,false,tag=调试日志,desc=输出详细日志
-RunTime = input,"30 8 * * *",tag=签到时间,desc=Cron表达式
+VomicSignEnable = switch,true,tag=Vomic签到开关,desc=是否启用 Vomic 自动签到
+VomicSignCron = input,"30 8 * * *",tag=Vomic签到时间,desc=签到定时 cron 表达式（默认每天 08:30）
 
 [Script]
-cron {RunTime} script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/Vomic.js, tag=Vomic自动签到, timeout=30, argument=cron&notify={Notify}&debug={Debug}
-http-request ^https:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/Vomic.js, tag=Vomic获取Token, requires-body=false, enable={CaptureToken}, timeout=15, argument=capture&debug={Debug}
+cron {VomicSignCron} script-path=https://raw.githubusercontent.com/你的用户名/你的仓库/main/vomic_sign.js, tag=Vomic自动签到, enable={VomicSignEnable}, timeout=30
+http-request ^https?:\/\/api\.vomicmh\.com\/.* script-path=https://raw.githubusercontent.com/你的用户名/你的仓库/main/vomic_cookie.js, tag=Vomic获取Cookie, enable=true, timeout=15
 
 [MITM]
 hostname = api.vomicmh.com
