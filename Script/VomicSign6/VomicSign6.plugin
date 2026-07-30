@@ -1,0 +1,20 @@
+#!name = Vomic 漫画签到
+#!desc = Cookie提取 + 签到结果通知 v2.0.6
+#!author = Zerolost
+#!icon = https://vomicmh.com/images/light.png
+#!system = ios
+#!loon_version = 3.2.1(733)
+#!tag = 签到
+
+[Argument]
+EnableCookie = switch,true,tag=Cookie提取开关,desc=自动抓取Authorization Token
+EnableSignNotify = switch,true,tag=签到通知开关,desc=App内签到后推送结果通知
+EnableAutoSign = switch,false,tag=自动签到(实验),desc=拦截查询响应尝试自动签到
+
+[Script]
+http-request ^https?:\/\/api\.vomicmh\.com\/ script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/VomicSign6/VomicSign6.js, tag=Vomic抓Cookie, enable={EnableCookie}, timeout=15
+http-response ^https?:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/signIn script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/VomicSign6/VomicSign6.js, tag=Vomic签到通知, enable={EnableSignNotify}, timeout=15, requires-body=true
+http-response ^https?:\/\/api\.vomicmh\.com\/pics_new\/pics\/c\/getSignMonthInfo script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/VomicSign6/VomicSign6.js, tag=Vomic自动签到, enable={EnableAutoSign}, timeout=60, requires-body=true
+
+[MITM]
+hostname = api.vomicmh.com
