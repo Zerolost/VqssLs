@@ -1,0 +1,15 @@
+#!name=小黑盒签到
+#!desc=小黑盒每日签到、分享、浏览任务
+#!author=yowiv08
+#!homepage=https://github.com/yowiv08/heybox
+
+[Argument]
+enableCookie = switch,true,tag=启用自动获取Cookie,desc=开启后，访问小黑盒API时将自动抓取Cookie
+cronTime = input,"0 8 * * *",tag=签到时间,desc=每日定时执行签到任务
+
+[Script]
+http-request ^https?://api\.xiaoheihe\.cn/.* script-path=heybox.js, enable={enableCookie}, tag=小黑盒.获取Cookie
+cron {cronTime} script-path=heybox.js, tag=小黑盒.每日签到
+
+[MITM]
+hostname = api.xiaoheihe.cn, data.xiaoheihe.cn
