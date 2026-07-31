@@ -1,0 +1,26 @@
+#!name= WPS
+#!desc= WPS Office 每日签到 + 福利中心多项任务，送 WPS 积分与超级会员时长。
+#!author=MaYIHEI
+#!homepage=https://github.com/MaYIHEI/paperclip/tree/refs/heads/main/app/wps
+#!icon=https://raw.githubusercontent.com/MaYIHEI/pin/refs/heads/main/app/wps.png
+
+[Argument]
+Cookie = switch,true,tag=[开关] Cookie获取,desc=是否启用Cookie抓取
+RunTime = input,"0 10 * * *",tag=执行时间,desc=可修改, 默认每天上午10点
+Sid = input,"",tag=Cookie,desc=可手动填写wps_sid，留空则使用抓取结果
+Clear = switch,false,tag=[开关] 清除Cookie,desc=运行时清除已保存 Cookie
+TaskHot = switch,true,tag=[开关] 限量爆款,desc=福利中心限量爆款
+TaskTrial = switch,true,tag=[开关] 会员试用,desc=会员免费试用
+TaskSign = switch,true,tag=[开关] 每日签到,desc=任务中心每日签到
+TaskFragment = switch,true,tag=[开关] 打卡领会员,desc=福利中心连续打卡
+TaskLottery = switch,true,tag=[开关] 天天抽奖,desc=福利中心每日抽奖
+TaskClockIn = switch,true,tag=[开关] 小程序打卡,desc=WPS 小程序每日打卡
+Debug = switch,false,tag=调试模式,desc=[开关] 打印接口原始响应
+
+[Script]
+cron {RunTime} script-path=https://raw.githubusercontent.com/MaYIHEI/paperclip/refs/heads/main/app/wps/wps.js, tag=自动签到, enable={Cron}, timeout=60, argument=[{Sid},{Clear},{TaskHot},{TaskTrial},{TaskSign},{TaskFragment},{TaskLottery},{TaskClockIn},{Debug}]
+
+http-request ^https:\/\/personal-act\.wps\.cn\/activity-rubik\/activity\/page_info script-path=https://raw.githubusercontent.com/MaYIHEI/paperclip/refs/heads/main/app/wps/wps.cookie.js, tag=Cookie获取, enable={Cookie}, timeout=30
+
+[MITM]
+hostname = personal-act.wps.cn
