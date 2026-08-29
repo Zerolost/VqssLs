@@ -1,11 +1,15 @@
+
 /*
  * 小黑盒 Cookie / 账号参数抓取（Loon）
+ * Author: Zerolost
  * 与 heybox-checkin.js 共用存储键 xhh_account_v1。
  */
 
 const NAME = "小黑盒 Cookie";
 const ACCOUNT_KEY = "xhh_account_v1";
 const COOKIE_KEY = "xhh_cookie";
+const options = ($argument && typeof $argument === "object") ? $argument : {};
+const notifyUpdate = options.cookie_notify === true || /notify=always/i.test(typeof $argument === "string" ? $argument : "");
 
 try {
   const headers = (typeof $request !== "undefined" && $request.headers) || {};
@@ -37,7 +41,7 @@ try {
         ok1 && ok2 ? "抓取成功" : "保存失败",
         `账号：${mask(id)}\nCookie：已保存（${cookie.length} 字符）\nIMEI：${account.imei ? "已获取" : "暂未获取"}\n版本：${account.version || "暂未获取"}`
       );
-    } else if (changed && /notify=always/i.test(typeof $argument === "string" ? $argument : "")) {
+    } else if (changed && notifyUpdate) {
       $notification.post(NAME, "Cookie 已更新", `账号：${mask(id)}`);
     }
     $done({});
