@@ -1,13 +1,24 @@
 #!name=小黑盒每日签到
-#!desc=自动获取小黑盒 Cookie 和设备参数，每天调用新版接口签到；需自建 Hkey Server。
+#!desc=自动抓取小黑盒 Cookie 和设备参数，支持定时及手动签到；签到需要 Hkey Server。
 #!author=Zerolost
+#!loon_version=3.5.1(983)
+#!homepage=https://github.com/Zerolost/VqssLs/tree/main/Script/Loon
+
+[Argument]
+cookie_enabled = switch,true,tag=Cookie 抓取,desc=打开小黑盒时自动更新 Cookie 和设备参数
+cookie_notify = switch,false,tag=Cookie 更新通知,desc=Cookie 变化时发送通知
+cron_enabled = switch,false,tag=定时签到,desc=启用后按照下方 Cron 表达式执行签到
+manual_enabled = switch,true,tag=手动签到,desc=在 Loon 脚本入口显示手动签到任务
+cron = input,"5 8 * * *",tag=Cron 表达式,desc=默认每天 08:05 执行
+hkey_server = input,"",tag=Hkey Server,desc=例如 https://sign.example.com/encode；留空无法签到
 
 [Script]
-# 独立 Cookie/设备参数抓取：启用插件后打开一次小黑盒 App
-http-request ^https:\/\/api\.xiaoheihe\.cn\/.* script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/cookie-capture.js, requires-body=false, timeout=10, tag=小黑盒 Cookie 抓取
+request if ${url} ~= /^https:\/\/api\.xiaoheihe\.cn\//i then script("https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/cookie-capture.js", {${cookie_notify}}) with enable=${cookie_enabled}, tag="小黑盒 Cookie 抓取", timeout=10
 
-# 每天 08:05 签到。请将下面 YOUR-HKEY-SERVER 替换为自己的服务地址
-cron "5 8 * * *" script-path=https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/heybox-checkin.js, timeout=45, tag=小黑盒每日签到, argument=hkey=https%3A%2F%2FYOUR-HKEY-SERVER%2Fencode
+cron ${cron} then script("https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/heybox-checkin.js", {${hkey_server}}) with enable=${cron_enabled}, tag="小黑盒定时签到", timeout=45
 
-[MITM]
+generic then script("https://raw.githubusercontent.com/Zerolost/VqssLs/main/Script/Loon/heybox-checkin.js", {${hkey_server}}) with enable=${manual_enabled}, tag="小黑盒手动签到", img_url="checkmark.circle.system", timeout=45
+
+[Mitm]
 hostname = %APPEND% api.xiaoheihe.cn
+
