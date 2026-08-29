@@ -1,6 +1,8 @@
+
 /*
  * 小黑盒每日签到（Loon）
- * 功能：打开小黑盒时自动捕获 Cookie/设备参数；定时调用新版签到接口。
+ * Author: Zerolost
+ * 功能：读取 Cookie 抓取脚本保存的账号参数，调用新版签到接口。
  * 注意：hkey 是小黑盒原生库动态签名，须配置自己的 Hkey Server。
  */
 
@@ -9,7 +11,7 @@ const STORE_ACCOUNT = "xhh_account_v1";
 const STORE_HKEY = "xhh_hkey_server";
 const SIGN_PATH = "/task/sign_v3/sign";
 
-const arg = parseArgument(typeof $argument === "string" ? $argument : "");
+const arg = parseArgument(typeof $argument === "undefined" ? null : $argument);
 
 if (typeof $request !== "undefined") {
   capture();
@@ -45,14 +47,14 @@ function capture() {
 
 function sign() {
   const account = readJSON(STORE_ACCOUNT);
-  const hkeyServer = (arg.hkey || $persistentStore.read(STORE_HKEY) || "").trim();
+  const hkeyServer = String(arg.hkey_server || arg.hkey || $persistentStore.read(STORE_HKEY) || "").trim();
 
   if (!account || !account.cookie) {
     notify("尚未获取账号", "", "请启用 HTTPS 解密后打开一次小黑盒 App");
     return $done();
   }
   if (!hkeyServer || /YOUR-HKEY-SERVER/i.test(hkeyServer)) {
-    notify("缺少 Hkey Server", "", "请在插件 argument 中配置 hkey=https://你的服务/encode");
+    notify("缺少 Hkey Server", "", "请在插件设置中填写 Hkey Server 地址");
     return $done();
   }
 
@@ -156,9 +158,10 @@ function encodeQuery(obj) {
     .map(k => encodeURIComponent(k) + "=" + encodeURIComponent(String(obj[k]))).join("&");
 }
 
-function parseArgument(s) {
+function parseArgument(value) {
+  if (value && typeof value === "object") return value;
   const out = {};
-  String(s).split(/[&,]/).forEach(x => {
+  String(value || "").split(/[&,]/).forEach(x => {
     const i = x.indexOf("=");
     if (i > 0) out[x.slice(0, i).trim()] = decodeURIComponent(x.slice(i + 1).trim());
   });
