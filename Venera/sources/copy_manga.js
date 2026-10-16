@@ -876,8 +876,7 @@ class CopyManga extends ComicSource {
             );
 
             if (res.status === 401) {
-                error(`Login expired`);
-                return;
+                throw "Login expired";
             }
 
             if (res.status !== 200) {
