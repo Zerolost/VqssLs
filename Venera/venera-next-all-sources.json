@@ -38,7 +38,8 @@
   {
     "name": "ehentai",
     "url": "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/ehentai.js",
-    "version": "1.1.8"
+    "version": "1.2.1",
+    "description": "e-hentai / exhentai 源；支持登录、搜索、详情、章节、图片和收藏"
   },
   {
     "name": "禁漫天堂",
