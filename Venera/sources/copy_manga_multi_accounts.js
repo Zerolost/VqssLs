@@ -947,7 +947,7 @@ class CopyManga extends ComicSource {
             ])
 
             if (results[0].status !== 200) {
-                throw `Invalid status code: ${res.status}`;
+                throw `Invalid status code: ${results[0].status}`;
             }
 
             let data = JSON.parse(results[0].body).results;
@@ -1112,8 +1112,7 @@ class CopyManga extends ComicSource {
             );
 
             if (res.status === 401) {
-                error(`Login expired`);
-                return;
+                throw "Login expired";
             }
 
             if (res.status !== 200) {

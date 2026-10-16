@@ -771,7 +771,7 @@ class MangaDex extends ComicSource {
                     // Forum wrappers may contain lightbox/i18n scripts. Keep
                     // only readable text (or image-only posts) so script JSON
                     // and nested quote markup cannot become comment content.
-                    let raw = contentElement.innerHtml || '';
+                    let raw = contentElement.innerHTML ?? contentElement.innerHtml ?? '';
                     raw = raw.replace(/<(script|style|noscript)[^>]*>[\s\S]*?<\/\1>/gi, '');
                     raw = raw.replace(/<div class="bbCodeBlock-expandLink[^>]*>[\s\S]*?<\/div>/gi, '');
 

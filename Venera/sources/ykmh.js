@@ -300,7 +300,7 @@ class YKMHSource extends ComicSource {
     categoryComics = {
         load: async (category, param, options, page) => {
             let sort = "";
-            temp = options[1].split("-")[0]
+            const temp = options[1].split("-")[0]
             if(temp==0){sort=""}else{sort="-"}
             sort = sort + options[0].split("-")[0]
             let url;

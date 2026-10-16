@@ -142,8 +142,7 @@ class ManHuaGui extends ComicSource {
     let simple = this.parseSimpleComic(e);
     let sl = e.querySelector(".sl");
     let status = sl ? "连载" : "完结";
-    let tmp = e.querySelector(".updateon").childNodes;
-    let update = tmp[0].replace("更新于：", "").trim();
+    let update = e.querySelector(".updateon")?.text?.replace("更新于：", "").trim() || "";
     let tags = [status, update];
 
     return new Comic({
@@ -152,7 +151,6 @@ class ManHuaGui extends ComicSource {
       cover: simple.cover,
       description: simple.description,
       tags,
-      author,
     });
   }
   /**
@@ -767,8 +765,7 @@ class ManHuaGui extends ComicSource {
         cover,
         description,
         tags: [...types, status],
-        author,
-        score
+          score
       });
     } catch (error) {
       console.error("解析搜索结果项时出错:", error);
@@ -1010,7 +1007,7 @@ class ManHuaGui extends ComicSource {
         let similar_list = similar.querySelectorAll("li");
         for (let li of similar_list) {
           let comic = this.parseSimpleComic(li);
-          recommend.push(comic);
+          if (comic != null) recommend.push(comic);
         }
       }
 
@@ -1278,8 +1275,7 @@ class ManHuaGui extends ComicSource {
       let res = await Network.post(url, headers, bodyParams);
 
       if (res.status === 401) {
-          error(`Login expired`);
-          return;
+          throw "Login expired";
       }
       if (res.status !== 200) {
         throw `发送评论失败，状态码: ${res.status}`;
