@@ -1,0 +1,41 @@
+name: Sync Venera sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Checkout upstream source repository
+        uses: actions/checkout@v4
+        with:
+          repository: venera-app/venera-configs
+          path: .upstream-venera-configs
+          fetch-depth: 1
+      - name: Build mirrored source list
+        env:
+          UPSTREAM_DIR: ${{ github.workspace }}/.upstream-venera-configs
+        run: python3 .github/scripts/sync-venera-sources.py
+      - name: Apply e-hentai compatibility fix
+        run: python3 .github/scripts/patch-ehentai.py
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Venera/sources Venera/venera-next-all-sources.json
+          if git diff --cached --quiet; then
+            echo 'No source updates'
+            exit 0
+          fi
+          git commit -m '同步 VeneraNext 漫画源'
+          git push

@@ -7,12 +7,12 @@ class Ehentai extends ComicSource {
     // unique id of the source
     key = "ehentai"
 
-    version = "1.2.0"
+    version = "1.2.1"
 
     minAppVersion = "1.5.3"
 
     // update url
-    url = "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ehentai.js"
+    url = "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/ehentai.js"
 
     /**
      * cached api key
@@ -794,9 +794,9 @@ class Ehentai extends ComicSource {
 
             comic.folder = folder
             comic.token = variables.get("token")
-            this.apikey = variables.get("apikey")
-            if(this.apikey[0] === '"') {
-                this.apikey = this.apikey.substring(1, this.apikey.length - 1)
+            this.apiKey = variables.get("apikey")
+            if(this.apiKey && this.apiKey[0] === '"') {
+                this.apiKey = this.apiKey.substring(1, this.apiKey.length - 1)
             }
             this.uid = variables.get("apiuid")
 
@@ -898,7 +898,7 @@ class Ehentai extends ComicSource {
                 'token': this.parseUrl(id).token,
                 'method': 'rategallery',
                 'rating': rating,
-                'apikey': this.apikey,
+                'apikey': this.apiKey,
                 'apiuid': this.uid,
             })
             if(res.status !== 200) {
@@ -1136,7 +1136,7 @@ class Ehentai extends ComicSource {
          * @returns {Promise<number>} - new score
          */
         voteComment: async (id, subId, commentId, isUp, isCancel) => {
-            if(this.apikey == null || this.uid == null) {
+            if(this.apiKey == null || this.uid == null) {
                 throw "Login required"
             }
 
@@ -1148,7 +1148,7 @@ class Ehentai extends ComicSource {
                 'method': 'votecomment',
                 'comment_id': commentId,
                 'comment_vote': isUp ? 1 : -1,
-                'apikey': this.apikey,
+                'apikey': this.apiKey,
                 'apiuid': this.uid,
             })
 
