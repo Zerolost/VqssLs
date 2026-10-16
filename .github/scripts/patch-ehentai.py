@@ -43,7 +43,8 @@ fixes = {
     ('            if (results[0].status !== 200) {\r\n                throw `Invalid status code: ${res.status}`;', '            if (results[0].status !== 200) {\r\n                throw `Invalid status code: ${results[0].status}`;')
   ],
   'hot_manga.js': [
-    ('throw `Invalid status code: ${res.status}`;', 'throw `Invalid status code: ${results[0].status}`;')
+    ('            if (results[0].status !== 200) {\n                throw `Invalid status code: ${res.status}`;', '            if (results[0].status !== 200) {\n                throw `Invalid status code: ${results[0].status}`;'),
+    ('            if (results[0].status !== 200) {\r\n                throw `Invalid status code: ${res.status}`;', '            if (results[0].status !== 200) {\r\n                throw `Invalid status code: ${results[0].status}`;')
   ]
 }
 for file_name, rules in fixes.items():
