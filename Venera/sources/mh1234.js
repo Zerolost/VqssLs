@@ -10,7 +10,7 @@ class MH1234 extends ComicSource {
     minAppVersion = "1.4.0"
 
     // update url
-    url = "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mh1234.js"
+    url = "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/mh1234.js"
 
     settings = {
         domains: {
