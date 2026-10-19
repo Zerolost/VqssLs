@@ -4,11 +4,11 @@
     "key": "copy_manga",
     "fileName": "copy_manga.js",
     "url": "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/copy_manga.js",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "name": "拷贝漫画(多账号)",
-    "key": "copy_manga",
+    "key": "copy_manga_multi_accounts",
     "fileName": "copy_manga_multi_accounts.js",
     "url": "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/copy_manga_multi_accounts.js",
     "version": "1.4.1"
@@ -46,7 +46,7 @@
     "key": "wnacg",
     "fileName": "wnacg.js",
     "url": "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/wnacg.js",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "紳士漫畫漫畫源, 不能使用時請嘗試更換URL"
   },
   {
@@ -78,7 +78,7 @@
     "key": "ikmmh",
     "fileName": "ikmmh.js",
     "url": "https://cdn.jsdelivr.net/gh/Zerolost/VqssLs@main/Venera/sources/ikmmh.js",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   {
     "name": "少年ジャンプ＋",
