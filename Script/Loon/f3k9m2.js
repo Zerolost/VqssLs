@@ -1,228 +1,228 @@
-/*9d7eb4b88d4c*/
+/*4c98300fc8ee*/
 (function(){
-const _9e8291110fe9 = typeof $argument === "object" && $argument ? $argument : {};
-const _2d6075db370a = $persistentStore;
-const _58ab6d1df1f1 = "a91e7c4d";
-const _b9b0842e35a0 = { value: false };
-const _d5a3a04f4fb0 = [];
-const _6a523ba4da40 = values => values._6a523ba4da40("");
+const _faa1e0fcf2ae = typeof $argument === "object" && $argument ? $argument : {};
+const _1ff225c5deb9 = $persistentStore;
+const _967ba011c0f4 = "a91e7c4d";
+const _54c66711cd7e = { value: false };
+const _f7eb60aa9085 = [];
+const _86a57db15c8d = values => values.join("");
 
-function _18d8aacd07ec(name) { return _2d6075db370a._18d8aacd07ec(_58ab6d1df1f1 + "." + name) || ""; }
-function _fd0d543c8197(name, value) { return _2d6075db370a._fd0d543c8197(value == null ? undefined : String(value), _58ab6d1df1f1 + "." + name); }
-function _f0cd2b303041(_bcdd208ef15d, name) {
-  const _49dfb30fa8b7 = Object.keys(_bcdd208ef15d || {}).find(item => item.toLowerCase() === name.toLowerCase());
-  return _49dfb30fa8b7 ? String(_bcdd208ef15d[_49dfb30fa8b7] || "") : "";
+function _8eb0956393ef(name) { return _1ff225c5deb9.read(_967ba011c0f4 + "." + name) || ""; }
+function _22e72b45bf31(name, value) { return _1ff225c5deb9.write(value == null ? undefined : String(value), _967ba011c0f4 + "." + name); }
+function _2e4c08071b66(_df16467de4a9, name) {
+  const _0ddfaee6b374 = Object.keys(_df16467de4a9 || {}).find(item => item.toLowerCase() === name.toLowerCase());
+  return _0ddfaee6b374 ? String(_df16467de4a9[_0ddfaee6b374] || "") : "";
 }
-function _9233b554f8fb(_85e19d00fb78) { _d5a3a04f4fb0.push(String(_85e19d00fb78)); console.log(String(_85e19d00fb78)); }
-function _d7bafd9d0d03(value, size) {
-  const _90815a9b339d = String(value || "").split(String.fromCharCode(32))._6a523ba4da40(" ").trim();
-  return _90815a9b339d.length > size ? _90815a9b339d.slice(0, size) + "..." : _90815a9b339d;
+function _d130a46ed3a8(_3ce224506a12) { _f7eb60aa9085.push(String(_3ce224506a12)); console.log(String(_3ce224506a12)); }
+function _6f3bb1a8d754(value, size) {
+  const _82249a7dade2 = String(value || "").split(String.fromCharCode(32)).join(" ").trim();
+  return _82249a7dade2.length > size ? _82249a7dade2.slice(0, size) + "..." : _82249a7dade2;
 }
-function _57fd84406777(value) { return String(value || "").split("<")._6a523ba4da40(" ").split(">")._6a523ba4da40(" ").trim(); }
-function _74deaabfb921(value, _069c586667ed, _053a2dd37086) {
-  const _90815a9b339d = String(value || "");
-  const _756b7f0d3d99 = _90815a9b339d.indexOf(_069c586667ed);
-  if (_756b7f0d3d99 < 0) return "";
-  const _fbcec92898b3 = _756b7f0d3d99 + _069c586667ed.length;
-  const _10931b64c64f = _90815a9b339d.indexOf(_053a2dd37086, _fbcec92898b3);
-  return _90815a9b339d.slice(_fbcec92898b3, _10931b64c64f < 0 ? _fbcec92898b3 + 16 : _10931b64c64f).trim();
+function _c18088a6232a(value) { return String(value || "").split("<").join(" ").split(">").join(" ").trim(); }
+function _273ecbadff9c(value, _14f7ac4e0d7c, _02f522780435) {
+  const _82249a7dade2 = String(value || "");
+  const _e35506e650b8 = _82249a7dade2.indexOf(_14f7ac4e0d7c);
+  if (_e35506e650b8 < 0) return "";
+  const _13d311073cb1 = _e35506e650b8 + _14f7ac4e0d7c.length;
+  const _9bee07bd3e14 = _82249a7dade2.indexOf(_02f522780435, _13d311073cb1);
+  return _82249a7dade2.slice(_13d311073cb1, _9bee07bd3e14 < 0 ? _13d311073cb1 + 16 : _9bee07bd3e14).trim();
 }
-function _507bf745a4c5(value) { return _74deaabfb921(value, _6a523ba4da40(["form", "hash", "="]), "&"); }
-function _7ac7477962e6(value) {
-  const _7bd581d7969c = _6a523ba4da40(["layer", ".msg('"]);
-  const _90815a9b339d = String(value || "");
-  const _069c586667ed = _90815a9b339d.indexOf(_7bd581d7969c);
-  if (_069c586667ed < 0) return [];
-  const _fbcec92898b3 = _069c586667ed + _7bd581d7969c.length;
-  const _053a2dd37086 = _90815a9b339d.indexOf("')", _fbcec92898b3);
-  return _053a2dd37086 < 0 ? [] : [_90815a9b339d.slice(_fbcec92898b3, _053a2dd37086)];
+function _5712bedbe260(value) { return _273ecbadff9c(value, _86a57db15c8d(["form", "hash", "="]), "&"); }
+function _6836ef1c76f0(value) {
+  const _82b1aaa6e76f = _86a57db15c8d(["layer", ".msg('"]);
+  const _82249a7dade2 = String(value || "");
+  const _14f7ac4e0d7c = _82249a7dade2.indexOf(_82b1aaa6e76f);
+  if (_14f7ac4e0d7c < 0) return [];
+  const _13d311073cb1 = _14f7ac4e0d7c + _82b1aaa6e76f.length;
+  const _02f522780435 = _82249a7dade2.indexOf("')", _13d311073cb1);
+  return _02f522780435 < 0 ? [] : [_82249a7dade2.slice(_13d311073cb1, _02f522780435)];
 }
-function _ca8a950f9268(value, words) { return words.some(word => String(value || "").indexOf(word) >= 0); }
-function _1ec483ceb107(ok, title, _e188cad5e77b) {
-  if (_b9b0842e35a0.value) return;
-  _b9b0842e35a0.value = true;
-  _9233b554f8fb("━━━━━━━━ 执行结束 ━━━━━━━━");
-  _9233b554f8fb(ok ? "✅ 本次任务完成" : "❌ 本次任务未完成");
-  const _9ba4340629d9 = typeof $notification !== "undefined";
-  if (_9e8291110fe9.notify_enabled !== false && _9ba4340629d9) $notification.post(title || "论坛任务", ok ? "✅ 已完成" : "❌ 未完成", _d7bafd9d0d03(_e188cad5e77b || _d5a3a04f4fb0._6a523ba4da40("\n"), 700));
-  const _cdad856f0a10 = typeof $done === "function";
-  if (_cdad856f0a10) $done({});
+function _8c51e093ec3c(value, words) { return words.some(word => String(value || "").indexOf(word) >= 0); }
+function _b3231017e225(ok, title, body) {
+  if (_54c66711cd7e.value) return;
+  _54c66711cd7e.value = true;
+  _d130a46ed3a8("━━━━━━━━ 执行结束 ━━━━━━━━");
+  _d130a46ed3a8(ok ? "✅ 本次任务完成" : "❌ 本次任务未完成");
+  const _2f094b1a8ba4 = typeof $notification !== "undefined";
+  if (_faa1e0fcf2ae.notify_enabled !== false && _2f094b1a8ba4) $notification.post(title || "论坛任务", ok ? "✅ 已完成" : "❌ 未完成", _6f3bb1a8d754(body || _f7eb60aa9085.join("\n"), 700));
+  const _a667e486de18 = typeof $done === "function";
+  if (_a667e486de18) $done({});
 }
-function _0bbb9587f197(options, callback) {
-  const _cbdc48c16563 = String(options._cbdc48c16563 || "GET").toLowerCase();
-  const _26243aa9517e = $httpClient[_cbdc48c16563] || $httpClient.get;
-  const _761c18dbff14 = { url: options.url, _bcdd208ef15d: options._bcdd208ef15d, _e188cad5e77b: options._e188cad5e77b, timeout: options.timeout || 15000 };
-  _761c18dbff14[_6a523ba4da40(["auto", "-", "redirect"])] = true;
-  _761c18dbff14[_6a523ba4da40(["auto", "-", "cookie"])] = true;
-  _26243aa9517e(_761c18dbff14, (error, response, data) => callback(error, response || {}, String(data || "")));
+function _8ef27d65da79(options, callback) {
+  const _d376e92e1bc5 = String(options.method || "GET").toLowerCase();
+  const _73cf8e68eef2 = $httpClient[_d376e92e1bc5] || $httpClient.get;
+  const _2b9cd7820477 = { _daef94178548: options.url, _df16467de4a9: options.headers, body: options.body, timeout: options.timeout || 15000 };
+  _2b9cd7820477[_86a57db15c8d(["auto", "-", "redirect"])] = true;
+  _2b9cd7820477[_86a57db15c8d(["auto", "-", "cookie"])] = true;
+  _73cf8e68eef2(_2b9cd7820477, (error, response, data) => callback(error, response || {}, String(data || "")));
 }
-function _2cb815153f15(value) {
-  const _0bb987d8344d = String.fromCharCode(44);
-  const _523169b24802 = String.fromCharCode(59);
-  return String(value || "").split(_0bb987d8344d).map(item => item.split(_523169b24802)[0].trim()).filter(Boolean)._6a523ba4da40(_523169b24802);
+function _0573b64ea635(value) {
+  const _0c2fdbb13e38 = String.fromCharCode(44);
+  const _5105055a56b0 = String.fromCharCode(59);
+  return String(value || "").split(_0c2fdbb13e38).map(item => item.split(_5105055a56b0)[0].trim()).filter(Boolean).join(_5105055a56b0);
 }
-const _4aa898e1b5f9 = _6a523ba4da40(["ht", "tps", "://"]);
-const _214c76c9dcde = [121, 99, 111, 111, 46, 110, 101, 116].map(_35a9adb16f3c => String.fromCharCode(_35a9adb16f3c))._6a523ba4da40("");
-function _10fc6695b51e(path) { return _4aa898e1b5f9 + _214c76c9dcde + String.fromCharCode(47) + String(path || ""); }
-const _7cc6d94425de = _6a523ba4da40(["plu", "gin", ".", "php"]);
-const _dbf7af2be63b = _6a523ba4da40(["k", "_", "mi", "sign"]);
-const _212d158d9f71 = _6a523ba4da40(["view", "ui", "_", "lottery"]);
-const _f3bec7c5ac13 = _6a523ba4da40(["jn", "farm"]);
+const _be6c7189a1f9 = _86a57db15c8d(["ht", "tps", "://"]);
+const _0aaa9858377e = [121, 99, 111, 111, 46, 110, 101, 116].map(_65d42e89e790 => String.fromCharCode(_65d42e89e790)).join("");
+function _d44b9c375aa8(path) { return _be6c7189a1f9 + _0aaa9858377e + String.fromCharCode(47) + String(path || ""); }
+const _b1c4ccd2f669 = _86a57db15c8d(["plu", "gin", ".", "php"]);
+const _fa2c04eb5dff = _86a57db15c8d(["k", "_", "mi", "sign"]);
+const _207eea69fa80 = _86a57db15c8d(["view", "ui", "_", "lottery"]);
+const _844f5456a630 = _86a57db15c8d(["jn", "farm"]);
 
-function _b4769739fe80() {
+function _bedfcfb5dbc5() {
   try {
-    const _c9973ca66587 = typeof $request !== "undefined";
-    const _f33a0b8a0372 = _c9973ca66587 ? $request : {};
-    const _e77e238555a2 = typeof $response !== "undefined";
-    const _1c2917cec859 = _e77e238555a2 ? $response : {};
-    const _e188cad5e77b = String((_1c2917cec859 && _1c2917cec859._e188cad5e77b) || "");
-    const _6c0f1e860a68 = _2cb815153f15(_f0cd2b303041(_f33a0b8a0372._bcdd208ef15d, _6a523ba4da40(["C", "ookie"])));
-    const _7ed817fd76ef = _2cb815153f15(_f0cd2b303041(_1c2917cec859._bcdd208ef15d, _6a523ba4da40(["Set", "-", "C", "ookie"])));
-    const _3a216a7a37bb = _6c0f1e860a68.length >= _7ed817fd76ef.length ? _6c0f1e860a68 : _7ed817fd76ef;
-    const _9bf668b5e60a = _3a216a7a37bb.indexOf(_6a523ba4da40(["auth", "="])) >= 0 || _e188cad5e77b.indexOf(_6a523ba4da40(["action", "=", "logout"])) >= 0;
-    _9233b554f8fb("🍪 登录状态抓取");
-    _9233b554f8fb("🌐 页面：" + _d7bafd9d0d03(_f33a0b8a0372.url, 180));
-    _9233b554f8fb("🔑 状态长度：" + _3a216a7a37bb.length);
-    if (!_9bf668b5e60a || _3a216a7a37bb.length < 30) {
-      _9233b554f8fb("ℹ️ 当前请求没有完整登录状态");
-      return _1ec483ceb107(true, "登录状态未更新", "请打开已登录的论坛页面");
+    const _e251f9b5afaf = typeof $request !== "undefined" ? $request : {};
+    const _df16467de4a9 = _e251f9b5afaf.headers || {};
+    const _daef94178548 = String(_e251f9b5afaf.url || "");
+    const _f9fcec717b3e = _0573b64ea635(_2e4c08071b66(_df16467de4a9, "Cookie") || _2e4c08071b66(_df16467de4a9, "cookie"));
+    const _ea3696d0aa25 = [".css", ".js", ".png", ".jpg", ".gif", ".webp", ".svg", ".ico", ".woff", "/static/"].every(item => _daef94178548.indexOf(item) < 0);
+    const _5588c53fe164 = _f9fcec717b3e.indexOf("auth=") >= 0;
+    console.log("🍪 登录状态抓取");
+    console.log("🌐 页面：" + _6f3bb1a8d754(_daef94178548, 180));
+    console.log("🔑 状态长度：" + _f9fcec717b3e.length);
+    if (!_ea3696d0aa25) return _b3231017e225(true, "", "");
+    if (!_5588c53fe164 || _f9fcec717b3e.length < 30) {
+      console.log("ℹ️ 当前请求没有完整登录状态");
+      $notification.post("论坛登录状态", "❌ 未获取", "请通过 Loon 打开已登录页面");
+      return _b3231017e225(true, "登录状态未更新", "请通过 Loon 打开已登录页面");
     }
-    const _f91a96bb0003 = _18d8aacd07ec("session");
-    _fd0d543c8197("session", _3a216a7a37bb);
-    _fd0d543c8197("updated", new Date().toISOString());
-    _9233b554f8fb(_f91a96bb0003 === _3a216a7a37bb ? "✅ 登录状态未变化" : "✅ 登录状态已更新");
-    $notification.post("论坛登录状态", _f91a96bb0003 === _3a216a7a37bb ? "✅ 未变化" : "✅ 已获取", "长度 " + _3a216a7a37bb.length);
-    _1ec483ceb107(true, "论坛登录状态", _f91a96bb0003 === _3a216a7a37bb ? "未变化" : "已获取");
+    const _49d70dc62562 = _8eb0956393ef("session");
+    _22e72b45bf31("session", _f9fcec717b3e);
+    _22e72b45bf31("updated", new Date().toISOString());
+    console.log(_49d70dc62562 === _f9fcec717b3e ? "✅ 登录状态未变化" : "✅ 登录状态已获取");
+    if (_49d70dc62562 !== _f9fcec717b3e) $notification.post("论坛登录状态", "✅ 已获取", "长度 " + _f9fcec717b3e.length);
+    _b3231017e225(true, "论坛登录状态", _49d70dc62562 === _f9fcec717b3e ? "未变化" : "已获取");
   } catch (error) {
-    _9233b554f8fb("❌ 登录状态异常：" + error);
-    _1ec483ceb107(false, "登录状态失败", String(error));
+    console.log("❌ 登录状态异常：" + error);
+    $notification.post("论坛登录状态", "❌ 抓取失败", String(error));
+    _b3231017e225(false, "登录状态失败", String(error));
   }
 }
-function _21e77ae9982b(callback) {
-  const _3a216a7a37bb = _18d8aacd07ec("session");
-  if (!_3a216a7a37bb) return callback("missing");
-  const _bcdd208ef15d = {};
-  _bcdd208ef15d[_6a523ba4da40(["C", "ookie"])] = _3a216a7a37bb;
-  _bcdd208ef15d[_6a523ba4da40(["User", "-", "Agent"])] = "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1";
-  _bcdd208ef15d.Accept = "text/html,application/xhtml+xml,application/xml,application/json;q=0.9,*/*;q=0.8";
-  _0bbb9587f197({ url: _10fc6695b51e(""), _bcdd208ef15d }, (error, response, data) => {
+function _591eee7eae13(callback) {
+  const _f9fcec717b3e = _8eb0956393ef("session");
+  if (!_f9fcec717b3e) return callback("missing");
+  const _df16467de4a9 = {};
+  _df16467de4a9[_86a57db15c8d(["C", "ookie"])] = _f9fcec717b3e;
+  _df16467de4a9[_86a57db15c8d(["User", "-", "Agent"])] = "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1";
+  _df16467de4a9.Accept = "text/html,application/xhtml+xml,application/xml,application/json;q=0.9,*/*;q=0.8";
+  _8ef27d65da79({ _daef94178548: _d44b9c375aa8(""), _df16467de4a9 }, (error, response, data) => {
     if (error) return callback(error);
-    if (data.indexOf(_6a523ba4da40(["action", "=", "logout"])) < 0) return callback("expired");
-    const _35a9adb16f3c = _507bf745a4c5(data);
-    if (!_35a9adb16f3c) return callback("token");
-    callback(null, { _bcdd208ef15d, _35a9adb16f3c });
+    if (data.indexOf(_86a57db15c8d(["action", "=", "logout"])) < 0) return callback("expired");
+    const _65d42e89e790 = _5712bedbe260(data);
+    if (!_65d42e89e790) return callback("token");
+    callback(null, { _df16467de4a9, _65d42e89e790 });
   });
 }
-function _a1979484c833(ctx, callback) {
-  const _bcdd208ef15d = Object.assign({}, ctx._bcdd208ef15d);
-  _bcdd208ef15d.Referer = _10fc6695b51e(_6a523ba4da40([_dbf7af2be63b, "-", "sign", ".", "html"]));
-  _bcdd208ef15d[_6a523ba4da40(["X", "-", "Requested", "-", "With"])] = _6a523ba4da40(["XML", "Http", "Request"]);
-  _0bbb9587f197({ url: _10fc6695b51e(_7cc6d94425de + "?id=" + _dbf7af2be63b + ":sign&operation=qiandao&format=empty&inajax=1&formhash=" + ctx._35a9adb16f3c), _bcdd208ef15d }, (error, response, data) => {
-    _9233b554f8fb("📅 每日签到");
+function _ee9bd3a20d0c(ctx, callback) {
+  const _df16467de4a9 = Object.assign({}, ctx.headers);
+  _df16467de4a9.Referer = _d44b9c375aa8(_86a57db15c8d([_fa2c04eb5dff, "-", "sign", ".", "html"]));
+  _df16467de4a9[_86a57db15c8d(["X", "-", "Requested", "-", "With"])] = _86a57db15c8d(["XML", "Http", "Request"]);
+  _8ef27d65da79({ _daef94178548: _d44b9c375aa8(_b1c4ccd2f669 + "?id=" + _fa2c04eb5dff + ":sign&operation=qiandao&format=empty&inajax=1&formhash=" + ctx.code), _df16467de4a9 }, (error, response, data) => {
+    _d130a46ed3a8("📅 每日签到");
     if (error) return callback("❌ 请求失败：" + error);
-    const _b6f1bdb4b507 = data.indexOf("今日已签") >= 0;
-    const _4b7448327970 = _b6f1bdb4b507 || data.indexOf("<![CDATA[]]>") >= 0;
-    _0bbb9587f197({ url: _10fc6695b51e(_6a523ba4da40([_dbf7af2be63b, "-", "sign", ".", "html"])), _bcdd208ef15d: ctx._bcdd208ef15d }, (error2, response2, page) => {
-      const _2b7f4902c83b = _74deaabfb921(page, "签到排名：", " ");
-      const _a7cda1396a40 = _74deaabfb921(page, 'id="lxtdays" value="', '"');
-      const _ef507c43e210 = _74deaabfb921(page, 'id="lxlevel" value="', '"');
-      const _c3c5c0f440c9 = _74deaabfb921(page, 'id="lxreward" value="', '"');
-      _9233b554f8fb(_b6f1bdb4b507 ? "ℹ️ 今日已经签到" : _4b7448327970 ? "✅ 今日签到成功" : "⚠️ 签到返回异常");
-      if (_2b7f4902c83b) _9233b554f8fb("🏆 当前排名：" + _2b7f4902c83b);
-      if (_a7cda1396a40) _9233b554f8fb("📆 累计天数：" + _a7cda1396a40);
-      if (_ef507c43e210) _9233b554f8fb("🏅 签到等级：LV." + _ef507c43e210);
-      if (_c3c5c0f440c9) _9233b554f8fb("💰 最近奖励：" + _c3c5c0f440c9);
-      callback([_b6f1bdb4b507 ? "ℹ️ 今日已签到" : _4b7448327970 ? "✅ 签到成功" : "⚠️ 签到异常", _2b7f4902c83b ? "🏆 排名 " + _2b7f4902c83b : "", _a7cda1396a40 ? "📆 累计 " + _a7cda1396a40 + " 天" : ""].filter(Boolean)._6a523ba4da40("\n"));
+    const _9259c924d9c9 = data.indexOf("今日已签") >= 0;
+    const _c83b5d6fac97 = _9259c924d9c9 || data.indexOf("<![CDATA[]]>") >= 0;
+    _8ef27d65da79({ _daef94178548: _d44b9c375aa8(_86a57db15c8d([_fa2c04eb5dff, "-", "sign", ".", "html"])), _df16467de4a9: ctx.headers }, (error2, response2, _ea3696d0aa25) => {
+      const _c4410ea51310 = _273ecbadff9c(_ea3696d0aa25, "签到排名：", " ");
+      const _09988c01e823 = _273ecbadff9c(_ea3696d0aa25, 'id="lxtdays" value="', '"');
+      const _d7e0e156573c = _273ecbadff9c(_ea3696d0aa25, 'id="lxlevel" value="', '"');
+      const _268fa8246a01 = _273ecbadff9c(_ea3696d0aa25, 'id="lxreward" value="', '"');
+      _d130a46ed3a8(_9259c924d9c9 ? "ℹ️ 今日已经签到" : _c83b5d6fac97 ? "✅ 今日签到成功" : "⚠️ 签到返回异常");
+      if (_c4410ea51310) _d130a46ed3a8("🏆 当前排名：" + _c4410ea51310);
+      if (_09988c01e823) _d130a46ed3a8("📆 累计天数：" + _09988c01e823);
+      if (_d7e0e156573c) _d130a46ed3a8("🏅 签到等级：LV." + _d7e0e156573c);
+      if (_268fa8246a01) _d130a46ed3a8("💰 最近奖励：" + _268fa8246a01);
+      callback([_9259c924d9c9 ? "ℹ️ 今日已签到" : _c83b5d6fac97 ? "✅ 签到成功" : "⚠️ 签到异常", _c4410ea51310 ? "🏆 排名 " + _c4410ea51310 : "", _09988c01e823 ? "📆 累计 " + _09988c01e823 + " 天" : ""].filter(Boolean).join("\n"));
     });
   });
 }
-function _11b63cda36ee(ctx, callback) {
-  const _bcdd208ef15d = Object.assign({}, ctx._bcdd208ef15d);
-  _bcdd208ef15d.Referer = _10fc6695b51e(_7cc6d94425de + "?id=" + _212d158d9f71);
-  _bcdd208ef15d[_6a523ba4da40(["X", "-", "Requested", "-", "With"])] = _6a523ba4da40(["XML", "Http", "Request"]);
-  _bcdd208ef15d.Accept = "application/json,text/javascript,*/*;q=0.8";
-  const _b9631c1d8851 = _10fc6695b51e(_7cc6d94425de + "?id=" + _212d158d9f71 + ":draw");
-  const _1e6d0bda3651 = ["🎰 幸运抽奖"];
-  const _7debac554165 = guard => {
-    if (guard <= 0) { _1e6d0bda3651.forEach(_9233b554f8fb); return callback(_1e6d0bda3651._6a523ba4da40("\n")); }
-    _0bbb9587f197({ url: _b9631c1d8851 + "?drawnumber=1&inajax=1", _bcdd208ef15d }, (error, response, data) => {
-      let _725025e21894 = {};
-      try { _725025e21894 = JSON.parse(data); } catch (ignored) {}
-      const _b586ab28b362 = String((_725025e21894.data || {})["2"] || "");
-      if (error || _725025e21894._f8584a68baa0 !== "succeed" || _b586ab28b362.indexOf("抽奖券") < 0) {
-        _1e6d0bda3651.push("ℹ️ " + (error || _725025e21894.msg || "没有可用抽奖券"));
-        _1e6d0bda3651.forEach(_9233b554f8fb);
-        return callback(_1e6d0bda3651._6a523ba4da40("\n"));
+function _cd7498caf65e(ctx, callback) {
+  const _df16467de4a9 = Object.assign({}, ctx.headers);
+  _df16467de4a9.Referer = _d44b9c375aa8(_b1c4ccd2f669 + "?id=" + _207eea69fa80);
+  _df16467de4a9[_86a57db15c8d(["X", "-", "Requested", "-", "With"])] = _86a57db15c8d(["XML", "Http", "Request"]);
+  _df16467de4a9.Accept = "application/json,text/javascript,*/*;q=0.8";
+  const _5d25ca0300db = _d44b9c375aa8(_b1c4ccd2f669 + "?id=" + _207eea69fa80 + ":draw");
+  const _8aea90984b5b = ["🎰 幸运抽奖"];
+  const _db68ca2a506d = guard => {
+    if (guard <= 0) { _8aea90984b5b.forEach(_d130a46ed3a8); return callback(_8aea90984b5b.join("\n")); }
+    _8ef27d65da79({ _daef94178548: _5d25ca0300db + "?drawnumber=1&inajax=1", _df16467de4a9 }, (error, response, data) => {
+      let _bc86e5508ff4 = {};
+      try { _bc86e5508ff4 = JSON.parse(data); } catch (ignored) {}
+      const _c63b83d454b5 = String((_bc86e5508ff4.data || {})["2"] || "");
+      if (error || _bc86e5508ff4.result !== "succeed" || _c63b83d454b5.indexOf("抽奖券") < 0) {
+        _8aea90984b5b.push("ℹ️ " + (error || _bc86e5508ff4.msg || "没有可用抽奖券"));
+        _8aea90984b5b.forEach(_d130a46ed3a8);
+        return callback(_8aea90984b5b.join("\n"));
       }
-      _0bbb9587f197({ url: _b9631c1d8851 + "?drawnumber=1&pay=2&formhash=" + ctx._35a9adb16f3c + "&inajax=1", _bcdd208ef15d }, (error2, response2, raw) => {
-        let _f8584a68baa0 = {};
-        try { _f8584a68baa0 = JSON.parse(raw); } catch (ignored) {}
-        if (error2 || _f8584a68baa0._f8584a68baa0 !== "succeed") {
-          _1e6d0bda3651.push("⚠️ " + (error2 || _f8584a68baa0.msg || "抽奖失败"));
-          _1e6d0bda3651.forEach(_9233b554f8fb);
-          return callback(_1e6d0bda3651._6a523ba4da40("\n"));
+      _8ef27d65da79({ _daef94178548: _5d25ca0300db + "?drawnumber=1&pay=2&formhash=" + ctx.code + "&inajax=1", _df16467de4a9 }, (error2, response2, raw) => {
+        let _9d0f1cbf2d55 = {};
+        try { _9d0f1cbf2d55 = JSON.parse(raw); } catch (ignored) {}
+        if (error2 || _9d0f1cbf2d55.result !== "succeed") {
+          _8aea90984b5b.push("⚠️ " + (error2 || _9d0f1cbf2d55.msg || "抽奖失败"));
+          _8aea90984b5b.forEach(_d130a46ed3a8);
+          return callback(_8aea90984b5b.join("\n"));
         }
-        const _abeadbb53ae4 = (((_f8584a68baa0.data || {}).getprizes) || []).map(item => (item.typename || "奖品") + "：" + (item.name || "未知"));
-        const _756b7f0d3d99 = String((_f8584a68baa0.data || {}).ticketnumber || "0");
-        const _2530e88f32e3 = String((_f8584a68baa0.data || {}).creditnumber || "");
-        _1e6d0bda3651.push("🎁 第 " + _1e6d0bda3651.length + " 次：" + (_abeadbb53ae4._6a523ba4da40("、") || _f8584a68baa0.msg || "成功"));
-        _1e6d0bda3651.push("🎟️ 剩余抽奖券：" + _756b7f0d3d99 + (_2530e88f32e3 ? "  💰 星币：" + _2530e88f32e3 : ""));
-        if (_756b7f0d3d99 === "0") { _1e6d0bda3651.forEach(_9233b554f8fb); return callback(_1e6d0bda3651._6a523ba4da40("\n")); }
-        _7debac554165(guard - 1);
+        const _5224d6cd4ed4 = (((_9d0f1cbf2d55.data || {}).getprizes) || []).map(item => (item.typename || "奖品") + "：" + (item.name || "未知"));
+        const _e35506e650b8 = String((_9d0f1cbf2d55.data || {}).ticketnumber || "0");
+        const _e1187af4cd71 = String((_9d0f1cbf2d55.data || {}).creditnumber || "");
+        _8aea90984b5b.push("🎁 第 " + _8aea90984b5b.length + " 次：" + (_5224d6cd4ed4.join("、") || _9d0f1cbf2d55.msg || "成功"));
+        _8aea90984b5b.push("🎟️ 剩余抽奖券：" + _e35506e650b8 + (_e1187af4cd71 ? "  💰 星币：" + _e1187af4cd71 : ""));
+        if (_e35506e650b8 === "0") { _8aea90984b5b.forEach(_d130a46ed3a8); return callback(_8aea90984b5b.join("\n")); }
+        _db68ca2a506d(guard - 1);
       });
     });
   };
-  _7debac554165(10);
+  _db68ca2a506d(10);
 }
-function _fdd9577ab2f3(ctx, callback) {
-  const _bcdd208ef15d = Object.assign({}, ctx._bcdd208ef15d);
-  _bcdd208ef15d.Referer = _10fc6695b51e(_7cc6d94425de + "?id=" + _f3bec7c5ac13);
-  _bcdd208ef15d[_6a523ba4da40(["X", "-", "Requested", "-", "With"])] = _6a523ba4da40(["XML", "Http", "Request"]);
-  const _6ec790965c4a = ["🌾 农场与福利"];
-  const _01605c338829 = query => _10fc6695b51e(_7cc6d94425de + "?id=" + _f3bec7c5ac13 + "&" + query + "&formhash=" + ctx._35a9adb16f3c + "&inajax=1");
-  const _77be3616c6cb = [
-    ["每日免费领取", _6a523ba4da40(["do=", "daily", "quest", "&", "quest", "id=1"])],
-    ["批量收获", _6a523ba4da40(["do=", "harvest", "&ac=", "all"])]
+function _60bc9c39ee1f(ctx, callback) {
+  const _df16467de4a9 = Object.assign({}, ctx.headers);
+  _df16467de4a9.Referer = _d44b9c375aa8(_b1c4ccd2f669 + "?id=" + _844f5456a630);
+  _df16467de4a9[_86a57db15c8d(["X", "-", "Requested", "-", "With"])] = _86a57db15c8d(["XML", "Http", "Request"]);
+  const _b1b0117d4c4e = ["🌾 农场与福利"];
+  const _112e2b15ab4f = query => _d44b9c375aa8(_b1c4ccd2f669 + "?id=" + _844f5456a630 + "&" + query + "&formhash=" + ctx.code + "&inajax=1");
+  const _a78e23831b28 = [
+    ["每日免费领取", _86a57db15c8d(["do=", "daily", "quest", "&", "quest", "id=1"])],
+    ["批量收获", _86a57db15c8d(["do=", "harvest", "&ac=", "all"])]
   ];
-  for (let _ad67dadcfa34 = 1; _ad67dadcfa34 <= 8; _ad67dadcfa34 += 1) _77be3616c6cb.push(["地块 " + _ad67dadcfa34, _6a523ba4da40(["do=", "normal", "&ac=", "this", "farm", "&jfid="]) + _ad67dadcfa34]);
-  const _a3b0e8dc38a4 = _ad67dadcfa34 => {
-    if (_ad67dadcfa34 >= _77be3616c6cb.length) { _6ec790965c4a.forEach(_9233b554f8fb); return callback(_6ec790965c4a._6a523ba4da40("\n")); }
-    const _3bfabb372f17 = _77be3616c6cb[_ad67dadcfa34];
-    _0bbb9587f197({ url: _01605c338829(_3bfabb372f17[1]), _bcdd208ef15d }, (error, response, data) => {
-      const _85e19d00fb78 = _7ac7477962e6(data)[0] || _d7bafd9d0d03(_57fd84406777(data), 80);
-      const _18d7c8b99d9f = _ca8a950f9268(_85e19d00fb78, ["成功", "完成", "可领取"]) ? "✅" : _ca8a950f9268(_85e19d00fb78, ["未到", "没有", "不足", "已", "未知"]) ? "ℹ️" : "⚠️";
-      _6ec790965c4a.push(_18d7c8b99d9f + " " + _3bfabb372f17[0] + "：" + (error || _85e19d00fb78 || "无返回"));
-      const _99ca55d9cfb1 = _74deaabfb921(_3bfabb372f17[1], "jfid=", "&");
-      if (_99ca55d9cfb1 && _ca8a950f9268(data, ["已枯萎", "清除"])) {
-        return _0bbb9587f197({ url: _01605c338829(_6a523ba4da40(["do=", "normal", "&ac=", "this", "farm", "&", "eradicate", "=true&jfid="]) + _99ca55d9cfb1), _bcdd208ef15d }, (error2, response2, cleared) => {
-          _6ec790965c4a.push((_ca8a950f9268(cleared, ["成功", "清除"]) ? "🧹" : "⚠️") + " 清理地块 " + _99ca55d9cfb1);
-          _0bbb9587f197({ url: _01605c338829(_6a523ba4da40(["do=", "plant", "seed", "&seed=1&jfid="]) + _99ca55d9cfb1 + "&timestamp=" + Math.floor(Date.now() / 1000)), _bcdd208ef15d }, (error3, response3, planted) => {
-            _6ec790965c4a.push((planted.indexOf("播种成功") >= 0 ? "🌱" : "ℹ️") + " 播种地块 " + _99ca55d9cfb1 + "：" + (_7ac7477962e6(planted)[0] || "无返回"));
-            _a3b0e8dc38a4(_ad67dadcfa34 + 1);
+  for (let _0b34e87116f8 = 1; _0b34e87116f8 <= 8; _0b34e87116f8 += 1) _a78e23831b28.push(["地块 " + _0b34e87116f8, _86a57db15c8d(["do=", "normal", "&ac=", "this", "farm", "&jfid="]) + _0b34e87116f8]);
+  const _1987505fd37f = _0b34e87116f8 => {
+    if (_0b34e87116f8 >= _a78e23831b28.length) { _b1b0117d4c4e.forEach(_d130a46ed3a8); return callback(_b1b0117d4c4e.join("\n")); }
+    const _f94370ebc629 = _a78e23831b28[_0b34e87116f8];
+    _8ef27d65da79({ _daef94178548: _112e2b15ab4f(_f94370ebc629[1]), _df16467de4a9 }, (error, response, data) => {
+      const _3ce224506a12 = _6836ef1c76f0(data)[0] || _6f3bb1a8d754(_c18088a6232a(data), 80);
+      const _4d2093c28c35 = _8c51e093ec3c(_3ce224506a12, ["成功", "完成", "可领取"]) ? "✅" : _8c51e093ec3c(_3ce224506a12, ["未到", "没有", "不足", "已", "未知"]) ? "ℹ️" : "⚠️";
+      _b1b0117d4c4e.push(_4d2093c28c35 + " " + _f94370ebc629[0] + "：" + (error || _3ce224506a12 || "无返回"));
+      const _c8fbffdd80df = _273ecbadff9c(_f94370ebc629[1], "jfid=", "&");
+      if (_c8fbffdd80df && _8c51e093ec3c(data, ["已枯萎", "清除"])) {
+        return _8ef27d65da79({ _daef94178548: _112e2b15ab4f(_86a57db15c8d(["do=", "normal", "&ac=", "this", "farm", "&", "eradicate", "=true&jfid="]) + _c8fbffdd80df), _df16467de4a9 }, (error2, response2, cleared) => {
+          _b1b0117d4c4e.push((_8c51e093ec3c(cleared, ["成功", "清除"]) ? "🧹" : "⚠️") + " 清理地块 " + _c8fbffdd80df);
+          _8ef27d65da79({ _daef94178548: _112e2b15ab4f(_86a57db15c8d(["do=", "plant", "seed", "&seed=1&jfid="]) + _c8fbffdd80df + "&timestamp=" + Math.floor(Date.now() / 1000)), _df16467de4a9 }, (error3, response3, planted) => {
+            _b1b0117d4c4e.push((planted.indexOf("播种成功") >= 0 ? "🌱" : "ℹ️") + " 播种地块 " + _c8fbffdd80df + "：" + (_6836ef1c76f0(planted)[0] || "无返回"));
+            _1987505fd37f(_0b34e87116f8 + 1);
           });
         });
       }
-      _a3b0e8dc38a4(_ad67dadcfa34 + 1);
+      _1987505fd37f(_0b34e87116f8 + 1);
     });
   };
-  _0bbb9587f197({ url: _01605c338829(_6a523ba4da40(["do=", "normal", "&ac=", "kuo", "zhan"])), _bcdd208ef15d }, (error, response, data) => {
-    _6ec790965c4a.push((_ca8a950f9268(_7ac7477962e6(data)[0] || "", ["成功", "完成"]) ? "✅" : "ℹ️") + " 农场扩展：" + (error || _7ac7477962e6(data)[0] || "无返回"));
-    _a3b0e8dc38a4(0);
+  _8ef27d65da79({ _daef94178548: _112e2b15ab4f(_86a57db15c8d(["do=", "normal", "&ac=", "kuo", "zhan"])), _df16467de4a9 }, (error, response, data) => {
+    _b1b0117d4c4e.push((_8c51e093ec3c(_6836ef1c76f0(data)[0] || "", ["成功", "完成"]) ? "✅" : "ℹ️") + " 农场扩展：" + (error || _6836ef1c76f0(data)[0] || "无返回"));
+    _1987505fd37f(0);
   });
 }
-function _93310a022fa1() {
-  _9233b554f8fb("🚀 论坛任务开始");
-  _9233b554f8fb("🕒 " + new Date().toLocaleString("zh-CN", { hour12: false }));
-  _21e77ae9982b((error, ctx) => {
-    if (error === "missing") return _1ec483ceb107(false, "论坛任务未执行", "尚未捕获登录状态，请先登录论坛");
-    if (error === "expired") return _1ec483ceb107(false, "论坛登录失效", "请重新登录论坛");
-    if (error) return _1ec483ceb107(false, "论坛任务失败", String(error));
-    _9233b554f8fb("🔐 登录状态有效");
-    _a1979484c833(ctx, one => _11b63cda36ee(ctx, two => _fdd9577ab2f3(ctx, three => _1ec483ceb107(true, "论坛任务完成", [one, two, three]._6a523ba4da40("\n")))));
+function _b765bac2f824() {
+  _d130a46ed3a8("🚀 论坛任务开始");
+  _d130a46ed3a8("🕒 " + new Date().toLocaleString("zh-CN", { hour12: false }));
+  _591eee7eae13((error, ctx) => {
+    if (error === "missing") return _b3231017e225(false, "论坛任务未执行", "尚未捕获登录状态，请先登录论坛");
+    if (error === "expired") return _b3231017e225(false, "论坛登录失效", "请重新登录论坛");
+    if (error) return _b3231017e225(false, "论坛任务失败", String(error));
+    _d130a46ed3a8("🔐 登录状态有效");
+    _ee9bd3a20d0c(ctx, one => _cd7498caf65e(ctx, two => _60bc9c39ee1f(ctx, three => _b3231017e225(true, "论坛任务完成", [one, two, three].join("\n")))));
   });
 }
-const _c9973ca66587 = typeof $request !== "undefined";
-if (_c9973ca66587) _b4769739fe80();
-else _93310a022fa1();
+const _378dbe867b57 = typeof $request !== "undefined";
+if (_378dbe867b57) _bedfcfb5dbc5();
+else _b765bac2f824();
 
 })();
