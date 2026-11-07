@@ -1,9 +1,11 @@
-# > Simular Box
-DOMAIN,box.simular.ai
-DOMAIN,box-api.simular.ai
-DOMAIN,mcp.box.simular.ai
-DOMAIN,relay.simular.cloud
-DOMAIN,simular-billing-replica-149671192594.us-central1.run.app
+# ============ Simular Box ============
+# 主站与静态资源
 DOMAIN-SUFFIX,simular.ai
+# MCP 连接器与文档
+DOMAIN,mcp.box.simular.ai
+# 云端中转 gRPC-Web 通道
 DOMAIN-SUFFIX,simular.cloud
-# < Simular Box
+# 后端接口（Cloudflare）
+IP-CIDR,8.232.115.111/32,no-resolve
+# 中转节点（Google Cloud）
+IP-CIDR,34.160.116.67/32,no-resolve
