@@ -1,0 +1,233 @@
+# ============ LSP 综合站群 ============
+# 司机社
+DOMAIN-SUFFIX,wnacg.com
+DOMAIN-SUFFIX,wnacg01.link
+DOMAIN-SUFFIX,wnacg02.link
+DOMAIN-SUFFIX,wn01.link
+DOMAIN-SUFFIX,wn01.cfd
+DOMAIN-SUFFIX,wn02.cfd
+DOMAIN-SUFFIX,wn03.cfd
+DOMAIN-SUFFIX,wn04.cfd
+DOMAIN-SUFFIX,wn05.cfd
+DOMAIN-SUFFIX,wn01.shop
+DOMAIN-SUFFIX,wn02.shop
+DOMAIN-SUFFIX,wn03.shop
+DOMAIN-SUFFIX,wn04.shop
+DOMAIN-SUFFIX,wn05.shop
+DOMAIN-SUFFIX,wnimg1.ru
+DOMAIN-SUFFIX,wnlink.ru
+DOMAIN-SUFFIX,wnacg01.cc
+DOMAIN-SUFFIX,wnacg02.cc
+DOMAIN-SUFFIX,wnacg03.cc
+DOMAIN-SUFFIX,wnacg05.cc
+DOMAIN-SUFFIX,wn03.ru
+DOMAIN-SUFFIX,wn04.ru
+DOMAIN-SUFFIX,wn05.ru
+DOMAIN-SUFFIX,wn06.ru
+DOMAIN-SUFFIX,wn07.ru
+DOMAIN-SUFFIX,wn08.ru
+DOMAIN-SUFFIX,wnbbs.cc
+# 喜漫
+DOMAIN-SUFFIX,favcomic.com
+DOMAIN-SUFFIX,favcomic.xyz
+# 18漫画
+DOMAIN-SUFFIX,18mh.net
+DOMAIN-SUFFIX,18mh.cc
+DOMAIN-SUFFIX,qkfmoba.cc
+DOMAIN-SUFFIX,7401.dnutdzq.com
+DOMAIN-SUFFIX,pic.fcnpce.cn
+# HAnime
+DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,uploads.hanime-cdn.com
+DOMAIN-SUFFIX,p34.htv-hydaelyn.com
+DOMAIN-SUFFIX,m3u8s.highwinds-cdn.com
+DOMAIN-SUFFIX,cached.freeanimehentai.net
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,vdownload.hembed.com
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,members.hanime.tv
+DOMAIN-SUFFIX,animeidhentai.com
+DOMAIN-SUFFIX,hentaigasm.com
+DOMAIN-SUFFIX,hentaimama.io
+DOMAIN-SUFFIX,underhentai.net
+DOMAIN-SUFFIX,ohentai.org
+DOMAIN-SUFFIX,hentaifreak.org
+DOMAIN-SUFFIX,hanimeone.me
+# JMComic
+DOMAIN-SUFFIX,18comic-god.cc
+DOMAIN-SUFFIX,18comic-god.club
+DOMAIN-SUFFIX,18comic-god.xyz
+DOMAIN-SUFFIX,18comic.cc
+DOMAIN-SUFFIX,18comic.company
+DOMAIN-SUFFIX,18comic.ink
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,asjmapihost.cc
+DOMAIN-SUFFIX,cdnblackmyth.club
+DOMAIN-SUFFIX,cdnmhws.cc
+DOMAIN-SUFFIX,cdnmhwscc.vip
+DOMAIN-SUFFIX,cdnuc.vip
+DOMAIN-SUFFIX,cdnxxx-proxy.co
+DOMAIN-SUFFIX,cdnxxx-proxy.xyz
+DOMAIN-SUFFIX,comic18j-bibi.cc
+DOMAIN-SUFFIX,comic18j-rita.club
+DOMAIN-SUFFIX,comic18j-rita.net
+DOMAIN-SUFFIX,jm-comic2.cc
+DOMAIN-SUFFIX,jm-uu.cc
+DOMAIN-SUFFIX,jm18c-bbm.cc
+DOMAIN-SUFFIX,jm18c-bbm.net
+DOMAIN-SUFFIX,jm18c-oec.club
+DOMAIN-SUFFIX,jm18c-uoi.net
+DOMAIN-SUFFIX,jm365.work
+DOMAIN-SUFFIX,jm365.xyz
+DOMAIN-SUFFIX,jmapibranch1.cc
+DOMAIN-SUFFIX,jmapibranch2.cc
+DOMAIN-SUFFIX,jmapibranch3.cc
+DOMAIN-SUFFIX,jmapinode.biz
+DOMAIN-SUFFIX,jmapinode.vip
+DOMAIN-SUFFIX,jmapinode.xyz
+DOMAIN-SUFFIX,jmapinode1.top
+DOMAIN-SUFFIX,jmapinode2.top
+DOMAIN-SUFFIX,jmapinode3.top
+DOMAIN-SUFFIX,jmapinodeudzn.net
+DOMAIN-SUFFIX,jmapinodeudzn.xyz
+DOMAIN-SUFFIX,jmapiproxy1.cc
+DOMAIN-SUFFIX,jmapiproxy1.monster
+DOMAIN-SUFFIX,jmapiproxy2.cc
+DOMAIN-SUFFIX,jmapiproxy3.cc
+DOMAIN-SUFFIX,jmapiproxy4.cc
+DOMAIN-SUFFIX,jmapiproxyxxx.vip
+DOMAIN-SUFFIX,jmcomic-fb.vip
+DOMAIN-SUFFIX,jmcomic-zzz.one
+DOMAIN-SUFFIX,jmcomic-zzz.org
+DOMAIN-SUFFIX,jmcomic.group
+DOMAIN-SUFFIX,jmcomic.ltd
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-SUFFIX,jmcomic.mobi
+DOMAIN-SUFFIX,jmcomic.moe
+DOMAIN-SUFFIX,jmcomic.rocks
+DOMAIN-SUFFIX,jmcomic1.city
+DOMAIN-SUFFIX,jmcomic1.me
+DOMAIN-SUFFIX,jmcomic1.mobi
+DOMAIN-SUFFIX,jmcomic1.rocks
+DOMAIN-SUFFIX,jmcomic2.moe
+DOMAIN-SUFFIX,jmcomicne.net
+DOMAIN-SUFFIX,jmcomicne.org
+DOMAIN-SUFFIX,jmcomicui.net
+# Pica
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picaapi.picacomic.com
+DOMAIN-SUFFIX,picaapi.acbbb.com
+DOMAIN-SUFFIX,picawiki.xyz
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,pica.fanjugou13.top
+DOMAIN-SUFFIX,picaapi.go2778.com
+DOMAIN-SUFFIX,s3.picacomic.com
+DOMAIN-SUFFIX,storage1.picacomic.com
+DOMAIN-SUFFIX,img.picacomic.com
+DOMAIN-SUFFIX,img.safedataplj.com
+DOMAIN-SUFFIX,storage-b.go2778.com
+
+# ============ 中文漫画 / 同人站 ============
+# 司机社
+DOMAIN-SUFFIX,wnacg.org
+DOMAIN-SUFFIX,wn01.ru
+DOMAIN-SUFFIX,wnacg.icu
+DOMAIN-SUFFIX,wnacg.me
+DOMAIN-SUFFIX,wnacg.top
+DOMAIN-SUFFIX,wnacg.info
+DOMAIN-SUFFIX,wnacg.site
+DOMAIN-SUFFIX,wnacg.net
+DOMAIN-SUFFIX,wnacg.app
+DOMAIN-SUFFIX,wnacg1.cc
+DOMAIN-SUFFIX,wnacg04.cc
+DOMAIN-SUFFIX,wnacg.com.cc
+# 喜漫
+DOMAIN-SUFFIX,favcomic.net
+DOMAIN-SUFFIX,favcomic.org
+# 18漫画
+DOMAIN-SUFFIX,18mh.com
+DOMAIN-SUFFIX,18mh.org
+DOMAIN-SUFFIX,18mh.xyz
+DOMAIN-SUFFIX,18mh.me
+DOMAIN-SUFFIX,18mh.vip
+# JMComic
+DOMAIN-SUFFIX,jmcomic.xyz
+DOMAIN-SUFFIX,jmcomic.cc
+DOMAIN-SUFFIX,jmcomic.net
+DOMAIN-SUFFIX,jmcomic.top
+DOMAIN-SUFFIX,jmcomic.app
+DOMAIN-SUFFIX,jmcomic1.one
+DOMAIN-SUFFIX,jm18c.cc
+DOMAIN-SUFFIX,jmapi.cc
+DOMAIN-SUFFIX,18comic.me
+DOMAIN-SUFFIX,18comic.xyz
+DOMAIN-SUFFIX,18comic.com
+DOMAIN-SUFFIX,18comic1.org
+DOMAIN-SUFFIX,18comic1.cc
+# Pica
+DOMAIN-SUFFIX,picacomic.net
+DOMAIN-SUFFIX,picacomic.org
+DOMAIN-SUFFIX,picacomic.xyz
+# ============ HAnime ============
+DOMAIN-SUFFIX,hanime1.com
+DOMAIN-SUFFIX,hanime.me
+DOMAIN-SUFFIX,hanime.io
+# ============ 独立服务器 ============
+# 司机社主站与关联站
+IP-CIDR,104.20.44.182/32,no-resolve
+IP-CIDR,172.66.175.138/32,no-resolve
+IP-CIDR,162.4.84.215/32,no-resolve
+IP-CIDR,162.4.84.239/32,no-resolve
+IP-CIDR,162.4.84.241/32,no-resolve
+IP-CIDR,203.161.33.22/32,no-resolve
+IP-CIDR,103.224.182.208/32,no-resolve
+IP-CIDR,103.224.182.244/32,no-resolve
+IP-CIDR,103.224.182.248/32,no-resolve
+IP-CIDR,103.224.182.253/32,no-resolve
+IP-CIDR,37.187.202.102/32,no-resolve
+IP-CIDR,176.31.176.81/32,no-resolve
+IP-CIDR,157.90.33.73/32,no-resolve
+IP-CIDR,157.90.33.74/32,no-resolve
+IP-CIDR,64.31.3.235/32,no-resolve
+IP-CIDR,64.31.3.237/32,no-resolve
+# 司机社图片与短链
+IP-CIDR,148.113.220.36/32,no-resolve
+IP-CIDR,118.107.43.97/32,no-resolve
+IP-CIDR,154.26.176.253/32,no-resolve
+# 18漫画与 qkf 图片
+IP-CIDR,103.49.212.240/29,no-resolve
+IP-CIDR,103.41.125.238/31,no-resolve
+IP-CIDR,103.41.185.240/31,no-resolve
+IP-CIDR,43.229.39.236/31,no-resolve
+IP-CIDR,43.230.144.236/31,no-resolve
+IP-CIDR,23.82.16.53/32,no-resolve
+IP-CIDR,149.104.32.141/32,no-resolve
+IP-CIDR,148.135.17.10/32,no-resolve
+# JM
+IP-CIDR,77.247.179.91/32,no-resolve
+IP-CIDR,212.92.105.19/32,no-resolve
+IP-CIDR,212.92.105.210/32,no-resolve
+IP-CIDR,156.238.228.33/32,no-resolve
+IP-CIDR,88.214.22.103/32,no-resolve
+IP-CIDR,206.119.166.170/32,no-resolve
+IP-CIDR,104.247.81.99/32,no-resolve
+IP-CIDR,134.122.176.104/32,no-resolve
+# HAnime
+IP-CIDR,84.17.57.27/32,no-resolve
+IP-CIDR,95.173.197.104/30,no-resolve
+IP-CIDR,156.146.44.90/32,no-resolve
+IP-CIDR,185.183.32.122/32,no-resolve
+
+# ============ 视频流媒体 CDN ============
+# Cloudflare
+IP-CIDR,104.21.0.0/16,no-resolve
+IP-CIDR,172.67.0.0/16,no-resolve
+# Fastly
+IP-CIDR,151.101.0.0/16,no-resolve
+# AWS CloudFront
+IP-CIDR,13.248.213.45/32,no-resolve
+IP-CIDR,76.223.67.189/32,no-resolve
+# JM / Pica 图片 CDN
+IP-CIDR,172.66.173.71/32,no-resolve
+IP-CIDR,104.20.42.9/32,no-resolve
