@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,7401.dnutdzq.com
 DOMAIN-SUFFIX,pic.fcnpce.cn
 # HAnime
 DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime-cdn.com
 DOMAIN-SUFFIX,uploads.hanime-cdn.com
 DOMAIN-SUFFIX,p34.htv-hydaelyn.com
 DOMAIN-SUFFIX,m3u8s.highwinds-cdn.com
@@ -53,7 +54,9 @@ DOMAIN-SUFFIX,underhentai.net
 DOMAIN-SUFFIX,ohentai.org
 DOMAIN-SUFFIX,hentaifreak.org
 DOMAIN-SUFFIX,hanimeone.me
-DOMAIN-SUFFIX,hanime-cdn.com
+# 视频分片与解密密钥
+DOMAIN-SUFFIX,htv-ravana.com
+DOMAIN-SUFFIX,htv-services.com
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,hanime.me
 DOMAIN-SUFFIX,hanime.io
