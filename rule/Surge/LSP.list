@@ -1,5 +1,5 @@
 # ============ LSP 综合站群 ============
-# 司机社
+# 紳士漫畫
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg01.link
 DOMAIN-SUFFIX,wnacg02.link
@@ -129,7 +129,7 @@ DOMAIN-SUFFIX,img.safedataplj.com
 DOMAIN-SUFFIX,storage-b.go2778.com
 
 # ============ 中文漫画 / 同人站 ============
-# 司机社
+# 紳士漫畫
 DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,wn01.ru
 DOMAIN-SUFFIX,wnacg.icu
@@ -174,7 +174,7 @@ DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,hanime.me
 DOMAIN-SUFFIX,hanime.io
 # ============ 独立服务器 ============
-# 司机社主站与关联站
+# 紳士漫畫主站与关联站
 IP-CIDR,104.20.44.182/32,no-resolve
 IP-CIDR,172.66.175.138/32,no-resolve
 IP-CIDR,162.4.84.215/32,no-resolve
@@ -191,11 +191,11 @@ IP-CIDR,157.90.33.73/32,no-resolve
 IP-CIDR,157.90.33.74/32,no-resolve
 IP-CIDR,64.31.3.235/32,no-resolve
 IP-CIDR,64.31.3.237/32,no-resolve
-# 司机社图片与短链
+# 紳士漫畫图片与短链
 IP-CIDR,148.113.220.36/32,no-resolve
 IP-CIDR,118.107.43.97/32,no-resolve
 IP-CIDR,154.26.176.253/32,no-resolve
-# 18漫画与 qkf 图片
+# 18漫画与图片服务
 IP-CIDR,103.49.212.240/29,no-resolve
 IP-CIDR,103.41.125.238/31,no-resolve
 IP-CIDR,103.41.185.240/31,no-resolve
