@@ -1,18 +1,40 @@
 # ============ E-Hentai / ExHentai ============
-# 主站、画廊、论坛、Wiki
+# 画廊主站与论坛
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
+# 维基与 HentaiVerse
 DOMAIN-SUFFIX,ehwiki.org
-DOMAIN-SUFFIX,ehgt.org
-DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,hentaiverse.org
-# 画廊主站（Cloudflare）
+# 图片与缩略图 CDN
+DOMAIN-SUFFIX,ehgt.org
+# H@H 客户端下载与 API
+DOMAIN-SUFFIX,hath.network
+
+# ============ Cloudflare 通道 ============
+# 画廊、论坛与 HentaiVerse
 IP-CIDR,172.66.132.0/23,no-resolve
-# ExHentai 主站（Cloudflare）
-IP-CIDR,104.21.0.0/16,no-resolve
-# 上传与缩略图服务
+# ExHentai 主站
+IP-CIDR,104.21.56.202/32,no-resolve
+IP-CIDR,172.67.187.219/32,no-resolve
+# 维基
+IP-CIDR,104.21.2.235/32,no-resolve
+IP-CIDR,172.67.129.205/32,no-resolve
+# HentaiVerse 与 hv 子站
+IP-CIDR,104.20.27.240/32,no-resolve
+IP-CIDR,172.66.149.103/32,no-resolve
+
+# ============ 上传服 ============
 IP-CIDR,85.17.247.144/32,no-resolve
 IP-CIDR,95.211.142.153/32,no-resolve
-IP-CIDR,185.132.132.72/29,no-resolve
-# H@H 下载节点与连接枢纽
+IP-CIDR,178.175.128.254/32,no-resolve
+IP-CIDR,178.175.129.254/32,no-resolve
+IP-CIDR,178.175.132.22/32,no-resolve
+
+# ============ 图片与缩略图服 ============
+IP-CIDR,185.132.132.76/31,no-resolve
+IP-CIDR,185.132.132.79/32,no-resolve
+IP-CIDR,62.112.8.152/32,no-resolve
+IP-CIDR,78.142.63.38/32,no-resolve
+
+# ============ H@H 节点与枢纽 ============
 IP-CIDR,178.162.151.57/32,no-resolve

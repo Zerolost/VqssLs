@@ -53,6 +53,10 @@ DOMAIN-SUFFIX,underhentai.net
 DOMAIN-SUFFIX,ohentai.org
 DOMAIN-SUFFIX,hentaifreak.org
 DOMAIN-SUFFIX,hanimeone.me
+DOMAIN-SUFFIX,hanime-cdn.com
+DOMAIN-SUFFIX,hanime1.com
+DOMAIN-SUFFIX,hanime.me
+DOMAIN-SUFFIX,hanime.io
 # JMComic
 DOMAIN-SUFFIX,18comic-god.cc
 DOMAIN-SUFFIX,18comic-god.club
@@ -169,10 +173,6 @@ DOMAIN-SUFFIX,18comic1.cc
 DOMAIN-SUFFIX,picacomic.net
 DOMAIN-SUFFIX,picacomic.org
 DOMAIN-SUFFIX,picacomic.xyz
-# ============ HAnime ============
-DOMAIN-SUFFIX,hanime1.com
-DOMAIN-SUFFIX,hanime.me
-DOMAIN-SUFFIX,hanime.io
 # ============ 独立服务器 ============
 # 紳士漫畫主站与关联站
 IP-CIDR,104.20.44.182/32,no-resolve
@@ -214,8 +214,9 @@ IP-CIDR,206.119.166.170/32,no-resolve
 IP-CIDR,104.247.81.99/32,no-resolve
 IP-CIDR,134.122.176.104/32,no-resolve
 # HAnime
-IP-CIDR,84.17.57.27/32,no-resolve
+IP-CIDR,84.17.57.26/31,no-resolve
 IP-CIDR,95.173.197.104/30,no-resolve
+IP-CIDR,52.54.152.226/32,no-resolve
 IP-CIDR,156.146.44.90/32,no-resolve
 IP-CIDR,185.183.32.122/32,no-resolve
 
