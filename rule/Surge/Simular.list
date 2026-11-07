@@ -1,0 +1,9 @@
+# > Simular Box
+DOMAIN,box.simular.ai
+DOMAIN,box-api.simular.ai
+DOMAIN,mcp.box.simular.ai
+DOMAIN,relay.simular.cloud
+DOMAIN,simular-billing-replica-149671192594.us-central1.run.app
+DOMAIN-SUFFIX,simular.ai
+DOMAIN-SUFFIX,simular.cloud
+# < Simular Box
