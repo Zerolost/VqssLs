@@ -26,7 +26,8 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 | `icons/` | 全部 PNG，256×256，透明圆角 |
 | `icons.json` | 自动生成的 Surge 图标集，`name` + `url` |
 | `build_icons.py` | 重建 `icons.json`；不带参数时还会从上游图标库补齐缺失图标 |
-| `make_text_icons.py` | 为没有现成图标的协议/策略生成占位图标 |
+| `make_text_icons.py` | 为协议/策略生成文字占位图标（需中文字体） |
+| `make_brand_icons.py` | 拉取 simple-icons / iconify 的品牌 SVG，渲染成圆角品牌图标 |
 
 ## 新增或删除图标
 
@@ -40,3 +41,17 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 
 - [Qure](https://github.com/Koolson/Qure)：主体彩色图标集（MIT 授权，保留原作者署名）
 - 自绘占位图标：协议名（SS / VM / VL / TR / H2 / TUIC …）、策略组名（Airport / Transit / Direct …）
+
+## 本地生成图标
+
+品牌图标和文字图标需要额外依赖，只在本地生成，GitHub Actions 只负责重建 JSON：
+
+```sh
+apk add rsvg-convert font-noto-cjk        # SVG 渲染 + 中文字体
+python3 make_brand_icons.py               # 品牌图标（OpenAI / Claude / Gemini / DeepSeek …）
+python3 make_text_icons.py                # 文字占位图标（机场 / 专线 / 中转 / 订阅 …）
+python3 build_icons.py --rebuild          # 重建 icons.json
+```
+
+新增品牌只需在 `make_brand_icons.py` 的 `BRANDS` 里加一行：`'名称': ('si', 'simple-icons-slug', None)`，
+slug 取自 [simple-icons](https://simpleicons.org)；没有品牌图标的用 `('text', '显示文字', '#底色')`。

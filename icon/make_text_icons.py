@@ -2,6 +2,17 @@
 from PIL import Image, ImageDraw, ImageFont
 import os, json
 
+
+FONT_PATH = '/usr/share/fonts/noto/NotoSansCJK-Bold.ttc'
+
+
+def load_font(size):
+    try:
+        return ImageFont.truetype(FONT_PATH, size, index=2)  # index 2 = 简体中文
+    except Exception:
+        return ImageFont.load_default(size=size)
+
+
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'icons')
 os.makedirs(OUT, exist_ok=True)
 
@@ -36,7 +47,7 @@ def build(name, text, idx):
     d = ImageDraw.Draw(img)
     d.rounded_rectangle([8, 8, W - 8, W - 8], radius=56, fill=bg + (255,))
     size = 140 if len(text) <= 1 else (112 if len(text) == 2 else (84 if len(text) <= 3 else 64))
-    font = ImageFont.load_default(size=size)
+    font = load_font(size)
     box = d.textbbox((0, 0), text, font=font)
     d.text(((W - (box[2] - box[0])) / 2 - box[0], (W - (box[3] - box[1])) / 2 - box[1]), text, font=font, fill=fg)
     img.save(os.path.join(OUT, name + '.png'))

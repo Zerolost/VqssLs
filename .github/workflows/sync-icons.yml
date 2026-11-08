@@ -25,13 +25,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Pillow
-        run: pip install --quiet pillow
-
-      - name: Generate placeholder icons for new names
-        working-directory: icon
-        run: python3 make_text_icons.py
-
       - name: Rebuild icons.json
         working-directory: icon
         run: python3 build_icons.py --rebuild
