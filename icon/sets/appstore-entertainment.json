@@ -2,16 +2,44 @@
   "name": "Zerolost Icons · App Store / Entertainment",
   "icons": [
     {
+      "name": "12+AnIsraeliStreamingApp_386950813",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/12%2BAnIsraeliStreamingApp_386950813.png"
+    },
+    {
+      "name": "1Play._6814861651",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/1Play._6814861651.png"
+    },
+    {
       "name": "2048UndoNumberPuzzleGame_862880207",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/2048UndoNumberPuzzleGame_862880207.png"
+    },
+    {
+      "name": "3D&ParallaxLockScreen_1475496278",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/3D%26ParallaxLockScreen_1475496278.png"
+    },
+    {
+      "name": "3D浏览器_1463358361",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/3D%E6%B5%8F%E8%A7%88%E5%99%A8_1463358361.png"
+    },
+    {
+      "name": "3D配对王-配对消除经典游戏_1573572127",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/3D%E9%85%8D%E5%AF%B9%E7%8E%8B-%E9%85%8D%E5%AF%B9%E6%B6%88%E9%99%A4%E7%BB%8F%E5%85%B8%E6%B8%B8%E6%88%8F_1573572127.png"
     },
     {
       "name": "56视频-懂你的短视频社区_431582558",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/56%E8%A7%86%E9%A2%91-%E6%87%82%E4%BD%A0%E7%9A%84%E7%9F%AD%E8%A7%86%E9%A2%91%E7%A4%BE%E5%8C%BA_431582558.png"
     },
     {
+      "name": "7Player_6812360078",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/7Player_6812360078.png"
+    },
+    {
       "name": "ABClistenRadio&Podcasts_544149504",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ABClistenRadio%26Podcasts_544149504.png"
+    },
+    {
+      "name": "AIGirlfriend-Idolchat_6753111049",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AIGirlfriend-Idolchat_6753111049.png"
     },
     {
       "name": "AIGirlfriendAnimeGirl_6479683428",
@@ -30,6 +58,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AI%E6%BC%AB%E5%89%A7%E5%88%9B%E4%BD%9C%E7%A5%9E%E5%99%A8-AI%E6%BC%AB%E5%89%A7%2C%E7%9C%9F%E4%BA%BA%E7%9F%AD%E5%89%A7%2C%E5%B8%A6%E8%B4%A7%E8%A7%86%E9%A2%91%2C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91_6791110931.png"
     },
     {
+      "name": "AI短剧_6808696753",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AI%E7%9F%AD%E5%89%A7_6808696753.png"
+    },
+    {
+      "name": "AI视频成片AI一键生成视频,原创小说推文人工智能助手_6476175241",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AI%E8%A7%86%E9%A2%91%E6%88%90%E7%89%87AI%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%2C%E5%8E%9F%E5%88%9B%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B_6476175241.png"
+    },
+    {
       "name": "AcFun-国内弹幕动漫视频第一家_894974941",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AcFun-%E5%9B%BD%E5%86%85%E5%BC%B9%E5%B9%95%E5%8A%A8%E6%BC%AB%E8%A7%86%E9%A2%91%E7%AC%AC%E4%B8%80%E5%AE%B6_894974941.png"
     },
@@ -42,12 +78,52 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AeroGuitar_6763694151.png"
     },
     {
+      "name": "AirGunMotion&SoundToys_6820871060",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AirGunMotion%26SoundToys_6820871060.png"
+    },
+    {
+      "name": "AircraftFlightSimulatorHD_936033950",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AircraftFlightSimulatorHD_936033950.png"
+    },
+    {
+      "name": "Akinator_933135994",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Akinator_933135994.png"
+    },
+    {
+      "name": "AnalogCallPro-PrankDialApp_1479293537",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AnalogCallPro-PrankDialApp_1479293537.png"
+    },
+    {
+      "name": "AngelStreamTV&Movies_1473663873",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AngelStreamTV%26Movies_1473663873.png"
+    },
+    {
+      "name": "AnimeetAnimeTracker,Reviews_6811333058",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AnimeetAnimeTracker%2CReviews_6811333058.png"
+    },
+    {
       "name": "ApplePodcasts_525463029",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ApplePodcasts_525463029.png"
     },
     {
+      "name": "AquariumLiveHD+_449514875",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/AquariumLiveHD%2B_449514875.png"
+    },
+    {
+      "name": "BF-PrivateMessenger_6443578460",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BF-PrivateMessenger_6443578460.png"
+    },
+    {
       "name": "BF-加密聊天软件_6443578460",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BF-%E5%8A%A0%E5%AF%86%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6_6443578460.png"
+    },
+    {
+      "name": "BRGlight_923681930",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BRGlight_923681930.png"
+    },
+    {
+      "name": "BYUtvStreamLiveTV&Movies_445128693",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BYUtvStreamLiveTV%26Movies_445128693.png"
     },
     {
       "name": "BabiesDrumsKit-Colorful!_782065988",
@@ -62,8 +138,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BabyPuzzleGames_1628058056.png"
     },
     {
+      "name": "BeLTOON_1664994379",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BeLTOON_1664994379.png"
+    },
+    {
       "name": "BeMiLoveAI聊天・虛擬男友・戀愛劇情與角色互動_6788279757",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BeMiLoveAI%E8%81%8A%E5%A4%A9%E3%83%BB%E8%99%9B%E6%93%AC%E7%94%B7%E5%8F%8B%E3%83%BB%E6%88%80%E6%84%9B%E5%8A%87%E6%83%85%E8%88%87%E8%A7%92%E8%89%B2%E4%BA%92%E5%8B%95_6788279757.png"
+    },
+    {
+      "name": "Beatbox铃声-最好的声鼓和打击乐。下载和享受美妙的_1205144987",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Beatbox%E9%93%83%E5%A3%B0-%E6%9C%80%E5%A5%BD%E7%9A%84%E5%A3%B0%E9%BC%93%E5%92%8C%E6%89%93%E5%87%BB%E4%B9%90%E3%80%82%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BA%AB%E5%8F%97%E7%BE%8E%E5%A6%99%E7%9A%84_1205144987.png"
+    },
+    {
+      "name": "BiuGunGunSimulator_6745474000",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BiuGunGunSimulator_6745474000.png"
+    },
+    {
+      "name": "BlackboardforiPhoneandiPod-w_372943198",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BlackboardforiPhoneandiPod-w_372943198.png"
+    },
+    {
+      "name": "BlazeStream_6786079882",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/BlazeStream_6786079882.png"
     },
     {
       "name": "Block!1010Puzzle_963109938",
@@ -82,6 +178,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Bubblia-%E9%81%87%E8%A6%8B%E6%87%82%E5%A6%B3%E7%9A%84%E5%A5%BD%E8%81%B2%E9%9F%B3_6768971993.png"
     },
     {
+      "name": "ByMeLite-StandbyMe!_6749750735",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ByMeLite-StandbyMe%21_6749750735.png"
+    },
+    {
       "name": "C-popTuber-C-popMusicVideosf_995237116",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/C-popTuber-C-popMusicVideosf_995237116.png"
     },
@@ -90,8 +190,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/C5GAME-%E6%B8%B8%E6%88%8F%E9%A5%B0%E5%93%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_1282936493.png"
     },
     {
+      "name": "CameraDual-DoubleTake_6828343179",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CameraDual-DoubleTake_6828343179.png"
+    },
+    {
+      "name": "CarJam：SolveTrafficProlem_6747165410",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CarJam%EF%BC%9ASolveTrafficProlem_6747165410.png"
+    },
+    {
+      "name": "CarTV-IPTVSmartPlayer_6448987395",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CarTV-IPTVSmartPlayer_6448987395.png"
+    },
+    {
       "name": "CareBearsMusicBand_1218308458",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CareBearsMusicBand_1218308458.png"
+    },
+    {
+      "name": "Carvia-CarM3UIPTVPlayer_6818243651",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Carvia-CarM3UIPTVPlayer_6818243651.png"
+    },
+    {
+      "name": "CashFlicks_6772791762",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CashFlicks_6772791762.png"
+    },
+    {
+      "name": "CatToy-GameforCats_1585925581",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CatToy-GameforCats_1585925581.png"
     },
     {
       "name": "CatTranslator-AIPetApp_6762771341",
@@ -106,8 +230,64 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ChatwithAIKpopIdols_6450951973.png"
     },
     {
+      "name": "Chat中文版-官方中文版人工智能ai聊天机器人_6483054763",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Chat%E4%B8%AD%E6%96%87%E7%89%88-%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E7%89%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDai%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA_6483054763.png"
+    },
+    {
+      "name": "ChillAntistressToys&Sleep_6474547325",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ChillAntistressToys%26Sleep_6474547325.png"
+    },
+    {
+      "name": "Cineverse-StreamMovies&TV_1249601429",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Cineverse-StreamMovies%26TV_1249601429.png"
+    },
+    {
+      "name": "CityWallpapers_542151674",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CityWallpapers_542151674.png"
+    },
+    {
+      "name": "ClickKillZombie!_1635748983",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ClickKillZombie%21_1635748983.png"
+    },
+    {
+      "name": "CoffeeCat-J2MEGameEmulator_6758573510",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CoffeeCat-J2MEGameEmulator_6758573510.png"
+    },
+    {
+      "name": "CoolShooterSniperHero!_1613042028",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CoolShooterSniperHero%21_1613042028.png"
+    },
+    {
+      "name": "CouplesGameTruthorDare_1570979185",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CouplesGameTruthorDare_1570979185.png"
+    },
+    {
+      "name": "CriticalTrigger3DToonPvP_1546055001",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CriticalTrigger3DToonPvP_1546055001.png"
+    },
+    {
+      "name": "CrossWordEx_1104050303",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CrossWordEx_1104050303.png"
+    },
+    {
+      "name": "Crunchyroll_329913454",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Crunchyroll_329913454.png"
+    },
+    {
       "name": "CrushieAIChat&Companion_6741790631",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CrushieAIChat%26Companion_6741790631.png"
+    },
+    {
+      "name": "CuteNotch-CustomNotch_1434230296",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CuteNotch-CustomNotch_1434230296.png"
+    },
+    {
+      "name": "CxC創利市集_1576816091",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/CxC%E5%89%B5%E5%88%A9%E5%B8%82%E9%9B%86_1576816091.png"
+    },
+    {
+      "name": "DIRECTVTV&MovieStreaming_1136238277",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DIRECTVTV%26MovieStreaming_1136238277.png"
     },
     {
       "name": "DJ多多-超嗨电音播放器_1039764887",
@@ -118,12 +298,68 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DLsiteSound_1639830903.png"
     },
     {
+      "name": "DRNReadiTechStreamTV_6742031303",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DRNReadiTechStreamTV_6742031303.png"
+    },
+    {
+      "name": "DStvStream_467168196",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DStvStream_467168196.png"
+    },
+    {
+      "name": "DaAiTV_697886684",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DaAiTV_697886684.png"
+    },
+    {
+      "name": "Daddy'sRestaurant_1644846220",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Daddy%27sRestaurant_1644846220.png"
+    },
+    {
+      "name": "Dailymotion你的视频应用_336978041",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Dailymotion%E4%BD%A0%E7%9A%84%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8_336978041.png"
+    },
+    {
       "name": "DazzlyColourbyNumberGame_1318233975",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DazzlyColourbyNumberGame_1318233975.png"
     },
     {
+      "name": "Deereader_1533196841",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Deereader_1533196841.png"
+    },
+    {
+      "name": "DharmaFall-FantasyRPG_6759237347",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DharmaFall-FantasyRPG_6759237347.png"
+    },
+    {
+      "name": "Dino-MeetYourFriends_1568014274",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Dino-MeetYourFriends_1568014274.png"
+    },
+    {
+      "name": "DiscoverStreamingOriginals_6465524430",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DiscoverStreamingOriginals_6465524430.png"
+    },
+    {
+      "name": "DramaMicro-熱門爽劇無限看_6477368311",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DramaMicro-%E7%86%B1%E9%96%80%E7%88%BD%E5%8A%87%E7%84%A1%E9%99%90%E7%9C%8B_6477368311.png"
+    },
+    {
+      "name": "DramaOne-ReelShortsTV_6737223785",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/DramaOne-ReelShortsTV_6737223785.png"
+    },
+    {
       "name": "Elelive-LiveStream&GoLive_1237482267",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Elelive-LiveStream%26GoLive_1237482267.png"
+    },
+    {
+      "name": "ElfNovel-Romance&Werewolf_1498403758",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ElfNovel-Romance%26Werewolf_1498403758.png"
+    },
+    {
+      "name": "EncueWhereIt’sStreaming_6781367544",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/EncueWhereIt%E2%80%99sStreaming_6781367544.png"
+    },
+    {
+      "name": "EnglishRadio-NewsandMusic_724108987",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/EnglishRadio-NewsandMusic_724108987.png"
     },
     {
       "name": "EnkioAIMusicVideoGenerator_6758744926",
@@ -134,12 +370,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FLAI-Open-EndedAIChat_6471819385.png"
     },
     {
+      "name": "FM广播收音机_1455809231",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FM%E5%B9%BF%E6%92%AD%E6%94%B6%E9%9F%B3%E6%9C%BA_1455809231.png"
+    },
+    {
       "name": "FM直播间-听网络音乐广播电台收音机_823806906",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FM%E7%9B%B4%E6%92%AD%E9%97%B4-%E5%90%AC%E7%BD%91%E7%BB%9C%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E6%94%B6%E9%9F%B3%E6%9C%BA_823806906.png"
     },
     {
+      "name": "FaceShow-AI换脸神器_6468896814",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FaceShow-AI%E6%8D%A2%E8%84%B8%E7%A5%9E%E5%99%A8_6468896814.png"
+    },
+    {
       "name": "FancyStickers-StickerMaker_1556594773",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FancyStickers-StickerMaker_1556594773.png"
+    },
+    {
+      "name": "Fandango-Movies&Series_487285735",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Fandango-Movies%26Series_487285735.png"
+    },
+    {
+      "name": "FarmJamAnimalEscapeGame_1629034559",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FarmJamAnimalEscapeGame_1629034559.png"
+    },
+    {
+      "name": "FlashySocial_1215058822",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FlashySocial_1215058822.png"
     },
     {
       "name": "FlickReels-AIStory&Drama_6514312894",
@@ -150,16 +406,84 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FlozeRomantasyAIChat_6739925704.png"
     },
     {
+      "name": "Foreverse-AIStoryStudio_6791037004",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Foreverse-AIStoryStudio_6791037004.png"
+    },
+    {
+      "name": "FuboWatchLiveTV&Sports_905401434",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/FuboWatchLiveTV%26Sports_905401434.png"
+    },
+    {
+      "name": "Fuwa-AI平行宇宙戀愛_6772184518",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Fuwa-AI%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99%E6%88%80%E6%84%9B_6772184518.png"
+    },
+    {
+      "name": "GG云端竞技_1560120962",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GG%E4%BA%91%E7%AB%AF%E7%AB%9E%E6%8A%80_1560120962.png"
+    },
+    {
+      "name": "GSESmartIPTVPlayerLiveTV_6444845680",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GSESmartIPTVPlayerLiveTV_6444845680.png"
+    },
+    {
       "name": "GachikareAIBoyfriendChat_6758945792",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GachikareAIBoyfriendChat_6758945792.png"
+    },
+    {
+      "name": "GeekCompetitiveCoinPush_6473029055",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GeekCompetitiveCoinPush_6473029055.png"
+    },
+    {
+      "name": "GoLiveStreamers_6760149099",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GoLiveStreamers_6760149099.png"
+    },
+    {
+      "name": "GoogleTVWatchmovies&TV_746894884",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GoogleTVWatchmovies%26TV_746894884.png"
+    },
+    {
+      "name": "Gpic-8KLiveWallpaper_6748627911",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Gpic-8KLiveWallpaper_6748627911.png"
+    },
+    {
+      "name": "GunHero-OfflineShooter3D_6461691307",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GunHero-OfflineShooter3D_6461691307.png"
+    },
+    {
+      "name": "GunSimulator-Watch&Phone_6748241887",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GunSimulator-Watch%26Phone_6748241887.png"
+    },
+    {
+      "name": "GunSniperShootingFire_1547736905",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/GunSniperShootingFire_1547736905.png"
+    },
+    {
+      "name": "HBOMaxStreamMovies&TV_1666653815",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HBOMaxStreamMovies%26TV_1666653815.png"
     },
     {
       "name": "HKRadio香港收音機-ChineseRadio_1248884143",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HKRadio%E9%A6%99%E6%B8%AF%E6%94%B6%E9%9F%B3%E6%A9%9F-ChineseRadio_1248884143.png"
     },
     {
+      "name": "HamHub-你的私人云影专家_6458691598",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HamHub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6_6458691598.png"
+    },
+    {
+      "name": "HappyCookingCookingGames_1445393074",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HappyCookingCookingGames_1445393074.png"
+    },
+    {
       "name": "HarbourCityzen_1568652097",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HarbourCityzen_1568652097.png"
+    },
+    {
+      "name": "Hello壁纸-高清锁屏壁纸制作_1536891243",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Hello%E5%A3%81%E7%BA%B8-%E9%AB%98%E6%B8%85%E9%94%81%E5%B1%8F%E5%A3%81%E7%BA%B8%E5%88%B6%E4%BD%9C_1536891243.png"
+    },
+    {
+      "name": "HexDrop-HexaPuzzleGames_1515851614",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HexDrop-HexaPuzzleGames_1515851614.png"
     },
     {
       "name": "HeyyyyStoriesthattextback_6761748236",
@@ -170,8 +494,36 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HiShort_6473901467.png"
     },
     {
+      "name": "HowdyStreamingMovies&TV_6755439476",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HowdyStreamingMovies%26TV_6755439476.png"
+    },
+    {
       "name": "HugmiAICompanion&Chat_6807274891",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HugmiAICompanion%26Chat_6807274891.png"
+    },
+    {
+      "name": "HuluStreamTVshows&movies_376510438",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/HuluStreamTVshows%26movies_376510438.png"
+    },
+    {
+      "name": "IDGO-StreamLiveTV_1101436941",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/IDGO-StreamLiveTV_1101436941.png"
+    },
+    {
+      "name": "IPTVPlayerbySmartStream_6477695286",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/IPTVPlayerbySmartStream_6477695286.png"
+    },
+    {
+      "name": "IPTVProSmartersPlayerLite_6504405496",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/IPTVProSmartersPlayerLite_6504405496.png"
+    },
+    {
+      "name": "IPTVStreamer_1137962801",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/IPTVStreamer_1137962801.png"
+    },
+    {
+      "name": "ITCStream_6451446968",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ITCStream_6451446968.png"
     },
     {
       "name": "Incubase_6476601897",
@@ -186,12 +538,56 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/J.AI-AIFriendsChat_6475421259.png"
     },
     {
+      "name": "JACOجاكوLiveStreaming_6447761097",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/JACO%D8%AC%D8%A7%D9%83%D9%88LiveStreaming_6447761097.png"
+    },
+    {
+      "name": "JavelinMaster-Realfight_1487771441",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/JavelinMaster-Realfight_1487771441.png"
+    },
+    {
+      "name": "Jigsawhd-puzzlesforadults_1475229898",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Jigsawhd-puzzlesforadults_1475229898.png"
+    },
+    {
+      "name": "JoyAI-京东旗下万能数字人助手_6738300386",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/JoyAI-%E4%BA%AC%E4%B8%9C%E6%97%97%E4%B8%8B%E4%B8%87%E8%83%BD%E6%95%B0%E5%AD%97%E4%BA%BA%E5%8A%A9%E6%89%8B_6738300386.png"
+    },
+    {
+      "name": "JoySlimeStressRelief&ASMR_6444689826",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/JoySlimeStressRelief%26ASMR_6444689826.png"
+    },
+    {
       "name": "Jump-doublejump,球球酷跑,小小运动家_1586088766",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Jump-doublejump%2C%E7%90%83%E7%90%83%E9%85%B7%E8%B7%91%2C%E5%B0%8F%E5%B0%8F%E8%BF%90%E5%8A%A8%E5%AE%B6_1586088766.png"
     },
     {
+      "name": "JustWatch-Movies&TVShows_979227482",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/JustWatch-Movies%26TVShows_979227482.png"
+    },
+    {
       "name": "KK变声器：发语音秒变唱歌&聊天键盘变音器AI实时文字转_6775718130",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/KK%E5%8F%98%E5%A3%B0%E5%99%A8%EF%BC%9A%E5%8F%91%E8%AF%AD%E9%9F%B3%E7%A7%92%E5%8F%98%E5%94%B1%E6%AD%8C%26%E8%81%8A%E5%A4%A9%E9%94%AE%E7%9B%98%E5%8F%98%E9%9F%B3%E5%99%A8AI%E5%AE%9E%E6%97%B6%E6%96%87%E5%AD%97%E8%BD%AC_6775718130.png"
+    },
+    {
+      "name": "KMPlayer_835776444",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/KMPlayer_835776444.png"
+    },
+    {
+      "name": "Kaasong_6759906753",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Kaasong_6759906753.png"
+    },
+    {
+      "name": "KakaoPage_616643813",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/KakaoPage_616643813.png"
+    },
+    {
+      "name": "Kidream_6747074179",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Kidream_6747074179.png"
+    },
+    {
+      "name": "KomfyD_1444995766",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/KomfyD_1444995766.png"
     },
     {
       "name": "Kwai-ShortVideoCommunity_1338605092",
@@ -210,12 +606,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LamiLive-LiveStream%26GoLive_1456350943.png"
     },
     {
+      "name": "Lenna-VideoLibraryPlayer_6502967807",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Lenna-VideoLibraryPlayer_6502967807.png"
+    },
+    {
       "name": "LiSTNR_1462845202",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LiSTNR_1462845202.png"
     },
     {
+      "name": "LikeStreamIPTVPlayer_6793432747",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LikeStreamIPTVPlayer_6793432747.png"
+    },
+    {
       "name": "LittleWhite-PetTranslator_6474293098",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LittleWhite-PetTranslator_6474293098.png"
+    },
+    {
+      "name": "LiveWallpaperLauncher4k3d_1456178643",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LiveWallpaperLauncher4k3d_1456178643.png"
+    },
+    {
+      "name": "LiveWallpapersforEveryday_1509599179",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LiveWallpapersforEveryday_1509599179.png"
     },
     {
       "name": "LiveWallpapersforMe_1069361548",
@@ -226,12 +638,44 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LizlisAICharacterChat_6754000327.png"
     },
     {
+      "name": "LocalPlayerVideoPlayer_6774151977",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LocalPlayerVideoPlayer_6774151977.png"
+    },
+    {
       "name": "LoveyDovey-DreamAIChats_6468766519",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LoveyDovey-DreamAIChats_6468766519.png"
     },
     {
+      "name": "LovinHouse-落樱小屋_1447097214",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LovinHouse-%E8%90%BD%E6%A8%B1%E5%B0%8F%E5%B1%8B_1447097214.png"
+    },
+    {
+      "name": "LuckyEmulator–GBA&DS_6504077594",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/LuckyEmulator%E2%80%93GBA%26DS_6504077594.png"
+    },
+    {
+      "name": "M-Reader_1491128481",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/M-Reader_1491128481.png"
+    },
+    {
+      "name": "MC插件盒子for我的世界(Minecraft)_1158005835",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MC%E6%8F%92%E4%BB%B6%E7%9B%92%E5%AD%90for%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%28Minecraft%29_1158005835.png"
+    },
+    {
+      "name": "MGM+_1387514950",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MGM%2B_1387514950.png"
+    },
+    {
+      "name": "MUBIStreamGreatCinema_626148774",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MUBIStreamGreatCinema_626148774.png"
+    },
+    {
       "name": "MXPlayerAllinOnePlayer_1594318832",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MXPlayerAllinOnePlayer_1594318832.png"
+    },
+    {
+      "name": "MagicChess3DLearnandPlay_1104860990",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MagicChess3DLearnandPlay_1104860990.png"
     },
     {
       "name": "MahjongCraft-TripleMatch_1458984058",
@@ -242,24 +686,60 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MakeupGamesGuidetoBreakup_1236046011.png"
     },
     {
+      "name": "MangaPin_6466486279",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MangaPin_6466486279.png"
+    },
+    {
       "name": "MashaandtheBearforKids_437760529",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MashaandtheBearforKids_437760529.png"
+    },
+    {
+      "name": "MechanicalClock3DLite_459063214",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MechanicalClock3DLite_459063214.png"
     },
     {
       "name": "MeetAI：ChatwithAIFriend_6447675508",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MeetAI%EF%BC%9AChatwithAIFriend_6447675508.png"
     },
     {
+      "name": "MegaIPTV-m3uPlayer_1491658839",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MegaIPTV-m3uPlayer_1491658839.png"
+    },
+    {
       "name": "MeowTalk-CatTranslator_6469098971",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MeowTalk-CatTranslator_6469098971.png"
+    },
+    {
+      "name": "MessagefromSanta®call&video_933921849",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MessagefromSanta%C2%AEcall%26video_933921849.png"
     },
     {
       "name": "MiniDramaStreamShortDramas_6738833494",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MiniDramaStreamShortDramas_6738833494.png"
     },
     {
+      "name": "MinimalistThreeKingdoms_1634570974",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MinimalistThreeKingdoms_1634570974.png"
+    },
+    {
+      "name": "Mira-AIChat&Companion_6784508010",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Mira-AIChat%26Companion_6784508010.png"
+    },
+    {
+      "name": "Miru-Xiaoyaplayer_6462882907",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Miru-Xiaoyaplayer_6462882907.png"
+    },
+    {
       "name": "MokoLiveLiveStreamFriends_6737416241",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MokoLiveLiveStreamFriends_6737416241.png"
+    },
+    {
+      "name": "MovieApp-MoviesNow!+TV_467164083",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MovieApp-MoviesNow%21%2BTV_467164083.png"
+    },
+    {
+      "name": "MovieDownloader-FreePlay_6754824912",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MovieDownloader-FreePlay_6754824912.png"
     },
     {
       "name": "MusicHQPlus_1120895631",
@@ -270,6 +750,22 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MusicX-MusicStreamingPro_6755168079.png"
     },
     {
+      "name": "Musicplayer—musicstreaming_6783587886",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Musicplayer%E2%80%94musicstreaming_6783587886.png"
+    },
+    {
+      "name": "MyInflowerjumpmusicplayer_1422355378",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/MyInflowerjumpmusicplayer_1422355378.png"
+    },
+    {
+      "name": "Myperfectlife：BitLife_1671294640",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Myperfectlife%EF%BC%9ABitLife_1671294640.png"
+    },
+    {
+      "name": "NNTVStreaming_6480421898",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NNTVStreaming_6480421898.png"
+    },
+    {
       "name": "NOWNESS现在_1335092252",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NOWNESS%E7%8E%B0%E5%9C%A8_1335092252.png"
     },
@@ -278,12 +774,52 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NagaLive_6749140350.png"
     },
     {
+      "name": "NailGamesGirlArtistSalon_1517363037",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NailGamesGirlArtistSalon_1517363037.png"
+    },
+    {
+      "name": "NetaciDisk_1144439564",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NetaciDisk_1144439564.png"
+    },
+    {
+      "name": "NimoTV-LiveStream&Fun_1367087826",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NimoTV-LiveStream%26Fun_1367087826.png"
+    },
+    {
+      "name": "Noctra_6811375568",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Noctra_6811375568.png"
+    },
+    {
+      "name": "NxtUpStreamingHub_6762518680",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/NxtUpStreamingHub_6762518680.png"
+    },
+    {
+      "name": "OGQ-고화질배경화면_541860561",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/OGQ-%E1%84%80%E1%85%A9%E1%84%92%E1%85%AA%E1%84%8C%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB_541860561.png"
+    },
+    {
+      "name": "OMG-VideoChat&LiveCall_6782087040",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/OMG-VideoChat%26LiveCall_6782087040.png"
+    },
+    {
+      "name": "OSN+_862390640",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/OSN%2B_862390640.png"
+    },
+    {
       "name": "OfflineGames-Nin1_1626250521",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/OfflineGames-Nin1_1626250521.png"
     },
     {
       "name": "OneMoreShot-AIMusicVideo_6744976219",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/OneMoreShot-AIMusicVideo_6744976219.png"
+    },
+    {
+      "name": "PBSWatchTV&Documentaries_398349296",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PBSWatchTV%26Documentaries_398349296.png"
+    },
+    {
+      "name": "PILI線上看_1573867038",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PILI%E7%B7%9A%E4%B8%8A%E7%9C%8B_1573867038.png"
     },
     {
       "name": "PLAIAICharacterChat_1671444242",
@@ -298,6 +834,22 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PaintLab-ColorbyNumber_1659339676.png"
     },
     {
+      "name": "Paramount+_530168168",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Paramount%2B_530168168.png"
+    },
+    {
+      "name": "Pazzy_1546973783",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Pazzy_1546973783.png"
+    },
+    {
+      "name": "PeacockTVStreamTV&Movies_1508186374",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PeacockTVStreamTV%26Movies_1508186374.png"
+    },
+    {
+      "name": "PeggyCat-AVirtualPet_1578203914",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PeggyCat-AVirtualPet_1578203914.png"
+    },
+    {
       "name": "PersonaChat-AICharacters_6480217280",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PersonaChat-AICharacters_6480217280.png"
     },
@@ -306,16 +858,56 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PetFun-PetTalk%26Camera_6748663105.png"
     },
     {
+      "name": "PhiloShows,Movies&LiveTV_1248646044",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PhiloShows%2CMovies%26LiveTV_1248646044.png"
+    },
+    {
+      "name": "PlayOnCloud-StreamingDVR_1057374225",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PlayOnCloud-StreamingDVR_1057374225.png"
+    },
+    {
+      "name": "PlayPingPong！_1580038854",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PlayPingPong%EF%BC%81_1580038854.png"
+    },
+    {
+      "name": "PlayRTSStreaming&replay_920754415",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PlayRTSStreaming%26replay_920754415.png"
+    },
+    {
+      "name": "PlexFindMoviesandTVShows_383457673",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PlexFindMoviesandTVShows_383457673.png"
+    },
+    {
+      "name": "PlutoTVWatchFreeMoviesTV_751712884",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PlutoTVWatchFreeMoviesTV_751712884.png"
+    },
+    {
       "name": "PokerTimer_340175157",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PokerTimer_340175157.png"
+    },
+    {
+      "name": "PremiumLiveStreaming_6452677049",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PremiumLiveStreaming_6452677049.png"
     },
     {
       "name": "PureTuberMusic&Video_6743516502",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PureTuberMusic%26Video_6743516502.png"
     },
     {
+      "name": "PuzzleShapes-儿童学习_1313313362",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/PuzzleShapes-%E5%84%BF%E7%AB%A5%E5%AD%A6%E4%B9%A0_1313313362.png"
+    },
+    {
       "name": "Qni-音乐杀、猜歌、全民社交平台_6479694167",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Qni-%E9%9F%B3%E4%B9%90%E6%9D%80%E3%80%81%E7%8C%9C%E6%AD%8C%E3%80%81%E5%85%A8%E6%B0%91%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0_6479694167.png"
+    },
+    {
+      "name": "QtoonManga&WebtoonReader_6782332251",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/QtoonManga%26WebtoonReader_6782332251.png"
+    },
+    {
+      "name": "QuadStream_1051358039",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/QuadStream_1051358039.png"
     },
     {
       "name": "RadioTaiwan-OnlineFM_1067894136",
@@ -330,12 +922,48 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Real%E5%A3%81%E7%BA%B8-%E9%AB%98%E6%B8%85%E5%A2%99%E7%BA%B8%E5%9B%BE%E7%89%87_1518285292.png"
     },
     {
+      "name": "Reelgood-StreamingGuide_1031391869",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Reelgood-StreamingGuide_1031391869.png"
+    },
+    {
+      "name": "Reflix-Emby播放器与追剧助手_6621243955",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Reflix-Emby%E6%92%AD%E6%94%BE%E5%99%A8%E4%B8%8E%E8%BF%BD%E5%89%A7%E5%8A%A9%E6%89%8B_6621243955.png"
+    },
+    {
+      "name": "RhythmRedandBlueBall_1562617694",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/RhythmRedandBlueBall_1562617694.png"
+    },
+    {
       "name": "Rochat-AICharacterChat_6458981497",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Rochat-AICharacterChat_6458981497.png"
     },
     {
+      "name": "RokuRemote(Official)_482066631",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/RokuRemote%28Official%29_482066631.png"
+    },
+    {
+      "name": "RollSocial~ForGenZ_6739867904",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/RollSocial~ForGenZ_6739867904.png"
+    },
+    {
+      "name": "SSME-8KLiveWallpaper_1620679167",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SSME-8KLiveWallpaper_1620679167.png"
+    },
+    {
+      "name": "STARZ_550221096",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/STARZ_550221096.png"
+    },
+    {
       "name": "SayloYourAICreativeWorld_6479835900",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SayloYourAICreativeWorld_6479835900.png"
+    },
+    {
+      "name": "ScoopzYourPeopleYourVideo_6449206831",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ScoopzYourPeopleYourVideo_6449206831.png"
+    },
+    {
+      "name": "SenPlayer-MediaPlayer_6443975850",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SenPlayer-MediaPlayer_6443975850.png"
     },
     {
       "name": "SenPlayer-全能视频播放器网盘直连_6443975850",
@@ -350,12 +978,56 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ShortMax-ShortDramas%26TV_6464002625.png"
     },
     {
+      "name": "Shortical-StreamDramas&TV_6745260515",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Shortical-StreamDramas%26TV_6745260515.png"
+    },
+    {
+      "name": "Shorts-StreamShortDrama_6498894314",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Shorts-StreamShortDrama_6498894314.png"
+    },
+    {
+      "name": "ShowFun_1522641717",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ShowFun_1522641717.png"
+    },
+    {
+      "name": "SimpleRPG-Leisureupgrade_1593984557",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SimpleRPG-Leisureupgrade_1593984557.png"
+    },
+    {
+      "name": "SlingLiveTV,Sports&News_945077360",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SlingLiveTV%2CSports%26News_945077360.png"
+    },
+    {
+      "name": "SmarterIPTVStreamLiveTV_6756980211",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SmarterIPTVStreamLiveTV_6756980211.png"
+    },
+    {
+      "name": "SocialAnimal_1659307445",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SocialAnimal_1659307445.png"
+    },
+    {
+      "name": "SolitaireNewStoneAge_6773885665",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SolitaireNewStoneAge_6773885665.png"
+    },
+    {
       "name": "SpicyAI-DreamHotGirlfriend_6523416922",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SpicyAI-DreamHotGirlfriend_6523416922.png"
     },
     {
       "name": "StardustTV-ShortDrama&Movie_6502377927",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StardustTV-ShortDrama%26Movie_6502377927.png"
+    },
+    {
+      "name": "SteamMobile_495369748",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SteamMobile_495369748.png"
+    },
+    {
+      "name": "SteveDinosaurJump！_1509304797",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SteveDinosaurJump%EF%BC%81_1509304797.png"
+    },
+    {
+      "name": "StickmanTrapAdventureGames！_1599249332",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StickmanTrapAdventureGames%EF%BC%81_1599249332.png"
     },
     {
       "name": "StipopAIChat·Text·Friend_1288492157",
@@ -366,12 +1038,68 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StoryAllChat%2CVoice%26Music_1518594150.png"
     },
     {
+      "name": "StrawberryShortcakeBakeShop_658439903",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StrawberryShortcakeBakeShop_658439903.png"
+    },
+    {
+      "name": "StreamHub_6759214199",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StreamHub_6759214199.png"
+    },
+    {
+      "name": "StreamNxt+_6476131623",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StreamNxt%2B_6476131623.png"
+    },
+    {
+      "name": "StreamTV+_6751181562",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StreamTV%2B_6751181562.png"
+    },
+    {
+      "name": "StrimyLiveStreaming_6760729246",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StrimyLiveStreaming_6760729246.png"
+    },
+    {
+      "name": "StrymTV_1497450933",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/StrymTV_1497450933.png"
+    },
+    {
+      "name": "SubPlayer-SmartVideoPlayer_6759992867",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SubPlayer-SmartVideoPlayer_6759992867.png"
+    },
+    {
+      "name": "SunglassesSnakeArena_6818694842",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SunglassesSnakeArena_6818694842.png"
+    },
+    {
       "name": "Supei_1573709104",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Supei_1573709104.png"
     },
     {
+      "name": "SuperColor®-PaintbyNumber_1521972561",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SuperColor%C2%AE-PaintbyNumber_1521972561.png"
+    },
+    {
+      "name": "SynClubAIStory&Roleplay_1671537674",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SynClubAIStory%26Roleplay_1671537674.png"
+    },
+    {
+      "name": "SynPalCharacterAIChat_6747065875",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/SynPalCharacterAIChat_6747065875.png"
+    },
+    {
+      "name": "TBN+ChristianStreaming_348738437",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TBN%2BChristianStreaming_348738437.png"
+    },
+    {
       "name": "TICKETIERShow,EventTickets_6476260768",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TICKETIERShow%2CEventTickets_6476260768.png"
+    },
+    {
+      "name": "TVGuideStreaming&LiveTV_333647776",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TVGuideStreaming%26LiveTV_333647776.png"
+    },
+    {
+      "name": "TVOne-StreamFullEpisodes_1272184796",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TVOne-StreamFullEpisodes_1272184796.png"
     },
     {
       "name": "TakeoutOdyssey_6801539545",
@@ -386,20 +1114,120 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TataLand_1664036357.png"
     },
     {
+      "name": "Tempestbastion_6747016437",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Tempestbastion_6747016437.png"
+    },
+    {
       "name": "TencentVideo_1492898204",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TencentVideo_1492898204.png"
+    },
+    {
+      "name": "TheBlackTilesNinja2-Don'tTou_884747185",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TheBlackTilesNinja2-Don%27tTou_884747185.png"
+    },
+    {
+      "name": "TheNBCApp–StreamTVShows_442839435",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TheNBCApp%E2%80%93StreamTVShows_442839435.png"
     },
     {
       "name": "ThemeStore_1496751844",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ThemeStore_1496751844.png"
     },
     {
+      "name": "ThunderAssaultAlienShooter_997429574",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ThunderAssaultAlienShooter_997429574.png"
+    },
+    {
+      "name": "TiTak海外版-国际短视频图片编辑生成音频格式转换软件_6746846654",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TiTak%E6%B5%B7%E5%A4%96%E7%89%88-%E5%9B%BD%E9%99%85%E7%9F%AD%E8%A7%86%E9%A2%91%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91%E7%94%9F%E6%88%90%E9%9F%B3%E9%A2%91%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E8%BD%AF%E4%BB%B6_6746846654.png"
+    },
+    {
       "name": "TikTok-Videos,Shop&LIVE_835599320",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TikTok-Videos%2CShop%26LIVE_835599320.png"
     },
     {
+      "name": "TikTok_835599320",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TikTok_835599320.png"
+    },
+    {
       "name": "TinyDecisionsSpinWheel_1338769645",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TinyDecisionsSpinWheel_1338769645.png"
+    },
+    {
+      "name": "TopShooter2021_1568437606",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TopShooter2021_1568437606.png"
+    },
+    {
+      "name": "TrackTV&Movies-ShowCal_6499238562",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TrackTV%26Movies-ShowCal_6499238562.png"
+    },
+    {
+      "name": "TruthorDareLite!_568369010",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TruthorDareLite%21_568369010.png"
+    },
+    {
+      "name": "TruthorDare⋆PartyGames_898735886",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TruthorDare%E2%8B%86PartyGames_898735886.png"
+    },
+    {
+      "name": "TuTuMirror_6744322861",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TuTuMirror_6744322861.png"
+    },
+    {
+      "name": "TubiMovies&LiveTV_886445756",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/TubiMovies%26LiveTV_886445756.png"
+    },
+    {
+      "name": "UNOCard_1482629805",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/UNOCard_1482629805.png"
+    },
+    {
+      "name": "UVideoPlayer_1041937993",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/UVideoPlayer_1041937993.png"
+    },
+    {
+      "name": "UltraStream-LiveStreaming_6766213781",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/UltraStream-LiveStreaming_6766213781.png"
+    },
+    {
+      "name": "Unblock-Classicpuzzlegame_1004859992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Unblock-Classicpuzzlegame_1004859992.png"
+    },
+    {
+      "name": "Upflix-StreamingTracker_562782540",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Upflix-StreamingTracker_562782540.png"
+    },
+    {
+      "name": "VLCStreamerPro_410031728",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VLCStreamerPro_410031728.png"
+    },
+    {
+      "name": "VRMovies3D-VirtualReality_1347853535",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VRMovies3D-VirtualReality_1347853535.png"
+    },
+    {
+      "name": "VRTube-360°VideoPlayer_1126650962",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VRTube-360%C2%B0VideoPlayer_1126650962.png"
+    },
+    {
+      "name": "VR射击游戏_6781241863",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VR%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F_6781241863.png"
+    },
+    {
+      "name": "VaibSocial_6449289106",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VaibSocial_6449289106.png"
+    },
+    {
+      "name": "ValoShopTracker-DailyStore_6778869939",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ValoShopTracker-DailyStore_6778869939.png"
+    },
+    {
+      "name": "VestaStream_6476391642",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VestaStream_6476391642.png"
+    },
+    {
+      "name": "ViXTV,SportsandNews_1531467766",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ViXTV%2CSportsandNews_1531467766.png"
     },
     {
       "name": "VidHub-高清影片视频播放器，快速播放云盘网盘_1659622164",
@@ -410,6 +1238,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VideoVoiceChanger-FunEditor_1012238192.png"
     },
     {
+      "name": "VidioSports,Movies,Series_1048858798",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VidioSports%2CMovies%2CSeries_1048858798.png"
+    },
+    {
       "name": "VikiAsianDramas,Movies,TV_445553058",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VikiAsianDramas%2CMovies%2CTV_445553058.png"
     },
@@ -418,12 +1250,88 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/VirginRadioUK-ListenLive_1090920173.png"
     },
     {
+      "name": "WaKingyoLE-GoldfishPond_333192368",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WaKingyoLE-GoldfishPond_333192368.png"
+    },
+    {
+      "name": "WalliCoolWallpapersHD,4K_1061097668",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WalliCoolWallpapersHD%2C4K_1061097668.png"
+    },
+    {
+      "name": "WallpapersHD&ThemesforMe_749046891",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WallpapersHD%26ThemesforMe_749046891.png"
+    },
+    {
       "name": "WallpapersHDAlbums_384922950",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WallpapersHDAlbums_384922950.png"
     },
     {
+      "name": "WastelandScavengerSurvivor_6779936477",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WastelandScavengerSurvivor_6779936477.png"
+    },
+    {
+      "name": "WatchUnwindAirGun&Fidget_6751782848",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WatchUnwindAirGun%26Fidget_6751782848.png"
+    },
+    {
+      "name": "WeAMVideos,Truth&Social_6504396265",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WeAMVideos%2CTruth%26Social_6504396265.png"
+    },
+    {
+      "name": "WePlay-Games&Party_1557823712",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WePlay-Games%26Party_1557823712.png"
+    },
+    {
+      "name": "Wefun-Chat,PartyandGame_1476921059",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Wefun-Chat%2CPartyandGame_1476921059.png"
+    },
+    {
+      "name": "WhipSoundCrackSimulator_528016497",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WhipSoundCrackSimulator_528016497.png"
+    },
+    {
+      "name": "WonderlandArena_6444427377",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WonderlandArena_6444427377.png"
+    },
+    {
+      "name": "WouldYouRatherLeftorRight_6777937454",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/WouldYouRatherLeftorRight_6777937454.png"
+    },
+    {
+      "name": "XBOX_736179781",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XBOX_736179781.png"
+    },
+    {
       "name": "XLPlayer-SuperPlayer&File_6737167734",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XLPlayer-SuperPlayer%26File_6737167734.png"
+    },
+    {
+      "name": "XTREAMIPTVTVPlayerIPPro_1583776992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XTREAMIPTVTVPlayerIPPro_1583776992.png"
+    },
+    {
+      "name": "XfinityStream_731629156",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XfinityStream_731629156.png"
+    },
+    {
+      "name": "XiangqiAI-ChineseChess_6770481522",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XiangqiAI-ChineseChess_6770481522.png"
+    },
+    {
+      "name": "XumoPlayStreamTV&Movies_1068337978",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/XumoPlayStreamTV%26Movies_1068337978.png"
+    },
+    {
+      "name": "YOYOLiveStream&VideoChat_1516778766",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YOYOLiveStream%26VideoChat_1516778766.png"
+    },
+    {
+      "name": "YTWatchforYouTube_6752566993",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YTWatchforYouTube_6752566993.png"
+    },
+    {
+      "name": "YippeeTVChristianStreaming_1488781371",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YippeeTVChristianStreaming_1488781371.png"
     },
     {
       "name": "YokaLive-深夜聊天交友約會_6773774506",
@@ -432,6 +1340,10 @@
     {
       "name": "YotoMusic,Stories,Sleep_1412039719",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YotoMusic%2CStories%2CSleep_1412039719.png"
+    },
+    {
+      "name": "YouTubeTV_1193350206",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YouTubeTV_1193350206.png"
     },
     {
       "name": "YourAIGirlfriend-GirlChat_6775008604",
@@ -446,12 +1358,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/YuliYuli-AI%E8%81%8A%E5%A4%A9%E9%99%AA%E4%BC%B4%E8%99%9B%E6%93%AC%E6%B4%BB%E4%B8%96%E7%95%8C_6786571608.png"
     },
     {
+      "name": "ZETAEmulatorPS23DSWiiPSP_6762959682",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ZETAEmulatorPS23DSWiiPSP_6762959682.png"
+    },
+    {
       "name": "Zhutikong-HdThemeWallpaper_898632558",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/Zhutikong-HdThemeWallpaper_898632558.png"
     },
     {
       "name": "crowdDJ_911666442",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/crowdDJ_911666442.png"
+    },
+    {
+      "name": "ddPlayer_6810930763",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/ddPlayer_6810930763.png"
+    },
+    {
+      "name": "discovery+StreamTVShows_1498327873",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/discovery%2BStreamTVShows_1498327873.png"
+    },
+    {
+      "name": "iComics_493845493",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/iComics_493845493.png"
+    },
+    {
+      "name": "iNASPlayerNASVideo&Music_6787336253",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/iNASPlayerNASVideo%26Music_6787336253.png"
     },
     {
       "name": "iTalkBBTV-北美首选华语视频平台_1463739440",
@@ -462,16 +1394,44 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/imely-AICharacterChat_6761164457.png"
     },
     {
+      "name": "myTVSUPER_1080187984",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/myTVSUPER_1080187984.png"
+    },
+    {
+      "name": "nPlayerLite_1078835991",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/nPlayerLite_1078835991.png"
+    },
+    {
+      "name": "rPlayerVR&3DVideoPlayer_1296786145",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/rPlayerVR%263DVideoPlayer_1296786145.png"
+    },
+    {
       "name": "rPlayer全能的VR视频播放器_1296786145",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/rPlayer%E5%85%A8%E8%83%BD%E7%9A%84VR%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8_1296786145.png"
+    },
+    {
+      "name": "shortplay_6759779217",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/shortplay_6759779217.png"
+    },
+    {
+      "name": "status-simsbutsocialmedia_6596771144",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/status-simsbutsocialmedia_6596771144.png"
     },
     {
       "name": "videostar-Videoloopmixvue_1474174426",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/videostar-Videoloopmixvue_1474174426.png"
     },
     {
+      "name": "yybx_1519723194",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/yybx_1519723194.png"
+    },
+    {
       "name": "zFuse-视频播放器_1054505347",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/zFuse-%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8_1054505347.png"
+    },
+    {
+      "name": "らしんばんアプリアニメイトポイントがたまる！つかえる！_1538137612",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E3%82%89%E3%81%97%E3%82%93%E3%81%AF%E3%82%99%E3%82%93%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88%E3%83%9B%E3%82%9A%E3%82%A4%E3%83%B3%E3%83%88%E3%81%8B%E3%82%99%E3%81%9F%E3%81%BE%E3%82%8B%EF%BC%81%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B%EF%BC%81_1538137612.png"
     },
     {
       "name": "万能播放器-全能视频播放解码,IPTV电视直播_1320554555",
@@ -482,8 +1442,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%87%E8%83%BD%E6%92%AD%E6%94%BE%E5%99%A8-%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E8%BD%AF%E4%BB%B6_1594557006.png"
     },
     {
+      "name": "三千壁纸-精选4K壁纸大全_6760618288",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%89%E5%8D%83%E5%A3%81%E7%BA%B8-%E7%B2%BE%E9%80%894K%E5%A3%81%E7%BA%B8%E5%A4%A7%E5%85%A8_6760618288.png"
+    },
+    {
+      "name": "三国志-三国志单机手游_6443516223",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%89%E5%9B%BD%E5%BF%97-%E4%B8%89%E5%9B%BD%E5%BF%97%E5%8D%95%E6%9C%BA%E6%89%8B%E6%B8%B8_6443516223.png"
+    },
+    {
       "name": "三国神将传-国风少年放置策略卡牌手游_6474853101",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%89%E5%9B%BD%E7%A5%9E%E5%B0%86%E4%BC%A0-%E5%9B%BD%E9%A3%8E%E5%B0%91%E5%B9%B4%E6%94%BE%E7%BD%AE%E7%AD%96%E7%95%A5%E5%8D%A1%E7%89%8C%E6%89%8B%E6%B8%B8_6474853101.png"
+    },
+    {
+      "name": "三国龙凤将-创意单机策略卡牌情侣_6450618488",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%89%E5%9B%BD%E9%BE%99%E5%87%A4%E5%B0%86-%E5%88%9B%E6%84%8F%E5%8D%95%E6%9C%BA%E7%AD%96%E7%95%A5%E5%8D%A1%E7%89%8C%E6%83%85%E4%BE%A3_6450618488.png"
+    },
+    {
+      "name": "三国：运筹帷幄_6778055784",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%89%E5%9B%BD%EF%BC%9A%E8%BF%90%E7%AD%B9%E5%B8%B7%E5%B9%84_6778055784.png"
+    },
+    {
+      "name": "东东电竞_6505019859",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B8%9C%E4%B8%9C%E7%94%B5%E7%AB%9E_6505019859.png"
+    },
+    {
+      "name": "乐见极速版_1542714414",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B9%90%E8%A7%81%E6%9E%81%E9%80%9F%E7%89%88_1542714414.png"
     },
     {
       "name": "乐视视频就视不一样_385285922",
@@ -492,6 +1476,18 @@
     {
       "name": "乖猪电竞-开黑交友派对聊天乐园_1469352859",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B9%96%E7%8C%AA%E7%94%B5%E7%AB%9E-%E5%BC%80%E9%BB%91%E4%BA%A4%E5%8F%8B%E6%B4%BE%E5%AF%B9%E8%81%8A%E5%A4%A9%E4%B9%90%E5%9B%AD_1469352859.png"
+    },
+    {
+      "name": "九州跑得快-斗地主棋牌集合，掼蛋比赛休闲娱乐平台_1606340452",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B9%9D%E5%B7%9E%E8%B7%91%E5%BE%97%E5%BF%AB-%E6%96%97%E5%9C%B0%E4%B8%BB%E6%A3%8B%E7%89%8C%E9%9B%86%E5%90%88%EF%BC%8C%E6%8E%BC%E8%9B%8B%E6%AF%94%E8%B5%9B%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90%E5%B9%B3%E5%8F%B0_1606340452.png"
+    },
+    {
+      "name": "书说-浏览器必备_1631686669",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%B9%A6%E8%AF%B4-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87_1631686669.png"
+    },
+    {
+      "name": "二柄forSteamPS5核心游戏玩家必备应用_918024809",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BA%8C%E6%9F%84forSteamPS5%E6%A0%B8%E5%BF%83%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E5%BF%85%E5%A4%87%E5%BA%94%E7%94%A8_918024809.png"
     },
     {
       "name": "云听-海量热门剧集音乐在线聆听_496145505",
@@ -506,8 +1502,40 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BA%92%E5%8A%A8%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9_1488910190.png"
     },
     {
+      "name": "互动电视-@TV_385242275",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BA%92%E5%8A%A8%E7%94%B5%E8%A7%86-%40TV_385242275.png"
+    },
+    {
+      "name": "今晚看什么-最新电影电视剧影视大全_1184129880",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BB%8A%E6%99%9A%E7%9C%8B%E4%BB%80%E4%B9%88-%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1%E7%94%B5%E8%A7%86%E5%89%A7%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8_1184129880.png"
+    },
+    {
+      "name": "企业极空间_6473729103",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BC%81%E4%B8%9A%E6%9E%81%E7%A9%BA%E9%97%B4_6473729103.png"
+    },
+    {
+      "name": "伍迪拼图游戏-俄罗斯方块拼图单机版_1434272012",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BC%8D%E8%BF%AA%E6%8B%BC%E5%9B%BE%E6%B8%B8%E6%88%8F-%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E6%8B%BC%E5%9B%BE%E5%8D%95%E6%9C%BA%E7%89%88_1434272012.png"
+    },
+    {
       "name": "优酷视频HD-《嫁金钗》全网独播_394075284",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91HD-%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD_394075284.png"
+    },
+    {
+      "name": "优雅-海量豪车美女游艇酒店朋友圈素材_6747964128",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BC%98%E9%9B%85-%E6%B5%B7%E9%87%8F%E8%B1%AA%E8%BD%A6%E7%BE%8E%E5%A5%B3%E6%B8%B8%E8%89%87%E9%85%92%E5%BA%97%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%B4%A0%E6%9D%90_6747964128.png"
+    },
+    {
+      "name": "你宁愿-聚会游戏_1569948889",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BD%A0%E5%AE%81%E6%84%BF-%E8%81%9A%E4%BC%9A%E6%B8%B8%E6%88%8F_1569948889.png"
+    },
+    {
+      "name": "你比我猜-你画我猜双人聚会游戏_1449413738",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BD%A0%E6%AF%94%E6%88%91%E7%8C%9C-%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C%E5%8F%8C%E4%BA%BA%E8%81%9A%E4%BC%9A%E6%B8%B8%E6%88%8F_1449413738.png"
+    },
+    {
+      "name": "侠玩家-中文版GTA掌上云游社区_6447511304",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BE%A0%E7%8E%A9%E5%AE%B6-%E4%B8%AD%E6%96%87%E7%89%88GTA%E6%8E%8C%E4%B8%8A%E4%BA%91%E6%B8%B8%E7%A4%BE%E5%8C%BA_6447511304.png"
     },
     {
       "name": "修仙世界-不一样的修仙宗门_1644516067",
@@ -518,6 +1546,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E4%BF%AE%E9%9F%B3%E5%8F%98%E5%A3%B0%E5%99%A8-%E8%81%8A%E5%A4%A9%E5%8F%98%E5%A3%B0%E8%BD%AF%E4%BB%B6_1345941419.png"
     },
     {
+      "name": "優讀小說-海量電子書，無限閱讀_1612554213",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%84%AA%E8%AE%80%E5%B0%8F%E8%AA%AA-%E6%B5%B7%E9%87%8F%E9%9B%BB%E5%AD%90%E6%9B%B8%EF%BC%8C%E7%84%A1%E9%99%90%E9%96%B1%E8%AE%80_1612554213.png"
+    },
+    {
       "name": "元气岛-灵动岛动画与控制中心美化_6789546771",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%83%E6%B0%94%E5%B2%9B-%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%8A%A8%E7%94%BB%E4%B8%8E%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83%E7%BE%8E%E5%8C%96_6789546771.png"
     },
@@ -526,16 +1558,64 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%85%E7%94%B5%E7%A7%80-%E5%85%85%E7%94%B5%E5%8A%A8%E7%94%BB%E9%93%83%E5%A3%B0%E6%8F%90%E7%A4%BA%E9%9F%B3%E6%97%B6%E9%92%9F_1538404513.png"
     },
     {
+      "name": "光速浏览器-快速搜索的手机浏览器_1362988756",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%89%E9%80%9F%E6%B5%8F%E8%A7%88%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2%E7%9A%84%E6%89%8B%E6%9C%BA%E6%B5%8F%E8%A7%88%E5%99%A8_1362988756.png"
+    },
+    {
+      "name": "免费MC插件盒子-下载地图&插件for我的世界（Mine_1186185766",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%8D%E8%B4%B9MC%E6%8F%92%E4%BB%B6%E7%9B%92%E5%AD%90-%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9B%BE%26%E6%8F%92%E4%BB%B6for%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%88Mine_1186185766.png"
+    },
+    {
+      "name": "免费插件盒子-下载MCPE地图for我的世界（Minec_1176403827",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%8D%E8%B4%B9%E6%8F%92%E4%BB%B6%E7%9B%92%E5%AD%90-%E4%B8%8B%E8%BD%BDMCPE%E5%9C%B0%E5%9B%BEfor%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%88Minec_1176403827.png"
+    },
+    {
       "name": "全民K歌-你其实很会唱歌_910513149",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%A8%E6%B0%91K%E6%AD%8C-%E4%BD%A0%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BC%9A%E5%94%B1%E6%AD%8C_910513149.png"
+    },
+    {
+      "name": "全民party(Weあplay)-匿名交友軟體配對_1112801526",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%A8%E6%B0%91party%28We%E3%81%82play%29-%E5%8C%BF%E5%90%8D%E4%BA%A4%E5%8F%8B%E8%BB%9F%E9%AB%94%E9%85%8D%E5%B0%8D_1112801526.png"
+    },
+    {
+      "name": "全民疯狂文字脑洞-汉字蛋仔派对，最好玩的游戏乐园_6447930691",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%A8%E6%B0%91%E7%96%AF%E7%8B%82%E6%96%87%E5%AD%97%E8%84%91%E6%B4%9E-%E6%B1%89%E5%AD%97%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F%E4%B9%90%E5%9B%AD_6447930691.png"
+    },
+    {
+      "name": "全民疯狂猜谜语-生活休闲娱乐益智力小游戏_583758029",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%A8%E6%B0%91%E7%96%AF%E7%8B%82%E7%8C%9C%E8%B0%9C%E8%AF%AD-%E7%94%9F%E6%B4%BB%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90%E7%9B%8A%E6%99%BA%E5%8A%9B%E5%B0%8F%E6%B8%B8%E6%88%8F_583758029.png"
     },
     {
       "name": "兴视频聊天—成人视频同城真人视频聊天运动软件_6759058558",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%85%B4%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E2%80%94%E6%88%90%E4%BA%BA%E8%A7%86%E9%A2%91%E5%90%8C%E5%9F%8E%E7%9C%9F%E4%BA%BA%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E8%BF%90%E5%8A%A8%E8%BD%AF%E4%BB%B6_6759058558.png"
     },
     {
+      "name": "冒险之门OL_6754014494",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%86%92%E9%99%A9%E4%B9%8B%E9%97%A8OL_6754014494.png"
+    },
+    {
+      "name": "冒险者总动员-经典再现_6474021952",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%86%92%E9%99%A9%E8%80%85%E6%80%BB%E5%8A%A8%E5%91%98-%E7%BB%8F%E5%85%B8%E5%86%8D%E7%8E%B0_6474021952.png"
+    },
+    {
+      "name": "冒險樂園_1252347596",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%86%92%E9%9A%AA%E6%A8%82%E5%9C%92_1252347596.png"
+    },
+    {
+      "name": "冬枣剧场-热门短剧随心看_6738606733",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%86%AC%E6%9E%A3%E5%89%A7%E5%9C%BA-%E7%83%AD%E9%97%A8%E7%9F%AD%E5%89%A7%E9%9A%8F%E5%BF%83%E7%9C%8B_6738606733.png"
+    },
+    {
+      "name": "决定猫-选择困难症做小决定助手_6443778383",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%86%B3%E5%AE%9A%E7%8C%AB-%E9%80%89%E6%8B%A9%E5%9B%B0%E9%9A%BE%E7%97%87%E5%81%9A%E5%B0%8F%E5%86%B3%E5%AE%9A%E5%8A%A9%E6%89%8B_6443778383.png"
+    },
+    {
       "name": "凤凰视频-聚焦全球头条新闻的短视频平台_376343878",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%87%A4%E5%87%B0%E8%A7%86%E9%A2%91-%E8%81%9A%E7%84%A6%E5%85%A8%E7%90%83%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E7%9A%84%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0_376343878.png"
+    },
+    {
+      "name": "剧光短劇-最好看的短劇爽劇_6753040984",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%89%A7%E5%85%89%E7%9F%AD%E5%8A%87-%E6%9C%80%E5%A5%BD%E7%9C%8B%E7%9A%84%E7%9F%AD%E5%8A%87%E7%88%BD%E5%8A%87_6753040984.png"
     },
     {
       "name": "单机游戏大全-手表游戏国际象棋五子棋跳一跳数独_6752821820",
@@ -546,12 +1626,36 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8D%97%E7%93%9C%E7%94%B5%E5%BD%B1_871090130.png"
     },
     {
+      "name": "占い小説を見る＆作成できる占いツクール_543439605",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8D%A0%E3%81%84%E5%B0%8F%E8%AA%AC%E3%82%92%E8%A6%8B%E3%82%8B%EF%BC%86%E4%BD%9C%E6%88%90%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E5%8D%A0%E3%81%84%E3%83%84%E3%82%AF%E3%83%BC%E3%83%AB_543439605.png"
+    },
+    {
+      "name": "占领那座塔—争夺地盘游戏_1615360922",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8D%A0%E9%A2%86%E9%82%A3%E5%BA%A7%E5%A1%94%E2%80%94%E4%BA%89%E5%A4%BA%E5%9C%B0%E7%9B%98%E6%B8%B8%E6%88%8F_1615360922.png"
+    },
+    {
+      "name": "即刻播放器-刷剧看片神器_1504059748",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8D%B3%E5%88%BB%E6%92%AD%E6%94%BE%E5%99%A8-%E5%88%B7%E5%89%A7%E7%9C%8B%E7%89%87%E7%A5%9E%E5%99%A8_1504059748.png"
+    },
+    {
+      "name": "原子战士：复仇者全军出击未来之战_1445117551",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8E%9F%E5%AD%90%E6%88%98%E5%A3%AB%EF%BC%9A%E5%A4%8D%E4%BB%87%E8%80%85%E5%85%A8%E5%86%9B%E5%87%BA%E5%87%BB%E6%9C%AA%E6%9D%A5%E4%B9%8B%E6%88%98_1445117551.png"
+    },
+    {
       "name": "变声器-游戏开黑聊天交友语音包_1639463593",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8F%98%E5%A3%B0%E5%99%A8-%E6%B8%B8%E6%88%8F%E5%BC%80%E9%BB%91%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B%E8%AF%AD%E9%9F%B3%E5%8C%85_1639463593.png"
     },
     {
+      "name": "变脸-DIY模板视频换脸_1672703276",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8F%98%E8%84%B8-DIY%E6%A8%A1%E6%9D%BF%E8%A7%86%E9%A2%91%E6%8D%A2%E8%84%B8_1672703276.png"
+    },
+    {
       "name": "召唤三国-不肝氪超减负高颜值休闲卡牌手游_6748893229",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%8F%AC%E5%94%A4%E4%B8%89%E5%9B%BD-%E4%B8%8D%E8%82%9D%E6%B0%AA%E8%B6%85%E5%87%8F%E8%B4%9F%E9%AB%98%E9%A2%9C%E5%80%BC%E4%BC%91%E9%97%B2%E5%8D%A1%E7%89%8C%E6%89%8B%E6%B8%B8_6748893229.png"
+    },
+    {
+      "name": "听书《西游记》_1570842889",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%90%AC%E4%B9%A6%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B_1570842889.png"
     },
     {
       "name": "咕咕语音-超火热的音频社交_1666437686",
@@ -566,8 +1670,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%E7%88%B1%E7%9C%8B%E7%89%88_1168490851.png"
     },
     {
+      "name": "哄哄模拟器_6463638742",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%93%84%E5%93%84%E6%A8%A1%E6%8B%9F%E5%99%A8_6463638742.png"
+    },
+    {
       "name": "哎喔壁纸-iWall超高清手机桌面主题大全_1239292902",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%93%8E%E5%96%94%E5%A3%81%E7%BA%B8-iWall%E8%B6%85%E9%AB%98%E6%B8%85%E6%89%8B%E6%9C%BA%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A4%A7%E5%85%A8_1239292902.png"
+    },
+    {
+      "name": "唤颜相机-一键变美，玩转创意影像！_6757412651",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%94%A4%E9%A2%9C%E7%9B%B8%E6%9C%BA-%E4%B8%80%E9%94%AE%E5%8F%98%E7%BE%8E%EF%BC%8C%E7%8E%A9%E8%BD%AC%E5%88%9B%E6%84%8F%E5%BD%B1%E5%83%8F%EF%BC%81_6757412651.png"
     },
     {
       "name": "唱吧-海量曲库专业K歌_509885060",
@@ -578,16 +1690,56 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%96%B5%E5%96%B5%E5%A3%81%E7%BA%B8_1367415900.png"
     },
     {
+      "name": "四季線上4gTV_1206365569",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A4gTV_1206365569.png"
+    },
+    {
+      "name": "回憶人生之旅_1591863854",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%9B%9E%E6%86%B6%E4%BA%BA%E7%94%9F%E4%B9%8B%E6%97%85_1591863854.png"
+    },
+    {
+      "name": "国产手机帝国-模拟经营文字养成游戏（国货当自强）_1632998123",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E5%B8%9D%E5%9B%BD-%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E6%96%87%E5%AD%97%E5%85%BB%E6%88%90%E6%B8%B8%E6%88%8F%EF%BC%88%E5%9B%BD%E8%B4%A7%E5%BD%93%E8%87%AA%E5%BC%BA%EF%BC%89_1632998123.png"
+    },
+    {
+      "name": "图多多-精选头像壁纸大全_1448144768",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%9B%BE%E5%A4%9A%E5%A4%9A-%E7%B2%BE%E9%80%89%E5%A4%B4%E5%83%8F%E5%A3%81%E7%BA%B8%E5%A4%A7%E5%85%A8_1448144768.png"
+    },
+    {
       "name": "土豆视频-最新最全番剧漫画短视频_395898626",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%9C%9F%E8%B1%86%E8%A7%86%E9%A2%91-%E6%9C%80%E6%96%B0%E6%9C%80%E5%85%A8%E7%95%AA%E5%89%A7%E6%BC%AB%E7%94%BB%E7%9F%AD%E8%A7%86%E9%A2%91_395898626.png"
+    },
+    {
+      "name": "壁纸秀秀_1621645544",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A3%81%E7%BA%B8%E7%A7%80%E7%A7%80_1621645544.png"
+    },
+    {
+      "name": "多哚VR_993531871",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A4%9A%E5%93%9AVR_993531871.png"
     },
     {
       "name": "多来电-动态手机来电秀充电音_1518197798",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A4%9A%E6%9D%A5%E7%94%B5-%E5%8A%A8%E6%80%81%E6%89%8B%E6%9C%BA%E6%9D%A5%E7%94%B5%E7%A7%80%E5%85%85%E7%94%B5%E9%9F%B3_1518197798.png"
     },
     {
+      "name": "大熊航空旅行_1602054963",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A4%A7%E7%86%8A%E8%88%AA%E7%A9%BA%E6%97%85%E8%A1%8C_1602054963.png"
+    },
+    {
+      "name": "天翼云游戏_1107521426",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A4%A9%E7%BF%BC%E4%BA%91%E6%B8%B8%E6%88%8F_1107521426.png"
+    },
+    {
       "name": "央视频_1479814602",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A4%AE%E8%A7%86%E9%A2%91_1479814602.png"
+    },
+    {
+      "name": "奶茶小铺-奶茶制作模拟经营解压_6761174536",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A5%B6%E8%8C%B6%E5%B0%8F%E9%93%BA-%E5%A5%B6%E8%8C%B6%E5%88%B6%E4%BD%9C%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E8%A7%A3%E5%8E%8B_6761174536.png"
+    },
+    {
+      "name": "好寶寶行為養成計畫_1494081863",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%A5%BD%E5%AF%B6%E5%AF%B6%E8%A1%8C%E7%82%BA%E9%A4%8A%E6%88%90%E8%A8%88%E7%95%AB_1494081863.png"
     },
     {
       "name": "好看-视频人人爱看_1589766063",
@@ -606,6 +1758,30 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AD%97%E4%B8%AD%E6%89%BE%E5%AD%97-%E7%9B%8A%E6%99%BA%E6%B1%89%E5%AD%97%E6%8E%A8%E7%90%86%E8%A7%A3%E8%B0%9C%E5%B0%8F%E6%B8%B8%E6%88%8F_6446006606.png"
     },
     {
+      "name": "完美世界电竞_1460786904",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E7%94%B5%E7%AB%9E_1460786904.png"
+    },
+    {
+      "name": "完美人生2：模拟人生&自由人生&未来人生&第二人生_6657962002",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AE%8C%E7%BE%8E%E4%BA%BA%E7%94%9F2%EF%BC%9A%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%26%E8%87%AA%E7%94%B1%E4%BA%BA%E7%94%9F%26%E6%9C%AA%E6%9D%A5%E4%BA%BA%E7%94%9F%26%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F_6657962002.png"
+    },
+    {
+      "name": "宝宝语言启蒙-中文英语学习早教助手_1093343006",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AE%9D%E5%AE%9D%E8%AF%AD%E8%A8%80%E5%90%AF%E8%92%99-%E4%B8%AD%E6%96%87%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%97%A9%E6%95%99%E5%8A%A9%E6%89%8B_1093343006.png"
+    },
+    {
+      "name": "宠物翻译器-人猫语狗语翻译器_6449029765",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AE%A0%E7%89%A9%E7%BF%BB%E8%AF%91%E5%99%A8-%E4%BA%BA%E7%8C%AB%E8%AF%AD%E7%8B%97%E8%AF%AD%E7%BF%BB%E8%AF%91%E5%99%A8_6449029765.png"
+    },
+    {
+      "name": "富豪短剧-全网热门独家短剧随心看_6503940530",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%AF%8C%E8%B1%AA%E7%9F%AD%E5%89%A7-%E5%85%A8%E7%BD%91%E7%83%AD%E9%97%A8%E7%8B%AC%E5%AE%B6%E7%9F%AD%E5%89%A7%E9%9A%8F%E5%BF%83%E7%9C%8B_6503940530.png"
+    },
+    {
+      "name": "小丑牌-JokerPoker_6504593992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E4%B8%91%E7%89%8C-JokerPoker_6504593992.png"
+    },
+    {
       "name": "小元音乐圈_6746026646",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E5%85%83%E9%9F%B3%E4%B9%90%E5%9C%88_6746026646.png"
     },
@@ -614,12 +1790,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E5%85%AC%E4%B8%BB%E5%AE%89%E5%90%89%E6%8B%89%E6%88%91%E7%9A%84%E5%8F%A3%E8%A2%8B%E9%A4%90%E9%A6%86%E5%B0%8F%E6%B8%B8%E6%88%8F_1017573478.png"
     },
     {
+      "name": "小公主安娜海滨钓鱼-深海钓鱼游戏_1014367972",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E5%85%AC%E4%B8%BB%E5%AE%89%E5%A8%9C%E6%B5%B7%E6%BB%A8%E9%92%93%E9%B1%BC-%E6%B7%B1%E6%B5%B7%E9%92%93%E9%B1%BC%E6%B8%B8%E6%88%8F_1014367972.png"
+    },
+    {
+      "name": "小恐龙建造梦想小镇-女生男生虚拟宠物店游戏_1072070410",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E6%81%90%E9%BE%99%E5%BB%BA%E9%80%A0%E6%A2%A6%E6%83%B3%E5%B0%8F%E9%95%87-%E5%A5%B3%E7%94%9F%E7%94%B7%E7%94%9F%E8%99%9A%E6%8B%9F%E5%AE%A0%E7%89%A9%E5%BA%97%E6%B8%B8%E6%88%8F_1072070410.png"
+    },
+    {
+      "name": "小恩爱-恋爱日记空间bind你的另一半专属定位地图_524690790",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E6%81%A9%E7%88%B1-%E6%81%8B%E7%88%B1%E6%97%A5%E8%AE%B0%E7%A9%BA%E9%97%B4bind%E4%BD%A0%E7%9A%84%E5%8F%A6%E4%B8%80%E5%8D%8A%E4%B8%93%E5%B1%9E%E5%AE%9A%E4%BD%8D%E5%9C%B0%E5%9B%BE_524690790.png"
+    },
+    {
       "name": "小爱-直播交友软件_1450258684",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E7%88%B1-%E7%9B%B4%E6%92%AD%E4%BA%A4%E5%8F%8B%E8%BD%AF%E4%BB%B6_1450258684.png"
     },
     {
+      "name": "小爱怡情-情侣游戏-渐进式成人性爱游戏_1638279756",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E7%88%B1%E6%80%A1%E6%83%85-%E6%83%85%E4%BE%A3%E6%B8%B8%E6%88%8F-%E6%B8%90%E8%BF%9B%E5%BC%8F%E6%88%90%E4%BA%BA%E6%80%A7%E7%88%B1%E6%B8%B8%E6%88%8F_1638279756.png"
+    },
+    {
       "name": "小爱直播尊享版-同城直播交友视频聊天软件_1495578466",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E7%88%B1%E7%9B%B4%E6%92%AD%E5%B0%8A%E4%BA%AB%E7%89%88-%E5%90%8C%E5%9F%8E%E7%9B%B4%E6%92%AD%E4%BA%A4%E5%8F%8B%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6_1495578466.png"
+    },
+    {
+      "name": "小霸王迷失神庙大冒险-童年怀旧游戏_1170814259",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E8%BF%B7%E5%A4%B1%E7%A5%9E%E5%BA%99%E5%A4%A7%E5%86%92%E9%99%A9-%E7%AB%A5%E5%B9%B4%E6%80%80%E6%97%A7%E6%B8%B8%E6%88%8F_1170814259.png"
     },
     {
       "name": "小鹿组队-hello，游戏进圈子_1509434274",
@@ -630,32 +1826,72 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E9%B9%BF%E7%BB%84%E9%98%9F-%E7%82%B9%E6%B8%B8%E6%88%8F%E9%99%AA%E7%8E%A9%E5%AE%89%E5%85%A8%E6%97%A0%E5%BF%A7%E6%9C%89%E4%BF%9D%E9%9A%9C_1509434274.png"
     },
     {
+      "name": "小黑盒-八千万游戏玩家社区_1244505010",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%8F%E9%BB%91%E7%9B%92-%E5%85%AB%E5%8D%83%E4%B8%87%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA_1244505010.png"
+    },
+    {
       "name": "少女壁纸-超高清主题动态壁纸大全_1516571861",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B0%91%E5%A5%B3%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%85%E4%B8%BB%E9%A2%98%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E5%A4%A7%E5%85%A8_1516571861.png"
+    },
+    {
+      "name": "山地越野车-急速狂野飞车比赛_1299654992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%BD%A6-%E6%80%A5%E9%80%9F%E7%8B%82%E9%87%8E%E9%A3%9E%E8%BD%A6%E6%AF%94%E8%B5%9B_1299654992.png"
     },
     {
       "name": "山海经荒兽-蛮荒神兽争霸吞进化放置挂机卡牌游戏!_6749420032",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E8%8D%92%E5%85%BD-%E8%9B%AE%E8%8D%92%E7%A5%9E%E5%85%BD%E4%BA%89%E9%9C%B8%E5%90%9E%E8%BF%9B%E5%8C%96%E6%94%BE%E7%BD%AE%E6%8C%82%E6%9C%BA%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%21_6749420032.png"
     },
     {
+      "name": "差不多僵尸-全民休闲射击肉鸽割草策略塔防单机迷你枪战独立_6670481659",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%83%B5%E5%B0%B8-%E5%85%A8%E6%B0%91%E4%BC%91%E9%97%B2%E5%B0%84%E5%87%BB%E8%82%89%E9%B8%BD%E5%89%B2%E8%8D%89%E7%AD%96%E7%95%A5%E5%A1%94%E9%98%B2%E5%8D%95%E6%9C%BA%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98%E7%8B%AC%E7%AB%8B_6670481659.png"
+    },
+    {
       "name": "开黑鸭-连麦开黑聊天交友游戏陪练_6502543912",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BC%80%E9%BB%91%E9%B8%AD-%E8%BF%9E%E9%BA%A6%E5%BC%80%E9%BB%91%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B%E6%B8%B8%E6%88%8F%E9%99%AA%E7%BB%83_6502543912.png"
+    },
+    {
+      "name": "弹球铃声-惊人的游戏听起来很自由。下载并享受最好的手机铃_1205140779",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BC%B9%E7%90%83%E9%93%83%E5%A3%B0-%E6%83%8A%E4%BA%BA%E7%9A%84%E6%B8%B8%E6%88%8F%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E8%87%AA%E7%94%B1%E3%80%82%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BA%AB%E5%8F%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%8B%E6%9C%BA%E9%93%83_1205140779.png"
     },
     {
       "name": "影片播放器–电影和视频！_406779775",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BD%B1%E7%89%87%E6%92%AD%E6%94%BE%E5%99%A8%E2%80%93%E7%94%B5%E5%BD%B1%E5%92%8C%E8%A7%86%E9%A2%91%EF%BC%81_406779775.png"
     },
     {
+      "name": "忍者跳虐大冒险-不要网的忍者游戏_1121177472",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BF%8D%E8%80%85%E8%B7%B3%E8%99%90%E5%A4%A7%E5%86%92%E9%99%A9-%E4%B8%8D%E8%A6%81%E7%BD%91%E7%9A%84%E5%BF%8D%E8%80%85%E6%B8%B8%E6%88%8F_1121177472.png"
+    },
+    {
+      "name": "忍者部落大冒险-怀旧过关冒险游戏_1168907497",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BF%8D%E8%80%85%E9%83%A8%E8%90%BD%E5%A4%A7%E5%86%92%E9%99%A9-%E6%80%80%E6%97%A7%E8%BF%87%E5%85%B3%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F_1168907497.png"
+    },
+    {
       "name": "快歌-AI写歌听歌曲音乐创作神器_6504548456",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BF%AB%E6%AD%8C-AI%E5%86%99%E6%AD%8C%E5%90%AC%E6%AD%8C%E6%9B%B2%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E7%A5%9E%E5%99%A8_6504548456.png"
+    },
+    {
+      "name": "快点阅读_1228112060",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BF%AB%E7%82%B9%E9%98%85%E8%AF%BB_1228112060.png"
     },
     {
       "name": "快音Kuaiyin-车载音乐抖快神曲大全_1493374755",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E5%BF%AB%E9%9F%B3Kuaiyin-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E6%8A%96%E5%BF%AB%E7%A5%9E%E6%9B%B2%E5%A4%A7%E5%85%A8_1493374755.png"
     },
     {
+      "name": "恋恋花名册--海量小说漫画互动阅读平台_1468284294",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%81%8B%E6%81%8B%E8%8A%B1%E5%90%8D%E5%86%8C--%E6%B5%B7%E9%87%8F%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB%E4%BA%92%E5%8A%A8%E9%98%85%E8%AF%BB%E5%B9%B3%E5%8F%B0_1468284294.png"
+    },
+    {
       "name": "悠悠有品游戏饰品交易平台_1531247442",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%82%A0%E6%82%A0%E6%9C%89%E5%93%81%E6%B8%B8%E6%88%8F%E9%A5%B0%E5%93%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_1531247442.png"
+    },
+    {
+      "name": "情侣性爱游戏-亲密大冒险_1588226977",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%83%85%E4%BE%A3%E6%80%A7%E7%88%B1%E6%B8%B8%E6%88%8F-%E4%BA%B2%E5%AF%86%E5%A4%A7%E5%86%92%E9%99%A9_1588226977.png"
+    },
+    {
+      "name": "情感帮-星座塔罗牌咨询爱情运势_1179275080",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%83%85%E6%84%9F%E5%B8%AE-%E6%98%9F%E5%BA%A7%E5%A1%94%E7%BD%97%E7%89%8C%E5%92%A8%E8%AF%A2%E7%88%B1%E6%83%85%E8%BF%90%E5%8A%BF_1179275080.png"
     },
     {
       "name": "愛慕里-你的專屬AI伴侶_6758136144",
@@ -670,24 +1906,56 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%88%90%E8%AF%AD%E6%89%BE%E6%89%BE%E6%89%BE%EF%BC%9A%E4%B8%AD%E6%96%87%E8%AF%8D%E8%AF%AD%E5%A1%AB%E5%AD%97%E5%AD%97%E8%B0%9C%E7%B2%BE%E9%80%89_1037709457.png"
     },
     {
+      "name": "成语接龙大观：最美益智字谜填字_1034237750",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%88%90%E8%AF%AD%E6%8E%A5%E9%BE%99%E5%A4%A7%E8%A7%82%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%9B%8A%E6%99%BA%E5%AD%97%E8%B0%9C%E5%A1%AB%E5%AD%97_1034237750.png"
+    },
+    {
+      "name": "成语玩命消-快乐猜四字词语_1037372551",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%88%90%E8%AF%AD%E7%8E%A9%E5%91%BD%E6%B6%88-%E5%BF%AB%E4%B9%90%E7%8C%9C%E5%9B%9B%E5%AD%97%E8%AF%8D%E8%AF%AD_1037372551.png"
+    },
+    {
       "name": "成语纵横天下_1036172308",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%88%90%E8%AF%AD%E7%BA%B5%E6%A8%AA%E5%A4%A9%E4%B8%8B_1036172308.png"
+    },
+    {
+      "name": "手机变声器-专业短视频制作变声软件！_1088719255",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%8B%E6%9C%BA%E5%8F%98%E5%A3%B0%E5%99%A8-%E4%B8%93%E4%B8%9A%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%E5%8F%98%E5%A3%B0%E8%BD%AF%E4%BB%B6%EF%BC%81_1088719255.png"
     },
     {
       "name": "手机铃声制作-来电壁纸闹钟提示音制作大全_1612176158",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-%E6%9D%A5%E7%94%B5%E5%A3%81%E7%BA%B8%E9%97%B9%E9%92%9F%E6%8F%90%E7%A4%BA%E9%9F%B3%E5%88%B6%E4%BD%9C%E5%A4%A7%E5%85%A8_1612176158.png"
     },
     {
+      "name": "打字战舰：二战世界巅峰舰队大海战_1291804671",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%93%E5%AD%97%E6%88%98%E8%88%B0%EF%BC%9A%E4%BA%8C%E6%88%98%E4%B8%96%E7%95%8C%E5%B7%85%E5%B3%B0%E8%88%B0%E9%98%9F%E5%A4%A7%E6%B5%B7%E6%88%98_1291804671.png"
+    },
+    {
       "name": "打火机模拟器：音乐会模式_1532854862",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%93%E7%81%AB%E6%9C%BA%E6%A8%A1%E6%8B%9F%E5%99%A8%EF%BC%9A%E9%9F%B3%E4%B9%90%E4%BC%9A%E6%A8%A1%E5%BC%8F_1532854862.png"
+    },
+    {
+      "name": "打螺丝-镶钻高手无敌螺丝王_6478487173",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%93%E8%9E%BA%E4%B8%9D-%E9%95%B6%E9%92%BB%E9%AB%98%E6%89%8B%E6%97%A0%E6%95%8C%E8%9E%BA%E4%B8%9D%E7%8E%8B_6478487173.png"
     },
     {
       "name": "找茬游戏-大家来找茬，全民小游戏_1397381808",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%BE%E8%8C%AC%E6%B8%B8%E6%88%8F-%E5%A4%A7%E5%AE%B6%E6%9D%A5%E6%89%BE%E8%8C%AC%EF%BC%8C%E5%85%A8%E6%B0%91%E5%B0%8F%E6%B8%B8%E6%88%8F_1397381808.png"
     },
     {
+      "name": "找茬闯关街机双人小游戏下载_1078163548",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%89%BE%E8%8C%AC%E9%97%AF%E5%85%B3%E8%A1%97%E6%9C%BA%E5%8F%8C%E4%BA%BA%E5%B0%8F%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD_1078163548.png"
+    },
+    {
+      "name": "投屏播放器DLNAVideoPlayer_6504524215",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8A%95%E5%B1%8F%E6%92%AD%E6%94%BE%E5%99%A8DLNAVideoPlayer_6504524215.png"
+    },
+    {
       "name": "抖秘-亚文化语音社交圈_1563007914",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8A%96%E7%A7%98-%E4%BA%9A%E6%96%87%E5%8C%96%E8%AF%AD%E9%9F%B3%E7%A4%BE%E4%BA%A4%E5%9C%88_1563007914.png"
+    },
+    {
+      "name": "抖音火山版_1086047750",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8A%96%E9%9F%B3%E7%81%AB%E5%B1%B1%E7%89%88_1086047750.png"
     },
     {
       "name": "抖音直播伴侣-海量精彩直播_6478193712",
@@ -698,6 +1966,34 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8A%96%E9%9F%B3%E7%B2%BE%E9%80%89-%E7%B2%BE%E6%8C%91%E7%BB%86%E9%80%89%E7%8B%AC%E5%AE%B6%E5%A5%BD%E8%A7%86%E9%A2%91_6444170965.png"
     },
     {
+      "name": "抠糖饼-益智闯关游戏大全_1591752058",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8A%A0%E7%B3%96%E9%A5%BC-%E7%9B%8A%E6%99%BA%E9%97%AF%E5%85%B3%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%85%A8_1591752058.png"
+    },
+    {
+      "name": "挂机升级-单机文字游戏_1600449636",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8C%82%E6%9C%BA%E5%8D%87%E7%BA%A7-%E5%8D%95%E6%9C%BA%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_1600449636.png"
+    },
+    {
+      "name": "指尖方块-方块益智力爱消除_1558418555",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8C%87%E5%B0%96%E6%96%B9%E5%9D%97-%E6%96%B9%E5%9D%97%E7%9B%8A%E6%99%BA%E5%8A%9B%E7%88%B1%E6%B6%88%E9%99%A4_1558418555.png"
+    },
+    {
+      "name": "换装少女-少女次元装扮娃娃换装游戏过家家_6478288104",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8D%A2%E8%A3%85%E5%B0%91%E5%A5%B3-%E5%B0%91%E5%A5%B3%E6%AC%A1%E5%85%83%E8%A3%85%E6%89%AE%E5%A8%83%E5%A8%83%E6%8D%A2%E8%A3%85%E6%B8%B8%E6%88%8F%E8%BF%87%E5%AE%B6%E5%AE%B6_6478288104.png"
+    },
+    {
+      "name": "推理恋爱-高自由度galgame_1290260255",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8E%A8%E7%90%86%E6%81%8B%E7%88%B1-%E9%AB%98%E8%87%AA%E7%94%B1%E5%BA%A6galgame_1290260255.png"
+    },
+    {
+      "name": "插件盒子-下载免费MCPE游戏地图for我的世界（Min_1179218022",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%8F%92%E4%BB%B6%E7%9B%92%E5%AD%90-%E4%B8%8B%E8%BD%BD%E5%85%8D%E8%B4%B9MCPE%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BEfor%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%88Min_1179218022.png"
+    },
+    {
+      "name": "搜小说_893096894",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%90%9C%E5%B0%8F%E8%AF%B4_893096894.png"
+    },
+    {
       "name": "搜狐视频关注流-夺金战全网热播_458587755",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%E5%85%B3%E6%B3%A8%E6%B5%81-%E5%A4%BA%E9%87%91%E6%88%98%E5%85%A8%E7%BD%91%E7%83%AD%E6%92%AD_458587755.png"
     },
@@ -706,12 +2002,48 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%92%95%E6%AD%8C_1448346035.png"
     },
     {
+      "name": "播放器OPlayer_344784375",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%92%AD%E6%94%BE%E5%99%A8OPlayer_344784375.png"
+    },
+    {
+      "name": "攸视竞技_6458042137",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%94%B8%E8%A7%86%E7%AB%9E%E6%8A%80_6458042137.png"
+    },
+    {
+      "name": "放置精灵王RPG-放置类宠物养成单机RPG_988358678",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%94%BE%E7%BD%AE%E7%B2%BE%E7%81%B5%E7%8E%8BRPG-%E6%94%BE%E7%BD%AE%E7%B1%BB%E5%AE%A0%E7%89%A9%E5%85%BB%E6%88%90%E5%8D%95%E6%9C%BARPG_988358678.png"
+    },
+    {
+      "name": "数学冒险岛-小学1到6年级口算与思维训练_6814691193",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%95%B0%E5%AD%A6%E5%86%92%E9%99%A9%E5%B2%9B-%E5%B0%8F%E5%AD%A61%E5%88%B06%E5%B9%B4%E7%BA%A7%E5%8F%A3%E7%AE%97%E4%B8%8E%E6%80%9D%E7%BB%B4%E8%AE%AD%E7%BB%83_6814691193.png"
+    },
+    {
+      "name": "数独谜题-杀手数独，数字益智解谜_1532839429",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%95%B0%E7%8B%AC%E8%B0%9C%E9%A2%98-%E6%9D%80%E6%89%8B%E6%95%B0%E7%8B%AC%EF%BC%8C%E6%95%B0%E5%AD%97%E7%9B%8A%E6%99%BA%E8%A7%A3%E8%B0%9C_1532839429.png"
+    },
+    {
       "name": "斗鱼直播-直播热门游戏视频平台_863882795",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD-%E7%9B%B4%E6%92%AD%E7%83%AD%E9%97%A8%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0_863882795.png"
     },
     {
+      "name": "新能源汽车帝国-模拟经验自己的科技公司_1621283664",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%B8%9D%E5%9B%BD-%E6%A8%A1%E6%8B%9F%E7%BB%8F%E9%AA%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8_1621283664.png"
+    },
+    {
       "name": "无滤镜AI聊天-Idolchat_6753111049",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%97%A0%E6%BB%A4%E9%95%9CAI%E8%81%8A%E5%A4%A9-Idolchat_6753111049.png"
+    },
+    {
+      "name": "无觅云浏览器_6444699946",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%97%A0%E8%A7%85%E4%BA%91%E6%B5%8F%E8%A7%88%E5%99%A8_6444699946.png"
+    },
+    {
+      "name": "早安問候貼圖軟件_1472502855",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%97%A9%E5%AE%89%E5%95%8F%E5%80%99%E8%B2%BC%E5%9C%96%E8%BB%9F%E4%BB%B6_1472502855.png"
+    },
+    {
+      "name": "早安外星人男友_880003224",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%97%A9%E5%AE%89%E5%A4%96%E6%98%9F%E4%BA%BA%E7%94%B7%E5%8F%8B_880003224.png"
     },
     {
       "name": "星之召唤士-女神卡牌的放置奇遇_6654913458",
@@ -720,6 +2052,10 @@
     {
       "name": "星宠ai_6752347247",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%98%9F%E5%AE%A0ai_6752347247.png"
+    },
+    {
+      "name": "星座屋运势占卜大师排盘专家_561653603",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%98%9F%E5%BA%A7%E5%B1%8B%E8%BF%90%E5%8A%BF%E5%8D%A0%E5%8D%9C%E5%A4%A7%E5%B8%88%E6%8E%92%E7%9B%98%E4%B8%93%E5%AE%B6_561653603.png"
     },
     {
       "name": "星月聊-聊天漂流瓶树洞倾诉软件_6448081077",
@@ -734,8 +2070,44 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%98%9F%E7%A9%BA%E4%BA%A4%E5%8F%8B%EF%BC%88%E5%8E%9F%E8%80%81%E7%89%88%E6%A0%91%E6%B4%9E%EF%BC%89_1431465795.png"
     },
     {
+      "name": "暖昧-情侣游戏·飞行棋·大冒险·小决定_6503248228",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9A%96%E6%98%A7-%E6%83%85%E4%BE%A3%E6%B8%B8%E6%88%8F%C2%B7%E9%A3%9E%E8%A1%8C%E6%A3%8B%C2%B7%E5%A4%A7%E5%86%92%E9%99%A9%C2%B7%E5%B0%8F%E5%86%B3%E5%AE%9A_6503248228.png"
+    },
+    {
+      "name": "暴风影音-BaoFengPlayer_538248967",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9A%B4%E9%A3%8E%E5%BD%B1%E9%9F%B3-BaoFengPlayer_538248967.png"
+    },
+    {
+      "name": "最美相机-水印拍照·云盘管理·工作汇报_6756897509",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9C%80%E7%BE%8E%E7%9B%B8%E6%9C%BA-%E6%B0%B4%E5%8D%B0%E6%8B%8D%E7%85%A7%C2%B7%E4%BA%91%E7%9B%98%E7%AE%A1%E7%90%86%C2%B7%E5%B7%A5%E4%BD%9C%E6%B1%87%E6%8A%A5_6756897509.png"
+    },
+    {
+      "name": "月兔冒险2中国版_6447011499",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9C%88%E5%85%94%E5%86%92%E9%99%A92%E4%B8%AD%E5%9B%BD%E7%89%88_6447011499.png"
+    },
+    {
       "name": "月糖直播_1596052959",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9C%88%E7%B3%96%E7%9B%B4%E6%92%AD_1596052959.png"
+    },
+    {
+      "name": "有度_6448031435",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9C%89%E5%BA%A6_6448031435.png"
+    },
+    {
+      "name": "机甲狮_1557820190",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9C%BA%E7%94%B2%E7%8B%AE_1557820190.png"
+    },
+    {
+      "name": "李雷和韩梅梅2023：恋爱养成RPG_998586213",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9D%8E%E9%9B%B7%E5%92%8C%E9%9F%A9%E6%A2%85%E6%A2%852023%EF%BC%9A%E6%81%8B%E7%88%B1%E5%85%BB%E6%88%90RPG_998586213.png"
+    },
+    {
+      "name": "极客大作战推币机&在线真实云推币机马戏团魔鬼城万圣夜街机_6748665139",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9E%81%E5%AE%A2%E5%A4%A7%E4%BD%9C%E6%88%98%E6%8E%A8%E5%B8%81%E6%9C%BA%26%E5%9C%A8%E7%BA%BF%E7%9C%9F%E5%AE%9E%E4%BA%91%E6%8E%A8%E5%B8%81%E6%9C%BA%E9%A9%AC%E6%88%8F%E5%9B%A2%E9%AD%94%E9%AC%BC%E5%9F%8E%E4%B8%87%E5%9C%A3%E5%A4%9C%E8%A1%97%E6%9C%BA_6748665139.png"
+    },
+    {
+      "name": "极空间_1483718842",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%9E%81%E7%A9%BA%E9%97%B4_1483718842.png"
     },
     {
       "name": "桌面喵-养猫游戏_6444602622",
@@ -746,12 +2118,44 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A1%8C%E9%9D%A2%E6%B1%AA-%E5%B0%8F%E7%8B%97%E6%B8%B8%E6%88%8F_6475751013.png"
     },
     {
+      "name": "梅花易数笔记_1603931807",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A2%85%E8%8A%B1%E6%98%93%E6%95%B0%E7%AC%94%E8%AE%B0_1603931807.png"
+    },
+    {
       "name": "棉花糖直播软件_1219214261",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A3%89%E8%8A%B1%E7%B3%96%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6_1219214261.png"
     },
     {
+      "name": "極光Live-MetaLight_1537552858",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A5%B5%E5%85%89Live-MetaLight_1537552858.png"
+    },
+    {
+      "name": "模拟人生重开器-高自由度模拟真实人生游戏_1229331184",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E5%99%A8-%E9%AB%98%E8%87%AA%E7%94%B1%E5%BA%A6%E6%A8%A1%E6%8B%9F%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%94%9F%E6%B8%B8%E6%88%8F_1229331184.png"
+    },
+    {
       "name": "模拟女友-模拟恋爱互动聊天_6476798732",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A8%A1%E6%8B%9F%E5%A5%B3%E5%8F%8B-%E6%A8%A1%E6%8B%9F%E6%81%8B%E7%88%B1%E4%BA%92%E5%8A%A8%E8%81%8A%E5%A4%A9_6476798732.png"
+    },
+    {
+      "name": "模拟经营地产大亨（大富翁成长记）_1549792220",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%EF%BC%88%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%89_1549792220.png"
+    },
+    {
+      "name": "欧陆战争之帝国崛起：单机回合制策略战棋游戏_1297831105",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%AC%A7%E9%99%86%E6%88%98%E4%BA%89%E4%B9%8B%E5%B8%9D%E5%9B%BD%E5%B4%9B%E8%B5%B7%EF%BC%9A%E5%8D%95%E6%9C%BA%E5%9B%9E%E5%90%88%E5%88%B6%E7%AD%96%E7%95%A5%E6%88%98%E6%A3%8B%E6%B8%B8%E6%88%8F_1297831105.png"
+    },
+    {
+      "name": "比特人生：bitlife-生活模拟器&完美人生&第二人生_6471356908",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%AF%94%E7%89%B9%E4%BA%BA%E7%94%9F%EF%BC%9Abitlife-%E7%94%9F%E6%B4%BB%E6%A8%A1%E6%8B%9F%E5%99%A8%26%E5%AE%8C%E7%BE%8E%E4%BA%BA%E7%94%9F%26%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F_6471356908.png"
+    },
+    {
+      "name": "汉字找茬-考验眼力的烧脑文字益智游戏_1439162200",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B1%89%E5%AD%97%E6%89%BE%E8%8C%AC-%E8%80%83%E9%AA%8C%E7%9C%BC%E5%8A%9B%E7%9A%84%E7%83%A7%E8%84%91%E6%96%87%E5%AD%97%E7%9B%8A%E6%99%BA%E6%B8%B8%E6%88%8F_1439162200.png"
+    },
+    {
+      "name": "汉字找茬王-文字脑洞玩出花_6448847435",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B1%89%E5%AD%97%E6%89%BE%E8%8C%AC%E7%8E%8B-%E6%96%87%E5%AD%97%E8%84%91%E6%B4%9E%E7%8E%A9%E5%87%BA%E8%8A%B1_6448847435.png"
     },
     {
       "name": "汽泡风音乐SugarMusic-听歌播放器_6503579164",
@@ -762,6 +2166,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B2%B3%E9%A9%AC%E5%89%A7%E5%9C%BA-%E5%85%A8%E7%BD%91%E7%83%AD%E9%97%A8%E7%9F%AD%E5%89%A7%E6%BC%AB%E5%89%A7%E6%97%A0%E9%99%90%E7%9C%8B_6451242037.png"
     },
     {
+      "name": "浏览器录像神器-录制网页游戏_1130835003",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BD%95%E5%83%8F%E7%A5%9E%E5%99%A8-%E5%BD%95%E5%88%B6%E7%BD%91%E9%A1%B5%E6%B8%B8%E6%88%8F_1130835003.png"
+    },
+    {
       "name": "淘最热点-头条新闻热点资讯平台_1399615859",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B7%98%E6%9C%80%E7%83%AD%E7%82%B9-%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_1399615859.png"
     },
@@ -770,8 +2178,40 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B8%B8%E4%BF%A1-%E6%B8%B8%E6%88%8F%E5%BF%AB%E7%88%86%E8%B5%84%E8%AE%AF%E4%B8%AD%E5%BF%83_1540268075.png"
     },
     {
+      "name": "游戏会长-游戏公会模拟管理_1439411521",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B8%B8%E6%88%8F%E4%BC%9A%E9%95%BF-%E6%B8%B8%E6%88%8F%E5%85%AC%E4%BC%9A%E6%A8%A1%E6%8B%9F%E7%AE%A1%E7%90%86_1439411521.png"
+    },
+    {
       "name": "游民星空-攻略工具资讯一网打尽的游戏社区_886118205",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%B8%B8%E6%B0%91%E6%98%9F%E7%A9%BA-%E6%94%BB%E7%95%A5%E5%B7%A5%E5%85%B7%E8%B5%84%E8%AE%AF%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD%E7%9A%84%E6%B8%B8%E6%88%8F%E7%A4%BE%E5%8C%BA_886118205.png"
+    },
+    {
+      "name": "漫遊小說-精選網路小說閱讀器_1273814980",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E6%BC%AB%E9%81%8A%E5%B0%8F%E8%AA%AA-%E7%B2%BE%E9%81%B8%E7%B6%B2%E8%B7%AF%E5%B0%8F%E8%AA%AA%E9%96%B1%E8%AE%80%E5%99%A8_1273814980.png"
+    },
+    {
+      "name": "灵妖劫-代言人宋轶邀你共赴3D仙侠大世界_6796651918",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%81%B5%E5%A6%96%E5%8A%AB-%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%AE%8B%E8%BD%B6%E9%82%80%E4%BD%A0%E5%85%B1%E8%B5%B43D%E4%BB%99%E4%BE%A0%E5%A4%A7%E4%B8%96%E7%95%8C_6796651918.png"
+    },
+    {
+      "name": "点点消除-物品爱消除3D方块谜题_1577006577",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%82%B9%E7%82%B9%E6%B6%88%E9%99%A4-%E7%89%A9%E5%93%81%E7%88%B1%E6%B6%88%E9%99%A43D%E6%96%B9%E5%9D%97%E8%B0%9C%E9%A2%98_1577006577.png"
+    },
+    {
+      "name": "照片拼图软件-海报生成照片组合_1457289848",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%85%A7%E7%89%87%E6%8B%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6-%E6%B5%B7%E6%8A%A5%E7%94%9F%E6%88%90%E7%85%A7%E7%89%87%E7%BB%84%E5%90%88_1457289848.png"
+    },
+    {
+      "name": "熊猫剧场_6670431184",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%86%8A%E7%8C%AB%E5%89%A7%E5%9C%BA_6670431184.png"
+    },
+    {
+      "name": "熊猫电视伴侣－四川联通IPTV集团客户合作APP，电视直_1103565516",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%86%8A%E7%8C%AB%E7%94%B5%E8%A7%86%E4%BC%B4%E4%BE%A3%EF%BC%8D%E5%9B%9B%E5%B7%9D%E8%81%94%E9%80%9AIPTV%E9%9B%86%E5%9B%A2%E5%AE%A2%E6%88%B7%E5%90%88%E4%BD%9CAPP%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4_1103565516.png"
+    },
+    {
+      "name": "熱門綜藝電視劇_1168625757",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%86%B1%E9%96%80%E7%B6%9C%E8%97%9D%E9%9B%BB%E8%A6%96%E5%8A%87_1168625757.png"
     },
     {
       "name": "燃渊-AI角色沉浸互动陪伴_6748288532",
@@ -782,12 +2222,48 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%88%B1%E5%A5%87%E8%89%BA%E9%9A%8F%E5%88%BB-%E6%B5%B7%E9%87%8F%E7%9F%AD%E8%A7%86%E9%A2%91%E7%83%AD%E9%97%A8%E5%BD%B1%E8%A7%86_445375097.png"
     },
     {
+      "name": "爷爷的农院日记-赚钱小游戏_6757843572",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%88%B7%E7%88%B7%E7%9A%84%E5%86%9C%E9%99%A2%E6%97%A5%E8%AE%B0-%E8%B5%9A%E9%92%B1%E5%B0%8F%E6%B8%B8%E6%88%8F_6757843572.png"
+    },
+    {
+      "name": "猎人日记-抓宠刷宝文字冒险游戏_6812687087",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8C%8E%E4%BA%BA%E6%97%A5%E8%AE%B0-%E6%8A%93%E5%AE%A0%E5%88%B7%E5%AE%9D%E6%96%87%E5%AD%97%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F_6812687087.png"
+    },
+    {
+      "name": "猫修-让游戏更简单_6458690871",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8C%AB%E4%BF%AE-%E8%AE%A9%E6%B8%B8%E6%88%8F%E6%9B%B4%E7%AE%80%E5%8D%95_6458690871.png"
+    },
+    {
       "name": "猫耳交友-同城陌探交友聊天社交软件_1089461878",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8C%AB%E8%80%B3%E4%BA%A4%E5%8F%8B-%E5%90%8C%E5%9F%8E%E9%99%8C%E6%8E%A2%E4%BA%A4%E5%8F%8B%E8%81%8A%E5%A4%A9%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6_1089461878.png"
     },
     {
+      "name": "猫语翻译器-人猫交流器,动物翻译器_6443951478",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8C%AB%E8%AF%AD%E7%BF%BB%E8%AF%91%E5%99%A8-%E4%BA%BA%E7%8C%AB%E4%BA%A4%E6%B5%81%E5%99%A8%2C%E5%8A%A8%E7%89%A9%E7%BF%BB%E8%AF%91%E5%99%A8_6443951478.png"
+    },
+    {
+      "name": "玛丽冒险岛-超级悟空大战玛丽冒险岛_1287351349",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8E%9B%E4%B8%BD%E5%86%92%E9%99%A9%E5%B2%9B-%E8%B6%85%E7%BA%A7%E6%82%9F%E7%A9%BA%E5%A4%A7%E6%88%98%E7%8E%9B%E4%B8%BD%E5%86%92%E9%99%A9%E5%B2%9B_1287351349.png"
+    },
+    {
+      "name": "玩宠翻译器·猫咪、狗狗翻译器_1531129314",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%8E%A9%E5%AE%A0%E7%BF%BB%E8%AF%91%E5%99%A8%C2%B7%E7%8C%AB%E5%92%AA%E3%80%81%E7%8B%97%E7%8B%97%E7%BF%BB%E8%AF%91%E5%99%A8_1531129314.png"
+    },
+    {
       "name": "甜甜派对-连麦聊天交友平台_1473106230",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%94%9C%E7%94%9C%E6%B4%BE%E5%AF%B9-%E8%BF%9E%E9%BA%A6%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B%E5%B9%B3%E5%8F%B0_1473106230.png"
+    },
+    {
+      "name": "电视果_1074659719",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%94%B5%E8%A7%86%E6%9E%9C_1074659719.png"
+    },
+    {
+      "name": "疯狂最强脑洞：脑力考验智力模拟游戏_6448486087",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%96%AF%E7%8B%82%E6%9C%80%E5%BC%BA%E8%84%91%E6%B4%9E%EF%BC%9A%E8%84%91%E5%8A%9B%E8%80%83%E9%AA%8C%E6%99%BA%E5%8A%9B%E6%A8%A1%E6%8B%9F%E6%B8%B8%E6%88%8F_6448486087.png"
+    },
+    {
+      "name": "白雪公主学化妆-小公主虚拟换装小游戏_1042843755",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB%E5%AD%A6%E5%8C%96%E5%A6%86-%E5%B0%8F%E5%85%AC%E4%B8%BB%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A3%85%E5%B0%8F%E6%B8%B8%E6%88%8F_1042843755.png"
     },
     {
       "name": "百战-直播社交平台_6443952198",
@@ -798,6 +2274,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%99%BE%E6%90%9C%E8%A7%86%E9%A2%91-%E5%8E%9F%E7%99%BE%E5%BA%A6%E8%A7%86%E9%A2%91_588287777.png"
     },
     {
+      "name": "皇后养成穿越宫廷传-深宫传世皇后驾到之大女主生存策略_6463076175",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9A%87%E5%90%8E%E5%85%BB%E6%88%90%E7%A9%BF%E8%B6%8A%E5%AE%AB%E5%BB%B7%E4%BC%A0-%E6%B7%B1%E5%AE%AB%E4%BC%A0%E4%B8%96%E7%9A%87%E5%90%8E%E9%A9%BE%E5%88%B0%E4%B9%8B%E5%A4%A7%E5%A5%B3%E4%B8%BB%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5_6463076175.png"
+    },
+    {
       "name": "皇帝養成計劃Lite-經典歷史模擬遊戲_585196885",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9A%87%E5%B8%9D%E9%A4%8A%E6%88%90%E8%A8%88%E5%8A%83Lite-%E7%B6%93%E5%85%B8%E6%AD%B7%E5%8F%B2%E6%A8%A1%E6%93%AC%E9%81%8A%E6%88%B2_585196885.png"
     },
@@ -806,16 +2286,60 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9A%AE%E7%9A%AE%E8%99%BE-%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E9%9B%86%E7%9A%84%E5%86%85%E5%AE%B9%E4%BA%92%E5%8A%A8%E7%A4%BE%E5%8C%BA_1393912676.png"
     },
     {
+      "name": "皮皮语音包-游戏聊天语音包_1489425309",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9A%AE%E7%9A%AE%E8%AF%AD%E9%9F%B3%E5%8C%85-%E6%B8%B8%E6%88%8F%E8%81%8A%E5%A4%A9%E8%AF%AD%E9%9F%B3%E5%8C%85_1489425309.png"
+    },
+    {
+      "name": "真心话大冒险!!_980676007",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9%21%21_980676007.png"
+    },
+    {
+      "name": "真心话大冒险-情侣必备_6479380346",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9-%E6%83%85%E4%BE%A3%E5%BF%85%E5%A4%87_6479380346.png"
+    },
+    {
+      "name": "真心话大冒险：聚会小决定情侣问答小游戏_6744718048",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9%EF%BC%9A%E8%81%9A%E4%BC%9A%E5%B0%8F%E5%86%B3%E5%AE%9A%E6%83%85%E4%BE%A3%E9%97%AE%E7%AD%94%E5%B0%8F%E6%B8%B8%E6%88%8F_6744718048.png"
+    },
+    {
       "name": "短视频水印-一键水印处理视频编辑工具_1478699691",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%9F%AD%E8%A7%86%E9%A2%91%E6%B0%B4%E5%8D%B0-%E4%B8%80%E9%94%AE%E6%B0%B4%E5%8D%B0%E5%A4%84%E7%90%86%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7_1478699691.png"
+    },
+    {
+      "name": "神将录单机版-放置挂机暗黑修真养成单机手游_6446384662",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%A5%9E%E5%B0%86%E5%BD%95%E5%8D%95%E6%9C%BA%E7%89%88-%E6%94%BE%E7%BD%AE%E6%8C%82%E6%9C%BA%E6%9A%97%E9%BB%91%E4%BF%AE%E7%9C%9F%E5%85%BB%E6%88%90%E5%8D%95%E6%9C%BA%E6%89%8B%E6%B8%B8_6446384662.png"
     },
     {
       "name": "私密派—小众圈内社交_1440594401",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%A7%81%E5%AF%86%E6%B4%BE%E2%80%94%E5%B0%8F%E4%BC%97%E5%9C%88%E5%86%85%E7%A4%BE%E4%BA%A4_1440594401.png"
     },
     {
+      "name": "竞技时空_6781297277",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%AB%9E%E6%8A%80%E6%97%B6%E7%A9%BA_6781297277.png"
+    },
+    {
+      "name": "签名设计艺术版—轻松自学一笔艺术签名_1249620125",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%AD%BE%E5%90%8D%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF%E7%89%88%E2%80%94%E8%BD%BB%E6%9D%BE%E8%87%AA%E5%AD%A6%E4%B8%80%E7%AC%94%E8%89%BA%E6%9C%AF%E7%AD%BE%E5%90%8D_1249620125.png"
+    },
+    {
       "name": "精选高清壁纸-超高清主题壁纸_1102302918",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%B2%BE%E9%80%89%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%85%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8_1102302918.png"
+    },
+    {
+      "name": "红颜相机-动漫头像视频写真生成_1566847897",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BA%A2%E9%A2%9C%E7%9B%B8%E6%9C%BA-%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F%E8%A7%86%E9%A2%91%E5%86%99%E7%9C%9F%E7%94%9F%E6%88%90_1566847897.png"
+    },
+    {
+      "name": "经典扫雷+：豪华挖地雷大挑战_1086917510",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BB%8F%E5%85%B8%E6%89%AB%E9%9B%B7%2B%EF%BC%9A%E8%B1%AA%E5%8D%8E%E6%8C%96%E5%9C%B0%E9%9B%B7%E5%A4%A7%E6%8C%91%E6%88%98_1086917510.png"
+    },
+    {
+      "name": "经典方块-快乐爱消除_1074751834",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BB%8F%E5%85%B8%E6%96%B9%E5%9D%97-%E5%BF%AB%E4%B9%90%E7%88%B1%E6%B6%88%E9%99%A4_1074751834.png"
+    },
+    {
+      "name": "经典智力游戏推箱子_995122746",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BB%8F%E5%85%B8%E6%99%BA%E5%8A%9B%E6%B8%B8%E6%88%8F%E6%8E%A8%E7%AE%B1%E5%AD%90_995122746.png"
     },
     {
       "name": "缘遇圈-有趣的私密聊天平台_6444849074",
@@ -826,8 +2350,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BD%91%E6%98%93BUFF%E6%B8%B8%E6%88%8F%E9%A5%B0%E5%93%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_1324408585.png"
     },
     {
+      "name": "网易爆米花-智能媒体库，全能云盘网盘播放器_6480252695",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BD%91%E6%98%93%E7%88%86%E7%B1%B3%E8%8A%B1-%E6%99%BA%E8%83%BD%E5%AA%92%E4%BD%93%E5%BA%93%EF%BC%8C%E5%85%A8%E8%83%BD%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98%E6%92%AD%E6%94%BE%E5%99%A8_6480252695.png"
+    },
+    {
+      "name": "美妆达人-化妆大师的养成之路_6447542375",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BE%8E%E5%A6%86%E8%BE%BE%E4%BA%BA-%E5%8C%96%E5%A6%86%E5%A4%A7%E5%B8%88%E7%9A%84%E5%85%BB%E6%88%90%E4%B9%8B%E8%B7%AF_6447542375.png"
+    },
+    {
       "name": "美影-写真照片&视频大片_6526465897",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E7%BE%8E%E5%BD%B1-%E5%86%99%E7%9C%9F%E7%85%A7%E7%89%87%26%E8%A7%86%E9%A2%91%E5%A4%A7%E7%89%87_6526465897.png"
+    },
+    {
+      "name": "英雄坛说2-白金版_1525717818",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%8B%B1%E9%9B%84%E5%9D%9B%E8%AF%B42-%E7%99%BD%E9%87%91%E7%89%88_1525717818.png"
+    },
+    {
+      "name": "萌宠喵汪-互动桌面宠物_6475924050",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%90%8C%E5%AE%A0%E5%96%B5%E6%B1%AA-%E4%BA%92%E5%8A%A8%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9_6475924050.png"
+    },
+    {
+      "name": "萌配音-萌我语音包变声器与AI配音_1121516248",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%90%8C%E9%85%8D%E9%9F%B3-%E8%90%8C%E6%88%91%E8%AF%AD%E9%9F%B3%E5%8C%85%E5%8F%98%E5%A3%B0%E5%99%A8%E4%B8%8EAI%E9%85%8D%E9%9F%B3_1121516248.png"
     },
     {
       "name": "虎牙直播-游戏互动直播平台_871095743",
@@ -838,6 +2382,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%9C%98%E8%9B%9B%E7%BA%B8%E7%89%8C%E6%B8%B8%E6%88%8F-%E7%A9%BA%E5%BD%93%E6%8E%A5%E9%BE%99%2C%E5%8D%95%E6%9C%BA%E7%BA%B8%E7%89%8C%E6%89%91%E5%85%8B_1361021200.png"
     },
     {
+      "name": "表情包大全-金馆长键盘字体输入法工厂,社区聊天制作手机助_580722717",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E5%85%A8-%E9%87%91%E9%A6%86%E9%95%BF%E9%94%AE%E7%9B%98%E5%AD%97%E4%BD%93%E8%BE%93%E5%85%A5%E6%B3%95%E5%B7%A5%E5%8E%82%2C%E7%A4%BE%E5%8C%BA%E8%81%8A%E5%A4%A9%E5%88%B6%E4%BD%9C%E6%89%8B%E6%9C%BA%E5%8A%A9_580722717.png"
+    },
+    {
       "name": "西瓜视频_1134496215",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91_1134496215.png"
     },
@@ -846,8 +2394,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%A7%86%E9%A2%91_1174078549.png"
     },
     {
+      "name": "话本小说_1136360602",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%AF%9D%E6%9C%AC%E5%B0%8F%E8%AF%B4_1136360602.png"
+    },
+    {
+      "name": "请叫我校长-模拟经营我的大学之养成类小游戏_1602205428",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%AF%B7%E5%8F%AB%E6%88%91%E6%A0%A1%E9%95%BF-%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E4%B9%8B%E5%85%BB%E6%88%90%E7%B1%BB%E5%B0%8F%E6%B8%B8%E6%88%8F_1602205428.png"
+    },
+    {
+      "name": "谁是乌龟-趣味卡牌游戏_6743362948",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B0%81%E6%98%AF%E4%B9%8C%E9%BE%9F-%E8%B6%A3%E5%91%B3%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F_6743362948.png"
+    },
+    {
       "name": "貂蝉直播-视频语音交友直播软件_1611135927",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B2%82%E8%9D%89%E7%9B%B4%E6%92%AD-%E8%A7%86%E9%A2%91%E8%AF%AD%E9%9F%B3%E4%BA%A4%E5%8F%8B%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6_1611135927.png"
+    },
+    {
+      "name": "贝贝公主宠物王国-女生宠物店游戏_1495286494",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B4%9D%E8%B4%9D%E5%85%AC%E4%B8%BB%E5%AE%A0%E7%89%A9%E7%8E%8B%E5%9B%BD-%E5%A5%B3%E7%94%9F%E5%AE%A0%E7%89%A9%E5%BA%97%E6%B8%B8%E6%88%8F_1495286494.png"
+    },
+    {
+      "name": "贝贝公主理发沙龙发型屋-女生理发游戏_1036105897",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B4%9D%E8%B4%9D%E5%85%AC%E4%B8%BB%E7%90%86%E5%8F%91%E6%B2%99%E9%BE%99%E5%8F%91%E5%9E%8B%E5%B1%8B-%E5%A5%B3%E7%94%9F%E7%90%86%E5%8F%91%E6%B8%B8%E6%88%8F_1036105897.png"
     },
     {
       "name": "贝贝打扮指甲美容院-女生装扮换装小游戏_1035569438",
@@ -858,8 +2426,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B4%AA%E5%90%83%E8%9B%87%E5%90%83%E8%B1%86%E8%B1%86-%E7%BB%8F%E5%85%B8%E8%B4%AA%E9%A3%9F%E8%9B%87%E6%B8%B8%E6%88%8F%E8%BF%9B%E5%8C%96%E8%AE%BA_1477319181.png"
     },
     {
+      "name": "贪婪大陆-暗黑跑图玩法_1156948872",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B4%AA%E5%A9%AA%E5%A4%A7%E9%99%86-%E6%9A%97%E9%BB%91%E8%B7%91%E5%9B%BE%E7%8E%A9%E6%B3%95_1156948872.png"
+    },
+    {
+      "name": "赖子麻将-官方正品特色麻将_1530004019",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B5%96%E5%AD%90%E9%BA%BB%E5%B0%86-%E5%AE%98%E6%96%B9%E6%AD%A3%E5%93%81%E7%89%B9%E8%89%B2%E9%BA%BB%E5%B0%86_1530004019.png"
+    },
+    {
+      "name": "超级大冒险单机闯关游戏_1237419341",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B6%85%E7%BA%A7%E5%A4%A7%E5%86%92%E9%99%A9%E5%8D%95%E6%9C%BA%E9%97%AF%E5%85%B3%E6%B8%B8%E6%88%8F_1237419341.png"
+    },
+    {
       "name": "趣兽-情侣情趣双人性感冒险游戏同城聊天交友_6446837446",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%B6%A3%E5%85%BD-%E6%83%85%E4%BE%A3%E6%83%85%E8%B6%A3%E5%8F%8C%E4%BA%BA%E6%80%A7%E6%84%9F%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E5%90%8C%E5%9F%8E%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B_6446837446.png"
+    },
+    {
+      "name": "轮回修仙情缘-重生之修仙世界我主宰_6466732545",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E8%BD%AE%E5%9B%9E%E4%BF%AE%E4%BB%99%E6%83%85%E7%BC%98-%E9%87%8D%E7%94%9F%E4%B9%8B%E4%BF%AE%E4%BB%99%E4%B8%96%E7%95%8C%E6%88%91%E4%B8%BB%E5%AE%B0_6466732545.png"
     },
     {
       "name": "郭德纲相声HD全民飞机大战开心消乐微视频挖财随手记账理财_779361453",
@@ -872,6 +2456,10 @@
     {
       "name": "酷安-分享美好科技生活_1422581869",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%85%B7%E5%AE%89-%E5%88%86%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB_1422581869.png"
+    },
+    {
+      "name": "金书群侠传-单机养成武侠rpg游戏_1597537981",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%87%91%E4%B9%A6%E7%BE%A4%E4%BE%A0%E4%BC%A0-%E5%8D%95%E6%9C%BA%E5%85%BB%E6%88%90%E6%AD%A6%E4%BE%A0rpg%E6%B8%B8%E6%88%8F_1597537981.png"
     },
     {
       "name": "铃声-手机来电铃声和壁纸_6451921481",
@@ -894,6 +2482,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%9B%BB%E5%BD%B1%E8%B3%87%E8%A8%8ATaiwanMovies_404757611.png"
     },
     {
+      "name": "顺网云电脑_6479874620",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%A1%BA%E7%BD%91%E4%BA%91%E7%94%B5%E8%84%91_6479874620.png"
+    },
+    {
       "name": "风行视频+_1028313528",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%A3%8E%E8%A1%8C%E8%A7%86%E9%A2%91%2B_1028313528.png"
     },
@@ -910,8 +2502,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%AD%94%E9%9F%B3%E9%94%AE%E7%9B%98-%E8%81%8A%E5%A4%A9%E5%8F%98%E5%A3%B0%E8%BD%AF%E4%BB%B6_1526100009.png"
     },
     {
+      "name": "魔颜写真-AI变装换脸相机_6476031110",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%AD%94%E9%A2%9C%E5%86%99%E7%9C%9F-AI%E5%8F%98%E8%A3%85%E6%8D%A2%E8%84%B8%E7%9B%B8%E6%9C%BA_6476031110.png"
+    },
+    {
+      "name": "鲸云轻小说-二次元小说控的追更神器_1559855026",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%B2%B8%E4%BA%91%E8%BD%BB%E5%B0%8F%E8%AF%B4-%E4%BA%8C%E6%AC%A1%E5%85%83%E5%B0%8F%E8%AF%B4%E6%8E%A7%E7%9A%84%E8%BF%BD%E6%9B%B4%E7%A5%9E%E5%99%A8_1559855026.png"
+    },
+    {
       "name": "麒麟潮玩-社交电玩城推币机马戏团魔术师魔鬼城_6749035037",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%BA%92%E9%BA%9F%E6%BD%AE%E7%8E%A9-%E7%A4%BE%E4%BA%A4%E7%94%B5%E7%8E%A9%E5%9F%8E%E6%8E%A8%E5%B8%81%E6%9C%BA%E9%A9%AC%E6%88%8F%E5%9B%A2%E9%AD%94%E6%9C%AF%E5%B8%88%E9%AD%94%E9%AC%BC%E5%9F%8E_6749035037.png"
+    },
+    {
+      "name": "麻将人工智能辅助工具-小番_1506620807",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%BA%BB%E5%B0%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-%E5%B0%8F%E7%95%AA_1506620807.png"
+    },
+    {
+      "name": "黑块儿猎人-别踩到白色方块儿!_882672105",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Entertainment/%E9%BB%91%E5%9D%97%E5%84%BF%E7%8C%8E%E4%BA%BA-%E5%88%AB%E8%B8%A9%E5%88%B0%E7%99%BD%E8%89%B2%E6%96%B9%E5%9D%97%E5%84%BF%21_882672105.png"
     }
   ]
 }

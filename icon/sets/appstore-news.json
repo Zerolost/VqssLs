@@ -2,6 +2,14 @@
   "name": "Zerolost Icons · App Store / News",
   "icons": [
     {
+      "name": "19楼-本地资讯交友招聘_523404308",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/19%E6%A5%BC-%E6%9C%AC%E5%9C%B0%E8%B5%84%E8%AE%AF%E4%BA%A4%E5%8F%8B%E6%8B%9B%E8%81%98_523404308.png"
+    },
+    {
+      "name": "2nd1st-Truth,News&Social_1466169815",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/2nd1st-Truth%2CNews%26Social_1466169815.png"
+    },
+    {
       "name": "360新闻官方版-阅读头条资讯、聚合热点视频直播_1178880325",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/360%E6%96%B0%E9%97%BB%E5%AE%98%E6%96%B9%E7%89%88-%E9%98%85%E8%AF%BB%E5%A4%B4%E6%9D%A1%E8%B5%84%E8%AE%AF%E3%80%81%E8%81%9A%E5%90%88%E7%83%AD%E7%82%B9%E8%A7%86%E9%A2%91%E7%9B%B4%E6%92%AD_1178880325.png"
     },
@@ -14,24 +22,120 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/AutoBeta%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%EF%BC%8D%E6%B1%BD%E8%BD%A6%E6%8A%A5%E4%BB%B7%E5%A4%A7%E5%85%A8%E4%B8%8E%E6%96%B0%E8%BD%A6%E8%B5%84%E8%AE%AF%E6%9D%82%E5%BF%97_550978036.png"
     },
     {
+      "name": "BilinGO_691071426",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/BilinGO_691071426.png"
+    },
+    {
       "name": "Bitpush-AI区块链比特币Web3资讯平台_1359810708",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Bitpush-AI%E5%8C%BA%E5%9D%97%E9%93%BE%E6%AF%94%E7%89%B9%E5%B8%81Web3%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_1359810708.png"
+    },
+    {
+      "name": "BloombergBusinessNewsDaily_281941097",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/BloombergBusinessNewsDaily_281941097.png"
+    },
+    {
+      "name": "BoleNews_6755597686",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/BoleNews_6755597686.png"
+    },
+    {
+      "name": "CGTN-ChinaGlobalTVNetwork_922456579",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/CGTN-ChinaGlobalTVNetwork_922456579.png"
+    },
+    {
+      "name": "CNBCStockMarket&Business_398018310",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/CNBCStockMarket%26Business_398018310.png"
+    },
+    {
+      "name": "CastroPodcastApp&Player_1080840241",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/CastroPodcastApp%26Player_1080840241.png"
+    },
+    {
+      "name": "ChainCatcher_1595795169",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/ChainCatcher_1595795169.png"
+    },
+    {
+      "name": "ChineseNewspapers_855116124",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/ChineseNewspapers_855116124.png"
+    },
+    {
+      "name": "Clubhouse_1503133294",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Clubhouse_1503133294.png"
     },
     {
       "name": "C财经-中国日报旗下财经资讯平台_1600381517",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/C%E8%B4%A2%E7%BB%8F-%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E6%97%97%E4%B8%8B%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_1600381517.png"
     },
     {
+      "name": "ETtoday新聞雲_503783839",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/ETtoday%E6%96%B0%E8%81%9E%E9%9B%B2_503783839.png"
+    },
+    {
+      "name": "FT中文网-财经新闻与评论_443870811",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/FT%E4%B8%AD%E6%96%87%E7%BD%91-%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E4%B8%8E%E8%AF%84%E8%AE%BA_443870811.png"
+    },
+    {
       "name": "FX168财经-全球财经新闻资讯_535352246",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/FX168%E8%B4%A2%E7%BB%8F-%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF_535352246.png"
+    },
+    {
+      "name": "FizzYourAuthenticCommunity_1548207780",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/FizzYourAuthenticCommunity_1548207780.png"
+    },
+    {
+      "name": "FlipboardTheSocialMagazine_358801284",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/FlipboardTheSocialMagazine_358801284.png"
     },
     {
       "name": "FollowinGlobalCryptoNews_1632376804",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/FollowinGlobalCryptoNews_1632376804.png"
     },
     {
+      "name": "GlobalTimes_1433242294",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/GlobalTimes_1433242294.png"
+    },
+    {
+      "name": "Heho健康_1587324631",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Heho%E5%81%A5%E5%BA%B7_1587324631.png"
+    },
+    {
+      "name": "Hknews-香港新聞-HongKong_1024204248",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Hknews-%E9%A6%99%E6%B8%AF%E6%96%B0%E8%81%9E-HongKong_1024204248.png"
+    },
+    {
+      "name": "Hytera_946274123",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Hytera_946274123.png"
+    },
+    {
+      "name": "JapaneseNewsPlayer_1360791929",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/JapaneseNewsPlayer_1360791929.png"
+    },
+    {
       "name": "KikiLocalChat&PeopleNear_6499032288",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/KikiLocalChat%26PeopleNear_6499032288.png"
+    },
+    {
+      "name": "KwongWah光华日报-马来西亚热点新闻_1452494980",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/KwongWah%E5%85%89%E5%8D%8E%E6%97%A5%E6%8A%A5-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB_1452494980.png"
+    },
+    {
+      "name": "LianheZaobaoNewsinChinese_654946831",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/LianheZaobaoNewsinChinese_654946831.png"
+    },
+    {
+      "name": "MENews-聚焦Web3.0前沿资讯和动态！_6450677755",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/MENews-%E8%81%9A%E7%84%A6Web3.0%E5%89%8D%E6%B2%BF%E8%B5%84%E8%AE%AF%E5%92%8C%E5%8A%A8%E6%80%81%EF%BC%81_6450677755.png"
+    },
+    {
+      "name": "MacaoDaily_504720831",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/MacaoDaily_504720831.png"
+    },
+    {
+      "name": "Newswav-LatestMalaysiaNews_1222559123",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Newswav-LatestMalaysiaNews_1222559123.png"
+    },
+    {
+      "name": "NextdoorNeighborhoodNetwork_640360962",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/NextdoorNeighborhoodNetwork_640360962.png"
     },
     {
       "name": "PlayerFM—PodcastApp_940568467",
@@ -40,6 +144,30 @@
     {
       "name": "Reading悅讀新聞資訊_293123592",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Reading%E6%82%85%E8%AE%80%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A_293123592.png"
+    },
+    {
+      "name": "SinChew星洲日报_1077727843",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/SinChew%E6%98%9F%E6%B4%B2%E6%97%A5%E6%8A%A5_1077727843.png"
+    },
+    {
+      "name": "SoundOn聲浪-Podcast隨時隨地聽內容_1476272964",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/SoundOn%E8%81%B2%E6%B5%AA-Podcast%E9%9A%A8%E6%99%82%E9%9A%A8%E5%9C%B0%E8%81%BD%E5%85%A7%E5%AE%B9_1476272964.png"
+    },
+    {
+      "name": "TheEconomistNews&Analysis_1239397626",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/TheEconomistNews%26Analysis_1239397626.png"
+    },
+    {
+      "name": "TravelnewsandinformationforT_1095582885",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/TravelnewsandinformationforT_1095582885.png"
+    },
+    {
+      "name": "UC浏览器极速版_1448671959",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/UC%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9E%81%E9%80%9F%E7%89%88_1448671959.png"
+    },
+    {
+      "name": "Wenxuecity_634117610",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/Wenxuecity_634117610.png"
     },
     {
       "name": "YanRadio·澳新华语资讯_525362050",
@@ -58,8 +186,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/am730-HKNews%26Lifestyle_350544669.png"
     },
     {
+      "name": "e公司--上市公司资讯第一平台_1138662528",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/e%E5%85%AC%E5%8F%B8--%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B5%84%E8%AE%AF%E7%AC%AC%E4%B8%80%E5%B9%B3%E5%8F%B0_1138662528.png"
+    },
+    {
+      "name": "i統一發票電子發票管理工具_526625386",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/i%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7_526625386.png"
+    },
+    {
+      "name": "news.gov.hk香港政府新聞網_393161557",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/news.gov.hk%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E6%96%B0%E8%81%9E%E7%B6%B2_393161557.png"
+    },
+    {
       "name": "一点资讯（官方版）-时事热点新闻资讯_976039116",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%80%E7%82%B9%E8%B5%84%E8%AE%AF%EF%BC%88%E5%AE%98%E6%96%B9%E7%89%88%EF%BC%89-%E6%97%B6%E4%BA%8B%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF_976039116.png"
+    },
+    {
+      "name": "三立新聞網_888252566",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E%E7%B6%B2_888252566.png"
     },
     {
       "name": "上游新闻-深度解读身边热点资讯_1001871877",
@@ -70,8 +214,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%8A%E8%A7%82%E6%96%B0%E9%97%BB-%E9%98%85%E8%AF%BB%E4%B8%8A%E6%B5%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E9%80%89%E6%8B%A9_750278928.png"
     },
     {
+      "name": "中华军事-军事新闻移动平台_1016351365",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%8D%8E%E5%86%9B%E4%BA%8B-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0_1016351365.png"
+    },
+    {
+      "name": "中国报App-最热大马新闻_597923028",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%9B%BD%E6%8A%A5App-%E6%9C%80%E7%83%AD%E5%A4%A7%E9%A9%AC%E6%96%B0%E9%97%BB_597923028.png"
+    },
+    {
       "name": "中国搜索-新华社旗下新闻资讯搜索平台_1155888011",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%9B%BD%E6%90%9C%E7%B4%A2-%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%97%97%E4%B8%8B%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E6%90%9C%E7%B4%A2%E5%B9%B3%E5%8F%B0_1155888011.png"
+    },
+    {
+      "name": "中国教育报_1511876976",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E6%8A%A5_1511876976.png"
+    },
+    {
+      "name": "中国新闻周刊4.0_1214161178",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A4.0_1214161178.png"
     },
     {
       "name": "中国蓝新闻-浙江卫视社会头条热点_772339521",
@@ -86,12 +246,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E5%B1%B1Plus-%E4%B8%AD%E5%B1%B1%E6%9D%83%E5%A8%81%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_1000536971.png"
     },
     {
+      "name": "中新经纬_1074179165",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E6%96%B0%E7%BB%8F%E7%BA%AC_1074179165.png"
+    },
+    {
+      "name": "中新网_589796322",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B8%AD%E6%96%B0%E7%BD%91_589796322.png"
+    },
+    {
       "name": "乐听头条FM-听点你喜欢的头条_1135266140",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%B9%90%E5%90%AC%E5%A4%B4%E6%9D%A1FM-%E5%90%AC%E7%82%B9%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A4%B4%E6%9D%A1_1135266140.png"
     },
     {
+      "name": "二三里-离你更近的生活_1164831301",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%BA%8C%E4%B8%89%E9%87%8C-%E7%A6%BB%E4%BD%A0%E6%9B%B4%E8%BF%91%E7%9A%84%E7%94%9F%E6%B4%BB_1164831301.png"
+    },
+    {
+      "name": "交汇点新闻_1038728129",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%BA%A4%E6%B1%87%E7%82%B9%E6%96%B0%E9%97%BB_1038728129.png"
+    },
+    {
       "name": "人民日报_625077646",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5_625077646.png"
+    },
+    {
+      "name": "亿邦-爱上有范儿的电商头条财经新闻_1250812311",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%BA%BF%E9%82%A6-%E7%88%B1%E4%B8%8A%E6%9C%89%E8%8C%83%E5%84%BF%E7%9A%84%E7%94%B5%E5%95%86%E5%A4%B4%E6%9D%A1%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB_1250812311.png"
     },
     {
       "name": "亿邦极速版-解读社交电商和跨境电商新玩法_1465843344",
@@ -100,6 +280,14 @@
     {
       "name": "今日澳洲-澳洲华人头条新闻资讯软件_1036508523",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E4%BB%8A%E6%97%A5%E6%BE%B3%E6%B4%B2-%E6%BE%B3%E6%B4%B2%E5%8D%8E%E4%BA%BA%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E8%BD%AF%E4%BB%B6_1036508523.png"
+    },
+    {
+      "name": "冀时新闻_888267333",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%86%80%E6%97%B6%E6%96%B0%E9%97%BB_888267333.png"
+    },
+    {
+      "name": "凤凰新闻(专业版)-头条新闻阅读平台_1152396902",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB%28%E4%B8%93%E4%B8%9A%E7%89%88%29-%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E9%98%85%E8%AF%BB%E5%B9%B3%E5%8F%B0_1152396902.png"
     },
     {
       "name": "凤凰新闻(探索版)-热点头条新闻抢先看_1152363753",
@@ -122,12 +310,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%88%B0%E9%BB%84%E5%9F%94%E5%8E%BB-%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%EF%BC%8C%E4%BE%BF%E5%88%A9%E6%B0%91%E7%94%9F%E6%9C%8D%E5%8A%A1_1490819621.png"
     },
     {
+      "name": "北京时间_993559906",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4_993559906.png"
+    },
+    {
       "name": "华人头条(专业版)-海外华人新闻资讯生活平台_1255399496",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%8D%8E%E4%BA%BA%E5%A4%B4%E6%9D%A1%28%E4%B8%93%E4%B8%9A%E7%89%88%29-%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E7%94%9F%E6%B4%BB%E5%B9%B3%E5%8F%B0_1255399496.png"
     },
     {
       "name": "华人资讯_1067530514",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF_1067530514.png"
+    },
+    {
+      "name": "华商头条(探索版)-陕西人身边的新闻客户端_1382112308",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%8D%8E%E5%95%86%E5%A4%B4%E6%9D%A1%28%E6%8E%A2%E7%B4%A2%E7%89%88%29-%E9%99%95%E8%A5%BF%E4%BA%BA%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%96%B0%E9%97%BB%E5%AE%A2%E6%88%B7%E7%AB%AF_1382112308.png"
     },
     {
       "name": "华尔街见闻国际版-财经金融基金证券期货债券汇率头条新闻资_1586428788",
@@ -138,8 +334,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%8D%97%E6%96%B9Plus_1041891085.png"
     },
     {
+      "name": "唔哩头条-社会热点新闻与视频资讯_1068045574",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%94%94%E5%93%A9%E5%A4%B4%E6%9D%A1-%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E4%B8%8E%E8%A7%86%E9%A2%91%E8%B5%84%E8%AE%AF_1068045574.png"
+    },
+    {
       "name": "商业新知-商业新闻头条资讯_1187192448",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%95%86%E4%B8%9A%E6%96%B0%E7%9F%A5-%E5%95%86%E4%B8%9A%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1%E8%B5%84%E8%AE%AF_1187192448.png"
+    },
+    {
+      "name": "四川观察_1085992013",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%9B%9B%E5%B7%9D%E8%A7%82%E5%AF%9F_1085992013.png"
+    },
+    {
+      "name": "大纪元ChineseEpochTimes_498375992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%A4%A7%E7%BA%AA%E5%85%83ChineseEpochTimes_498375992.png"
+    },
+    {
+      "name": "大象新闻-河南广播电视台_1463164699",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%A4%A7%E8%B1%A1%E6%96%B0%E9%97%BB-%E6%B2%B3%E5%8D%97%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0_1463164699.png"
     },
     {
       "name": "天天原油APP-原油资讯，一网打尽，财富尽在天天原油。_1358608695",
@@ -158,6 +370,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%A5%94%E6%B5%81%E6%96%B0%E9%97%BB-%E5%85%A8%E5%9F%9F%E5%A4%B4%E6%9D%A1%E7%83%AD%E7%82%B9%E8%B5%84%E8%AE%AF%E9%98%85%E8%AF%BB%E5%B9%B3%E5%8F%B0_1459351863.png"
     },
     {
+      "name": "奥巴马英语演讲精选有声同步中英字幕对照全文英汉字典_667238698",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%8B%B1%E8%AF%AD%E6%BC%94%E8%AE%B2%E7%B2%BE%E9%80%89%E6%9C%89%E5%A3%B0%E5%90%8C%E6%AD%A5%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95%E5%AF%B9%E7%85%A7%E5%85%A8%E6%96%87%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8_667238698.png"
+    },
+    {
       "name": "娱乐V头条-娱乐圈明星八卦综艺资讯_938059021",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%A8%B1%E4%B9%90V%E5%A4%B4%E6%9D%A1-%E5%A8%B1%E4%B9%90%E5%9C%88%E6%98%8E%E6%98%9F%E5%85%AB%E5%8D%A6%E7%BB%BC%E8%89%BA%E8%B5%84%E8%AE%AF_938059021.png"
     },
@@ -166,8 +382,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%B0%81%E9%9D%A2%E6%96%B0%E9%97%BB-%E4%BA%BF%E4%B8%87%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_1028293650.png"
     },
     {
+      "name": "广西云_940025132",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%B9%BF%E8%A5%BF%E4%BA%91_940025132.png"
+    },
+    {
+      "name": "彭博商業周刊BloombergBusinessweek_675601257",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%BD%AD%E5%8D%9A%E5%95%86%E6%A5%AD%E5%91%A8%E5%88%8ABloombergBusinessweek_675601257.png"
+    },
+    {
       "name": "律动BlockBeats_1482096104",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E5%BE%8B%E5%8A%A8BlockBeats_1482096104.png"
+    },
+    {
+      "name": "我的钢铁-查现货市场价格走势的报价软件_381230745",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%88%91%E7%9A%84%E9%92%A2%E9%93%81-%E6%9F%A5%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E7%9A%84%E6%8A%A5%E4%BB%B7%E8%BD%AF%E4%BB%B6_381230745.png"
     },
     {
       "name": "掌上三门新闻资讯_685862749",
@@ -178,12 +406,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%8E%8C%E4%B8%8A%E5%A4%96%E6%B1%87%EF%BC%9A%E5%AE%9E%E6%97%B6%E8%A1%8C%E6%83%85%EF%BC%8C%E4%B8%80%E6%89%8B%E6%8E%8C%E6%8F%A1%E5%A4%96%E6%B1%87%E8%B5%84%E8%AE%AF_1363936425.png"
     },
     {
+      "name": "掌上温州-第一时间了解温州资讯_566394814",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%8E%8C%E4%B8%8A%E6%B8%A9%E5%B7%9E-%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%BA%86%E8%A7%A3%E6%B8%A9%E5%B7%9E%E8%B5%84%E8%AE%AF_566394814.png"
+    },
+    {
       "name": "掌上融通金-黄金投资与财经资讯平台_1358609988",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%8E%8C%E4%B8%8A%E8%9E%8D%E9%80%9A%E9%87%91-%E9%BB%84%E9%87%91%E6%8A%95%E8%B5%84%E4%B8%8E%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_1358609988.png"
     },
     {
       "name": "掌上鹿城-第一时间了解鹿城资讯_1439047057",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%8E%8C%E4%B8%8A%E9%B9%BF%E5%9F%8E-%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%BA%86%E8%A7%A3%E9%B9%BF%E5%9F%8E%E8%B5%84%E8%AE%AF_1439047057.png"
+    },
+    {
+      "name": "掌中文学城_631719454",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%8E%8C%E4%B8%AD%E6%96%87%E5%AD%A6%E5%9F%8E_631719454.png"
     },
     {
       "name": "搜狐新闻-准确可靠_436957087",
@@ -198,6 +434,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E5%87%BA%E8%A1%8C_1101124197.png"
     },
     {
+      "name": "新华社_896074583",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E5%8D%8E%E7%A4%BE_896074583.png"
+    },
+    {
+      "name": "新华网-引领品质阅读_503070194",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%BC%95%E9%A2%86%E5%93%81%E8%B4%A8%E9%98%85%E8%AF%BB_503070194.png"
+    },
+    {
       "name": "新快报-新中产的移动资讯友伴_6444520715",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E5%BF%AB%E6%8A%A5-%E6%96%B0%E4%B8%AD%E4%BA%A7%E7%9A%84%E7%A7%BB%E5%8A%A8%E8%B5%84%E8%AE%AF%E5%8F%8B%E4%BC%B4_6444520715.png"
     },
@@ -210,20 +454,72 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E6%B5%AA%E6%B8%B8%E6%88%8F%E7%A4%BE%E5%8C%BA%E8%AE%BA%E5%9D%9B-%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_528469922.png"
     },
     {
+      "name": "新福建_1106843478",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E7%A6%8F%E5%BB%BA_1106843478.png"
+    },
+    {
       "name": "新芽-创业投资新闻和融资资讯_1138714454",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%96%B0%E8%8A%BD-%E5%88%9B%E4%B8%9A%E6%8A%95%E8%B5%84%E6%96%B0%E9%97%BB%E5%92%8C%E8%9E%8D%E8%B5%84%E8%B5%84%E8%AE%AF_1138714454.png"
+    },
+    {
+      "name": "日本経済新聞電子版-ビジネス・政治・金融・経済ニュース_396855834",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E9%9B%BB%E5%AD%90%E7%89%88-%E3%83%92%E3%82%99%E3%82%B7%E3%82%99%E3%83%8D%E3%82%B9%E3%83%BB%E6%94%BF%E6%B2%BB%E3%83%BB%E9%87%91%E8%9E%8D%E3%83%BB%E7%B5%8C%E6%B8%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9_396855834.png"
     },
     {
       "name": "时代财经-专业财经新闻与热点资讯_1115572984",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%97%B6%E4%BB%A3%E8%B4%A2%E7%BB%8F-%E4%B8%93%E4%B8%9A%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E4%B8%8E%E7%83%AD%E7%82%B9%E8%B5%84%E8%AE%AF_1115572984.png"
     },
     {
+      "name": "有看投_1062139675",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%9C%89%E7%9C%8B%E6%8A%95_1062139675.png"
+    },
+    {
+      "name": "朝日新聞紙面ビューアー_1536374601",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E%E7%B4%99%E9%9D%A2%E3%83%92%E3%82%99%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BC_1536374601.png"
+    },
+    {
+      "name": "杭州新闻_411636384",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%9D%AD%E5%B7%9E%E6%96%B0%E9%97%BB_411636384.png"
+    },
+    {
+      "name": "東網-東方日報_349812998",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%9D%B1%E7%B6%B2-%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1_349812998.png"
+    },
+    {
+      "name": "毎日新聞ニュース_740514912",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%AF%8E%E6%97%A5%E6%96%B0%E8%81%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9_740514912.png"
+    },
+    {
       "name": "每日全球壁纸·iDailyPaper+_929066820",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%AF%8F%E6%97%A5%E5%85%A8%E7%90%83%E5%A3%81%E7%BA%B8%C2%B7iDailyPaper%2B_929066820.png"
     },
     {
+      "name": "民視新聞_853490128",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E_853490128.png"
+    },
+    {
+      "name": "汇通财经_542180104",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B1%87%E9%80%9A%E8%B4%A2%E7%BB%8F_542180104.png"
+    },
+    {
+      "name": "汽车头条-汽车新闻报价App_836470944",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B1%BD%E8%BD%A6%E5%A4%B4%E6%9D%A1-%E6%B1%BD%E8%BD%A6%E6%96%B0%E9%97%BB%E6%8A%A5%E4%BB%B7App_836470944.png"
+    },
+    {
+      "name": "泉州通_939338145",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B3%89%E5%B7%9E%E9%80%9A_939338145.png"
+    },
+    {
       "name": "浙江新闻—本地短视频平台_878544976",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB%E2%80%94%E6%9C%AC%E5%9C%B0%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0_878544976.png"
+    },
+    {
+      "name": "海客新闻-人民日报海外版客户端_797398945",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%B5%B7%E5%AE%A2%E6%96%B0%E9%97%BB-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%B5%B7%E5%A4%96%E7%89%88%E5%AE%A2%E6%88%B7%E7%AB%AF_797398945.png"
+    },
+    {
+      "name": "潮新闻_1481290049",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%BD%AE%E6%96%B0%E9%97%BB_1481290049.png"
     },
     {
       "name": "澳廣視TDM_688768396",
@@ -232,6 +528,10 @@
     {
       "name": "澳洲印象-新闻视频社区交友_1412513324",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%BE%B3%E6%B4%B2%E5%8D%B0%E8%B1%A1-%E6%96%B0%E9%97%BB%E8%A7%86%E9%A2%91%E7%A4%BE%E5%8C%BA%E4%BA%A4%E5%8F%8B_1412513324.png"
+    },
+    {
+      "name": "澳門政府新聞NEWSGOV-MO_806002811",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E6%BE%B3%E9%96%80%E6%94%BF%E5%BA%9C%E6%96%B0%E8%81%9ENEWSGOV-MO_806002811.png"
     },
     {
       "name": "火讯财经-更火的区块链资讯_1360767999",
@@ -244,6 +544,18 @@
     {
       "name": "环球时报_492172546",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5_492172546.png"
+    },
+    {
+      "name": "産経プラス-産経新聞グループのニュースアプリ_298592032",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%94%A3%E7%B5%8C%E3%83%95%E3%82%9A%E3%83%A9%E3%82%B9-%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9E%E3%82%AF%E3%82%99%E3%83%AB%E3%83%BC%E3%83%95%E3%82%9A%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA_298592032.png"
+    },
+    {
+      "name": "産経新聞HD_372332300",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9EHD_372332300.png"
+    },
+    {
+      "name": "百度新闻_482820737",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%99%BE%E5%BA%A6%E6%96%B0%E9%97%BB_482820737.png"
     },
     {
       "name": "看看新闻-叩击时代_503527496",
@@ -266,8 +578,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%B2%A4TV_1160128847.png"
     },
     {
+      "name": "紫牛新闻_1270061800",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%B4%AB%E7%89%9B%E6%96%B0%E9%97%BB_1270061800.png"
+    },
+    {
+      "name": "红星新闻_783537559",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%BA%A2%E6%98%9F%E6%96%B0%E9%97%BB_783537559.png"
+    },
+    {
       "name": "网易新闻-头条新闻视频资讯平台_425349261",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E8%A7%86%E9%A2%91%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0_425349261.png"
+    },
+    {
+      "name": "羊城派_1069312241",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%BE%8A%E5%9F%8E%E6%B4%BE_1069312241.png"
+    },
+    {
+      "name": "翻爆foriPhone_1033416067",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E7%BF%BB%E7%88%86foriPhone_1033416067.png"
     },
     {
       "name": "联商网-零售人聚集的新闻资讯客户端_546565221",
@@ -276,6 +604,18 @@
     {
       "name": "腾讯新闻TencentNews_399363156",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BBTencentNews_399363156.png"
+    },
+    {
+      "name": "腾讯新闻关怀版_1584073436",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB%E5%85%B3%E6%80%80%E7%89%88_1584073436.png"
+    },
+    {
+      "name": "荔枝新闻_623103682",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%8D%94%E6%9E%9D%E6%96%B0%E9%97%BB_623103682.png"
+    },
+    {
+      "name": "荣大二郎神-投行资讯查询与信披检索机_1196298393",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%8D%A3%E5%A4%A7%E4%BA%8C%E9%83%8E%E7%A5%9E-%E6%8A%95%E8%A1%8C%E8%B5%84%E8%AE%AF%E6%9F%A5%E8%AF%A2%E4%B8%8E%E4%BF%A1%E6%8A%AB%E6%A3%80%E7%B4%A2%E6%9C%BA_1196298393.png"
     },
     {
       "name": "蟹都洪泽-洪泽本地资讯门户_1441950514",
@@ -302,8 +642,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%BC%95%E9%AC%86%E7%8E%A9_1564730811.png"
     },
     {
+      "name": "车讯情报-最新新车资讯汽车网汽车报价大全_682194010",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%BD%A6%E8%AE%AF%E6%83%85%E6%8A%A5-%E6%9C%80%E6%96%B0%E6%96%B0%E8%BD%A6%E8%B5%84%E8%AE%AF%E6%B1%BD%E8%BD%A6%E7%BD%91%E6%B1%BD%E8%BD%A6%E6%8A%A5%E4%BB%B7%E5%A4%A7%E5%85%A8_682194010.png"
+    },
+    {
       "name": "车评网-专业的新车评测和汽车新闻资讯_681687679",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E8%BD%A6%E8%AF%84%E7%BD%91-%E4%B8%93%E4%B8%9A%E7%9A%84%E6%96%B0%E8%BD%A6%E8%AF%84%E6%B5%8B%E5%92%8C%E6%B1%BD%E8%BD%A6%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF_681687679.png"
+    },
+    {
+      "name": "郑州教育_1316408333",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2_1316408333.png"
+    },
+    {
+      "name": "鉅亨網_1071014509",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E9%89%85%E4%BA%A8%E7%B6%B2_1071014509.png"
     },
     {
       "name": "隆众资讯-掌握大宗商品资讯价格脉络_1440960124",
@@ -316,6 +668,10 @@
     {
       "name": "香港01-新聞資訊及生活服務_1084662006",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E9%A6%99%E6%B8%AF01-%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%8A%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8B%99_1084662006.png"
+    },
+    {
+      "name": "香港卫视hkstv_885726214",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/News/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86hkstv_885726214.png"
     }
   ]
 }
