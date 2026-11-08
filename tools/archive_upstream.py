@@ -35,8 +35,12 @@ SOURCES = [
     ('yichahucha', 'surge', 'script'),
     ('app2smile', 'rules', 'module'),
     ('fmz200', 'wool_scripts', 'module'),
-    ('KOP-XIAO', 'QuantumultX', 'module'),
-    ('Tartarus2014', 'Loon-Script', 'script'),
+    ('KOP-XIAO', 'QuantumultX', ('module', 'script')),
+    ('VirgilClyne', 'GetSomeFries', 'module'),
+    ('Semporia', 'TikTok-Unlock', 'module'),
+    ('zqzess', 'rule_for_quantumultX', ('rule', 'module')),
+    ('ddgksf2013', 'Scripts', 'script'),
+    ('Tartarus2014', 'Loon-Script', ('script', 'module')),
 ]
 
 # 关注的规则主题（文件名关键词）
@@ -105,6 +109,42 @@ def score(path):
     return s
 
 
+CLIENTS = [('surge', '/surge/'), ('loon', '/loon/'),
+           ('qx', '/quantumultx/'), ('qx', '/quantumult/'), ('qx', '/qx/'),
+           ('clash', '/clash/')]
+
+
+def client_of(path):
+    low = path.lower()
+    for name, token in CLIENTS:
+        if token in low:
+            return name
+    return 'other'
+
+
+def pick_multiclient(paths):
+    """同一个主题尽量把 Surge / Loon / QX 三个版本都留下。"""
+    groups = {}
+    for p in paths:
+        stem = p.rsplit('/', 1)[-1].lower()
+        groups.setdefault(stem, []).append(p)
+
+    ordered = sorted(groups.items(), key=lambda kv: (-score(kv[1][0]), len(kv[0])))
+    out = []
+    for stem, cands in ordered:
+        best = {}
+        for p in sorted(cands, key=lambda x: (len(x), x)):
+            c = client_of(p)
+            if c in ('surge', 'loon', 'qx', 'clash') and c not in best:
+                best[c] = p
+        for c in ('surge', 'loon', 'qx', 'clash'):
+            if c in best:
+                out.append(best[c])
+        if len(out) >= MAX_RULES * 3:
+            break
+    return out
+
+
 def pick(paths, kind):
     out = []
     for p in paths:
@@ -133,22 +173,18 @@ def pick(paths, kind):
                 continue
             out.append(p)
         else:
-            if not low.endswith(('.plugin', '.sgmodule', '.snippet', '.conf', '.stoverride')):
+            if not low.endswith(('.plugin', '.sgmodule', '.snippet', '.conf', '.stoverride', '.lpx')):
                 continue
             out.append(p)
     if kind == 'rule':
-        ranked = sorted(out, key=lambda p: (-score(p), len(p), p))
-        # 优先 Surge 版本，并按主题去重，避免同一个主题抓到 Clash/Loon/QX 四份
-        surge = [p for p in ranked if '/surge/' in p.lower()]
-        pool = surge or ranked
-        seen, dedup = set(), []
-        for p in pool:
-            stem = p.rsplit('/', 1)[-1].lower()
-            if stem in seen:
-                continue
-            seen.add(stem)
-            dedup.append(p)
-        return dedup
+        picked = pick_multiclient(out)
+        if not picked:
+            # 文件名不是英文主题词（比如中文命名）时，直接按扩展名兜底
+            fallback = [p for p in paths if p.lower().endswith(RULE_EXT)
+                        and 'license' not in p.lower() and 'readme' not in p.lower()
+                        and '/.github/' not in p.lower()]
+            picked = pick_multiclient(fallback) or fallback[:MAX_RULES]
+        return picked
     return sorted(out, key=lambda p: (len(p), p))
 
 
@@ -166,7 +202,10 @@ def archive_one(owner, repo, kind):
     paths = [t['path'] for t in tree.get('tree', []) if t['type'] == 'blob']
 
     limit = {'rule': MAX_RULES, 'script': MAX_SCRIPTS, 'module': MAX_MODULES, 'json': MAX_JSON}[kind]
-    picked = pick(paths, kind)[:limit]
+    if kind == 'rule':
+        picked = pick(paths, kind)[:limit * 3]   # 三端各留一份
+    else:
+        picked = pick(paths, kind)[:limit]
 
     dest_root = os.path.join(ARCHIVE, owner, repo)
     saved = []
@@ -216,14 +255,15 @@ def main():
         only = sys.argv[sys.argv.index('--only') + 1]
     os.makedirs(ARCHIVE, exist_ok=True)
     count = 0
-    for owner, repo, kind in SOURCES:
+    for owner, repo, kinds in SOURCES:
         if only and owner.lower() != only.lower():
             continue
-        print(f'{owner}/{repo} ({kind})')
-        try:
-            count += archive_one(owner, repo, kind)
-        except Exception as e:
-            print(f'  fail: {e}')
+        for kind in (kinds if isinstance(kinds, tuple) else (kinds,)):
+            print(f'{owner}/{repo} ({kind})')
+            try:
+                count += archive_one(owner, repo, kind)
+            except Exception as e:
+                print(f'  fail: {e}')
     print(f'\n共存档 {count} 个文件')
 
 

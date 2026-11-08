@@ -1,0 +1,49 @@
+name: Upload
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    name: Upload files to OSS
+    steps:
+      - name: Configure environment
+        id: config
+        run: |
+          VERSION=$(echo $GITHUB_REF | sed -e "s/^refs\/tags\/v//")
+          echo ::set-output name=version::$VERSION
+
+      - name: Fetch repository
+        uses: actions/checkout@v4
+
+      - name: Prepare files
+        run: |
+          mkdir -p ./rule-set
+          cp ./*.list ./rule-set/
+
+      - name: Upload files P1
+        uses: geekdada/ossutil-github-action@master
+        with:
+          ossArgs: 'sync --delete -u -f ./domain-set oss://dada-oss/github/surge-list/domain-set'
+          accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
+          accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
+          endpoint: oss-accelerate.aliyuncs.com
+
+      - name: Upload files P2
+        uses: geekdada/ossutil-github-action@master
+        with:
+          ossArgs: 'sync --delete -u -f ./rule-set oss://dada-oss/github/surge-list/rule-set'
+          accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
+          accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
+          endpoint: oss-accelerate.aliyuncs.com
+
+      - name: Telegram Notify
+        uses: yanzay/notify-telegram@v0.1.0
+        if: always()
+        with:
+          chat: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          status: ${{ job.status }}

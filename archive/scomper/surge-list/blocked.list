@@ -1,0 +1,57 @@
+DOMAIN-SUFFIX,tw
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,oculus
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,githubusercontent.com
+# Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,googleapis.com
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+# Google Generative Language API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google

@@ -1,29 +1,36 @@
 # VqssLs
 
-自用的 [Surge](https://apps.apple.com/us/app/surge-5/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) / [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) 资源库：**分流规则集**（三种格式同步）、**图标集**，以及配套的同步脚本与 GitHub Actions。
+自用的代理客户端资源库：**分流规则**（Surge / Loon / Quantumult X 三端同步）、**501 个图标**，以及社区项目的**存档与致谢**。
 
-规则以 Surge 格式为准，`rule/convert.py` 自动生成 Loon 与 Quantumult X 版本；图标集是标准 Surge 图标 JSON，500+ 个图标按分类存放，新增或删除 PNG 后由 Actions 自动重建索引。
+![Surge](https://img.shields.io/badge/Surge-5-black?style=flat-square)
+![Loon](https://img.shields.io/badge/Loon-✓-black?style=flat-square)
+![Quantumult X](https://img.shields.io/badge/Quantumult%20X-✓-black?style=flat-square)
+![rules](https://img.shields.io/badge/规则-634条-blue?style=flat-square)
+![icons](https://img.shields.io/badge/图标-501个-purple?style=flat-square)
+
+---
+
+## 目录
+
+- [分流规则](#分流规则) · [图标集](#图标集) · [存档与致谢](#存档与致谢) · [工具](#工具) · [自动化](#自动化)
+- [目录结构](#目录结构) · [编写约定](#编写约定)
 
 ---
 
 ## 分流规则
 
-同一份规则三个格式：Surge `.list`（不带策略）、Loon `.lsr`（不带策略）、Quantumult X `.list`（带策略）。
-**改规则只改 [`rule/Surge`](rule/Surge)**，另外两份由脚本自动生成。
+规则只维护 `rule/Surge` 一份，另外两端的格式由 `rule/convert.py` 生成，改一处三端同步。
 
 | 规则集 | 条数 | 内容 | 建议策略 |
 |---|---:|---|---|
-| API | 194 | AI API 中转站（OpenAI / Claude 二次转发的服务商官网与端点） | `PROXY` |
-| Airport | 198 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
-| LSP | 210 | 紳士漫畫、喜漫、18漫画、HAnime、JMComic、Pica | `PROXY` |
-| Exhentai | 23 | E-Hentai / ExHentai 生态（含图片 CDN、上传服、H@H） | `PROXY` |
-| Simular | 9 | Simular box 云端桌面与 MCP 端点 | `PROXY` |
+| `API` | 194 | AI API 中转站：OpenAI / Claude 二次转发的服务商官网与 API 端点 | `PROXY` |
+| `Airport` | 198 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
+| `LSP` | 210 | 紳士漫畫、喜漫、18漫画、HAnime、JMComic、Pica 六站群 | `PROXY` |
+| `Exhentai` | 23 | E-Hentai / ExHentai 生态：画廊、论坛、Wiki、图片 CDN、上传服、H@H | `PROXY` |
+| `Simular` | 9 | Simular box 云端桌面与 MCP 端点 | `PROXY` |
 
-各客户端目录下都有说明：[`rule/Surge`](rule/Surge/README.md) · [`rule/Loon`](rule/Loon/README.md) · [`rule/Qx`](rule/Qx/README.md)
-
-### Surge / Loon
-
-两者格式一致，Loon 用 `.lsr` 扩展名：
+<details>
+<summary><b>Surge</b></summary>
 
 ```ini
 [Rule]
@@ -33,24 +40,41 @@ RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/LSP.l
 RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Exhentai.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Simular.list,PROXY
 ```
+</details>
 
-### Quantumult X
+<details>
+<summary><b>Loon</b></summary>
+
+Loon 的远程规则列表不带策略，内容与 Surge 一致，扩展名为 `.lsr`。
+
+```ini
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/Airport.lsr,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/API.lsr,Proxy
+RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/LSP.lsr,Proxy
+RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/Exhentai.lsr,Proxy
+RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/Simular.lsr,Proxy
+```
+</details>
+
+<details>
+<summary><b>Quantumult X</b></summary>
+
+QX 用小写关键字且每条必带策略，转换时默认机场走 `direct`、其余走 `proxy`，可用 `force-policy` 覆盖。
 
 ```ini
 [filter_remote]
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Airport.list, tag=机场, force-policy=direct, enabled=true
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/API.list, tag=API中转, force-policy=proxy, enabled=true
+https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/LSP.list, tag=站点群, force-policy=proxy, enabled=true
+https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Exhentai.list, tag=ExHentai, force-policy=proxy, enabled=true
+https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Simular.list, tag=Simular, force-policy=proxy, enabled=true
 ```
+</details>
 
-### 编写约定
-
-- 先域名、后 IP：`DOMAIN-SUFFIX` 命中就不必再查 DNS。
-- IP 规则一律带 `no-resolve`，避免为未解析的域名触发查询、或解析失败中断匹配。
-- Cloudflare / Fastly 这类共享地址池不整段收录，只收能确认归属的 `/32` 或小网段，防止误伤正常站点。
-- 共用托管后缀（`*.pages.dev`、`*.qzz.io`、`*.dpdns.org`、`*.cc.cd`）必须用 `DOMAIN,` 精确匹配。
+各客户端目录另有说明：[`rule/Surge`](rule/Surge/README.md) · [`rule/Loon`](rule/Loon/README.md) · [`rule/Qx`](rule/Qx/README.md)
 
 ---
-
 
 ## 图标集
 
@@ -58,7 +82,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/API.list, tag=API
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ```
 
-501 个 256×256 PNG，统一「彩色圆角底 + 白色图形」，浅色底自动改用深色图形。
+501 个 256×256 PNG，统一「彩色圆角底 + 白色图形」，浅色底自动换深色图形。全部图标见 [预览图](icon/preview.jpg)。
 
 | 分类 | 数量 | 示例 |
 |---|---:|---|
@@ -67,16 +91,11 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 | `app` | 80 | Telegram、GitHub、Steam、PayPal、Notion、Discord |
 | `policy` | 67 | Direct、Proxy、Reject、机场、专线、中转、订阅 |
 | `region` | 63 | HK、TW、JP、SG、US、UK、DE、CN |
-| `service` | 24 | Apple、Google、Amazon、Microsoft、Mail |
-| `brand` | 15 | 机场品牌图标 |
+| `service` | 24 | Apple、Google、Amazon、Microsoft |
+| `brand` | 15 | 机场品牌 |
 | `protocol` | 14 | SS、VMess、VLESS、Trojan、Hysteria2、TUIC、WireGuard |
 | `server` | 11 | IEPL、IPLC、BGP、GIA、CN2、5G、WiFi |
 | `tool` | 3 | Quantumult X、Qure、Vercel |
-| `other` | — | 尚未归类的图标 |
-
-预览见 [icon/preview.jpg](icon/preview.jpg)，命名规则与新增方式见 [icon/README.md](icon/README.md)。
-
-### 在配置里使用
 
 ```ini
 [Proxy Group]
@@ -84,65 +103,98 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 🤖 ChatGPT = select, ..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/ai/OpenAI.png
 ```
 
-图标名就是 `icons.json` 里的 `name`，`url` 指向对应分类目录。
+新增或删除 `icon/icons/<分类>/` 下的 PNG 后，Actions 会自动重建 `icons.json`。详见 [icon/README.md](icon/README.md)。
+
+---
+
+## 存档与致谢
+
+社区作者的规则、脚本、模块与重写按**用户名分类**快照在 [`archive/`](archive)，18 个仓库、约 290 个文件。
+
+| 作者 | 内容 |
+|---|---|
+| blackmatrix7 | Surge / Loon / QX / Clash 全平台规则集 |
+| Hackl0us | SS-Rule-Snippet，三端规则片段 |
+| zqzess | 规则 + 模块，每周自动更新 |
+| geekdada · scomper | Surge 规则整理 |
+| Orz-3 · KOP-XIAO | Quantumult X 规则、重写与脚本 |
+| NobyDa · chavyleung · Peng-YM · yichahucha · Tartarus2014 · ddgksf2013 | 签到、任务与工具箱脚本 |
+| app2smile · fmz200 · VirgilClyne · Semporia | Loon 插件、Surge 模块、QX 重写 |
+| Koolson | Qure 图标分类 JSON |
+
+完整名单、仓库链接与许可见 [`CREDITS.md`](CREDITS.md)；存档说明见 [`archive/README.md`](archive/README.md)。
+
+> 存档是某一时点的快照，不参与规则生成、不随上游更新；版权归原作者，如不希望被收录，开 issue 即删。
+
+---
+
+## 工具
+
+```sh
+python3 rule/convert.py                    # Surge → Loon / Quantumult X
+python3 tools/lint_rules.py                # 规则检查
+python3 tools/lint_rules.py --fix          # 修重复、被更宽规则覆盖的条目
+GITHUB_TOKEN=xxx python3 tools/archive_upstream.py   # 抓取上游存档
+python3 tools/gen_credits.py               # 重新生成 CREDITS.md
+python3 icon/build_icons.py --rebuild      # 重建 icons.json
+```
+
+`lint_rules.py` 检查：语法、重复行、`DOMAIN` 被 `DOMAIN-SUFFIX` 覆盖、IP 段被更宽网段覆盖、CIDR 主机位、域名误写成 keyword。
+
+---
+
+## 自动化
+
+| 工作流 | 触发 | 作用 |
+|---|---|---|
+| `sync-rule-formats.yml` | 改动 `rule/Surge/**` | 生成 Loon 与 QX 规则 |
+| `sync-airport.yml` | 每天 21:43 UTC | 从 Telegram `@jichang_list` 抓新机场域名，校验后追加 |
+| `sync-icons.yml` | 改动 `icon/icons/**`、每周一 | 重建 `icons.json` 并校验条目完整性 |
+| `lint-rules.yml` | 改动 `rule/**`、`tools/**` | 规则语法与冗余检查 |
+| `sync-venera-sources.yml` | 每周一 | 同步上游漫画源 |
 
 ---
 
 ## 目录结构
 
 ```
-rule/Surge/         规则源文件（改这里）
-rule/Loon/          Loon 规则（自动生成）
-rule/Qx/            Quantumult X 规则（自动生成）
-rule/convert.py     Surge → Loon / QX 转换脚本
-tools/lint_rules.py 规则检查与整理（语法 / 重复 / 冗余 / 覆盖）
-tools/archive_upstream.py  抓取社区规则与脚本存档
-archive/<作者>/<仓库>/     上游快照，见 archive/README.md
-CREDITS.md          致谢名单
+rule/
+  Surge/            规则源文件（改这里）
+  Loon/             Loon 规则（自动生成）
+  Qx/               Quantumult X 规则（自动生成）
+  convert.py        Surge → Loon / QX 转换
 icon/
-  icons/<分类>/      图标源文件（PNG）
-  icons.json        自动生成的 Surge 图标索引
-  categories.json   图标名 → 分类的映射
+  icons/<分类>/     501 个图标源文件
+  icons.json        Surge 图标索引（自动生成）
+  categories.json   图标名 → 分类
   preview.jpg       全部图标预览
-  build_icons.py    重建 icons.json
-  make_*.py         品牌图标 / 文字图标 / TypingMind 图标生成脚本
+  build_icons.py    重建索引
+  make_*.py         品牌 / 文字 / TypingMind 图标生成
+archive/<作者>/<仓库>/   上游快照 + ARCHIVE.md
+tools/
+  lint_rules.py     规则检查
+  archive_upstream.py  上游抓取
+  gen_credits.py    生成致谢名单
 Script/Loon/        Loon 脚本与插件
 Venera/             漫画源镜像（自动同步）
-.github/workflows/  自动化任务
 ```
 
-## 自动化
+---
 
-| 工作流 | 触发 | 作用 |
-|---|---|---|
-| `sync-icons.yml` | 改动 `icon/icons/**`、每周一 | 重建 `icons.json` 并校验：每个条目都有文件、无重名 |
-| `sync-airport.yml` | 每天 21:43 UTC | 从 Telegram `@jichang_list` 抓新机场域名，DoH 校验后追加 |
-| `sync-rule-formats.yml` | 改动 `rule/Surge/**` | 生成 Loon 与 QX 规则并校验 |
-| `lint-rules.yml` | 改动 `rule/**`、`tools/**` | 规则语法与冗余检查 |
-| `sync-venera-sources.yml` | 每周一 | 同步上游漫画源 |
+## 编写约定
 
-## 存档与致谢
+| 约定 | 原因 |
+|---|---|
+| 先域名、后 IP | 域名规则命中即结束，不必触发 DNS 查询 |
+| IP 规则一律带 `no-resolve` | 避免为未解析域名查询，也避免解析失败中断整条规则链 |
+| 不收 Cloudflare / Fastly 大段地址池 | 共享 IP，整段收录会误伤正常站点 |
+| 托管后缀用 `DOMAIN,` 精确匹配 | `*.pages.dev`、`*.qzz.io` 这类后缀下住着大量无关站点 |
+| 规则只改 `rule/Surge` | 另外两份由脚本生成，手改会被覆盖 |
 
-社区作者的规则、脚本、模块与重写按**用户名分类**快照在 [`archive/`](archive)，
-版权归原作者，完整名单见 [`CREDITS.md`](CREDITS.md)。
-
-```sh
-GITHUB_TOKEN=xxx python3 tools/archive_upstream.py   # 重新抓取
-```
-
-存档不参与本仓库的规则生成，也不会自动跟随上游更新。
-
-## 规则检查
-
-```sh
-python3 tools/lint_rules.py           # 检查
-python3 tools/lint_rules.py --fix     # 修掉重复、被更宽规则覆盖的条目
-```
-
-检查项：语法、重复行、`DOMAIN` 被 `DOMAIN-SUFFIX` 覆盖、IP 段被更宽网段覆盖、CIDR 主机位、域名写成 keyword 等。
+---
 
 ## 说明
 
-- 规则与图标均为自用整理，按需取用；第三方图标版权归原作者（[Qure](https://github.com/Koolson/Qure)、[TypingMind](https://custom.typingmind.com)、simple-icons 等）。
-- Quantumult X 的规则必须带策略，转换时用的是 `proxy` / `direct`，可在 `[filter_remote]` 用 `force-policy` 覆盖。
-- 机场与中转站域名轮换频繁，规则会每天自动补新，但不自动删除失效条目。
+- 规则与图标为自用整理，按需取用，不保证覆盖所有场景。
+- 第三方图标与规则版权归原作者，见 [`CREDITS.md`](CREDITS.md)。
+- 机场与中转站域名轮换频繁，规则每天自动补新，但不自动删除失效条目。

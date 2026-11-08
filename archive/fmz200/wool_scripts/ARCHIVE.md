@@ -15,7 +15,7 @@
 - `Loon/plugin/XWebAds.plugin`
 - `Loon/plugin/cookies.plugin`
 - `QuantumultX/config/QuanX.conf`
+- `Loon/plugin/split/partI/i3.lpx`
 - `Loon/plugin/Auto_Join_TF.plugin`
-- `Loon/plugin/Block_HTTPDNS.plugin`
-- `Loon/plugin/WeChatMiniAds.plugin`
-- `QuantumultX/rewrite/weibo.snippet`
+- `Loon/plugin/split/part3/360.lpx`
+- `Loon/plugin/split/part5/500.lpx`
