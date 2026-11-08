@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 | `build_icons.py` | 重建 `icons.json`；不带参数时还会从上游图标库补齐缺失图标 |
 | `make_text_icons.py` | 为协议/策略生成文字占位图标（需中文字体） |
 | `make_brand_icons.py` | 拉取 simple-icons / iconify 的品牌 SVG，渲染成圆角品牌图标 |
-| `make_typingmind_icons.py` | 从 TypingMind 模型图标库导入 AI 厂商图标（60 个） |
+| `make_typingmind_icons.py` | 从 TypingMind 模型图标库导入 AI 厂商图标（121 个） |
 
 ## 新增或删除图标
 

@@ -15,6 +15,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/AI.png"
     },
     {
+      "name": "AI2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/AI2.png"
+    },
+    {
       "name": "AI21.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/AI21.png"
     },
@@ -187,6 +191,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Available_1.png"
     },
     {
+      "name": "Aya.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Aya.png"
+    },
+    {
       "name": "Azure.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Azure.png"
     },
@@ -343,8 +351,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/China_Map.png"
     },
     {
+      "name": "Chutes.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Chutes.png"
+    },
+    {
       "name": "Claude.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Claude.png"
+    },
+    {
+      "name": "Cline.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Cline.png"
     },
     {
       "name": "Cloudflare.png",
@@ -361,6 +377,10 @@
     {
       "name": "Clubhouse_2.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Clubhouse_2.png"
+    },
+    {
+      "name": "Codex.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Codex.png"
     },
     {
       "name": "Cohere.png",
@@ -411,6 +431,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Cydia.png"
     },
     {
+      "name": "DALLE.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DALLE.png"
+    },
+    {
       "name": "DAZN.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DAZN.png"
     },
@@ -421,6 +445,10 @@
     {
       "name": "DAZN_2.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DAZN_2.png"
+    },
+    {
+      "name": "DBRX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DBRX.png"
     },
     {
       "name": "DE.png",
@@ -437,6 +465,10 @@
     {
       "name": "DeepInfra.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DeepInfra.png"
+    },
+    {
+      "name": "DeepMind.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/DeepMind.png"
     },
     {
       "name": "DeepSeek.png",
@@ -469,6 +501,10 @@
     {
       "name": "Disney_2.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Disney_2.png"
+    },
+    {
+      "name": "Dolphin.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Dolphin.png"
     },
     {
       "name": "Domestic.png",
@@ -539,8 +575,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/European_Union.png"
     },
     {
+      "name": "Exa.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Exa.png"
+    },
+    {
       "name": "FI.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/FI.png"
+    },
+    {
+      "name": "FLUX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/FLUX.png"
     },
     {
       "name": "FOX.png",
@@ -553,6 +597,22 @@
     {
       "name": "Facebook.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Facebook.png"
+    },
+    {
+      "name": "Fal.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Fal.png"
+    },
+    {
+      "name": "Falcon.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Falcon.png"
+    },
+    {
+      "name": "FastGPT.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/FastGPT.png"
+    },
+    {
+      "name": "Featherless.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Featherless.png"
     },
     {
       "name": "Filter.png",
@@ -573,6 +633,10 @@
     {
       "name": "Finland.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Finland.png"
+    },
+    {
+      "name": "Firecrawl.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Firecrawl.png"
     },
     {
       "name": "Fireworks.png",
@@ -633,6 +697,10 @@
     {
       "name": "GitHub_Letter.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/GitHub_Letter.png"
+    },
+    {
+      "name": "Glama.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Glama.png"
     },
     {
       "name": "Global.png",
@@ -711,8 +779,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/HTTP.png"
     },
     {
+      "name": "Hailuo.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Hailuo.png"
+    },
+    {
+      "name": "Haiper.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Haiper.png"
+    },
+    {
       "name": "Heart.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Heart.png"
+    },
+    {
+      "name": "Hedra.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Hedra.png"
     },
     {
       "name": "Hijacking.png",
@@ -725,6 +805,14 @@
     {
       "name": "Hong_Kong.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Hong_Kong.png"
+    },
+    {
+      "name": "Huawei.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Huawei.png"
+    },
+    {
+      "name": "HuaweiCloud.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/HuaweiCloud.png"
     },
     {
       "name": "HuggingFace.png",
@@ -753,6 +841,10 @@
     {
       "name": "Hysteria2.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Hysteria2.png"
+    },
+    {
+      "name": "IBM.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/IBM.png"
     },
     {
       "name": "IEPL.png",
@@ -839,6 +931,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Kimi.png"
     },
     {
+      "name": "Kling.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Kling.png"
+    },
+    {
+      "name": "Kluster.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Kluster.png"
+    },
+    {
       "name": "Korea.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Korea.png"
     },
@@ -849,6 +949,14 @@
     {
       "name": "LA_Map.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/LA_Map.png"
+    },
+    {
+      "name": "LLaVA.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/LLaVA.png"
+    },
+    {
+      "name": "LMStudio.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/LMStudio.png"
     },
     {
       "name": "LOL.png",
@@ -925,6 +1033,10 @@
     {
       "name": "Luffy.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Luffy.png"
+    },
+    {
+      "name": "Luma.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Luma.png"
     },
     {
       "name": "MO.png",
@@ -1087,6 +1199,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/OpenAI.png"
     },
     {
+      "name": "OpenChat.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/OpenChat.png"
+    },
+    {
       "name": "OpenRouter.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/OpenRouter.png"
     },
@@ -1109,6 +1225,10 @@
     {
       "name": "PH.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/PH.png"
+    },
+    {
+      "name": "PaLM.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/PaLM.png"
     },
     {
       "name": "Panda.png",
@@ -1149,6 +1269,10 @@
     {
       "name": "Pig.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Pig.png"
+    },
+    {
+      "name": "Pika.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Pika.png"
     },
     {
       "name": "Pirate_Nation.png",
@@ -1243,8 +1367,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Qwen.png"
     },
     {
+      "name": "Qwen2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Qwen2.png"
+    },
+    {
       "name": "RU.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/RU.png"
+    },
+    {
+      "name": "RWKV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/RWKV.png"
     },
     {
       "name": "Rainbow.png",
@@ -1291,6 +1423,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Round_Robin_1.png"
     },
     {
+      "name": "Runway.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Runway.png"
+    },
+    {
       "name": "Russia.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Russia.png"
     },
@@ -1335,6 +1471,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/School.png"
     },
     {
+      "name": "SearXNG.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/SearXNG.png"
+    },
+    {
+      "name": "SenseNova.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/SenseNova.png"
+    },
+    {
       "name": "Server.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Server.png"
     },
@@ -1355,12 +1499,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Siri.png"
     },
     {
+      "name": "Skywork.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Skywork.png"
+    },
+    {
       "name": "Sling_TV.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Sling_TV.png"
     },
     {
       "name": "Snell.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Snell.png"
+    },
+    {
+      "name": "Snowflake.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Snowflake.png"
+    },
+    {
+      "name": "Sora.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Sora.png"
     },
     {
       "name": "Spark.png",
@@ -1373,6 +1529,10 @@
     {
       "name": "Spotify.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Spotify.png"
+    },
+    {
+      "name": "Stability.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Stability.png"
     },
     {
       "name": "Stack.png",
@@ -1401,6 +1561,10 @@
     {
       "name": "Steam.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Steam.png"
+    },
+    {
+      "name": "StepFun.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/StepFun.png"
     },
     {
       "name": "Streaming!CN.png",
@@ -1471,6 +1635,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Taobao.png"
     },
     {
+      "name": "Targon.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Targon.png"
+    },
+    {
+      "name": "Tavily.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Tavily.png"
+    },
+    {
       "name": "Telegram.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Telegram.png"
     },
@@ -1499,6 +1671,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Thailand.png"
     },
     {
+      "name": "Tiangong.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Tiangong.png"
+    },
+    {
       "name": "TikTok.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/TikTok.png"
     },
@@ -1513,6 +1689,10 @@
     {
       "name": "Together.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Together.png"
+    },
+    {
+      "name": "Trae.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Trae.png"
     },
     {
       "name": "Transit.png",
@@ -1567,6 +1747,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/US.png"
     },
     {
+      "name": "Udio.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Udio.png"
+    },
+    {
       "name": "Ukraine.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Ukraine.png"
     },
@@ -1603,6 +1787,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Vercel.png"
     },
     {
+      "name": "VertexAI.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/VertexAI.png"
+    },
+    {
+      "name": "Vicuna.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Vicuna.png"
+    },
+    {
       "name": "Vimeo.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Vimeo.png"
     },
@@ -1621,6 +1813,10 @@
     {
       "name": "Vmess.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Vmess.png"
+    },
+    {
+      "name": "Volcengine.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Volcengine.png"
     },
     {
       "name": "Voyage.png",
@@ -1661,6 +1857,10 @@
     {
       "name": "Windows_11.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Windows_11.png"
+    },
+    {
+      "name": "Windsurf.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/Windsurf.png"
     },
     {
       "name": "WireGuard.png",
@@ -1775,6 +1975,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/myTV_SUPER.png"
     },
     {
+      "name": "n8n.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/n8n.png"
+    },
+    {
       "name": "niconico.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/niconico.png"
     },
@@ -1793,6 +1997,10 @@
     {
       "name": "ssLinks.png",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/ssLinks.png"
+    },
+    {
+      "name": "vLLM.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/vLLM.png"
     },
     {
       "name": "xAI.png",
