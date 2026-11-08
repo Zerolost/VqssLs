@@ -6,7 +6,7 @@
 ![Loon](https://img.shields.io/badge/Loon-✓-black?style=flat-square)
 ![Quantumult X](https://img.shields.io/badge/Quantumult%20X-✓-black?style=flat-square)
 ![rules](https://img.shields.io/badge/规则-634条-blue?style=flat-square)
-![icons](https://img.shields.io/badge/图标-40200个-purple?style=flat-square)
+![icons](https://img.shields.io/badge/图标-40250个-purple?style=flat-square)
 
 ---
 
@@ -82,12 +82,12 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Simular.list, tag
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ```
 
-40200 个图标，按用途拆成 **12 个分类集**，App Store 部分再按品类细分成 26 个子集。
+40250 个图标，按用途拆成 **12 个分类集**，App Store 部分再按品类细分成 26 个子集。
 全部图标见 [预览图](icon/preview.jpg)，分类与子集见 [icon/README.md](icon/README.md)。
 
 | 分类 | 数量 | 示例 |
 |---|---:|---|
-| `appstore` | 38198 | App Store 图标，按 Games / Social / Productivity 等品类分目录 |
+| `appstore` | 38248 | App Store 图标，按 Games / Social / Productivity 等品类分目录 |
 | `emby` | 557 | Emby 服务器 |
 | `app` | 379 | Telegram、GitHub、Steam、PayPal、Notion、Discord |
 | `brand` | 344 | 机场与代理品牌 |
@@ -173,7 +173,7 @@ rule/
   Qx/               Quantumult X 规则（自动生成）
   convert.py        Surge → Loon / QX 转换
 icon/
-  icons/<分类>/     40200 个图标源文件（appstore 按品类分子目录）
+  icons/<分类>/     40250 个图标源文件（appstore 按品类分子目录）
   sets/             12 个分类图标集 + 26 个 App Store 品类子集
   icons.json        Surge 图标索引（自动生成）
   categories.json   图标名 → 分类
