@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 | `build_icons.py` | 重建 `icons.json`；不带参数时还会从上游图标库补齐缺失图标 |
 | `make_text_icons.py` | 为协议/策略生成文字占位图标（需中文字体） |
 | `make_brand_icons.py` | 拉取 simple-icons / iconify 的品牌 SVG，渲染成圆角品牌图标 |
+| `make_typingmind_icons.py` | 从 TypingMind 模型图标库导入 AI 厂商图标（60 个） |
 
 ## 新增或删除图标
 
@@ -40,6 +41,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ## 图标来源
 
 - [Qure](https://github.com/Koolson/Qure)：主体彩色图标集（MIT 授权，保留原作者署名）
+- [TypingMind](https://custom.typingmind.com)：AI 模型与厂商图标（OpenAI / Anthropic / Gemini / DeepSeek / Qwen / Cohere / Groq …）
 - 自绘占位图标：协议名（SS / VM / VL / TR / H2 / TUIC …）、策略组名（Airport / Transit / Direct …）
 
 ## 本地生成图标
@@ -50,6 +52,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 apk add rsvg-convert font-noto-cjk        # SVG 渲染 + 中文字体
 python3 make_brand_icons.py               # 品牌图标（OpenAI / Claude / Gemini / DeepSeek …）
 python3 make_text_icons.py                # 文字占位图标（机场 / 专线 / 中转 / 订阅 …）
+python3 make_typingmind_icons.py          # 从 TypingMind 导入 AI 厂商图标
 python3 build_icons.py --rebuild          # 重建 icons.json
 ```
 
