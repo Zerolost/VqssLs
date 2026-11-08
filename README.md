@@ -1,6 +1,6 @@
 # VqssLs
 
-自用的 Surge 资源库：**分流规则集**、**图标集**，以及配套的同步脚本与 GitHub Actions。
+自用的 [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)/[Loon](https://apps.apple.com/us/app/loon/id1373567447)/[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) 资源库：**分流规则集**、**图标集**，以及配套的同步脚本与 GitHub Actions。
 
 规则集按主题拆分，可直接 `RULE-SET` 引用；图标集是标准 Surge 图标 JSON，500+ 个图标按分类存放，新增或删除 PNG 后由 Actions 自动重建索引。
 
@@ -91,5 +91,5 @@ Venera/             漫画源镜像（自动同步）
 
 ## 说明
 
-- 规则与图标均为自用整理，按需取用；第三方图标版权归原作者（Qure、TypingMind、simple-icons 等）。
+- 规则与图标均为自用整理，按需取用；第三方图标版权归原作者（[Qure](https://github.com/Koolson/Qure)、[TypingMind](https://custom.typingmind.com)、simple-icons 等）。
 - 机场与中转站域名轮换频繁，规则会每天自动补新，但不自动删除失效条目。
