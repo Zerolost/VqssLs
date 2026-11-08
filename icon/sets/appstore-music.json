@@ -10,6 +10,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/5sing%E9%9F%B3%E4%B9%90_473613148.png"
     },
     {
+      "name": "AIAudioEditor&Converter_1597951883",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AIAudioEditor%26Converter_1597951883.png"
+    },
+    {
+      "name": "AIAudioEditor-Audioshop_6754245995",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AIAudioEditor-Audioshop_6754245995.png"
+    },
+    {
       "name": "AISongAIMusicGenerator_6489035718",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AISongAIMusicGenerator_6489035718.png"
     },
@@ -66,8 +74,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudifyMusicPlayer_1565520195.png"
     },
     {
+      "name": "AudioEditor-MergeMusic_1670031885",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioEditor-MergeMusic_1670031885.png"
+    },
+    {
+      "name": "AudioEditor-MusicMixer_1345937284",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioEditor-MusicMixer_1345937284.png"
+    },
+    {
+      "name": "AudioEditorMP3Converter_6451138713",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioEditorMP3Converter_6451138713.png"
+    },
+    {
       "name": "AudioEditorToolEditMusic_960205691",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioEditorToolEditMusic_960205691.png"
+    },
+    {
+      "name": "AudioEditorToolSoundLab_960205691",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioEditorToolSoundLab_960205691.png"
     },
     {
       "name": "AudioFusion_1607451929",
@@ -140,6 +164,10 @@
     {
       "name": "CloudMusicPlayerOfflineApp_1481876665",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/CloudMusicPlayerOfflineApp_1481876665.png"
+    },
+    {
+      "name": "CrankMelody_6444745115",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/CrankMelody_6444745115.png"
     },
     {
       "name": "CrossDJ-MusicMixerApp_584824960",
@@ -228,6 +256,10 @@
     {
       "name": "Editanyaudio,soundEdity_1220467331",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Editanyaudio%2CsoundEdity_1220467331.png"
+    },
+    {
+      "name": "Edity-MusicEditor&MixerDAW_1220467331",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Edity-MusicEditor%26MixerDAW_1220467331.png"
     },
     {
       "name": "EdjingMixDJMusicMixer_493226494",
@@ -346,6 +378,22 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3Converter-AudioExtractor_1305099161.png"
     },
     {
+      "name": "MP3Converter-AudioTrimmer_6739273941",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3Converter-AudioTrimmer_6739273941.png"
+    },
+    {
+      "name": "MP3Converter-RemoveVocals_6450625672",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3Converter-RemoveVocals_6450625672.png"
+    },
+    {
+      "name": "MP3ConverterVideotoMP3App_6746092658",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3ConverterVideotoMP3App_6746092658.png"
+    },
+    {
+      "name": "MP3RingtoneMakerforiPhone_6742054029",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3RingtoneMakerforiPhone_6742054029.png"
+    },
+    {
       "name": "MelodistaMusicOfflinePlayer_1293175325",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MelodistaMusicOfflinePlayer_1293175325.png"
     },
@@ -368,6 +416,10 @@
     {
       "name": "MilkFrogMusic-MemeBeats_6762385358",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MilkFrogMusic-MemeBeats_6762385358.png"
+    },
+    {
+      "name": "MiniWhiteNoise_1510879466",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MiniWhiteNoise_1510879466.png"
     },
     {
       "name": "MixcloudMusic,Mixes&Radio_401206431",
@@ -400,6 +452,10 @@
     {
       "name": "MusicCloudOffline_1062417998",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicCloudOffline_1062417998.png"
+    },
+    {
+      "name": "MusicEditor-AudioEditor_6443918581",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicEditor-AudioEditor_6443918581.png"
     },
     {
       "name": "MusicEditorCutMP3Converter_1663471569",
@@ -482,6 +538,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NotionMusicNotation%26Tab_475820434.png"
     },
     {
+      "name": "NowRepeater_1435049935",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NowRepeater_1435049935.png"
+    },
+    {
       "name": "OnSong2026_1330350343",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OnSong2026_1330350343.png"
     },
@@ -514,6 +574,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/QobuzMusic%26Editorial_946429340.png"
     },
     {
+      "name": "QuietlyListening_1540535863",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/QuietlyListening_1540535863.png"
+    },
+    {
       "name": "RapFame-RapMusicStudio_1476399789",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RapFame-RapMusicStudio_1476399789.png"
     },
@@ -530,8 +594,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingTuneRingtonesforiPhone_1036141497.png"
     },
     {
+      "name": "RingtoneDuoduo_6737532120",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingtoneDuoduo_6737532120.png"
+    },
+    {
+      "name": "RingtoneMaker-RingTune_1036141497",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingtoneMaker-RingTune_1036141497.png"
+    },
+    {
+      "name": "RingtoneMakerAudioEditor_1404293477",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingtoneMakerAudioEditor_1404293477.png"
+    },
+    {
       "name": "Rythmix-AIMusicGenerator_6736849866",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Rythmix-AIMusicGenerator_6736849866.png"
+    },
+    {
+      "name": "STAELLA-MusicVisualizerVJ_1370376584",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/STAELLA-MusicVisualizerVJ_1370376584.png"
     },
     {
       "name": "STAELLA-音乐可视化播放器,频谱特效剪辑VJ_1370376584",
@@ -786,6 +866,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/bandzo_669877337.png"
     },
     {
+      "name": "bedralarmclockradio_1053241118",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/bedralarmclockradio_1053241118.png"
+    },
+    {
       "name": "myTunerRadioPlayer-LiveFM_520502858",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/myTunerRadioPlayer-LiveFM_520502858.png"
     },
@@ -838,6 +922,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8D%8E%E8%8E%BA%E9%9F%B3%E4%B9%90_1491110953.png"
     },
     {
+      "name": "古典名曲欣賞免费版HD万年历猎豹内存浏览器QQ同步推助手_833461411",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E5%90%8D%E6%9B%B2%E6%AC%A3%E8%B3%9E%E5%85%8D%E8%B4%B9%E7%89%88HD%E4%B8%87%E5%B9%B4%E5%8E%86%E7%8C%8E%E8%B1%B9%E5%86%85%E5%AD%98%E6%B5%8F%E8%A7%88%E5%99%A8QQ%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%8A%A9%E6%89%8B_833461411.png"
+    },
+    {
       "name": "古典音乐大师作品精选集：世界经典名曲系列123卷_388835399",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%A4%A7%E5%B8%88%E4%BD%9C%E5%93%81%E7%B2%BE%E9%80%89%E9%9B%86%EF%BC%9A%E4%B8%96%E7%95%8C%E7%BB%8F%E5%85%B8%E5%90%8D%E6%9B%B2%E7%B3%BB%E5%88%97123%E5%8D%B7_388835399.png"
     },
@@ -874,6 +962,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%B0%8F%E5%AE%87%E5%AE%99%C2%B7%E4%B8%80%E8%B5%B7%E5%90%AC%E6%92%AD%E5%AE%A2_1488894313.png"
     },
     {
+      "name": "小旋风收音机-FM调频广播电台_6458733365",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%B0%8F%E6%97%8B%E9%A3%8E%E6%94%B6%E9%9F%B3%E6%9C%BA-FM%E8%B0%83%E9%A2%91%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0_6458733365.png"
+    },
+    {
       "name": "小歌单-HotChineseSongs_6504723305",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%B0%8F%E6%AD%8C%E5%8D%95-HotChineseSongs_6504723305.png"
     },
@@ -906,6 +998,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%98%9F%E6%B5%B7%E5%BC%B9%E5%BC%B9-%E8%BD%BB%E6%9D%BE%E5%BC%B9%E5%94%B1%E5%BF%AB%E4%B9%90%E7%8E%A9%E9%9F%B3%E4%B9%90_6448904224.png"
     },
     {
+      "name": "最爱钢琴曲(LovePiano)—工作睡眠必备_1275877336",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9C%80%E7%88%B1%E9%92%A2%E7%90%B4%E6%9B%B2%28LovePiano%29%E2%80%94%E5%B7%A5%E4%BD%9C%E7%9D%A1%E7%9C%A0%E5%BF%85%E5%A4%87_1275877336.png"
+    },
+    {
       "name": "木鱼-念经解压_6444507425",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9C%A8%E9%B1%BC-%E5%BF%B5%E7%BB%8F%E8%A7%A3%E5%8E%8B_6444507425.png"
     },
@@ -936,6 +1032,10 @@
     {
       "name": "海贝音乐_1048838844",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B5%B7%E8%B4%9D%E9%9F%B3%E4%B9%90_1048838844.png"
+    },
+    {
+      "name": "深度睡眠-白噪音冥想呼吸解压助眠哄睡_1547739620",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0-%E7%99%BD%E5%99%AA%E9%9F%B3%E5%86%A5%E6%83%B3%E5%91%BC%E5%90%B8%E8%A7%A3%E5%8E%8B%E5%8A%A9%E7%9C%A0%E5%93%84%E7%9D%A1_1547739620.png"
     },
     {
       "name": "爱听-高品质音乐畅快听_1222207449",
