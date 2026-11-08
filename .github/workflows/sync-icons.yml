@@ -34,9 +34,12 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, os, sys
+          import urllib.parse
           data = json.load(open('icons.json'))
           icons = data['icons']
-          missing = [i['name'] for i in icons if not os.path.exists(os.path.join('icons', i['name']))]
+          def rel(i):
+              return urllib.parse.unquote(i['url'].split('/icons/', 1)[1])
+          missing = [i['name'] for i in icons if not os.path.exists(os.path.join('icons', rel(i)))]
           if missing:
               print('missing files:', missing[:10])
               sys.exit(1)
