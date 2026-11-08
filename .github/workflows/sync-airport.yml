@@ -23,6 +23,9 @@ jobs:
       - name: Collect new airport domains
         run: python3 .github/scripts/update-airport.py
 
+      - name: Sync Loon and Quantumult X formats
+        run: python3 rule/convert.py
+
       - name: Validate rule file
         run: |
           python3 - <<'PY'
@@ -39,7 +42,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add rule/Surge/Airport.list
+          git add rule/Surge/Airport.list rule/Loon rule/Qx
           if git diff --cached --quiet; then
             echo 'No new airports'
             exit 0

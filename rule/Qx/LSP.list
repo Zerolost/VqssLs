@@ -1,0 +1,236 @@
+# LSP · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# ============ LSP 综合站群 ============
+# 紳士漫畫
+host-suffix, wnacg.com, proxy
+host-suffix, wnacg01.link, proxy
+host-suffix, wnacg02.link, proxy
+host-suffix, wn01.link, proxy
+host-suffix, wn01.cfd, proxy
+host-suffix, wn02.cfd, proxy
+host-suffix, wn03.cfd, proxy
+host-suffix, wn04.cfd, proxy
+host-suffix, wn05.cfd, proxy
+host-suffix, wn01.shop, proxy
+host-suffix, wn02.shop, proxy
+host-suffix, wn03.shop, proxy
+host-suffix, wn04.shop, proxy
+host-suffix, wn05.shop, proxy
+host-suffix, wnimg1.ru, proxy
+host-suffix, wnlink.ru, proxy
+host-suffix, wnacg01.cc, proxy
+host-suffix, wnacg02.cc, proxy
+host-suffix, wnacg03.cc, proxy
+host-suffix, wnacg05.cc, proxy
+host-suffix, wn03.ru, proxy
+host-suffix, wn04.ru, proxy
+host-suffix, wn05.ru, proxy
+host-suffix, wn06.ru, proxy
+host-suffix, wn07.ru, proxy
+host-suffix, wn08.ru, proxy
+host-suffix, wnbbs.cc, proxy
+# 喜漫
+host-suffix, favcomic.com, proxy
+host-suffix, favcomic.xyz, proxy
+# 18漫画
+host-suffix, 18mh.net, proxy
+host-suffix, 18mh.cc, proxy
+host-suffix, qkfmoba.cc, proxy
+host-suffix, 7401.dnutdzq.com, proxy
+host-suffix, pic.fcnpce.cn, proxy
+# HAnime
+host-suffix, hanime.tv, proxy
+host-suffix, hanime-cdn.com, proxy
+host-suffix, uploads.hanime-cdn.com, proxy
+host-suffix, p34.htv-hydaelyn.com, proxy
+host-suffix, m3u8s.highwinds-cdn.com, proxy
+host-suffix, cached.freeanimehentai.net, proxy
+host-suffix, hanime1.me, proxy
+host-suffix, vdownload.hembed.com, proxy
+host-suffix, hembed.com, proxy
+host-suffix, members.hanime.tv, proxy
+host-suffix, animeidhentai.com, proxy
+host-suffix, hentaigasm.com, proxy
+host-suffix, hentaimama.io, proxy
+host-suffix, underhentai.net, proxy
+host-suffix, ohentai.org, proxy
+host-suffix, hentaifreak.org, proxy
+host-suffix, hanimeone.me, proxy
+# 视频分片与解密密钥
+host-suffix, htv-ravana.com, proxy
+host-suffix, htv-services.com, proxy
+host-suffix, hanime1.com, proxy
+host-suffix, hanime.me, proxy
+host-suffix, hanime.io, proxy
+# JMComic
+host-suffix, 18comic-god.cc, proxy
+host-suffix, 18comic-god.club, proxy
+host-suffix, 18comic-god.xyz, proxy
+host-suffix, 18comic.cc, proxy
+host-suffix, 18comic.company, proxy
+host-suffix, 18comic.ink, proxy
+host-suffix, 18comic.org, proxy
+host-suffix, 18comic.vip, proxy
+host-suffix, asjmapihost.cc, proxy
+host-suffix, cdnblackmyth.club, proxy
+host-suffix, cdnmhws.cc, proxy
+host-suffix, cdnmhwscc.vip, proxy
+host-suffix, cdnuc.vip, proxy
+host-suffix, cdnxxx-proxy.co, proxy
+host-suffix, cdnxxx-proxy.xyz, proxy
+host-suffix, comic18j-bibi.cc, proxy
+host-suffix, comic18j-rita.club, proxy
+host-suffix, comic18j-rita.net, proxy
+host-suffix, jm-comic2.cc, proxy
+host-suffix, jm-uu.cc, proxy
+host-suffix, jm18c-bbm.cc, proxy
+host-suffix, jm18c-bbm.net, proxy
+host-suffix, jm18c-oec.club, proxy
+host-suffix, jm18c-uoi.net, proxy
+host-suffix, jm365.work, proxy
+host-suffix, jm365.xyz, proxy
+host-suffix, jmapibranch1.cc, proxy
+host-suffix, jmapibranch2.cc, proxy
+host-suffix, jmapibranch3.cc, proxy
+host-suffix, jmapinode.biz, proxy
+host-suffix, jmapinode.vip, proxy
+host-suffix, jmapinode.xyz, proxy
+host-suffix, jmapinode1.top, proxy
+host-suffix, jmapinode2.top, proxy
+host-suffix, jmapinode3.top, proxy
+host-suffix, jmapinodeudzn.net, proxy
+host-suffix, jmapinodeudzn.xyz, proxy
+host-suffix, jmapiproxy1.cc, proxy
+host-suffix, jmapiproxy1.monster, proxy
+host-suffix, jmapiproxy2.cc, proxy
+host-suffix, jmapiproxy3.cc, proxy
+host-suffix, jmapiproxy4.cc, proxy
+host-suffix, jmapiproxyxxx.vip, proxy
+host-suffix, jmcomic-fb.vip, proxy
+host-suffix, jmcomic-zzz.one, proxy
+host-suffix, jmcomic-zzz.org, proxy
+host-suffix, jmcomic.group, proxy
+host-suffix, jmcomic.ltd, proxy
+host-suffix, jmcomic.me, proxy
+host-suffix, jmcomic.mobi, proxy
+host-suffix, jmcomic.moe, proxy
+host-suffix, jmcomic.rocks, proxy
+host-suffix, jmcomic1.city, proxy
+host-suffix, jmcomic1.me, proxy
+host-suffix, jmcomic1.mobi, proxy
+host-suffix, jmcomic1.rocks, proxy
+host-suffix, jmcomic2.moe, proxy
+host-suffix, jmcomicne.net, proxy
+host-suffix, jmcomicne.org, proxy
+host-suffix, jmcomicui.net, proxy
+# Pica
+host-suffix, picacomic.com, proxy
+host-suffix, picaapi.picacomic.com, proxy
+host-suffix, picaapi.acbbb.com, proxy
+host-suffix, picawiki.xyz, proxy
+host-suffix, manhuabika.com, proxy
+host-suffix, pica.fanjugou13.top, proxy
+host-suffix, picaapi.go2778.com, proxy
+host-suffix, s3.picacomic.com, proxy
+host-suffix, storage1.picacomic.com, proxy
+host-suffix, img.picacomic.com, proxy
+host-suffix, img.safedataplj.com, proxy
+host-suffix, storage-b.go2778.com, proxy
+# ============ 中文漫画 / 同人站 ============
+# 紳士漫畫
+host-suffix, wnacg.org, proxy
+host-suffix, wn01.ru, proxy
+host-suffix, wnacg.icu, proxy
+host-suffix, wnacg.me, proxy
+host-suffix, wnacg.top, proxy
+host-suffix, wnacg.info, proxy
+host-suffix, wnacg.site, proxy
+host-suffix, wnacg.net, proxy
+host-suffix, wnacg.app, proxy
+host-suffix, wnacg1.cc, proxy
+host-suffix, wnacg04.cc, proxy
+host-suffix, wnacg.com.cc, proxy
+# 喜漫
+host-suffix, favcomic.net, proxy
+host-suffix, favcomic.org, proxy
+# 18漫画
+host-suffix, 18mh.com, proxy
+host-suffix, 18mh.org, proxy
+host-suffix, 18mh.xyz, proxy
+host-suffix, 18mh.me, proxy
+host-suffix, 18mh.vip, proxy
+# JMComic
+host-suffix, jmcomic.xyz, proxy
+host-suffix, jmcomic.cc, proxy
+host-suffix, jmcomic.net, proxy
+host-suffix, jmcomic.top, proxy
+host-suffix, jmcomic.app, proxy
+host-suffix, jmcomic1.one, proxy
+host-suffix, jm18c.cc, proxy
+host-suffix, jmapi.cc, proxy
+host-suffix, 18comic.me, proxy
+host-suffix, 18comic.xyz, proxy
+host-suffix, 18comic.com, proxy
+host-suffix, 18comic1.org, proxy
+host-suffix, 18comic1.cc, proxy
+# Pica
+host-suffix, picacomic.net, proxy
+host-suffix, picacomic.org, proxy
+host-suffix, picacomic.xyz, proxy
+# ============ 独立服务器 ============
+# 紳士漫畫主站与关联站
+ip-cidr, 104.20.44.182/32, proxy, no-resolve
+ip-cidr, 172.66.175.138/32, proxy, no-resolve
+ip-cidr, 162.4.84.215/32, proxy, no-resolve
+ip-cidr, 162.4.84.239/32, proxy, no-resolve
+ip-cidr, 162.4.84.241/32, proxy, no-resolve
+ip-cidr, 203.161.33.22/32, proxy, no-resolve
+ip-cidr, 103.224.182.208/32, proxy, no-resolve
+ip-cidr, 103.224.182.244/32, proxy, no-resolve
+ip-cidr, 103.224.182.248/32, proxy, no-resolve
+ip-cidr, 103.224.182.253/32, proxy, no-resolve
+ip-cidr, 37.187.202.102/32, proxy, no-resolve
+ip-cidr, 176.31.176.81/32, proxy, no-resolve
+ip-cidr, 157.90.33.73/32, proxy, no-resolve
+ip-cidr, 157.90.33.74/32, proxy, no-resolve
+ip-cidr, 64.31.3.235/32, proxy, no-resolve
+ip-cidr, 64.31.3.237/32, proxy, no-resolve
+# 紳士漫畫图片与短链
+ip-cidr, 148.113.220.36/32, proxy, no-resolve
+ip-cidr, 118.107.43.97/32, proxy, no-resolve
+ip-cidr, 154.26.176.253/32, proxy, no-resolve
+# 18漫画与图片服务
+ip-cidr, 103.49.212.240/29, proxy, no-resolve
+ip-cidr, 103.41.125.238/31, proxy, no-resolve
+ip-cidr, 103.41.185.240/31, proxy, no-resolve
+ip-cidr, 43.229.39.236/31, proxy, no-resolve
+ip-cidr, 43.230.144.236/31, proxy, no-resolve
+ip-cidr, 23.82.16.53/32, proxy, no-resolve
+ip-cidr, 149.104.32.141/32, proxy, no-resolve
+ip-cidr, 148.135.17.10/32, proxy, no-resolve
+# JM
+ip-cidr, 77.247.179.91/32, proxy, no-resolve
+ip-cidr, 212.92.105.19/32, proxy, no-resolve
+ip-cidr, 212.92.105.210/32, proxy, no-resolve
+ip-cidr, 156.238.228.33/32, proxy, no-resolve
+ip-cidr, 88.214.22.103/32, proxy, no-resolve
+ip-cidr, 206.119.166.170/32, proxy, no-resolve
+ip-cidr, 104.247.81.99/32, proxy, no-resolve
+ip-cidr, 134.122.176.104/32, proxy, no-resolve
+# HAnime
+ip-cidr, 84.17.57.26/31, proxy, no-resolve
+ip-cidr, 95.173.197.104/30, proxy, no-resolve
+ip-cidr, 52.54.152.226/32, proxy, no-resolve
+ip-cidr, 156.146.44.90/32, proxy, no-resolve
+ip-cidr, 185.183.32.122/32, proxy, no-resolve
+# ============ 视频流媒体 CDN ============
+# Cloudflare
+ip-cidr, 104.21.0.0/16, proxy, no-resolve
+ip-cidr, 172.67.0.0/16, proxy, no-resolve
+# Fastly
+ip-cidr, 151.101.0.0/16, proxy, no-resolve
+# AWS CloudFront
+ip-cidr, 13.248.213.45/32, proxy, no-resolve
+ip-cidr, 76.223.67.189/32, proxy, no-resolve
+# JM / Pica 图片 CDN
+ip-cidr, 172.66.173.71/32, proxy, no-resolve
+ip-cidr, 104.20.42.9/32, proxy, no-resolve

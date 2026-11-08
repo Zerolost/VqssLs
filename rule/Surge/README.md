@@ -1,5 +1,7 @@
 # Surge 规则集
 
+**这里是规则的源文件**：改规则只改这个目录，`rule/convert.py` 会生成 `rule/Loon` 与 `rule/Qx`。
+
 一行一条，不含策略，引用时自行指定；域名规则在前，IP 规则在后。
 
 | 文件 | 条数 | 内容 | 建议策略 |
@@ -43,3 +45,4 @@ RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Simul
 
 - `Airport.list` 由 `sync-airport.yml` 每天从 Telegram `@jichang_list` 抓取新域名，DoH 校验后追加，不自动删除。
 - 其余规则集按需手动维护。
+- 本目录任何改动推送后，`sync-rule-formats.yml` 会自动重新生成 Loon 与 Quantumult X 版本。

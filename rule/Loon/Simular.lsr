@@ -1,0 +1,22 @@
+# ============ Simular box ============
+# 主站、文档与子产品
+DOMAIN-SUFFIX,simular.ai
+# Sai 独立品牌站
+DOMAIN-SUFFIX,sai.work
+# MCP 远程服务
+DOMAIN,mcp.box.simular.ai
+# 云端中转 gRPC-Web 与终端通道
+DOMAIN-SUFFIX,simular.cloud
+
+# ============ 服务器 ============
+# box 主站（Google Cloud）
+IP-CIDR,130.211.45.202/32,no-resolve
+# MCP 与中转节点（Google Cloud）
+IP-CIDR,34.160.116.67/32,no-resolve
+# 后端接口（Cloudflare）
+IP-CIDR,8.232.115.111/32,no-resolve
+# Sai 终端（AWS）
+IP-CIDR,34.13.75.242/32,no-resolve
+# 官网与 api.simular.ai（Cloudflare）
+IP-CIDR,198.202.211.1/32,no-resolve
+IP-CIDR,136.81.79.115/32,no-resolve

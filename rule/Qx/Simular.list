@@ -1,0 +1,22 @@
+# Simular · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# ============ Simular box ============
+# 主站、文档与子产品
+host-suffix, simular.ai, proxy
+# Sai 独立品牌站
+host-suffix, sai.work, proxy
+# MCP 远程服务
+host, mcp.box.simular.ai, proxy
+# 云端中转 gRPC-Web 与终端通道
+host-suffix, simular.cloud, proxy
+# ============ 服务器 ============
+# box 主站（Google Cloud）
+ip-cidr, 130.211.45.202/32, proxy, no-resolve
+# MCP 与中转节点（Google Cloud）
+ip-cidr, 34.160.116.67/32, proxy, no-resolve
+# 后端接口（Cloudflare）
+ip-cidr, 8.232.115.111/32, proxy, no-resolve
+# Sai 终端（AWS）
+ip-cidr, 34.13.75.242/32, proxy, no-resolve
+# 官网与 api.simular.ai（Cloudflare）
+ip-cidr, 198.202.211.1/32, proxy, no-resolve
+ip-cidr, 136.81.79.115/32, proxy, no-resolve
