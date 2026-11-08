@@ -6,7 +6,7 @@
 ![Loon](https://img.shields.io/badge/Loon-✓-black?style=flat-square)
 ![Quantumult X](https://img.shields.io/badge/Quantumult%20X-✓-black?style=flat-square)
 ![rules](https://img.shields.io/badge/规则-634条-blue?style=flat-square)
-![icons](https://img.shields.io/badge/图标-5924个-purple?style=flat-square)
+![icons](https://img.shields.io/badge/图标-40200个-purple?style=flat-square)
 
 ---
 
@@ -82,12 +82,12 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Simular.list, tag
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ```
 
-5924 个图标，按用途拆成 **12 个分类集**，App Store 部分再按品类细分成 23 个子集。
+40200 个图标，按用途拆成 **12 个分类集**，App Store 部分再按品类细分成 26 个子集。
 全部图标见 [预览图](icon/preview.jpg)，分类与子集见 [icon/README.md](icon/README.md)。
 
 | 分类 | 数量 | 示例 |
 |---|---:|---|
-| `appstore` | 3922 | App Store 图标，按 Games / Social / Productivity 等品类分目录 |
+| `appstore` | 38198 | App Store 图标，按 Games / Social / Productivity 等品类分目录 |
 | `emby` | 557 | Emby 服务器 |
 | `app` | 379 | Telegram、GitHub、Steam、PayPal、Notion、Discord |
 | `brand` | 344 | 机场与代理品牌 |
@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 | `protocol` | 14 | SS、VMess、VLESS、Trojan、Hysteria2、TUIC |
 | `server` | 11 | IEPL、IPLC、BGP、GIA、CN2、5G、WiFi |
 
-分类图标集（`icon/sets/`）：`ai` `app` `appstore` `brand` `emby` `media` `policy` `protocol` `region` `server` `service` `tool`，App Store 另有 `appstore-games`、`appstore-social` 等 23 个子集。
+分类图标集（`icon/sets/`）：`ai` `app` `appstore` `brand` `emby` `media` `policy` `protocol` `region` `server` `service` `tool`，App Store 另有 `appstore-games`、`appstore-social` 等 26 个子集。
 
 ```ini
 [Proxy Group]
@@ -173,8 +173,8 @@ rule/
   Qx/               Quantumult X 规则（自动生成）
   convert.py        Surge → Loon / QX 转换
 icon/
-  icons/<分类>/     5924 个图标源文件（appstore 按品类分子目录）
-  sets/             12 个分类图标集 + 23 个 App Store 品类子集
+  icons/<分类>/     40200 个图标源文件（appstore 按品类分子目录）
+  sets/             12 个分类图标集 + 26 个 App Store 品类子集
   icons.json        Surge 图标索引（自动生成）
   categories.json   图标名 → 分类
   preview.jpg       全部图标预览

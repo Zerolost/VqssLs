@@ -1,6 +1,6 @@
 # 图标集
 
-5924 个图标，按用途分成 **12 个分类图标集**，App Store 部分再按品类细分成 23 个子集。
+40200 个图标，按用途分成 **12 个分类图标集**，App Store 部分再按品类细分成 26 个子集。
 
 ```
 全部：  https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
@@ -9,13 +9,13 @@
 
 ![预览](preview.jpg)
 
-App Store 部分抽样：[preview-appstore.jpg](preview-appstore.jpg)（共 3922 个，随机 400 个）
+App Store 部分抽样：[preview-appstore.jpg](preview-appstore.jpg)（共 38198 个，随机 400 个）
 
 ## 分类
 
 | 分类 | 数量 | 内容 |
 |---|---:|---|
-| `appstore` | 3922 | App Store 抓取的 App 图标（按品类分子目录） |
+| `appstore` | 38198 | App Store 抓取的 App 图标（按品类分子目录） |
 | `emby` | 557 | Emby 服务器图标 |
 | `app` | 379 | 应用与游戏 |
 | `brand` | 344 | 机场与代理品牌 |
