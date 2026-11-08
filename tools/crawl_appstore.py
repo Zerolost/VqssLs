@@ -16,6 +16,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -43,7 +44,34 @@ AI 助手 人工智能 写作 配音 变声 识图 翻译官 VPN 加速器 游�
 银行 支付 保险 医疗 挂号 问诊 药店 快递 二手 房产 汽车 装修 母婴 宠物 菜谱 美食
 chat photo video music game social news shopping finance travel fitness education
 productivity tools weather camera map music podcast streaming dating banking crypto
-ai chatgpt writing translate vpn browser notes calendar mail cloud storage scanner""".split()
+ai chatgpt writing translate vpn browser notes calendar mail cloud storage scanner
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+0 1 2 3 4 5 6 7 8 9
+工具 系统 优化 省电 内存 网速 测速 流量 加速 代理 梯子 订阅 节点 分享 网盘 相册 备份 同步
+简历 求职 招聘 兼职 面试 课程 单词 口语 听力 题库 考研 考公 证书 笔记 思维导图 待办 日程
+短视频 直播 弹幕 追剧 电影 电视剧 综艺 动漫 番剧 有声 播客 电台 相声 评书 戏曲
+外卖 点餐 菜谱 生鲜 超市 便利店 优惠 返利 团购 秒杀 比价 分期 借贷 信用卡 公积金 社保
+挂号 问诊 体检 经期 孕期 减肥 瑜伽 冥想 睡眠 心率 血压 血糖 步数 骑行 游泳 滑雪
+机票 火车票 酒店 民宿 景点 门票 打车 代驾 租车 停车 加油 违章 导航 公交 地铁 共享单车
+相机 美颜 滤镜 抠图 拼图 壁纸 头像 表情 贴纸 视频剪辑 字幕 配音 变声 混音 修音
+扫描 证件 合同 发票 报销 考勤 审批 会议 白板 团队 协作 项目管理 代码 服务器 数据库
+密码 保险箱 隐私 加密 清理 杀毒 拦截 骚扰 来电 短信 通讯录 备份 换机 迁移
+天气 空气质量 台风 地震 潮汐 日历 倒数 纪念日 记账 预算 资产 基金 股票 期货 外汇 黄金
+kindle ebook reader podcast audiobook meditation yoga diet recipe cooking travel hotel
+flight train taxi parking weather alarm clock timer calculator widget wallpaper theme
+photo editor selfie filter collage scanner fax printer email sms contacts dialer
+antivirus cleaner booster battery file manager ftp ssh terminal database devops
+crypto wallet stock trading banking insurance invoice payroll crm erp kanban
+school college exam vocabulary grammar dictionary thesaurus translation
+dating chat social forum community blog rss news magazine podcast radio
+fitness workout running cycling swimming yoga pilates calorie sleep
+shopping deal coupon cashback delivery grocery food restaurant reservation
+map navigation gps transit parking fuel rental car sharing scooter
+music player equalizer karaoke lyrics video editor vlog live stream
+game rpg puzzle action racing sports strategy simulation card board
+kids education toddler story coloring learning language math
+photo vault secret folder screen recorder call recorder voice memo
+""".split()
 
 GENRE_SLUG = {
     '游戏': 'Games', 'Games': 'Games',
@@ -77,10 +105,17 @@ MAX_ICONS = 3000
 LIMIT = 200
 
 
-def fetch_json(url):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+def fetch_json(url, retries=3):
+    last = None
+    for i in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except Exception as e:
+            last = e
+            time.sleep(2 + i * 3)
+    raise last
 
 
 def search(term, country):
@@ -161,14 +196,28 @@ def main():
                 index.setdefault(key, {'name': key, 'artist': '', 'country': '', 'genre': ''})
                 cats.setdefault(key, 'appstore')
 
-    # 1. 搜索
-    jobs = [(t, c) for t in terms for c in countries]
+    # 1. 搜索（--no-search 时只用本地缓存，避免被 iTunes 限流）
+    no_search = '--no-search' in sys.argv
+    jobs = [] if no_search else [(t, c) for t in terms for c in countries]
     seen = {}
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        for results in ex.map(lambda j: search(*j), jobs):
-            for app in results:
-                seen.setdefault(app['trackId'], app)
-    print(f'搜索去重后 {len(seen)} 个 App')
+    if no_search:
+        # 直接读缓存目录里已有的搜索结果
+        if os.path.isdir(CACHE):
+            for f in os.listdir(CACHE):
+                if not f.endswith('.json'):
+                    continue
+                try:
+                    for app in json.load(open(os.path.join(CACHE, f), encoding='utf-8')):
+                        seen.setdefault(app['trackId'], app)
+                except Exception:
+                    pass
+        print(f'仅用缓存：{len(seen)} 个 App')
+    else:
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            for results in ex.map(lambda j: search(*j), jobs):
+                for app in results:
+                    seen.setdefault(app['trackId'], app)
+        print(f'搜索去重后 {len(seen)} 个 App')
 
     # 2. 下载
     todo = []
@@ -180,7 +229,7 @@ def main():
     print(f'待下载 {len(todo)}，上限 {max_icons}')
     todo = todo[:max_icons]
 
-    added = failed = total = 0
+    state = {'added': 0, 'failed': 0, 'total': 0}
 
     def work(item):
         key, app = item
@@ -194,22 +243,34 @@ def main():
         except Exception:
             return key, app, None
 
-    with ThreadPoolExecutor(max_workers=12) as ex:
-        for key, app, size in ex.map(work, todo):
-            if size is None:
-                failed += 1
-                continue
-            added += 1
-            total += size
-            cats[key] = 'appstore'
-            genres = app.get('genres') or []
-            index[key] = {'name': app.get('trackName', ''), 'artist': app.get('artistName', ''),
-                          'country': app.get('country', ''),
-                          'genre': genres[0] if genres else ''}
+    batch_size = 1200
+    if '--batch' in sys.argv:
+        batch_size = int(sys.argv[sys.argv.index('--batch') + 1])
 
-    json.dump(cats, open(CATS_PATH, 'w', encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
-    json.dump(index, open(INDEX_PATH, 'w', encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
-    print(f'新增 {added}，失败 {failed}，体积 {total // 1024} KB')
+    def run_batch(batch):
+        with ThreadPoolExecutor(max_workers=12) as ex:
+            for key, app, size in ex.map(work, batch):
+                if size is None:
+                    state['failed'] += 1
+                    continue
+                state['added'] += 1
+                state['total'] += size
+                cats[key] = 'appstore'
+                genres = app.get('genres') or []
+                index[key] = {'name': app.get('trackName', ''), 'artist': app.get('artistName', ''),
+                              'country': app.get('country', ''),
+                              'genre': genres[0] if genres else ''}
+        # 每批落盘一次，中断也不丢进度
+        json.dump(cats, open(CATS_PATH, 'w', encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
+        json.dump(index, open(INDEX_PATH, 'w', encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
+        print(f'  进度 新增 {state["added"]}，失败 {state["failed"]}，剩余 {len(remaining)}')
+
+    remaining = todo
+    while remaining:
+        batch, remaining = remaining[:batch_size], remaining[batch_size:]
+        run_batch(batch)
+
+    print(f'完成：新增 {state["added"]}，失败 {state["failed"]}，体积 {state["total"] // 1024} KB')
 
 
 if __name__ == '__main__':
