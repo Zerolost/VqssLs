@@ -1,0 +1,41 @@
+name: Sync App Store icons
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 3 1 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
+      - name: Crawl App Store icons
+        run: python3 tools/crawl_appstore.py --max 800
+
+      - name: Rebuild icon index
+        working-directory: icon
+        run: python3 build_icons.py --rebuild
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add icon/icons/appstore icon/icons.json icon/sets icon/categories.json icon/appstore-index.json
+          if git diff --cached --quiet; then
+            echo 'No new icons'
+            exit 0
+          fi
+          git commit -m '同步 App Store 图标'
+          git push

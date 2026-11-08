@@ -1,0 +1,61 @@
+{
+  "name": "Zerolost Icons · 代理协议",
+  "icons": [
+    {
+      "name": "AnyTLS.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/AnyTLS.png"
+    },
+    {
+      "name": "HTTP.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/HTTP.png"
+    },
+    {
+      "name": "Hysteria.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Hysteria.png"
+    },
+    {
+      "name": "Hysteria2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Hysteria2.png"
+    },
+    {
+      "name": "Reality.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Reality.png"
+    },
+    {
+      "name": "SOCKS5.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/SOCKS5.png"
+    },
+    {
+      "name": "Shadowsocks.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Shadowsocks.png"
+    },
+    {
+      "name": "Snell.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Snell.png"
+    },
+    {
+      "name": "Tailscale.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Tailscale.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Trojan.png"
+    },
+    {
+      "name": "Tuic.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Tuic.png"
+    },
+    {
+      "name": "Vless.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Vless.png"
+    },
+    {
+      "name": "Vmess.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Vmess.png"
+    },
+    {
+      "name": "WireGuard.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/WireGuard.png"
+    }
+  ]
+}

@@ -71,6 +71,59 @@ def load_source(src, kind):
     return out
 
 
+SET_DIR = os.path.join(ROOT, 'sets')
+SET_LABEL = {
+    'ai': 'AI 厂商与模型',
+    'app': '应用与游戏',
+    'appstore': 'App Store 图标',
+    'brand': '机场品牌',
+    'emby': 'Emby 服务器',
+    'media': '影音流媒体',
+    'policy': '策略与图标',
+    'protocol': '代理协议',
+    'region': '国家与地区',
+    'server': '线路与服务器',
+    'service': '平台服务',
+    'tool': '工具与软件',
+    'other': '其它',
+}
+
+
+def write_sets(icons):
+    """按分类拆成多个独立图标集，另外给 App Store 按品类再拆一份。"""
+    os.makedirs(SET_DIR, exist_ok=True)
+    groups = {}
+    for i in icons:
+        cat = i['url'].split('/icons/', 1)[1].split('/')[0]
+        groups.setdefault(cat, []).append(i)
+
+    for cat, items in sorted(groups.items()):
+        data = {'name': f"Zerolost Icons · {SET_LABEL.get(cat, cat)}", 'icons': items}
+        with open(os.path.join(SET_DIR, f'{cat}.json'), 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write('\n')
+
+    # App Store 按品类细分
+    app_items = groups.get('appstore', [])
+    sub = {}
+    for i in app_items:
+        parts = i['url'].split('/icons/appstore/', 1)
+        if len(parts) < 2:
+            continue
+        genre = parts[1].split('/')[0]
+        sub.setdefault(genre, []).append(i)
+    for genre, items in sorted(sub.items()):
+        if len(items) < 30:
+            continue
+        data = {'name': f'Zerolost Icons · App Store / {genre}', 'icons': items}
+        slug = genre.lower().replace(' ', '-')
+        with open(os.path.join(SET_DIR, f'appstore-{slug}.json'), 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write('\n')
+
+    print(f'sets/: {len(groups)} 个分类集，App Store 细分 {len(sub)} 个品类')
+
+
 def main():
     rebuild_only = '--rebuild' in sys.argv
     os.makedirs(ICON_DIR, exist_ok=True)
@@ -113,6 +166,8 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write('\n')
     print(f'surge icons.json: {len(icons)} icons')
+
+    write_sets(icons)
 
 
 if __name__ == '__main__':

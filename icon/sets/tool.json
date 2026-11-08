@@ -1,0 +1,1033 @@
+{
+  "name": "Zerolost Icons · 工具与软件",
+  "icons": [
+    {
+      "name": "1password.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/1password.png"
+    },
+    {
+      "name": "51chigua.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/51chigua.png"
+    },
+    {
+      "name": "Adobe.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobe.png"
+    },
+    {
+      "name": "AdobeMediaEncoder.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/AdobeMediaEncoder.png"
+    },
+    {
+      "name": "AdobeXD.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/AdobeXD.png"
+    },
+    {
+      "name": "Adobe_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobe_1.png"
+    },
+    {
+      "name": "Adobeaftereffects.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeaftereffects.png"
+    },
+    {
+      "name": "Adobeanimate.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeanimate.png"
+    },
+    {
+      "name": "Adobeaudition.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeaudition.png"
+    },
+    {
+      "name": "Adobecreativecloud.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobecreativecloud.png"
+    },
+    {
+      "name": "Adobeillustrator.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeillustrator.png"
+    },
+    {
+      "name": "Adobeincopy.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeincopy.png"
+    },
+    {
+      "name": "Adobeindesign.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobeindesign.png"
+    },
+    {
+      "name": "Adobelightroomclassic.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobelightroomclassic.png"
+    },
+    {
+      "name": "Adobephotoshop.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobephotoshop.png"
+    },
+    {
+      "name": "Adobepremiere.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Adobepremiere.png"
+    },
+    {
+      "name": "Bitcoin.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Bitcoin.png"
+    },
+    {
+      "name": "BlueskySocial.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/BlueskySocial.png"
+    },
+    {
+      "name": "BlueskySocial_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/BlueskySocial_1.png"
+    },
+    {
+      "name": "CapitalOne.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/CapitalOne.png"
+    },
+    {
+      "name": "Copilot_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Copilot_1.png"
+    },
+    {
+      "name": "DCard.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/DCard.png"
+    },
+    {
+      "name": "Debian.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Debian.png"
+    },
+    {
+      "name": "Drafts.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Drafts.png"
+    },
+    {
+      "name": "Egern.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Egern.png"
+    },
+    {
+      "name": "Equinix.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Equinix.png"
+    },
+    {
+      "name": "Figma.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Figma.png"
+    },
+    {
+      "name": "Firefox.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Firefox.png"
+    },
+    {
+      "name": "Gnosis.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Gnosis.png"
+    },
+    {
+      "name": "GoogleAdsense.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleAdsense.png"
+    },
+    {
+      "name": "GoogleCloud.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleCloud.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleDrive.png"
+    },
+    {
+      "name": "GoogleEarth.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleEarth.png"
+    },
+    {
+      "name": "GoogleOne.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleOne.png"
+    },
+    {
+      "name": "GooglePay.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GooglePay.png"
+    },
+    {
+      "name": "GooglePlay.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GooglePlay.png"
+    },
+    {
+      "name": "GooglePlay_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GooglePlay_1.png"
+    },
+    {
+      "name": "GoogleScholar.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/GoogleScholar.png"
+    },
+    {
+      "name": "Googlemap.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Googlemap.png"
+    },
+    {
+      "name": "Googlemap_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Googlemap_1.png"
+    },
+    {
+      "name": "Googlevoice(black1).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Googlevoice%28black1%29.png"
+    },
+    {
+      "name": "Googlevoice.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Googlevoice.png"
+    },
+    {
+      "name": "Googlevoice_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Googlevoice_1.png"
+    },
+    {
+      "name": "HBOmax.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/HBOmax.png"
+    },
+    {
+      "name": "HBOmax_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/HBOmax_1.png"
+    },
+    {
+      "name": "HSBC.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/HSBC.png"
+    },
+    {
+      "name": "Kraken.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Kraken.png"
+    },
+    {
+      "name": "LegendVPS.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/LegendVPS.png"
+    },
+    {
+      "name": "Loon.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon.png"
+    },
+    {
+      "name": "Loon_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_1.png"
+    },
+    {
+      "name": "Loon_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_2.png"
+    },
+    {
+      "name": "Loon_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_3.png"
+    },
+    {
+      "name": "Loon_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_4.png"
+    },
+    {
+      "name": "Loon_5.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_5.png"
+    },
+    {
+      "name": "Loon_6.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_6.png"
+    },
+    {
+      "name": "Loon_7.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_7.png"
+    },
+    {
+      "name": "Loon_8.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Loon_8.png"
+    },
+    {
+      "name": "Manus.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Manus.png"
+    },
+    {
+      "name": "Muse.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Muse.png"
+    },
+    {
+      "name": "N26.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/N26.png"
+    },
+    {
+      "name": "Oracle.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Oracle.png"
+    },
+    {
+      "name": "OtterLife.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/OtterLife.png"
+    },
+    {
+      "name": "Pinterest.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Pinterest.png"
+    },
+    {
+      "name": "Polymarket.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Polymarket.png"
+    },
+    {
+      "name": "PrimeVideo.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/PrimeVideo.png"
+    },
+    {
+      "name": "ProtonMail.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/ProtonMail.png"
+    },
+    {
+      "name": "QuantumultX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/QuantumultX.png"
+    },
+    {
+      "name": "Qure.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Qure.png"
+    },
+    {
+      "name": "Sharon.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Sharon.png"
+    },
+    {
+      "name": "Stash.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Stash.png"
+    },
+    {
+      "name": "Surfboard.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surfboard.png"
+    },
+    {
+      "name": "Surge_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_1.png"
+    },
+    {
+      "name": "Surge_10.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_10.png"
+    },
+    {
+      "name": "Surge_11.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_11.png"
+    },
+    {
+      "name": "Surge_12.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_12.png"
+    },
+    {
+      "name": "Surge_13.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_13.png"
+    },
+    {
+      "name": "Surge_14.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_14.png"
+    },
+    {
+      "name": "Surge_15.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_15.png"
+    },
+    {
+      "name": "Surge_16.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_16.png"
+    },
+    {
+      "name": "Surge_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_2.png"
+    },
+    {
+      "name": "Surge_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_3.png"
+    },
+    {
+      "name": "Surge_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_4.png"
+    },
+    {
+      "name": "Surge_5.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_5.png"
+    },
+    {
+      "name": "Surge_6.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_6.png"
+    },
+    {
+      "name": "Surge_7.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_7.png"
+    },
+    {
+      "name": "Surge_8.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_8.png"
+    },
+    {
+      "name": "Surge_9.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Surge_9.png"
+    },
+    {
+      "name": "Swiftgram.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram.png"
+    },
+    {
+      "name": "Swiftgram_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_1.png"
+    },
+    {
+      "name": "Swiftgram_10.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_10.png"
+    },
+    {
+      "name": "Swiftgram_11.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_11.png"
+    },
+    {
+      "name": "Swiftgram_12.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_12.png"
+    },
+    {
+      "name": "Swiftgram_13.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_13.png"
+    },
+    {
+      "name": "Swiftgram_14.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_14.png"
+    },
+    {
+      "name": "Swiftgram_15.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_15.png"
+    },
+    {
+      "name": "Swiftgram_16.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_16.png"
+    },
+    {
+      "name": "Swiftgram_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_2.png"
+    },
+    {
+      "name": "Swiftgram_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_3.png"
+    },
+    {
+      "name": "Swiftgram_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_4.png"
+    },
+    {
+      "name": "Swiftgram_5.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_5.png"
+    },
+    {
+      "name": "Swiftgram_6.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_6.png"
+    },
+    {
+      "name": "Swiftgram_7.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_7.png"
+    },
+    {
+      "name": "Swiftgram_8.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_8.png"
+    },
+    {
+      "name": "Swiftgram_9.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Swiftgram_9.png"
+    },
+    {
+      "name": "Switch.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Switch.png"
+    },
+    {
+      "name": "TVBAnywhere.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/TVBAnywhere.png"
+    },
+    {
+      "name": "Telegrampremium.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Telegrampremium.png"
+    },
+    {
+      "name": "Telegrampremium_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Telegrampremium_1.png"
+    },
+    {
+      "name": "Threads.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Threads.png"
+    },
+    {
+      "name": "TouchRetouch.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/TouchRetouch.png"
+    },
+    {
+      "name": "Truth-Social.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Truth-Social.png"
+    },
+    {
+      "name": "Turrit.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Turrit.png"
+    },
+    {
+      "name": "USDT.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/USDT.png"
+    },
+    {
+      "name": "Ubisoft.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Ubisoft.png"
+    },
+    {
+      "name": "V2ex.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/V2ex.png"
+    },
+    {
+      "name": "VMISS.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/VMISS.png"
+    },
+    {
+      "name": "Vercel.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/Vercel.png"
+    },
+    {
+      "name": "amazon_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/amazon_2.png"
+    },
+    {
+      "name": "arista.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/arista.png"
+    },
+    {
+      "name": "backpack.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/backpack.png"
+    },
+    {
+      "name": "bagel.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bagel.png"
+    },
+    {
+      "name": "bahamute.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bahamute.png"
+    },
+    {
+      "name": "banwagong.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/banwagong.png"
+    },
+    {
+      "name": "bbc.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bbc.png"
+    },
+    {
+      "name": "bbc_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bbc_1.png"
+    },
+    {
+      "name": "bbc_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bbc_3.png"
+    },
+    {
+      "name": "bian.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bian.png"
+    },
+    {
+      "name": "bing.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bing.png"
+    },
+    {
+      "name": "bing_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bing_1.png"
+    },
+    {
+      "name": "bing_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bing_2.png"
+    },
+    {
+      "name": "bing_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bing_3.png"
+    },
+    {
+      "name": "bitget.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bitget.png"
+    },
+    {
+      "name": "bitznet.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bitznet.png"
+    },
+    {
+      "name": "bybit.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/bybit.png"
+    },
+    {
+      "name": "chatGPT-green.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatGPT-green.png"
+    },
+    {
+      "name": "chatgpt(balck).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatgpt%28balck%29.png"
+    },
+    {
+      "name": "chatgpt(white).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatgpt%28white%29.png"
+    },
+    {
+      "name": "chatgpt(white1).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatgpt%28white1%29.png"
+    },
+    {
+      "name": "chatgpt4.0.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatgpt4.0.png"
+    },
+    {
+      "name": "chatgpt_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chatgpt_1.png"
+    },
+    {
+      "name": "chrom.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chrom.png"
+    },
+    {
+      "name": "chrom_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/chrom_1.png"
+    },
+    {
+      "name": "cisco.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/cisco.png"
+    },
+    {
+      "name": "clashverge.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/clashverge.png"
+    },
+    {
+      "name": "claude_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/claude_1.png"
+    },
+    {
+      "name": "coinbase.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/coinbase.png"
+    },
+    {
+      "name": "datawave.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/datawave.png"
+    },
+    {
+      "name": "deepl.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/deepl.png"
+    },
+    {
+      "name": "discord_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/discord_1.png"
+    },
+    {
+      "name": "discord_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/discord_2.png"
+    },
+    {
+      "name": "discord_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/discord_3.png"
+    },
+    {
+      "name": "disney(black).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/disney%28black%29.png"
+    },
+    {
+      "name": "disney(blue).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/disney%28blue%29.png"
+    },
+    {
+      "name": "disney.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/disney.png"
+    },
+    {
+      "name": "docker.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/docker.png"
+    },
+    {
+      "name": "dropbox.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/dropbox.png"
+    },
+    {
+      "name": "dropbox_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/dropbox_1.png"
+    },
+    {
+      "name": "emby_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/emby_1.png"
+    },
+    {
+      "name": "epic.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/epic.png"
+    },
+    {
+      "name": "epic_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/epic_1.png"
+    },
+    {
+      "name": "ether.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/ether.png"
+    },
+    {
+      "name": "exhentai.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/exhentai.png"
+    },
+    {
+      "name": "f1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/f1.png"
+    },
+    {
+      "name": "facebook_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/facebook_1.png"
+    },
+    {
+      "name": "facebook_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/facebook_2.png"
+    },
+    {
+      "name": "facebook_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/facebook_3.png"
+    },
+    {
+      "name": "fan.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/fan.png"
+    },
+    {
+      "name": "gateio.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/gateio.png"
+    },
+    {
+      "name": "gemini_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/gemini_1.png"
+    },
+    {
+      "name": "github_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/github_1.png"
+    },
+    {
+      "name": "gmail_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/gmail_1.png"
+    },
+    {
+      "name": "gmail_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/gmail_2.png"
+    },
+    {
+      "name": "google_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/google_1.png"
+    },
+    {
+      "name": "google_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/google_2.png"
+    },
+    {
+      "name": "greencloud.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/greencloud.png"
+    },
+    {
+      "name": "himalaya.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/himalaya.png"
+    },
+    {
+      "name": "huobi.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/huobi.png"
+    },
+    {
+      "name": "instagram_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/instagram_1.png"
+    },
+    {
+      "name": "instagram_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/instagram_2.png"
+    },
+    {
+      "name": "instagram_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/instagram_3.png"
+    },
+    {
+      "name": "kakaotalk.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/kakaotalk.png"
+    },
+    {
+      "name": "kakaotalk_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/kakaotalk_1.png"
+    },
+    {
+      "name": "linuxdo.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/linuxdo.png"
+    },
+    {
+      "name": "longbridge.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/longbridge.png"
+    },
+    {
+      "name": "loonsurgeEgern.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/loonsurgeEgern.png"
+    },
+    {
+      "name": "max.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/max.png"
+    },
+    {
+      "name": "max_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/max_1.png"
+    },
+    {
+      "name": "max_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/max_2.png"
+    },
+    {
+      "name": "mega.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/mega.png"
+    },
+    {
+      "name": "mexc.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/mexc.png"
+    },
+    {
+      "name": "mihomo.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/mihomo.png"
+    },
+    {
+      "name": "msx.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/msx.png"
+    },
+    {
+      "name": "netflix(old).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/netflix%28old%29.png"
+    },
+    {
+      "name": "netflix(red).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/netflix%28red%29.png"
+    },
+    {
+      "name": "nodeseek.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/nodeseek.png"
+    },
+    {
+      "name": "nowplayer.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/nowplayer.png"
+    },
+    {
+      "name": "okx.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/okx.png"
+    },
+    {
+      "name": "okx_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/okx_1.png"
+    },
+    {
+      "name": "omofun.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/omofun.png"
+    },
+    {
+      "name": "paga.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/paga.png"
+    },
+    {
+      "name": "paypal_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/paypal_1.png"
+    },
+    {
+      "name": "paypal_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/paypal_2.png"
+    },
+    {
+      "name": "pear.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pear.png"
+    },
+    {
+      "name": "pigsec.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pigsec.png"
+    },
+    {
+      "name": "pingme.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pingme.png"
+    },
+    {
+      "name": "pixiv.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pixiv.png"
+    },
+    {
+      "name": "pixiv_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pixiv_1.png"
+    },
+    {
+      "name": "pixiv_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/pixiv_2.png"
+    },
+    {
+      "name": "plex.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/plex.png"
+    },
+    {
+      "name": "proxmox.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/proxmox.png"
+    },
+    {
+      "name": "quanx.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/quanx.png"
+    },
+    {
+      "name": "quanx_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/quanx_1.png"
+    },
+    {
+      "name": "quanx_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/quanx_2.png"
+    },
+    {
+      "name": "racknerd.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/racknerd.png"
+    },
+    {
+      "name": "reddit.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/reddit.png"
+    },
+    {
+      "name": "reddit_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/reddit_1.png"
+    },
+    {
+      "name": "reddit_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/reddit_2.png"
+    },
+    {
+      "name": "redotpay.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/redotpay.png"
+    },
+    {
+      "name": "roblox.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/roblox.png"
+    },
+    {
+      "name": "shop.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/shop.png"
+    },
+    {
+      "name": "singbox.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/singbox.png"
+    },
+    {
+      "name": "slack.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/slack.png"
+    },
+    {
+      "name": "smoothrase.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/smoothrase.png"
+    },
+    {
+      "name": "spotify(green).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/spotify%28green%29.png"
+    },
+    {
+      "name": "spotify(green)_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/spotify%28green%29_1.png"
+    },
+    {
+      "name": "spotify_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/spotify_1.png"
+    },
+    {
+      "name": "stripe.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/stripe.png"
+    },
+    {
+      "name": "sub.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/sub.png"
+    },
+    {
+      "name": "sub_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/sub_1.png"
+    },
+    {
+      "name": "talkatone.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/talkatone.png"
+    },
+    {
+      "name": "telegram(blue1).png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/telegram%28blue1%29.png"
+    },
+    {
+      "name": "telegram_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/telegram_1.png"
+    },
+    {
+      "name": "telegram_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/telegram_2.png"
+    },
+    {
+      "name": "telegram_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/telegram_3.png"
+    },
+    {
+      "name": "telegram_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/telegram_4.png"
+    },
+    {
+      "name": "tiktok(_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/tiktok%28_2.png"
+    },
+    {
+      "name": "tmobile.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/tmobile.png"
+    },
+    {
+      "name": "trakt.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/trakt.png"
+    },
+    {
+      "name": "trakt_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/trakt_1.png"
+    },
+    {
+      "name": "twitch_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/twitch_1.png"
+    },
+    {
+      "name": "twitter_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/twitter_1.png"
+    },
+    {
+      "name": "twitter_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/twitter_2.png"
+    },
+    {
+      "name": "twitter_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/twitter_3.png"
+    },
+    {
+      "name": "ubuntu.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/ubuntu.png"
+    },
+    {
+      "name": "vsco.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/vsco.png"
+    },
+    {
+      "name": "wetalk.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/wetalk.png"
+    },
+    {
+      "name": "whatsapp.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/whatsapp.png"
+    },
+    {
+      "name": "whatsapp_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/whatsapp_1.png"
+    },
+    {
+      "name": "whatsapp_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/whatsapp_2.png"
+    },
+    {
+      "name": "wikipedia.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/wikipedia.png"
+    },
+    {
+      "name": "wise.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/wise.png"
+    },
+    {
+      "name": "xTerm256.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/xTerm256.png"
+    },
+    {
+      "name": "youtube_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/youtube_1.png"
+    },
+    {
+      "name": "youtube_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/youtube_2.png"
+    },
+    {
+      "name": "youtube_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/youtube_3.png"
+    },
+    {
+      "name": "youtube_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/youtube_4.png"
+    },
+    {
+      "name": "zoomearth.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/tool/zoomearth.png"
+    }
+  ]
+}

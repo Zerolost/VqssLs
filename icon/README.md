@@ -1,80 +1,112 @@
 # 图标集
 
-Surge 图标集，501 个 256×256 PNG，按分类存放。`icons.json` 是标准 Surge 图标 JSON，可直接引用。
+5924 个图标，按用途分成 **12 个分类图标集**，App Store 部分再按品类细分成 23 个子集。
 
 ```
-https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
+全部：  https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
+分类：  https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/sets/ai.json
 ```
 
 ![预览](preview.jpg)
 
-## 用法
+App Store 部分抽样：[preview-appstore.jpg](preview-appstore.jpg)（共 3922 个，随机 400 个）
+
+## 分类
+
+| 分类 | 数量 | 内容 |
+|---|---:|---|
+| `appstore` | 3922 | App Store 抓取的 App 图标（按品类分子目录） |
+| `emby` | 557 | Emby 服务器图标 |
+| `app` | 379 | 应用与游戏 |
+| `brand` | 344 | 机场与代理品牌 |
+| `tool` | 257 | 代理软件与工具 |
+| `region` | 125 | 国家与地区 |
+| `ai` | 123 | AI 厂商、模型、客户端 |
+| `media` | 101 | 影音流媒体 |
+| `policy` | 67 | 策略、机场、线路标识 |
+| `service` | 24 | 平台服务 |
+| `protocol` | 14 | 代理协议 |
+| `server` | 11 | 线路类型与网络 |
+
+## 图标集（sets/）
+
+`icon/sets/` 下每个分类一个 JSON，App Store 另有按品类的子集（≥30 个才单独出）：
+
+| 文件 | 说明 |
+|---|---|
+| `sets/ai.json` | AI 厂商与模型 |
+| `sets/app.json` | 应用与游戏 |
+| `sets/appstore.json` | 全部 App Store 图标 |
+| `sets/appstore-games.json` 等 | 按品类拆分（games / social / productivity / utilities / photo…） |
+| `sets/brand.json` | 机场品牌 |
+| `sets/emby.json` | Emby 服务器 |
+| `sets/media.json` | 影音流媒体 |
+| `sets/policy.json` | 策略与图标 |
+| `sets/protocol.json` | 代理协议 |
+| `sets/region.json` | 国家与地区 |
+| `sets/server.json` | 线路与服务器 |
+| `sets/service.json` | 平台服务 |
+| `sets/tool.json` | 工具与软件 |
+
+在 Surge 里可以直接把一个集合当图标源用：
 
 ```ini
 [Proxy Group]
 🇭🇰 香港 = select, policy-path=..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/region/HK.png
 🤖 ChatGPT = select, ..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/ai/OpenAI.png
+🎮 游戏加速 = select, ..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Games/王者荣耀_989673964.png
 ```
 
-规则行也可以带图标：`DOMAIN-SUFFIX,example.com,Proxy,icon-url=...`
+图标名就是文件名去掉 `.png`，可在 `icons.json` 或对应的 `sets/*.json` 里查。
 
-图标名就是文件名去掉 `.png`，可在 `icons.json` 里查全部可用名字。
+## 目录
 
-## 分类
-
-| 目录 | 数量 | 内容 |
-|---|---:|---|
-| `ai/` | 123 | AI 厂商、模型、客户端与生成工具 |
-| `media/` | 101 | 影音与流媒体 |
-| `app/` | 80 | 应用与游戏 |
-| `policy/` | 67 | 策略、机场、线路标识 |
-| `region/` | 63 | 国家与地区 |
-| `service/` | 24 | 平台服务 |
-| `brand/` | 15 | 机场品牌 |
-| `protocol/` | 14 | 代理协议 |
-| `server/` | 11 | 线路类型与网络 |
-| `tool/` | 3 | 工具 |
-| `other/` | — | 未归类 |
-
-分类由 `categories.json` 决定（图标名 → 目录），生成脚本按它落盘。
-
-## 文件说明
-
-| 文件 | 说明 |
-|---|---|
-| `icons/<分类>/*.png` | 图标源文件 |
-| `icons.json` | 自动生成的 Surge 图标索引（`name` + `url`） |
-| `categories.json` | 图标名到分类目录的映射 |
-| `build_icons.py` | 递归扫描 `icons/` 重建 `icons.json`；不带参数时会先从上游图标库补齐缺失图标 |
-| `make_brand_icons.py` | 拉取 simple-icons / iconify 的品牌 SVG，渲染成圆角品牌图标 |
-| `make_typingmind_icons.py` | 从 TypingMind 模型图标库导入 AI 厂商图标（121 个） |
-| `make_text_icons.py` | 生成文字占位图标（机场 / 专线 / 中转 / 订阅 …） |
-
-## 新增或删除图标
-
-1. 把 PNG 放进 `icons/<分类>/`，或直接删掉不需要的。
-2. 新图标名写进 `categories.json`，不写会落到 `other/`。
-3. 提交推送到 `main`。
-4. GitHub Actions（`sync-icons.yml`）自动重建 `icons.json` 并提交回来，同时校验「每个条目都有文件、无重名」。
-
-## 本地生成
-
-生成脚本需要 SVG 渲染与中文字体，只在本地跑，Actions 只负责重建 JSON：
-
-```sh
-apk add rsvg-convert font-noto-cjk        # SVG 渲染 + 中文字体
-python3 make_brand_icons.py               # 品牌图标
-python3 make_typingmind_icons.py          # TypingMind 模型图标
-python3 make_text_icons.py                # 文字占位图标
-python3 build_icons.py --rebuild          # 重建 icons.json
 ```
-
-新增品牌只需在 `make_brand_icons.py` 的 `BRANDS` 里加一行：`'名称': ('si', 'simple-icons-slug', None)`，
-slug 取自 [simple-icons](https://simpleicons.org)；没有品牌图标的用 `('text', '显示文字', '#底色')`。
+icons/
+  ai/ media/ app/ region/ policy/ service/ protocol/ server/ brand/ tool/ emby/
+  appstore/<品类>/       App Store 图标，按品类分目录
+sets/                    按分类拆好的图标集 JSON
+icons.json               全量索引
+categories.json          图标名 → 分类目录
+appstore-index.json      App Store 图标的名称 / 开发者 / 地区 / 品类
+preview.jpg              分类预览（每类最多 120 个）
+preview-appstore.jpg     App Store 抽样预览
+build_icons.py           重建索引与 sets/
+make_brand_icons.py      品牌 SVG → 圆角图标
+make_typingmind_icons.py TypingMind 模型图标
+make_text_icons.py       文字占位图标
+```
 
 ## 来源
 
-- [Qure](https://github.com/Koolson/Qure)：主体彩色图标集（MIT 授权，保留原作者署名）
-- [TypingMind](https://custom.typingmind.com)：AI 模型与厂商图标
-- [simple-icons](https://simpleicons.org) / [Iconify](https://iconify.design)：品牌矢量图标
-- 自绘：协议名、策略组名、线路类型
+| 来源 | 内容 |
+|---|---|
+| [Qure](https://github.com/Koolson/Qure) | 主体彩色图标集（MIT） |
+| [lige_icon](https://github.com/lige47/lige_icon) | 机场品牌、代理软件、国内软件、国家、Emby |
+| [TypingMind](https://custom.typingmind.com) | AI 模型与厂商 |
+| [simple-icons](https://simpleicons.org) / [Iconify](https://iconify.design) | 品牌矢量图标 |
+| [App Store](https://apps.apple.com) | 通过 iTunes Search API 抓取的 App 图标 |
+| 自绘 | 协议名、策略组名、线路类型 |
+
+## 新增图标
+
+1. 把 PNG 放进 `icons/<分类>/`（App Store 的放 `icons/appstore/<品类>/`）。
+2. 图标名写进 `categories.json`，不写会落到 `other/`。
+3. 推送后 GitHub Actions 自动重建 `icons.json` 与 `sets/`。
+
+## 抓取脚本
+
+```sh
+# 导入 lige_icon 的图标
+GITHUB_TOKEN=xxx python3 tools/import_lige.py
+
+# 爬 App Store（多国家 × 关键词，默认上限 3000）
+python3 tools/crawl_appstore.py --max 3000
+python3 tools/crawl_appstore.py --countries cn,us --terms 视频,音乐
+
+# 重建索引与 sets
+python3 icon/build_icons.py --rebuild
+```
+
+App Store 抓取参考了 [mszhangopopop/IconLibrary](https://github.com/mszhangopopop/IconLibrary) 的做法：
+用 `itunes.apple.com/search` 按关键词搜索，图标取 `artworkUrl512` 同目录下的 `256x256bb.png`。

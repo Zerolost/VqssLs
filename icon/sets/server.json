@@ -1,0 +1,49 @@
+{
+  "name": "Zerolost Icons · 线路与服务器",
+  "icons": [
+    {
+      "name": "AGA.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/AGA.png"
+    },
+    {
+      "name": "AIA.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/AIA.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/Azure.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/BGP.png"
+    },
+    {
+      "name": "CC.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/CC.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/Cellular.png"
+    },
+    {
+      "name": "GIA.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/GIA.png"
+    },
+    {
+      "name": "HC.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/HC.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/IEPL.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/IPLC.png"
+    },
+    {
+      "name": "WiFi.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/server/WiFi.png"
+    }
+  ]
+}

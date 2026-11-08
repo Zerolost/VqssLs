@@ -6,7 +6,7 @@
 ![Loon](https://img.shields.io/badge/Loon-✓-black?style=flat-square)
 ![Quantumult X](https://img.shields.io/badge/Quantumult%20X-✓-black?style=flat-square)
 ![rules](https://img.shields.io/badge/规则-634条-blue?style=flat-square)
-![icons](https://img.shields.io/badge/图标-501个-purple?style=flat-square)
+![icons](https://img.shields.io/badge/图标-5924个-purple?style=flat-square)
 
 ---
 
@@ -82,28 +82,34 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Qx/Simular.list, tag
 https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ```
 
-501 个 256×256 PNG，统一「彩色圆角底 + 白色图形」，浅色底自动换深色图形。全部图标见 [预览图](icon/preview.jpg)。
+5924 个图标，按用途拆成 **12 个分类集**，App Store 部分再按品类细分成 23 个子集。
+全部图标见 [预览图](icon/preview.jpg)，分类与子集见 [icon/README.md](icon/README.md)。
 
 | 分类 | 数量 | 示例 |
 |---|---:|---|
-| `ai` | 123 | OpenAI、Claude、Gemini、DeepSeek、Qwen、Cohere、Groq、Midjourney |
-| `media` | 101 | Netflix、YouTube、Disney+、Bilibili、Spotify、Twitch |
-| `app` | 80 | Telegram、GitHub、Steam、PayPal、Notion、Discord |
+| `appstore` | 3922 | App Store 图标，按 Games / Social / Productivity 等品类分目录 |
+| `emby` | 557 | Emby 服务器 |
+| `app` | 379 | Telegram、GitHub、Steam、PayPal、Notion、Discord |
+| `brand` | 344 | 机场与代理品牌 |
+| `tool` | 257 | Clash、Stash、Shadowrocket 等代理软件 |
+| `region` | 125 | HK、TW、JP、SG、US、UK、DE、CN |
+| `ai` | 123 | OpenAI、Claude、Gemini、DeepSeek、Qwen、Cohere、Groq |
+| `media` | 101 | Netflix、YouTube、Disney+、Bilibili、Spotify |
 | `policy` | 67 | Direct、Proxy、Reject、机场、专线、中转、订阅 |
-| `region` | 63 | HK、TW、JP、SG、US、UK、DE、CN |
 | `service` | 24 | Apple、Google、Amazon、Microsoft |
-| `brand` | 15 | 机场品牌 |
-| `protocol` | 14 | SS、VMess、VLESS、Trojan、Hysteria2、TUIC、WireGuard |
+| `protocol` | 14 | SS、VMess、VLESS、Trojan、Hysteria2、TUIC |
 | `server` | 11 | IEPL、IPLC、BGP、GIA、CN2、5G、WiFi |
-| `tool` | 3 | Quantumult X、Qure、Vercel |
+
+分类图标集（`icon/sets/`）：`ai` `app` `appstore` `brand` `emby` `media` `policy` `protocol` `region` `server` `service` `tool`，App Store 另有 `appstore-games`、`appstore-social` 等 23 个子集。
 
 ```ini
 [Proxy Group]
 🇭🇰 香港 = select, policy-path=..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/region/HK.png
 🤖 ChatGPT = select, ..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/ai/OpenAI.png
+🎮 游戏 = select, ..., icon-url=https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Games/王者荣耀_989673964.png
 ```
 
-新增或删除 `icon/icons/<分类>/` 下的 PNG 后，Actions 会自动重建 `icons.json`。详见 [icon/README.md](icon/README.md)。
+新增或删除 `icon/icons/<分类>/` 下的 PNG 后，Actions 会自动重建 `icons.json` 与 `sets/`。
 
 ---
 
@@ -136,7 +142,9 @@ python3 tools/lint_rules.py                # 规则检查
 python3 tools/lint_rules.py --fix          # 修重复、被更宽规则覆盖的条目
 GITHUB_TOKEN=xxx python3 tools/archive_upstream.py   # 抓取上游存档
 python3 tools/gen_credits.py               # 重新生成 CREDITS.md
-python3 icon/build_icons.py --rebuild      # 重建 icons.json
+python3 icon/build_icons.py --rebuild      # 重建 icons.json 与 sets/
+GITHUB_TOKEN=xxx python3 tools/import_lige.py        # 导入 lige_icon 图标
+python3 tools/crawl_appstore.py --max 3000           # 爬 App Store 图标
 ```
 
 `lint_rules.py` 检查：语法、重复行、`DOMAIN` 被 `DOMAIN-SUFFIX` 覆盖、IP 段被更宽网段覆盖、CIDR 主机位、域名误写成 keyword。
@@ -151,6 +159,7 @@ python3 icon/build_icons.py --rebuild      # 重建 icons.json
 | `sync-airport.yml` | 每天 21:43 UTC | 从 Telegram `@jichang_list` 抓新机场域名，校验后追加 |
 | `sync-icons.yml` | 改动 `icon/icons/**`、每周一 | 重建 `icons.json` 并校验条目完整性 |
 | `lint-rules.yml` | 改动 `rule/**`、`tools/**` | 规则语法与冗余检查 |
+| `sync-appstore.yml` | 每月 1 日 | 增量抓取 App Store 图标 |
 | `sync-venera-sources.yml` | 每周一 | 同步上游漫画源 |
 
 ---
@@ -164,7 +173,8 @@ rule/
   Qx/               Quantumult X 规则（自动生成）
   convert.py        Surge → Loon / QX 转换
 icon/
-  icons/<分类>/     501 个图标源文件
+  icons/<分类>/     5924 个图标源文件（appstore 按品类分子目录）
+  sets/             12 个分类图标集 + 23 个 App Store 品类子集
   icons.json        Surge 图标索引（自动生成）
   categories.json   图标名 → 分类
   preview.jpg       全部图标预览
@@ -173,6 +183,8 @@ icon/
 archive/<作者>/<仓库>/   上游快照 + ARCHIVE.md
 tools/
   lint_rules.py     规则检查
+  import_lige.py    导入 lige_icon 图标
+  crawl_appstore.py 爬取 App Store 图标
   archive_upstream.py  上游抓取
   gen_credits.py    生成致谢名单
 Script/Loon/        Loon 脚本与插件

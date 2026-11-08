@@ -1,0 +1,409 @@
+{
+  "name": "Zerolost Icons · 影音流媒体",
+  "icons": [
+    {
+      "name": "5iTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/5iTV.png"
+    },
+    {
+      "name": "AbemaTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/AbemaTV.png"
+    },
+    {
+      "name": "AfreecaTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/AfreecaTV.png"
+    },
+    {
+      "name": "All4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/All4.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Apple_Music.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Apple_TV.png"
+    },
+    {
+      "name": "Apple_TV_Plus.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Apple_TV_Plus.png"
+    },
+    {
+      "name": "BBC_iPlayer.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/BBC_iPlayer.png"
+    },
+    {
+      "name": "BBC_iPlayer_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/BBC_iPlayer_1.png"
+    },
+    {
+      "name": "BBC_iPlayer_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/BBC_iPlayer_2.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Bahamut.png"
+    },
+    {
+      "name": "DAZN.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/DAZN.png"
+    },
+    {
+      "name": "DAZN_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/DAZN_1.png"
+    },
+    {
+      "name": "DAZN_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/DAZN_2.png"
+    },
+    {
+      "name": "DisneyPlus.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/DisneyPlus.png"
+    },
+    {
+      "name": "Disney_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Disney_1.png"
+    },
+    {
+      "name": "Disney_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Disney_2.png"
+    },
+    {
+      "name": "ESPN.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ESPN.png"
+    },
+    {
+      "name": "ESPN_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ESPN_1.png"
+    },
+    {
+      "name": "ESPN_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ESPN_2.png"
+    },
+    {
+      "name": "FOX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/FOX.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO.png"
+    },
+    {
+      "name": "HBO_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_1.png"
+    },
+    {
+      "name": "HBO_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_2.png"
+    },
+    {
+      "name": "HBO_GO.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_GO.png"
+    },
+    {
+      "name": "HBO_GO_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_GO_1.png"
+    },
+    {
+      "name": "HBO_GO_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_GO_2.png"
+    },
+    {
+      "name": "HBO_Max.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/HBO_Max.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Hulu.png"
+    },
+    {
+      "name": "Hulu_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Hulu_1.png"
+    },
+    {
+      "name": "ITV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ITV.png"
+    },
+    {
+      "name": "ITV_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ITV_1.png"
+    },
+    {
+      "name": "ITV_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ITV_2.png"
+    },
+    {
+      "name": "JOOX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/JOOX.png"
+    },
+    {
+      "name": "KKBOX.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/KKBOX.png"
+    },
+    {
+      "name": "KKTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/KKTV.png"
+    },
+    {
+      "name": "LiTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/LiTV.png"
+    },
+    {
+      "name": "LineTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/LineTV.png"
+    },
+    {
+      "name": "Media.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Media.png"
+    },
+    {
+      "name": "Music_Enhance.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Music_Enhance.png"
+    },
+    {
+      "name": "My5.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/My5.png"
+    },
+    {
+      "name": "NBC.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/NBC.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Netease_Music.png"
+    },
+    {
+      "name": "Netease_Music_Unlock.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Netflix.png"
+    },
+    {
+      "name": "Netflix_Letter.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Netflix_Letter.png"
+    },
+    {
+      "name": "PBS.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/PBS.png"
+    },
+    {
+      "name": "Pandora.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Pandora.png"
+    },
+    {
+      "name": "Paramount.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Paramount.png"
+    },
+    {
+      "name": "Peacock.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Peacock.png"
+    },
+    {
+      "name": "Peacock_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Peacock_1.png"
+    },
+    {
+      "name": "Peacock_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Peacock_2.png"
+    },
+    {
+      "name": "Pirate_Nation.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Pirate_Nation.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Pornhub.png"
+    },
+    {
+      "name": "Pornhub_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Pornhub_1.png"
+    },
+    {
+      "name": "Pornhub_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Pornhub_2.png"
+    },
+    {
+      "name": "Prime_Video.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Prime_Video.png"
+    },
+    {
+      "name": "Prime_Video_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Prime_Video_1.png"
+    },
+    {
+      "name": "Prime_Video_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Prime_Video_2.png"
+    },
+    {
+      "name": "STARZ.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/STARZ.png"
+    },
+    {
+      "name": "Sling_TV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Sling_TV.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Spotify.png"
+    },
+    {
+      "name": "Star_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Star_1.png"
+    },
+    {
+      "name": "Streaming!CN.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Streaming%21CN.png"
+    },
+    {
+      "name": "TIDAL.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TIDAL.png"
+    },
+    {
+      "name": "TIDAL_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TIDAL_1.png"
+    },
+    {
+      "name": "TIDAL_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TIDAL_2.png"
+    },
+    {
+      "name": "TVB.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TVB.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TikTok.png"
+    },
+    {
+      "name": "TikTok_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TikTok_1.png"
+    },
+    {
+      "name": "TikTok_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/TikTok_2.png"
+    },
+    {
+      "name": "Tubi.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Tubi.png"
+    },
+    {
+      "name": "Twitch.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Twitch.png"
+    },
+    {
+      "name": "Vimeo.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Vimeo.png"
+    },
+    {
+      "name": "Viu.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/Viu.png"
+    },
+    {
+      "name": "ViuTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/ViuTV.png"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/WeTV.png"
+    },
+    {
+      "name": "WeTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/WeTV_Letter.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/YouTube.png"
+    },
+    {
+      "name": "YouTube_Letter.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/YouTube_Letter.png"
+    },
+    {
+      "name": "YouTube_Music.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/YouTube_Music.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/bilibili.png"
+    },
+    {
+      "name": "bilibili_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/bilibili_1.png"
+    },
+    {
+      "name": "bilibili_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/bilibili_2.png"
+    },
+    {
+      "name": "bilibili_3.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/bilibili_3.png"
+    },
+    {
+      "name": "bilibili_4.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/bilibili_4.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/deezer.png"
+    },
+    {
+      "name": "deezer_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/deezer_1.png"
+    },
+    {
+      "name": "deezer_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/deezer_2.png"
+    },
+    {
+      "name": "discovery.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/discovery.png"
+    },
+    {
+      "name": "encoreTVB.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/encoreTVB.png"
+    },
+    {
+      "name": "friDay.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/friDay.png"
+    },
+    {
+      "name": "fuboTV.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/fuboTV.png"
+    },
+    {
+      "name": "iQIYI&bilibili.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/iQIYI%26bilibili.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/iQIYI.png"
+    },
+    {
+      "name": "iQIYI_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/iQIYI_1.png"
+    },
+    {
+      "name": "myTV_SUPER.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/myTV_SUPER.png"
+    },
+    {
+      "name": "niconico.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/niconico.png"
+    },
+    {
+      "name": "niconico_1.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/niconico_1.png"
+    },
+    {
+      "name": "niconico_2.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/niconico_2.png"
+    },
+    {
+      "name": "nowe.png",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/media/nowe.png"
+    }
+  ]
+}
