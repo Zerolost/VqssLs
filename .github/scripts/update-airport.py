@@ -161,7 +161,7 @@ def main():
     suffix, exact = set(), set()
     for h in raw:
         r = reg_domain(h, psl)
-        if r in HOSTING:
+        if any(r == x or r.endswith('.' + x) for x in HOSTING):
             exact.add(h)
         elif r not in EXCLUDE:
             suffix.add(r)
