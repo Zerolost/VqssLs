@@ -156,7 +156,20 @@ def main():
 
     # 重建 JSON（按分类子目录递归，URL 保留子路径）
     files = sorted(walk_icons())
-    icons = [{'name': os.path.basename(f), 'url': RAW_BASE + urllib.parse.quote(f)} for f in files]
+    icons = []
+    used = set()
+    for f in files:
+        stem = os.path.basename(f)[:-4]
+        cat = f.split('/')[0] if '/' in f else 'other'
+        name = stem
+        if name in used:                     # 同名图标分属不同分类时加分类后缀
+            name = f'{stem}_{cat}'
+            n = 2
+            while name in used:
+                name = f'{stem}_{cat}{n}'
+                n += 1
+        used.add(name)
+        icons.append({'name': name, 'url': RAW_BASE + urllib.parse.quote(f)})
     payload = {
         'name': 'Zerolost Icons',
         'description': 'Surge 图标集，新增或删除 icons/ 下的 PNG 后由 GitHub Actions 自动重建',

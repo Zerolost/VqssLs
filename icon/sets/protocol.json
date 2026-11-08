@@ -2,59 +2,59 @@
   "name": "Zerolost Icons · 代理协议",
   "icons": [
     {
-      "name": "AnyTLS.png",
+      "name": "AnyTLS",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/AnyTLS.png"
     },
     {
-      "name": "HTTP.png",
+      "name": "HTTP",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/HTTP.png"
     },
     {
-      "name": "Hysteria.png",
+      "name": "Hysteria",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Hysteria.png"
     },
     {
-      "name": "Hysteria2.png",
+      "name": "Hysteria2",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Hysteria2.png"
     },
     {
-      "name": "Reality.png",
+      "name": "Reality",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Reality.png"
     },
     {
-      "name": "SOCKS5.png",
+      "name": "SOCKS5",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/SOCKS5.png"
     },
     {
-      "name": "Shadowsocks.png",
+      "name": "Shadowsocks",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Shadowsocks.png"
     },
     {
-      "name": "Snell.png",
+      "name": "Snell",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Snell.png"
     },
     {
-      "name": "Tailscale.png",
+      "name": "Tailscale",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Tailscale.png"
     },
     {
-      "name": "Trojan.png",
+      "name": "Trojan",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Trojan.png"
     },
     {
-      "name": "Tuic.png",
+      "name": "Tuic",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Tuic.png"
     },
     {
-      "name": "Vless.png",
+      "name": "Vless",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Vless.png"
     },
     {
-      "name": "Vmess.png",
+      "name": "Vmess",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/Vmess.png"
     },
     {
-      "name": "WireGuard.png",
+      "name": "WireGuard",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/protocol/WireGuard.png"
     }
   ]
