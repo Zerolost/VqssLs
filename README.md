@@ -8,7 +8,7 @@
 
 ## 分流规则
 
-全部位于 [`rule/Surge`](rule/Surge)，一行一条，不含策略，引用时自行指定。
+全部位于 [`rule/Surge`](rule/Surge)，不含策略，引用时自行指定。
 
 | 规则集 | 条数 | 内容 |
 |---|---:|---|
@@ -28,15 +28,6 @@ RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/LSP.l
 RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Exhentai.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Simular.list,PROXY
 ```
-
-### 编写约定
-
-- 先域名、后 IP：`DOMAIN-SUFFIX` 命中就不必再查 DNS。
-- IP 规则一律带 `no-resolve`，避免为未解析的域名触发查询、或解析失败中断匹配。
-- Cloudflare / Fastly 这类共享地址池不整段收录，只收能确认归属的 `/32` 或小网段，防止误伤正常站点。
-- 共用托管后缀（`*.pages.dev`、`*.qzz.io`、`*.dpdns.org`、`*.cc.cd`）必须用 `DOMAIN,` 精确匹配。
-
----
 
 ## 图标集
 
@@ -79,7 +70,7 @@ https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons.json
 ```
 rule/Surge/         Surge 规则集
 icon/
-  icons/<分类>/     图标源文件（PNG）
+  icons/<分类>/      图标源文件（PNG）
   icons.json        自动生成的 Surge 图标索引
   categories.json   图标名 → 分类的映射
   preview.jpg       全部图标预览
