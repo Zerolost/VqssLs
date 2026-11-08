@@ -24,6 +24,8 @@ RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Loon/Simula
 
 `DIRECT` / `Proxy` 换成你自己的策略或策略组名。
 
+> 原来的 `exhentai.lsr` 已统一重命名为 `Exhentai.lsr`，引用旧地址的话记得改一下。
+
 ## 更新
 
 由 `rule/convert.py` 从 `rule/Surge` 生成，改规则请改 Surge 那份，Actions 会自动同步。
