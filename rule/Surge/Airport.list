@@ -1,6 +1,6 @@
 # ============ 机场与中转站 ============
 # 官网、订阅与测速入口
-# 来源：Telegram @jichang_list、公开机场测评与导航站，2026-11-08 校验可解析
+# 来源：Telegram @jichang_list、公开机场测评与导航站
 DOMAIN-SUFFIX,1fen.bid
 DOMAIN-SUFFIX,202611.online
 DOMAIN-SUFFIX,22laomao.com
@@ -20,8 +20,10 @@ DOMAIN-SUFFIX,9527vpn.com
 DOMAIN-SUFFIX,9527yun.com
 DOMAIN-SUFFIX,969874.xyz
 DOMAIN-SUFFIX,99vpn.net
+DOMAIN-SUFFIX,academicbest.dpdns.org
 DOMAIN-SUFFIX,aiai1314.top
 DOMAIN-SUFFIX,aibolt.tech
+DOMAIN-SUFFIX,aijiasu.pages.dev
 DOMAIN-SUFFIX,aijiasu.xyz
 DOMAIN-SUFFIX,aivika.org
 DOMAIN-SUFFIX,aiwanxiongxiong.com
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,baacloud.pw
 DOMAIN-SUFFIX,bajie.la
 DOMAIN-SUFFIX,baokemeng.bid
 DOMAIN-SUFFIX,bianjiecloud.com
+DOMAIN-SUFFIX,bitbot365.com
 DOMAIN-SUFFIX,bitznet.xyz
 DOMAIN-SUFFIX,bmb.news
 DOMAIN-SUFFIX,boostnet1.com
@@ -91,6 +94,7 @@ DOMAIN-SUFFIX,justmysocks6.net
 DOMAIN-SUFFIX,kapi-net.com
 DOMAIN-SUFFIX,kdcloud.uk
 DOMAIN-SUFFIX,kkbtcmm.xyz
+DOMAIN-SUFFIX,kkyqapi.cc.cd
 DOMAIN-SUFFIX,kuangbiaojiasu.com
 DOMAIN-SUFFIX,liangyuan.bid
 DOMAIN-SUFFIX,limda.de5.net
@@ -150,6 +154,7 @@ DOMAIN-SUFFIX,tntyunb01.cc
 DOMAIN-SUFFIX,tomorrowoneday.com
 DOMAIN-SUFFIX,uuvpn2026.top
 DOMAIN-SUFFIX,v2fast.top
+DOMAIN-SUFFIX,vpnt.cc
 DOMAIN-SUFFIX,wcnmb.sbs
 DOMAIN-SUFFIX,wd-gold.com
 DOMAIN-SUFFIX,wd-gold.net
