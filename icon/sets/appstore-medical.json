@@ -2,8 +2,24 @@
   "name": "Zerolost Icons · App Store / Medical",
   "icons": [
     {
+      "name": "114名医导航_550508930",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/114%E5%90%8D%E5%8C%BB%E5%AF%BC%E8%88%AA_550508930.png"
+    },
+    {
+      "name": "7动-成人凯格尔运动男女健康_1439306852",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/7%E5%8A%A8-%E6%88%90%E4%BA%BA%E5%87%AF%E6%A0%BC%E5%B0%94%E8%BF%90%E5%8A%A8%E7%94%B7%E5%A5%B3%E5%81%A5%E5%BA%B7_1439306852.png"
+    },
+    {
       "name": "BabyConnectNewbornTracker_326574411",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyConnectNewbornTracker_326574411.png"
+    },
+    {
+      "name": "BabyDaybook-NewbornTracker_1446283219",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyDaybook-NewbornTracker_1446283219.png"
+    },
+    {
+      "name": "BabyFeedingTracker-Noora_6754826090",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyFeedingTracker-Noora_6754826090.png"
     },
     {
       "name": "BabyTracker!_1444238371",
@@ -12,6 +28,10 @@
     {
       "name": "BabyTracker&NewbornLog_551448817",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyTracker%26NewbornLog_551448817.png"
+    },
+    {
+      "name": "BabyTracker-NewbornTracker_1368995392",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyTracker-NewbornTracker_1368995392.png"
     },
     {
       "name": "BabyTracker._1151052149",
@@ -30,6 +50,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BabyTrackerPro-NewbornLog_845657206.png"
     },
     {
+      "name": "BloodPressureBPPulse_6474854633",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BloodPressureBPPulse_6474854633.png"
+    },
+    {
+      "name": "BloodPressureHealthMonitor_1510620211",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BloodPressureHealthMonitor_1510620211.png"
+    },
+    {
       "name": "BodyTemperatureAppForFever_1516844582",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/BodyTemperatureAppForFever_1516844582.png"
     },
@@ -46,8 +74,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/ContractionTimer%26Counter9m_877303791.png"
     },
     {
+      "name": "DialogueHealth_1118013424",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/DialogueHealth_1118013424.png"
+    },
+    {
+      "name": "DosageCalculationsMadeEasy_1207761513",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/DosageCalculationsMadeEasy_1207761513.png"
+    },
+    {
       "name": "GlowBabyTracker&GrowthApp_1077177456",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/GlowBabyTracker%26GrowthApp_1077177456.png"
+    },
+    {
+      "name": "GlucoseBuddy+forDiabetes_533299240",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/GlucoseBuddy%2BforDiabetes_533299240.png"
+    },
+    {
+      "name": "GlucoseBuddyDiabetesTracker_294754639",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/GlucoseBuddyDiabetesTracker_294754639.png"
     },
     {
       "name": "Growthbaby&childcharts_446639811",
@@ -70,12 +114,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/HumanBodyAnatomyMuscles_1062502334.png"
     },
     {
+      "name": "JoiiPetCare_1436958921",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/JoiiPetCare_1436958921.png"
+    },
+    {
+      "name": "MDCalcMedicalCalculator_1001640662",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/MDCalcMedicalCalculator_1001640662.png"
+    },
+    {
       "name": "Max-Pillreminder_1502063556",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/Max-Pillreminder_1502063556.png"
     },
     {
       "name": "MedDicStandard_547893923",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/MedDicStandard_547893923.png"
+    },
+    {
+      "name": "MediSearchAI_6473300940",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/MediSearchAI_6473300940.png"
     },
     {
       "name": "MenstrualCycleTracker_707430013",
@@ -102,8 +158,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/MyHealth360Malaysia_1600046091.png"
     },
     {
+      "name": "NagiSleep&SnoreRecorder_6801593260",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/NagiSleep%26SnoreRecorder_6801593260.png"
+    },
+    {
+      "name": "NomadTravelHealthcareJobs_1462944939",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/NomadTravelHealthcareJobs_1462944939.png"
+    },
+    {
       "name": "NoxogySleep&SnoreTracker_968720724",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/NoxogySleep%26SnoreTracker_968720724.png"
+    },
+    {
+      "name": "NurturePregnancyWeekbyWeek_882398397",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/NurturePregnancyWeekbyWeek_882398397.png"
     },
     {
       "name": "OBubbaBabySleepTracker_6760968757",
@@ -130,6 +198,30 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/PillMonitorPro_477666512.png"
     },
     {
+      "name": "Pregnancy+TrackerApp_505864483",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/Pregnancy%2BTrackerApp_505864483.png"
+    },
+    {
+      "name": "PregnancyTrackerApp-WTE_289560144",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/PregnancyTrackerApp-WTE_289560144.png"
+    },
+    {
+      "name": "RafflesConnect_1444394990",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/RafflesConnect_1444394990.png"
+    },
+    {
+      "name": "RelaxxSleep,Focus&Calm_1433998824",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/RelaxxSleep%2CFocus%26Calm_1433998824.png"
+    },
+    {
+      "name": "SinoHealth_1551586308",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SinoHealth_1551586308.png"
+    },
+    {
+      "name": "SleepGemBabySleepTracker_1641049918",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SleepGemBabySleepTracker_1641049918.png"
+    },
+    {
       "name": "SleepWithMeFallAsleepApp_1476958588",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SleepWithMeFallAsleepApp_1476958588.png"
     },
@@ -150,6 +242,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SnugBabyTracker%26Sleep_6760875895.png"
     },
     {
+      "name": "SoothingSoundsLite_545134668",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SoothingSoundsLite_545134668.png"
+    },
+    {
       "name": "SoothingSounds_515699561",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SoothingSounds_515699561.png"
     },
@@ -158,8 +254,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SteadyPacedBreathingTimer_1510785436.png"
     },
     {
+      "name": "SunnyCare_1663700867",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/SunnyCare_1663700867.png"
+    },
+    {
+      "name": "TELUSHealthConnect_1637125240",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/TELUSHealthConnect_1637125240.png"
+    },
+    {
       "name": "TELUSHealthVirtualCare_1084429206",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/TELUSHealthVirtualCare_1084429206.png"
+    },
+    {
+      "name": "Tata1mg-HealthcareApp_554578419",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/Tata1mg-HealthcareApp_554578419.png"
     },
     {
       "name": "Touch&Sleep_1550542928",
@@ -174,16 +282,36 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/WebMDSymptomChecker_295076329.png"
     },
     {
+      "name": "YURAGI+HealingSoundsCreator_1437774929",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/YURAGI%2BHealingSoundsCreator_1437774929.png"
+    },
+    {
       "name": "YourDoctors-OnlineDoctor_1439216318",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/YourDoctors-OnlineDoctor_1439216318.png"
+    },
+    {
+      "name": "ammaPregnancy&BabyTracker_990178211",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/ammaPregnancy%26BabyTracker_990178211.png"
+    },
+    {
+      "name": "firstcall：あなたの悩みをいつでも医師に_1458082091",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/firstcall%EF%BC%9A%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%82%A9%E3%81%BF%E3%82%92%E3%81%84%E3%81%A4%E3%81%A6%E3%82%99%E3%82%82%E5%8C%BB%E5%B8%AB%E3%81%AB_1458082091.png"
     },
     {
       "name": "いい夢を見るアプリ–見たい夢や好きな夢を見て眠りにつくた_842415421",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E3%81%84%E3%81%84%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E2%80%93%E8%A6%8B%E3%81%9F%E3%81%84%E5%A4%A2%E3%82%84%E5%A5%BD%E3%81%8D%E3%81%AA%E5%A4%A2%E3%82%92%E8%A6%8B%E3%81%A6%E7%9C%A0%E3%82%8A%E3%81%AB%E3%81%A4%E3%81%8F%E3%81%9F_842415421.png"
     },
     {
+      "name": "おやすみサウンド~睡眠×瞑想×癒しの究極の音アプリ_6745727393",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%88%E3%82%99~%E7%9D%A1%E7%9C%A0%C3%97%E7%9E%91%E6%83%B3%C3%97%E7%99%92%E3%81%97%E3%81%AE%E7%A9%B6%E6%A5%B5%E3%81%AE%E9%9F%B3%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA_6745727393.png"
+    },
+    {
       "name": "丁香医生-一起发现健康生活_911261462",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F-%E4%B8%80%E8%B5%B7%E5%8F%91%E7%8E%B0%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB_911261462.png"
+    },
+    {
+      "name": "东台市健康管理中心_1311282815",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B8%9C%E5%8F%B0%E5%B8%82%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83_1311282815.png"
     },
     {
       "name": "中医在线—中医学习平台_1032928764",
@@ -198,12 +326,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B8%AD%E5%8C%BB%E9%80%9A-%E4%B8%93%E6%B3%A8%E4%B8%AD%E5%8C%BB%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0_1241302729.png"
     },
     {
+      "name": "中山附醫e點通_1560929144",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B8%AD%E5%B1%B1%E9%99%84%E9%86%ABe%E9%BB%9E%E9%80%9A_1560929144.png"
+    },
+    {
       "name": "乐普云智健康管家_906577169",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B9%90%E6%99%AE%E4%BA%91%E6%99%BA%E5%81%A5%E5%BA%B7%E7%AE%A1%E5%AE%B6_906577169.png"
     },
     {
       "name": "乙十睡眠医生_6445942805",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%B9%99%E5%8D%81%E7%9D%A1%E7%9C%A0%E5%8C%BB%E7%94%9F_6445942805.png"
+    },
+    {
+      "name": "云上妇幼健康_1603191573",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%BA%91%E4%B8%8A%E5%A6%87%E5%B9%BC%E5%81%A5%E5%BA%B7_1603191573.png"
     },
     {
       "name": "京东健康-看病买药就上京东_1498018017",
@@ -214,12 +350,72 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%BC%98%E5%81%A5%E5%BA%B7-%E4%B9%B0%E4%BD%93%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86_952049419.png"
     },
     {
+      "name": "优健康工作室_1548604750",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%BC%98%E5%81%A5%E5%BA%B7%E5%B7%A5%E4%BD%9C%E5%AE%A4_1548604750.png"
+    },
+    {
       "name": "伴伴宝贝-宝宝生活记录喂奶·辅食·睡眠_6759794228",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E4%BC%B4%E4%BC%B4%E5%AE%9D%E8%B4%9D-%E5%AE%9D%E5%AE%9D%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95%E5%96%82%E5%A5%B6%C2%B7%E8%BE%85%E9%A3%9F%C2%B7%E7%9D%A1%E7%9C%A0_6759794228.png"
     },
     {
+      "name": "健康320_1232637285",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7320_1232637285.png"
+    },
+    {
+      "name": "健康东莞_1278206333",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B8%9C%E8%8E%9E_1278206333.png"
+    },
+    {
+      "name": "健康中国（官方版）_1238587231",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%EF%BC%88%E5%AE%98%E6%96%B9%E7%89%88%EF%BC%89_1238587231.png"
+    },
+    {
+      "name": "健康中山-杭州慧康互联科技有限公司_1063178051",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%B1%B1-%E6%9D%AD%E5%B7%9E%E6%85%A7%E5%BA%B7%E4%BA%92%E8%81%94%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_1063178051.png"
+    },
+    {
+      "name": "健康之路-看病问诊预约挂号平台_725186664",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B9%8B%E8%B7%AF-%E7%9C%8B%E7%97%85%E9%97%AE%E8%AF%8A%E9%A2%84%E7%BA%A6%E6%8C%82%E5%8F%B7%E5%B9%B3%E5%8F%B0_725186664.png"
+    },
+    {
+      "name": "健康之路医务版_1240769494",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B9%8B%E8%B7%AF%E5%8C%BB%E5%8A%A1%E7%89%88_1240769494.png"
+    },
+    {
+      "name": "健康乐-健康管理工具_896400579",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%B9%90-%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7_896400579.png"
+    },
+    {
       "name": "健康云-“健康上海”在互联网科技领域的建设者_1016151632",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%BA%91-%E2%80%9C%E5%81%A5%E5%BA%B7%E4%B8%8A%E6%B5%B7%E2%80%9D%E5%9C%A8%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BB%BA%E8%AE%BE%E8%80%85_1016151632.png"
+    },
+    {
+      "name": "健康人大药房_1450069076",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%A4%A7%E8%8D%AF%E6%88%BF_1450069076.png"
+    },
+    {
+      "name": "健康南京_789571992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E5%8D%97%E4%BA%AC_789571992.png"
+    },
+    {
+      "name": "健康大兴医生端_1570386828",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E5%A4%A7%E5%85%B4%E5%8C%BB%E7%94%9F%E7%AB%AF_1570386828.png"
+    },
+    {
+      "name": "健康大兴移动端_1559498279",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E5%A4%A7%E5%85%B4%E7%A7%BB%E5%8A%A8%E7%AB%AF_1559498279.png"
+    },
+    {
+      "name": "健康山西-挂号住院缴费咨询报告问诊体检购药_992049985",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E5%B1%B1%E8%A5%BF-%E6%8C%82%E5%8F%B7%E4%BD%8F%E9%99%A2%E7%BC%B4%E8%B4%B9%E5%92%A8%E8%AF%A2%E6%8A%A5%E5%91%8A%E9%97%AE%E8%AF%8A%E4%BD%93%E6%A3%80%E8%B4%AD%E8%8D%AF_992049985.png"
+    },
+    {
+      "name": "健康桐乡_1014881919",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E6%A1%90%E4%B9%A1_1014881919.png"
+    },
+    {
+      "name": "健康网医师会_1435871992",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%81%A5%E5%BA%B7%E7%BD%91%E5%8C%BB%E5%B8%88%E4%BC%9A_1435871992.png"
     },
     {
       "name": "催眠音乐3D-深度睡眠缓解压力音乐摇篮曲_857512884",
@@ -230,6 +426,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D%E8%A1%8C%E5%8B%95%E5%BF%AB%E6%98%93%E9%80%9A%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA_578186283.png"
     },
     {
+      "name": "北京昌平健康云_1394964706",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E5%81%A5%E5%BA%B7%E4%BA%91_1394964706.png"
+    },
+    {
+      "name": "北市聯醫健康存摺－雲端醫院_1291858053",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%97%E5%B8%82%E8%81%AF%E9%86%AB%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA%EF%BC%8D%E9%9B%B2%E7%AB%AF%E9%86%AB%E9%99%A2_1291858053.png"
+    },
+    {
       "name": "医学文献-临床医生下载文献的好助手_728309114",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%BB%E5%AD%A6%E6%96%87%E7%8C%AE-%E4%B8%B4%E5%BA%8A%E5%8C%BB%E7%94%9F%E4%B8%8B%E8%BD%BD%E6%96%87%E7%8C%AE%E7%9A%84%E5%A5%BD%E5%8A%A9%E6%89%8B_728309114.png"
     },
@@ -238,40 +442,144 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%BB%E5%AD%A6%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9F_6450246537.png"
     },
     {
+      "name": "医生圈-真实的医生家园_1216190460",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%BB%E7%94%9F%E5%9C%88-%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8C%BB%E7%94%9F%E5%AE%B6%E5%9B%AD_1216190460.png"
+    },
+    {
+      "name": "医生汇—医学讲座线上直播_1108784538",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%BB%E7%94%9F%E6%B1%87%E2%80%94%E5%8C%BB%E5%AD%A6%E8%AE%B2%E5%BA%A7%E7%BA%BF%E4%B8%8A%E7%9B%B4%E6%92%AD_1108784538.png"
+    },
+    {
+      "name": "医考拉考试宝典-湖南科技三基、卫生高级职称、医疗招聘_1629835667",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8C%BB%E8%80%83%E6%8B%89%E8%80%83%E8%AF%95%E5%AE%9D%E5%85%B8-%E6%B9%96%E5%8D%97%E7%A7%91%E6%8A%80%E4%B8%89%E5%9F%BA%E3%80%81%E5%8D%AB%E7%94%9F%E9%AB%98%E7%BA%A7%E8%81%8C%E7%A7%B0%E3%80%81%E5%8C%BB%E7%96%97%E6%8B%9B%E8%81%98_1629835667.png"
+    },
+    {
+      "name": "协同移动办公_1435282790",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%8D%8F%E5%90%8C%E7%A7%BB%E5%8A%A8%E5%8A%9E%E5%85%AC_1435282790.png"
+    },
+    {
+      "name": "吉林智慧健康_1542550342",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%90%89%E6%9E%97%E6%99%BA%E6%85%A7%E5%81%A5%E5%BA%B7_1542550342.png"
+    },
+    {
+      "name": "喜芽-孕期全方位母婴安全监护平台_1374729029",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%96%9C%E8%8A%BD-%E5%AD%95%E6%9C%9F%E5%85%A8%E6%96%B9%E4%BD%8D%E6%AF%8D%E5%A9%B4%E5%AE%89%E5%85%A8%E7%9B%91%E6%8A%A4%E5%B9%B3%E5%8F%B0_1374729029.png"
+    },
+    {
+      "name": "嘉虹健康_1479020680",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%98%89%E8%99%B9%E5%81%A5%E5%BA%B7_1479020680.png"
+    },
+    {
       "name": "圣云执业医师考试_6469769193",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%9C%A3%E4%BA%91%E6%89%A7%E4%B8%9A%E5%8C%BB%E5%B8%88%E8%80%83%E8%AF%95_6469769193.png"
+    },
+    {
+      "name": "奇美醫療體系APP_1163996903",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%A5%87%E7%BE%8E%E9%86%AB%E7%99%82%E9%AB%94%E7%B3%BBAPP_1163996903.png"
     },
     {
       "name": "好医生-助力医护学习成长_1377925652",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%A5%BD%E5%8C%BB%E7%94%9F-%E5%8A%A9%E5%8A%9B%E5%8C%BB%E6%8A%A4%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF_1377925652.png"
     },
     {
+      "name": "孕期助手-备孕怀孕孕期育儿妈妈必备_730030284",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%AD%95%E6%9C%9F%E5%8A%A9%E6%89%8B-%E5%A4%87%E5%AD%95%E6%80%80%E5%AD%95%E5%AD%95%E6%9C%9F%E8%82%B2%E5%84%BF%E5%A6%88%E5%A6%88%E5%BF%85%E5%A4%87_730030284.png"
+    },
+    {
+      "name": "宝宝小记：哺乳、喂奶、睡眠、喂养、换尿布、成长曲线与育儿_6796644638",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%AE%9D%E5%AE%9D%E5%B0%8F%E8%AE%B0%EF%BC%9A%E5%93%BA%E4%B9%B3%E3%80%81%E5%96%82%E5%A5%B6%E3%80%81%E7%9D%A1%E7%9C%A0%E3%80%81%E5%96%82%E5%85%BB%E3%80%81%E6%8D%A2%E5%B0%BF%E5%B8%83%E3%80%81%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF%E4%B8%8E%E8%82%B2%E5%84%BF_6796644638.png"
+    },
+    {
       "name": "宝宝生活记录本-婴儿辅食哺乳喂养睡眠记录_1500773509",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%AE%9D%E5%AE%9D%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95%E6%9C%AC-%E5%A9%B4%E5%84%BF%E8%BE%85%E9%A3%9F%E5%93%BA%E4%B9%B3%E5%96%82%E5%85%BB%E7%9D%A1%E7%9C%A0%E8%AE%B0%E5%BD%95_1500773509.png"
+    },
+    {
+      "name": "小懂健康_1451065441",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%B0%8F%E6%87%82%E5%81%A5%E5%BA%B7_1451065441.png"
+    },
+    {
+      "name": "小荷AI医生_6746402600",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%B0%8F%E8%8D%B7AI%E5%8C%BB%E7%94%9F_6746402600.png"
     },
     {
       "name": "常识教育-在线科普健康慢病减脂课程_1436958128",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%B8%B8%E8%AF%86%E6%95%99%E8%82%B2-%E5%9C%A8%E7%BA%BF%E7%A7%91%E6%99%AE%E5%81%A5%E5%BA%B7%E6%85%A2%E7%97%85%E5%87%8F%E8%84%82%E8%AF%BE%E7%A8%8B_1436958128.png"
     },
     {
+      "name": "平安好医生-在线问医生_1552354076",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%B9%B3%E5%AE%89%E5%A5%BD%E5%8C%BB%E7%94%9F-%E5%9C%A8%E7%BA%BF%E9%97%AE%E5%8C%BB%E7%94%9F_1552354076.png"
+    },
+    {
       "name": "平安好医生全球版_923920872",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%B9%B3%E5%AE%89%E5%A5%BD%E5%8C%BB%E7%94%9F%E5%85%A8%E7%90%83%E7%89%88_923920872.png"
+    },
+    {
+      "name": "康康在线-体检预约健康咨询平台_511609922",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E5%BA%B7%E5%BA%B7%E5%9C%A8%E7%BA%BF-%E4%BD%93%E6%A3%80%E9%A2%84%E7%BA%A6%E5%81%A5%E5%BA%B7%E5%92%A8%E8%AF%A2%E5%B9%B3%E5%8F%B0_511609922.png"
+    },
+    {
+      "name": "慈云健康_900301846",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%85%88%E4%BA%91%E5%81%A5%E5%BA%B7_900301846.png"
+    },
+    {
+      "name": "护理助手_1027699224",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%8A%A4%E7%90%86%E5%8A%A9%E6%89%8B_1027699224.png"
     },
     {
       "name": "护考帮-医考帮护理版,护资、护师、护理三基、护理考研学习_1493160468",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%8A%A4%E8%80%83%E5%B8%AE-%E5%8C%BB%E8%80%83%E5%B8%AE%E6%8A%A4%E7%90%86%E7%89%88%2C%E6%8A%A4%E8%B5%84%E3%80%81%E6%8A%A4%E5%B8%88%E3%80%81%E6%8A%A4%E7%90%86%E4%B8%89%E5%9F%BA%E3%80%81%E6%8A%A4%E7%90%86%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0_1493160468.png"
     },
     {
+      "name": "振興e點通_1589205613",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%8C%AF%E8%88%88e%E9%BB%9E%E9%80%9A_1589205613.png"
+    },
+    {
+      "name": "方舟健客网上药店_984804729",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%96%B9%E8%88%9F%E5%81%A5%E5%AE%A2%E7%BD%91%E4%B8%8A%E8%8D%AF%E5%BA%97_984804729.png"
+    },
+    {
+      "name": "春雨医生-在线咨询购药平台_478834039",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%98%A5%E9%9B%A8%E5%8C%BB%E7%94%9F-%E5%9C%A8%E7%BA%BF%E5%92%A8%E8%AF%A2%E8%B4%AD%E8%8D%AF%E5%B9%B3%E5%8F%B0_478834039.png"
+    },
+    {
+      "name": "智云健康_1479504253",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%99%BA%E4%BA%91%E5%81%A5%E5%BA%B7_1479504253.png"
+    },
+    {
+      "name": "林华办公_1543101933",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%9E%97%E5%8D%8E%E5%8A%9E%E5%85%AC_1543101933.png"
+    },
+    {
+      "name": "欧态健康_6472430765",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%AC%A7%E6%80%81%E5%81%A5%E5%BA%B7_6472430765.png"
+    },
+    {
+      "name": "母子健康手册_1076493803",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%AF%8D%E5%AD%90%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C_1076493803.png"
+    },
+    {
       "name": "泰康医生_1059113011",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%B3%B0%E5%BA%B7%E5%8C%BB%E7%94%9F_1059113011.png"
+    },
+    {
+      "name": "海心健康-肿瘤全病程管理与服务平台_1355763787",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%B5%B7%E5%BF%83%E5%81%A5%E5%BA%B7-%E8%82%BF%E7%98%A4%E5%85%A8%E7%97%85%E7%A8%8B%E7%AE%A1%E7%90%86%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0_1355763787.png"
     },
     {
       "name": "温暖医生-视频健康咨询服务平台_994843387",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%B8%A9%E6%9A%96%E5%8C%BB%E7%94%9F-%E8%A7%86%E9%A2%91%E5%81%A5%E5%BA%B7%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0_994843387.png"
     },
     {
+      "name": "演讲与口才技能提升训练教程高清离线收藏版HD-快速提高社_828303269",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%BC%94%E8%AE%B2%E4%B8%8E%E5%8F%A3%E6%89%8D%E6%8A%80%E8%83%BD%E6%8F%90%E5%8D%87%E8%AE%AD%E7%BB%83%E6%95%99%E7%A8%8B%E9%AB%98%E6%B8%85%E7%A6%BB%E7%BA%BF%E6%94%B6%E8%97%8F%E7%89%88HD-%E5%BF%AB%E9%80%9F%E6%8F%90%E9%AB%98%E7%A4%BE_828303269.png"
+    },
+    {
       "name": "澳門衛生局資訊站_958812119",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E6%BE%B3%E9%96%80%E8%A1%9B%E7%94%9F%E5%B1%80%E8%B3%87%E8%A8%8A%E7%AB%99_958812119.png"
+    },
+    {
+      "name": "爱加健康_1116590385",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%88%B1%E5%8A%A0%E5%81%A5%E5%BA%B7_1116590385.png"
     },
     {
       "name": "爱宠医生-陪伴爱宠一生的健康管家_1021849951",
@@ -302,8 +610,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%9D%A1%E5%A5%BD%E4%BA%86%E4%B9%88-%E6%89%93%E5%91%BC%E5%99%9C%E9%BC%BE%E5%A3%B0%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B%E4%B8%93%E5%AE%B6_1538111605.png"
     },
     {
+      "name": "睡眠超人：宝宝睡眠应用程序,白噪音设备及录音器_952768692",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%9D%A1%E7%9C%A0%E8%B6%85%E4%BA%BA%EF%BC%9A%E5%AE%9D%E5%AE%9D%E7%9D%A1%E7%9C%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%2C%E7%99%BD%E5%99%AA%E9%9F%B3%E8%AE%BE%E5%A4%87%E5%8F%8A%E5%BD%95%E9%9F%B3%E5%99%A8_952768692.png"
+    },
+    {
+      "name": "睡眠跟踪器+生活方式_712791034",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%9D%A1%E7%9C%A0%E8%B7%9F%E8%B8%AA%E5%99%A8%2B%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_712791034.png"
+    },
+    {
       "name": "神经介入资讯_1296703316",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%A5%9E%E7%BB%8F%E4%BB%8B%E5%85%A5%E8%B5%84%E8%AE%AF_1296703316.png"
+    },
+    {
+      "name": "糖动健康_6483685258",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%B3%96%E5%8A%A8%E5%81%A5%E5%BA%B7_6483685258.png"
+    },
+    {
+      "name": "美高健康_6447542487",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E7%BE%8E%E9%AB%98%E5%81%A5%E5%BA%B7_6447542487.png"
     },
     {
       "name": "羿过教育_6446393704",
@@ -322,12 +646,36 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E8%84%91%E5%8C%BB%E6%B1%87-%E7%A5%9E%E5%A4%96%E8%B5%84%E8%AE%AF%E5%8D%87%E7%BA%A7%E5%95%A6_1049283424.png"
     },
     {
+      "name": "荷叶健康_1584638568",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E8%8D%B7%E5%8F%B6%E5%81%A5%E5%BA%B7_1584638568.png"
+    },
+    {
+      "name": "观心实验室-专业心理咨询和康复训练服务_6458984834",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E8%A7%82%E5%BF%83%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E4%B8%93%E4%B8%9A%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%92%8C%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E6%9C%8D%E5%8A%A1_6458984834.png"
+    },
+    {
       "name": "计算机+医学化学专业英语词汇_659505140",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E8%AE%A1%E7%AE%97%E6%9C%BA%2B%E5%8C%BB%E5%AD%A6%E5%8C%96%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87_659505140.png"
     },
     {
+      "name": "远秋医学在线考试系统_1377070739",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E8%BF%9C%E7%A7%8B%E5%8C%BB%E5%AD%A6%E5%9C%A8%E7%BA%BF%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9F_1377070739.png"
+    },
+    {
       "name": "阿福_6743828427",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E9%98%BF%E7%A6%8F_6743828427.png"
+    },
+    {
+      "name": "阿虎医考-专注医学职称考试医考精选题库刷题_1098051002",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E9%98%BF%E8%99%8E%E5%8C%BB%E8%80%83-%E4%B8%93%E6%B3%A8%E5%8C%BB%E5%AD%A6%E8%81%8C%E7%A7%B0%E8%80%83%E8%AF%95%E5%8C%BB%E8%80%83%E7%B2%BE%E9%80%89%E9%A2%98%E5%BA%93%E5%88%B7%E9%A2%98_1098051002.png"
+    },
+    {
+      "name": "青松小记-病历归纳整理、家庭健康管家，为患者和家属量身打_6751434045",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E9%9D%92%E6%9D%BE%E5%B0%8F%E8%AE%B0-%E7%97%85%E5%8E%86%E5%BD%92%E7%BA%B3%E6%95%B4%E7%90%86%E3%80%81%E5%AE%B6%E5%BA%AD%E5%81%A5%E5%BA%B7%E7%AE%A1%E5%AE%B6%EF%BC%8C%E4%B8%BA%E6%82%A3%E8%80%85%E5%92%8C%E5%AE%B6%E5%B1%9E%E9%87%8F%E8%BA%AB%E6%89%93_6751434045.png"
+    },
+    {
+      "name": "馬偕社區健康乎哩哉_1193848325",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Medical/%E9%A6%AC%E5%81%95%E7%A4%BE%E5%8D%80%E5%81%A5%E5%BA%B7%E4%B9%8E%E5%93%A9%E5%93%89_1193848325.png"
     }
   ]
 }

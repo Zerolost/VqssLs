@@ -2,6 +2,10 @@
   "name": "Zerolost Icons · App Store / Weather",
   "icons": [
     {
+      "name": "14DayWeatherForecastPro_839923054",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/14DayWeatherForecastPro_839923054.png"
+    },
+    {
       "name": "AUSWeather_435363842",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/AUSWeather_435363842.png"
     },
@@ -38,20 +42,60 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/ChinaTravelWeather_1548631063.png"
     },
     {
+      "name": "ClassicWeather_528581217",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/ClassicWeather_528581217.png"
+    },
+    {
+      "name": "Day&NightMap_741375889",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Day%26NightMap_741375889.png"
+    },
+    {
+      "name": "DopplerRadarMapLivePro_992351930",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/DopplerRadarMapLivePro_992351930.png"
+    },
+    {
       "name": "DotWx点阵天气_6792470115",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/DotWx%E7%82%B9%E9%98%B5%E5%A4%A9%E6%B0%94_6792470115.png"
+    },
+    {
+      "name": "EarthQuake+_1504339927",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/EarthQuake%2B_1504339927.png"
+    },
+    {
+      "name": "Earthquake+Alerts&Tracker_395928613",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Earthquake%2BAlerts%26Tracker_395928613.png"
+    },
+    {
+      "name": "Earthquake_632040358",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Earthquake_632040358.png"
     },
     {
       "name": "EldersWeatherApp_1121822860",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/EldersWeatherApp_1121822860.png"
     },
     {
+      "name": "EmergencySevereWeatherApp_954783878",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/EmergencySevereWeatherApp_954783878.png"
+    },
+    {
       "name": "Fine°_880864556",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Fine%C2%B0_880864556.png"
     },
     {
+      "name": "FishingCalendar&TideTimes_414676749",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/FishingCalendar%26TideTimes_414676749.png"
+    },
+    {
       "name": "FishingDeluxe_485251405",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/FishingDeluxe_485251405.png"
+    },
+    {
+      "name": "ForecastBar-Weather+Radar_1057030968",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/ForecastBar-Weather%2BRadar_1057030968.png"
+    },
+    {
+      "name": "FreshWeatherLiveTracker_6463474182",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/FreshWeatherLiveTracker_6463474182.png"
     },
     {
       "name": "HKWeatherWarning&Forecast_6757295144",
@@ -78,8 +122,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/LastWeather_6572286326.png"
     },
     {
+      "name": "LiveWeather&Rain–TrueSky_6816346955",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/LiveWeather%26Rain%E2%80%93TrueSky_6816346955.png"
+    },
+    {
+      "name": "LiveWeatherForecast&Radar_6443482067",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/LiveWeatherForecast%26Radar_6443482067.png"
+    },
+    {
       "name": "LivingEarth-Clock&Weather_379869627",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/LivingEarth-Clock%26Weather_379869627.png"
+    },
+    {
+      "name": "LivingWeatherHDLive+_639101137",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/LivingWeatherHDLive%2B_639101137.png"
     },
     {
       "name": "LocalMeteo-weatherlive_849031937",
@@ -98,12 +154,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Meeday_6824937222.png"
     },
     {
+      "name": "MoonPhaseCalendarPlus_671352640",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/MoonPhaseCalendarPlus_671352640.png"
+    },
+    {
+      "name": "MoonPhasesandLunarCalendar_1126370589",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/MoonPhasesandLunarCalendar_1126370589.png"
+    },
+    {
       "name": "MyMoonPhase-LunarCalendar_1104649246",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/MyMoonPhase-LunarCalendar_1104649246.png"
     },
     {
       "name": "MyRadarWeatherRadarForecast_322439990",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/MyRadarWeatherRadarForecast_322439990.png"
+    },
+    {
+      "name": "NOAAMarineWeather&Forecast_1246091778",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/NOAAMarineWeather%26Forecast_1246091778.png"
+    },
+    {
+      "name": "NationalWeather_436760574",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/NationalWeather_436760574.png"
     },
     {
       "name": "NetatmoWeather_532538499",
@@ -122,6 +194,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/PPWeatherForecastmini_1150883500.png"
     },
     {
+      "name": "PocketRadarWeatherMap_574399713",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/PocketRadarWeatherMap_574399713.png"
+    },
+    {
       "name": "PowderGoChinaSkiWeather_6799362299",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/PowderGoChinaSkiWeather_6799362299.png"
     },
@@ -138,6 +214,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/RAWeather%C2%B7Weather.LiveEasy_6796719436.png"
     },
     {
+      "name": "RainRadarWeather&Cyclones_1436271939",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/RainRadarWeather%26Cyclones_1436271939.png"
+    },
+    {
+      "name": "RainWeatherRadarCountdown_6786459497",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/RainWeatherRadarCountdown_6786459497.png"
+    },
+    {
       "name": "RealTimeWeatherForecast_6757796577",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/RealTimeWeatherForecast_6757796577.png"
     },
@@ -146,12 +230,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/RealWeather%2BLivingForecast_6799326935.png"
     },
     {
+      "name": "SKAI-NOAAWeatherRadar_6448301535",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/SKAI-NOAAWeatherRadar_6448301535.png"
+    },
+    {
       "name": "SeasonCalendar_1200344577",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/SeasonCalendar_1200344577.png"
     },
     {
       "name": "SimpleWeatherApp_6760898364",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/SimpleWeatherApp_6760898364.png"
+    },
+    {
+      "name": "SkyShift_6780174317",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/SkyShift_6780174317.png"
     },
     {
       "name": "SkyandMoonphasescalendar_1124972125",
@@ -186,12 +278,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/TaiwanAirAQI%26PM2.5_1286516443.png"
     },
     {
+      "name": "TheWeatherForecastApp_1461065428",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/TheWeatherForecastApp_1461065428.png"
+    },
+    {
+      "name": "ThermometerLiveWeather_6473653209",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/ThermometerLiveWeather_6473653209.png"
+    },
+    {
       "name": "TodayWeather-RainAlerts_6819615230",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/TodayWeather-RainAlerts_6819615230.png"
     },
     {
       "name": "Tomorrow.ioWeatherForecast_1443325509",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Tomorrow.ioWeatherForecast_1443325509.png"
+    },
+    {
+      "name": "UAVForecast_1050023752",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/UAVForecast_1050023752.png"
     },
     {
       "name": "UKWeatherRadar-LiveMaps_1078145152",
@@ -206,8 +310,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/VeilWeather-Forecast_6794572916.png"
     },
     {
+      "name": "WDIV4WarnWeather_706143974",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WDIV4WarnWeather_706143974.png"
+    },
+    {
+      "name": "Weather+ㅤ_6443658950",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%2B%E3%85%A4_6443658950.png"
+    },
+    {
+      "name": "WeatherAir-LiveForecast_1615964582",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherAir-LiveForecast_1615964582.png"
+    },
+    {
       "name": "WeatherForecastbyClimacam_6479019631",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherForecastbyClimacam_6479019631.png"
+    },
+    {
+      "name": "WeatherForecastٞ_1525900245",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherForecast%D9%9E_1525900245.png"
     },
     {
       "name": "WeatherGO-摄氏度和华氏度的天气_1271073320",
@@ -222,8 +342,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherLive%C2%B0-LocalForecast_749083919.png"
     },
     {
+      "name": "WeatherMax+_547809867",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherMax%2B_547809867.png"
+    },
+    {
+      "name": "WeatherOffice_381972414",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherOffice_381972414.png"
+    },
+    {
       "name": "WeatherPlus-TideForecast_6759605179",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherPlus-TideForecast_6759605179.png"
+    },
+    {
+      "name": "WeatherPlusRadar&Forecast_1594543444",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherPlusRadar%26Forecast_1594543444.png"
     },
     {
       "name": "WeatherPost10-DayForecast_6827900467",
@@ -234,6 +366,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherPro%C2%B7RadarAlerts_1137406490.png"
     },
     {
+      "name": "WeatherRadar-LiveForecast_1260932836",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherRadar-LiveForecast_1260932836.png"
+    },
+    {
+      "name": "WeatherRadarWidget_1532959739",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherRadarWidget_1532959739.png"
+    },
+    {
       "name": "WeatherRainRadar&StormMap_6473724440",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherRainRadar%26StormMap_6473724440.png"
     },
@@ -242,8 +382,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherSatelliteMap_1123271299.png"
     },
     {
+      "name": "WeatherScreen-Widget&Radar_1526791980",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherScreen-Widget%26Radar_1526791980.png"
+    },
+    {
+      "name": "WeatherUndergroundLocalMap_486154808",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherUndergroundLocalMap_486154808.png"
+    },
+    {
+      "name": "WeatherWave-DailyForecast_6747617481",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherWave-DailyForecast_6747617481.png"
+    },
+    {
       "name": "WeatherWidgetMagic_6683306259",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherWidgetMagic_6683306259.png"
+    },
+    {
+      "name": "Weatherandwindmap_513879979",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weatherandwindmap_513879979.png"
+    },
+    {
+      "name": "Weatherforecast&Alerts_1507144524",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weatherforecast%26Alerts_1507144524.png"
+    },
+    {
+      "name": "WeatherforiPad!_558059563",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherforiPad%21_558059563.png"
     },
     {
       "name": "Weathershot-Instaweather_564147490",
@@ -254,12 +418,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WeatherzoneWeatherForecasts_409060691.png"
     },
     {
+      "name": "Weatherϟ_1459765820",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%CF%9F_1459765820.png"
+    },
+    {
       "name": "Weatherٞ._1110656343",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%D9%9E._1110656343.png"
     },
     {
       "name": "Weather۬_1335982274",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%DB%AC_1335982274.png"
+    },
+    {
+      "name": "Weather⁰_1463952078",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%E2%81%B0_1463952078.png"
     },
     {
       "name": "Weather⁺_404516121",
@@ -270,8 +442,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Weather%E5%A4%A9%E6%B0%94%2C%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%2C%E5%AE%9E%E6%97%B6%E5%A4%A9%E6%B0%94%E5%92%8C%E6%B0%94%E8%B1%A1%E9%9B%B7%E8%BE%BE_1363846787.png"
     },
     {
+      "name": "WhatTheForecast!!_1031653653",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WhatTheForecast%21%21_1031653653.png"
+    },
+    {
       "name": "WillyWeather_592978502",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WillyWeather_592978502.png"
+    },
+    {
+      "name": "WindHubSailingWeather_1495146577",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/WindHubSailingWeather_1495146577.png"
     },
     {
       "name": "XCWeather_1093480930",
@@ -284,6 +464,10 @@
     {
       "name": "Yoga瑜伽音乐免费版HD-健康减肥塑身有助于睡眠和冥想_830350469",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/Yoga%E7%91%9C%E4%BC%BD%E9%9F%B3%E4%B9%90%E5%85%8D%E8%B4%B9%E7%89%88HD-%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E5%A1%91%E8%BA%AB%E6%9C%89%E5%8A%A9%E4%BA%8E%E7%9D%A1%E7%9C%A0%E5%92%8C%E5%86%A5%E6%83%B3_830350469.png"
+    },
+    {
+      "name": "globalstormspro_897511324",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/globalstormspro_897511324.png"
     },
     {
       "name": "raingo-共享傘租借服務_6446225212",
@@ -352,6 +536,10 @@
     {
       "name": "听雨天气·有表情的天气预报_6813024904",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E5%90%AC%E9%9B%A8%E5%A4%A9%E6%B0%94%C2%B7%E6%9C%89%E8%A1%A8%E6%83%85%E7%9A%84%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5_6813024904.png"
+    },
+    {
+      "name": "哇天气_6498551093",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E5%93%87%E5%A4%A9%E6%B0%94_6498551093.png"
     },
     {
       "name": "天天天气-好天气天天看_1547947496",
@@ -522,6 +710,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%97%B6%E9%92%9F-%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5_1120544760.png"
     },
     {
+      "name": "时钟和本地预报-实时_1120559347",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%97%B6%E9%92%9F%E5%92%8C%E6%9C%AC%E5%9C%B0%E9%A2%84%E6%8A%A5-%E5%AE%9E%E6%97%B6_1120559347.png"
+    },
+    {
       "name": "最准天气_1453347489",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%9C%80%E5%87%86%E5%A4%A9%E6%B0%94_1453347489.png"
     },
@@ -558,12 +750,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%B4%8B%E8%91%B1%E5%A4%A9%E6%B0%94-%E5%AE%9E%E6%97%B6%E5%A4%A9%E6%B0%94%E4%B8%8E15%E6%97%A5%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5_1552716652.png"
     },
     {
+      "name": "温度计-新月温度计&实时天气-室内外温度计-湿度计_6475197144",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%B8%A9%E5%BA%A6%E8%AE%A1-%E6%96%B0%E6%9C%88%E6%B8%A9%E5%BA%A6%E8%AE%A1%26%E5%AE%9E%E6%97%B6%E5%A4%A9%E6%B0%94-%E5%AE%A4%E5%86%85%E5%A4%96%E6%B8%A9%E5%BA%A6%E8%AE%A1-%E6%B9%BF%E5%BA%A6%E8%AE%A1_6475197144.png"
+    },
+    {
       "name": "潮汐表专业版-赶海潮汐查询海洋天气，离线潮汐赶海钓鱼助手_6803528662",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%BD%AE%E6%B1%90%E8%A1%A8%E4%B8%93%E4%B8%9A%E7%89%88-%E8%B5%B6%E6%B5%B7%E6%BD%AE%E6%B1%90%E6%9F%A5%E8%AF%A2%E6%B5%B7%E6%B4%8B%E5%A4%A9%E6%B0%94%EF%BC%8C%E7%A6%BB%E7%BA%BF%E6%BD%AE%E6%B1%90%E8%B5%B6%E6%B5%B7%E9%92%93%E9%B1%BC%E5%8A%A9%E6%89%8B_6803528662.png"
     },
     {
       "name": "澳門氣象局SMG_722198173",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E6%BE%B3%E9%96%80%E6%B0%A3%E8%B1%A1%E5%B1%80SMG_722198173.png"
+    },
+    {
+      "name": "猴哥天气_6790113208",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E7%8C%B4%E5%93%A5%E5%A4%A9%E6%B0%94_6790113208.png"
     },
     {
       "name": "王牌天气-准准准_6763012766",
@@ -606,6 +806,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E7%BA%A2%E6%97%B6%E9%92%9F-%E5%A4%A9%E6%B0%94%26%E9%97%B9%E9%92%9F_567374573.png"
     },
     {
+      "name": "红蛙天气_6754753915",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E7%BA%A2%E8%9B%99%E5%A4%A9%E6%B0%94_6754753915.png"
+    },
+    {
       "name": "职称英语全国公共等级考试_654665833",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E8%81%8C%E7%A7%B0%E8%8B%B1%E8%AF%AD%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95_654665833.png"
     },
@@ -630,12 +834,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%9B%A8%E5%A2%A8%E5%A4%A9%E6%B0%94_6778321417.png"
     },
     {
+      "name": "雨时-精准温度降雨诗词天气预报_6447344469",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%9B%A8%E6%97%B6-%E7%B2%BE%E5%87%86%E6%B8%A9%E5%BA%A6%E9%99%8D%E9%9B%A8%E8%AF%97%E8%AF%8D%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5_6447344469.png"
+    },
+    {
+      "name": "预报时钟实时_1130755557",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%A2%84%E6%8A%A5%E6%97%B6%E9%92%9F%E5%AE%9E%E6%97%B6_1130755557.png"
+    },
+    {
       "name": "风暴追踪器°-天气雷达、实时天气预报和警报_945662980",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%A3%8E%E6%9A%B4%E8%BF%BD%E8%B8%AA%E5%99%A8%C2%B0-%E5%A4%A9%E6%B0%94%E9%9B%B7%E8%BE%BE%E3%80%81%E5%AE%9E%E6%97%B6%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E5%92%8C%E8%AD%A6%E6%8A%A5_945662980.png"
     },
     {
       "name": "驾照模拟理论考试助手_833465773",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%A9%BE%E7%85%A7%E6%A8%A1%E6%8B%9F%E7%90%86%E8%AE%BA%E8%80%83%E8%AF%95%E5%8A%A9%E6%89%8B_833465773.png"
+    },
+    {
+      "name": "魅音变声器_1385337974",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Weather/%E9%AD%85%E9%9F%B3%E5%8F%98%E5%A3%B0%E5%99%A8_1385337974.png"
     },
     {
       "name": "鲨鱼天气-预报台风实时路径_1207730070",

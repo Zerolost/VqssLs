@@ -22,6 +22,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AIAudioEditor-Audioshop_6754245995.png"
     },
     {
+      "name": "AIMusic-Generator_6504490347",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AIMusic-Generator_6504490347.png"
+    },
+    {
       "name": "AIMusic-Guitar,Piano,Ukulele_1246637618",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AIMusic-Guitar%2CPiano%2CUkulele_1246637618.png"
     },
@@ -34,12 +38,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AISongAIMusicGenerator_6489035718.png"
     },
     {
+      "name": "AISongGenerator-Jukebox_6733226170",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AISongGenerator-Jukebox_6733226170.png"
+    },
+    {
       "name": "AISongGenerator-Zona_6499261254",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AISongGenerator-Zona_6499261254.png"
     },
     {
       "name": "AISongGenerator・MusicMaker_6723899166",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AISongGenerator%E3%83%BBMusicMaker_6723899166.png"
+    },
+    {
+      "name": "AI变声-大饼变声器_6759707608",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AI%E5%8F%98%E5%A3%B0-%E5%A4%A7%E9%A5%BC%E5%8F%98%E5%A3%B0%E5%99%A8_6759707608.png"
     },
     {
       "name": "AI音乐-AI音乐学院_6775455107",
@@ -54,8 +66,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AcapellafromPicPlayPost_924635678.png"
     },
     {
+      "name": "AduoerMusic_6794036425",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AduoerMusic_6794036425.png"
+    },
+    {
+      "name": "AevaMusic-OfflinePlayer_6769602965",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AevaMusic-OfflinePlayer_6769602965.png"
+    },
+    {
       "name": "AirMusic_409782234",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AirMusic_409782234.png"
+    },
+    {
+      "name": "AkaneMusicMP3Player_6812628729",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AkaneMusicMP3Player_6812628729.png"
     },
     {
       "name": "AmazonMusicSongs&Podcasts_510855668",
@@ -64,6 +88,10 @@
     {
       "name": "AmuseMusicDistribution_1160922922",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AmuseMusicDistribution_1160922922.png"
+    },
+    {
+      "name": "AndroTurk电台：收听与录音_1056204109",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AndroTurk%E7%94%B5%E5%8F%B0%EF%BC%9A%E6%94%B6%E5%90%AC%E4%B8%8E%E5%BD%95%E9%9F%B3_1056204109.png"
     },
     {
       "name": "AnghamiPlayMusic&Podcasts_545395155",
@@ -76,6 +104,10 @@
     {
       "name": "AnytuneTranscribe&Practice_415365180",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AnytuneTranscribe%26Practice_415365180.png"
+    },
+    {
+      "name": "Anywhere-MusicPlayer_1669824656",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Anywhere-MusicPlayer_1669824656.png"
     },
     {
       "name": "ApolloMusicYourMusicHub_6740073883",
@@ -130,6 +162,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioFusion_1607451929.png"
     },
     {
+      "name": "AudioMAudiobookPlayer_6802314068",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioMAudiobookPlayer_6802314068.png"
+    },
+    {
       "name": "AudioViz-TopSongsOnline_626007987",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/AudioViz-TopSongsOnline_626007987.png"
     },
@@ -154,6 +190,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Bandcamp_706408639.png"
     },
     {
+      "name": "BassBoostPlayer-Equalizer+_1559849038",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/BassBoostPlayer-Equalizer%2B_1559849038.png"
+    },
+    {
       "name": "BeatMakerGo－DJDrumPadsPro_1141835258",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/BeatMakerGo%EF%BC%8DDJDrumPadsPro_1141835258.png"
     },
@@ -168,6 +208,10 @@
     {
       "name": "BestRingtones2026foriPhone_1457775640",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/BestRingtones2026foriPhone_1457775640.png"
+    },
+    {
+      "name": "BlocsWaveRecordMusicLive_1085697317",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/BlocsWaveRecordMusicLive_1085697317.png"
     },
     {
       "name": "BluOSController_566668472",
@@ -230,6 +274,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/CountryRadioStreamingMusic_499068333.png"
     },
     {
+      "name": "Cove·唱片收藏馆黑胶播放器_6787837591",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Cove%C2%B7%E5%94%B1%E7%89%87%E6%94%B6%E8%97%8F%E9%A6%86%E9%BB%91%E8%83%B6%E6%92%AD%E6%94%BE%E5%99%A8_6787837591.png"
+    },
+    {
       "name": "CrankMelody_6444745115",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/CrankMelody_6444745115.png"
     },
@@ -270,12 +318,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DSMusicSynologyNASPlayer_6476442387.png"
     },
     {
+      "name": "DTunes-场景音乐与动态时钟_6742987464",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DTunes-%E5%9C%BA%E6%99%AF%E9%9F%B3%E4%B9%90%E4%B8%8E%E5%8A%A8%E6%80%81%E6%97%B6%E9%92%9F_6742987464.png"
+    },
+    {
       "name": "DeezerMusic&PodcastPlayer_292738169",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DeezerMusic%26PodcastPlayer_292738169.png"
     },
     {
       "name": "Demus简单的音乐流_6474685600",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Demus%E7%AE%80%E5%8D%95%E7%9A%84%E9%9F%B3%E4%B9%90%E6%B5%81_6474685600.png"
+    },
+    {
+      "name": "DigMusic-OfflineMP3Player_6748328941",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DigMusic-OfflineMP3Player_6748328941.png"
+    },
+    {
+      "name": "DigMusic-OfflinePlayerMP3_6745267096",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DigMusic-OfflinePlayerMP3_6745267096.png"
     },
     {
       "name": "Discogs_1036449551",
@@ -286,8 +346,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DliveAD2MusicPlayerLet%60senjo_1034103218.png"
     },
     {
+      "name": "DogTranslator!GameforDogs_1629517582",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DogTranslator%21GameforDogs_1629517582.png"
+    },
+    {
       "name": "DonnaAISong&MusicMaker_6482289804",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DonnaAISong%26MusicMaker_6482289804.png"
+    },
+    {
+      "name": "DopplerMP3&FLACPlayer_1468459747",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DopplerMP3%26FLACPlayer_1468459747.png"
+    },
+    {
+      "name": "DotPlayer-音乐播放器MusicPlayer_1118637370",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DotPlayer-%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8MusicPlayer_1118637370.png"
+    },
+    {
+      "name": "DozzzerSleepSounds_429674741",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DozzzerSleepSounds_429674741.png"
     },
     {
       "name": "DrumMachine-MusicMaker_1435908315",
@@ -302,6 +378,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DrumPads24BeatMakerMusic_667945907.png"
     },
     {
+      "name": "DrumPro_1487445438",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DrumPro_1487445438.png"
+    },
+    {
       "name": "DrumsLearn&PlayBeatGames_1381436705",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DrumsLearn%26PlayBeatGames_1381436705.png"
     },
@@ -314,6 +394,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/DtdPlaylist%E5%9C%BA%E6%99%AF%E6%AD%8C%E5%8D%95%E7%B2%BE%E9%80%89%E9%9F%B3%E4%B9%90%E5%B8%AE%E4%BD%A0%E8%BF%9C%E7%A6%BB%E6%AD%8C%E8%8D%92_1631654360.png"
     },
     {
+      "name": "Dynamic-Lyrics_6476125287",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Dynamic-Lyrics_6476125287.png"
+    },
+    {
       "name": "E-Radio-Streamgreekmusic_776881885",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/E-Radio-Streamgreekmusic_776881885.png"
     },
@@ -322,12 +406,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EQUALS-MusicSocialNetwork_6471002462.png"
     },
     {
+      "name": "EZAudioCut-AudioEditorLite_1310559506",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EZAudioCut-AudioEditorLite_1310559506.png"
+    },
+    {
+      "name": "EZAudioCutMTEditor&Mixdown_1450142833",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EZAudioCutMTEditor%26Mixdown_1450142833.png"
+    },
+    {
       "name": "EasyMp3Videotomp3Converter_1435666023",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EasyMp3Videotomp3Converter_1435666023.png"
     },
     {
       "name": "EchoAI一键成曲-AI音乐创作MV_6756477400",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EchoAI%E4%B8%80%E9%94%AE%E6%88%90%E6%9B%B2-AI%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9CMV_6756477400.png"
+    },
+    {
+      "name": "EchoShelf-有声书播放器_6763904592",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EchoShelf-%E6%9C%89%E5%A3%B0%E4%B9%A6%E6%92%AD%E6%94%BE%E5%99%A8_6763904592.png"
     },
     {
       "name": "Editanyaudio,soundEdity_1220467331",
@@ -350,6 +446,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Equalizer%2BMusicamp%26Podcast_814288775.png"
     },
     {
+      "name": "Equalizer-VolumeBoosterEQ_1550086698",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Equalizer-VolumeBoosterEQ_1550086698.png"
+    },
+    {
+      "name": "EqualizerFxBassBoosterApp_1084228340",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EqualizerFxBassBoosterApp_1084228340.png"
+    },
+    {
       "name": "EverPlay-HiFiMusicPlayer_1202642773",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EverPlay-HiFiMusicPlayer_1202642773.png"
     },
@@ -370,12 +474,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EvertagMusicTagEditor_1450763230.png"
     },
     {
+      "name": "EvoMusic-OfflinePlayerMP3_6761526783",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/EvoMusic-OfflinePlayerMP3_6761526783.png"
+    },
+    {
       "name": "FLACPlayerOfflineGapless_6793288615",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FLACPlayerOfflineGapless_6793288615.png"
     },
     {
+      "name": "FMRadio-RadioStationsLive_1329379740",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FMRadio-RadioStationsLive_1329379740.png"
+    },
+    {
       "name": "FMRadioMusic,News&Sports_6578444284",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FMRadioMusic%2CNews%26Sports_6578444284.png"
+    },
+    {
+      "name": "FMRadio–LiveStations_6575377602",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FMRadio%E2%80%93LiveStations_6575377602.png"
+    },
+    {
+      "name": "FinerJellyfinMusicPlayer_6738301953",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FinerJellyfinMusicPlayer_6738301953.png"
+    },
+    {
+      "name": "FingerDrumDrumPads&Beats_6784235932",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/FingerDrumDrumPads%26Beats_6784235932.png"
     },
     {
       "name": "FitRadioTrainInspired_440844625",
@@ -410,12 +534,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/GeniusSongLyricsFinder_709482991.png"
     },
     {
+      "name": "GoPlayer最佳云端音乐播放器_1159282786",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/GoPlayer%E6%9C%80%E4%BD%B3%E4%BA%91%E7%AB%AF%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_1159282786.png"
+    },
+    {
       "name": "GrandPianoKeyboard&Metronome_578185077",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/GrandPianoKeyboard%26Metronome_578185077.png"
     },
     {
       "name": "Guitar-Chords,Tabs&Games_426912243",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Guitar-Chords%2CTabs%26Games_426912243.png"
+    },
+    {
+      "name": "GuitarChords&Tabs_506146809",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/GuitarChords%26Tabs_506146809.png"
     },
     {
       "name": "GuitarPlay吉他，应用以及真人音乐家录制的歌曲_1388274732",
@@ -430,8 +562,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HKRadio%E2%97%8EHongKongFM_1078956670.png"
     },
     {
+      "name": "HandyStrum_6798292515",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HandyStrum_6798292515.png"
+    },
+    {
       "name": "HiFier高保真音乐播放器_6740998246",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HiFier%E9%AB%98%E4%BF%9D%E7%9C%9F%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6740998246.png"
+    },
+    {
+      "name": "HighAmp-MP3音乐播放器_1359019917",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HighAmp-MP3%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_1359019917.png"
+    },
+    {
+      "name": "HighStereo-MP3音乐播放器_1100086488",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HighStereo-MP3%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_1100086488.png"
+    },
+    {
+      "name": "HighStereoMP3MusicPlayer_1164322969",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/HighStereoMP3MusicPlayer_1164322969.png"
     },
     {
       "name": "HitFmRadio_836465641",
@@ -462,6 +610,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/JMusic-NewMusicStreaming_1478084426.png"
     },
     {
+      "name": "JOOXMusic-AIMusicPlayer_914406371",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/JOOXMusic-AIMusicPlayer_914406371.png"
+    },
+    {
       "name": "JamAI-AISongs&Music_6763723028",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/JamAI-AISongs%26Music_6763723028.png"
     },
@@ -470,12 +622,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/JamblDJBand%26BeatMaker_1125826534.png"
     },
     {
+      "name": "JustPlayer-LRC音频播放器_1134401407",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/JustPlayer-LRC%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8_1134401407.png"
+    },
+    {
       "name": "KIONMusic-songsandpodcasts_1062550132",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/KIONMusic-songsandpodcasts_1062550132.png"
     },
     {
       "name": "KP音乐-Ai音乐图片生成歌曲AI写歌作曲音乐创作_6744406259",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/KP%E9%9F%B3%E4%B9%90-Ai%E9%9F%B3%E4%B9%90%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90%E6%AD%8C%E6%9B%B2AI%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C_6744406259.png"
+    },
+    {
+      "name": "KaraokeRange&VoiceTraining_1270775274",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/KaraokeRange%26VoiceTraining_1270775274.png"
     },
     {
       "name": "KlipschStream_1141203801",
@@ -494,8 +654,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LiveOneMusic_298307011.png"
     },
     {
+      "name": "LiveTunesReverbMusicPlayer_644106186",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LiveTunesReverbMusicPlayer_644106186.png"
+    },
+    {
+      "name": "LocalMusicPlayer：Duting_6811583393",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LocalMusicPlayer%EF%BC%9ADuting_6811583393.png"
+    },
+    {
+      "name": "LoveMusicPlayer-LocalPlay_1592073552",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LoveMusicPlayer-LocalPlay_1592073552.png"
+    },
+    {
       "name": "LullabySongsforSleep_1204297404",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LullabySongsforSleep_1204297404.png"
+    },
+    {
+      "name": "LyraMusicPlayer&eSound_6747066887",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/LyraMusicPlayer%26eSound_6747066887.png"
     },
     {
       "name": "MELODY-强打好歌强大资讯_6744104848",
@@ -522,6 +698,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3ConverterVideotoMP3App_6746092658.png"
     },
     {
+      "name": "MP3Convertermusiceditor_6469768761",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3Convertermusiceditor_6469768761.png"
+    },
+    {
+      "name": "MP3PlayerOfflineMyMusic_1556186076",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3PlayerOfflineMyMusic_1556186076.png"
+    },
+    {
       "name": "MP3RingtoneMakerforiPhone_6742054029",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3RingtoneMakerforiPhone_6742054029.png"
     },
@@ -530,8 +714,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MP3%E8%BD%AC%E6%8D%A2%E5%99%A8-%E6%A0%BC%E5%BC%8F%E7%8C%AB%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%8D%A2%E5%99%A8%26%E8%A7%86%E9%A2%91%E8%BD%AC%E9%9F%B3%E9%A2%91_6670165412.png"
     },
     {
+      "name": "MPlayerplayerforMEGA.NZ_1097961510",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MPlayerplayerforMEGA.NZ_1097961510.png"
+    },
+    {
       "name": "MelodistaMusicOfflinePlayer_1293175325",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MelodistaMusicOfflinePlayer_1293175325.png"
+    },
+    {
+      "name": "Melodist人人都是作曲家_1115047756",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Melodist%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BD%9C%E6%9B%B2%E5%AE%B6_1115047756.png"
+    },
+    {
+      "name": "Metronome&TunerSowlea_6809101052",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Metronome%26TunerSowlea_6809101052.png"
     },
     {
       "name": "Metronome-musicbeatrhythm_1617382945",
@@ -542,12 +738,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MetronomeBeatsDrumLoops_1472020291.png"
     },
     {
+      "name": "MiaMusicPlayerForKids_6759974649",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MiaMusicPlayerForKids_6759974649.png"
+    },
+    {
       "name": "MicSwapMultiTrack音乐工作室麦克风录音_1538031783",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MicSwapMultiTrack%E9%9F%B3%E4%B9%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%BD%95%E9%9F%B3_1538031783.png"
     },
     {
       "name": "MicrophoneLive-VoiceRecorder_1520523641",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MicrophoneLive-VoiceRecorder_1520523641.png"
+    },
+    {
+      "name": "MictoSpeaker-VirtualMic_1514011963",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MictoSpeaker-VirtualMic_1514011963.png"
     },
     {
       "name": "MilkFrogMusic-MemeBeats_6762385358",
@@ -598,8 +802,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MuseScore%EF%BC%8DSheetMusic%26Chords_835731296.png"
     },
     {
+      "name": "Music,Player,Vinyl-Shae_6753968019",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Music%2CPlayer%2CVinyl-Shae_6753968019.png"
+    },
+    {
+      "name": "MusicAI,音乐,Ai翻唱,变声器,声音克隆_6499377789",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicAI%2C%E9%9F%B3%E4%B9%90%2CAi%E7%BF%BB%E5%94%B1%2C%E5%8F%98%E5%A3%B0%E5%99%A8%2C%E5%A3%B0%E9%9F%B3%E5%85%8B%E9%9A%86_6499377789.png"
+    },
+    {
       "name": "MusicAI-MVVideoGenerator_6503184164",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicAI-MVVideoGenerator_6503184164.png"
+    },
+    {
+      "name": "MusicBoxOfflineMusicPlayer_911676043",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicBoxOfflineMusicPlayer_911676043.png"
     },
     {
       "name": "MusicCloudMusicStreaming_6756828162",
@@ -608,6 +824,10 @@
     {
       "name": "MusicCloudOffline_1062417998",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicCloudOffline_1062417998.png"
+    },
+    {
+      "name": "MusicDigMusicbyPlayCount_1434640007",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicDigMusicbyPlayCount_1434640007.png"
     },
     {
       "name": "MusicDownloaderMP3Player_1447312762",
@@ -654,8 +874,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicMusicStreaming_6762138001.png"
     },
     {
+      "name": "MusicOZMusicplayer_1417804319",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicOZMusicplayer_1417804319.png"
+    },
+    {
       "name": "MusicOfflinePlayer_6746770085",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicOfflinePlayer_6746770085.png"
+    },
+    {
+      "name": "MusicPlayer,MP3Arua_6751797371",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayer%2CMP3Arua_6751797371.png"
+    },
+    {
+      "name": "MusicPlayer-OfflineGreen_6749602806",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayer-OfflineGreen_6749602806.png"
+    },
+    {
+      "name": "MusicPlayer-OfflineSongs_6476774142",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayer-OfflineSongs_6476774142.png"
+    },
+    {
+      "name": "MusicPlayer-RunoPlayer_6758003947",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayer-RunoPlayer_6758003947.png"
+    },
+    {
+      "name": "MusicPlayer-VinylWidget_1639260168",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayer-VinylWidget_1639260168.png"
     },
     {
       "name": "MusicPlayerOffline-Mp3,Mp4_6754071022",
@@ -666,6 +910,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPlayerSongsStreaming_1660243228.png"
     },
     {
+      "name": "MusicPodClassicMusicPlayer_6784645886",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicPodClassicMusicPlayer_6784645886.png"
+    },
+    {
+      "name": "MusicRadioPlayer_1335875292",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicRadioPlayer_1335875292.png"
+    },
+    {
       "name": "MusicSimpleMusicStreaming_1481685496",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicSimpleMusicStreaming_1481685496.png"
     },
@@ -674,8 +926,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicSpeedChanger%E2%96%B6%E2%96%B6%E2%96%B6_1595494271.png"
     },
     {
+      "name": "MusicSpot音乐播放器：听音乐，下载专辑，编辑歌曲_1062417998",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicSpot%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%EF%BC%9A%E5%90%AC%E9%9F%B3%E4%B9%90%EF%BC%8C%E4%B8%8B%E8%BD%BD%E4%B8%93%E8%BE%91%EF%BC%8C%E7%BC%96%E8%BE%91%E6%AD%8C%E6%9B%B2_1062417998.png"
+    },
+    {
       "name": "MusicTV-VideoPlay&Stream_547001249",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicTV-VideoPlay%26Stream_547001249.png"
+    },
+    {
+      "name": "MusicTuneAI-SongGenerator_6723899080",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicTuneAI-SongGenerator_6723899080.png"
     },
     {
       "name": "MusicTutor(Sight-reading)_514363426",
@@ -702,8 +962,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Musicana-Organizer%26Player_1434023161.png"
     },
     {
+      "name": "MusicboxplayerforDropbox_1212543936",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MusicboxplayerforDropbox_1212543936.png"
+    },
+    {
+      "name": "Musivo离线音乐播放器_6759471076",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Musivo%E7%A6%BB%E7%BA%BF%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6759471076.png"
+    },
+    {
       "name": "Musyc-物理音乐创作_489836689",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Musyc-%E7%89%A9%E7%90%86%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C_489836689.png"
+    },
+    {
+      "name": "MuzikBox-Anelegantplayer_1273115621",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MuzikBox-Anelegantplayer_1273115621.png"
+    },
+    {
+      "name": "MyMP3MP3转换器和音乐播放器_970421049",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/MyMP3MP3%E8%BD%AC%E6%8D%A2%E5%99%A8%E5%92%8C%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_970421049.png"
     },
     {
       "name": "MyMusic-AudioPlayer_1200228310",
@@ -714,12 +990,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NOICEPodcast%2CFilm%26Radio_1484372791.png"
     },
     {
+      "name": "NavidMusicClearHiFiPlayer_6786164266",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NavidMusicClearHiFiPlayer_6786164266.png"
+    },
+    {
+      "name": "NepaliOne-RadioFMShopping_323648903",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NepaliOne-RadioFMShopping_323648903.png"
+    },
+    {
       "name": "NewPod-沉浸式苹果音乐播放器_6790051609",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NewPod-%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%8B%B9%E6%9E%9C%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6790051609.png"
     },
     {
       "name": "NintendoMusic_6466376604",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NintendoMusic_6466376604.png"
+    },
+    {
+      "name": "Nocturne-環境音とLofi_6794798534",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Nocturne-%E7%92%B0%E5%A2%83%E9%9F%B3%E3%81%A8Lofi_6794798534.png"
     },
     {
       "name": "NotationPad-SheetMusicScore_1091921942",
@@ -734,8 +1022,60 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/NowRepeater_1435049935.png"
     },
     {
+      "name": "OVOOfflineMusicPlayer_6797544682",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OVOOfflineMusicPlayer_6797544682.png"
+    },
+    {
+      "name": "OfflineMusic-WristPlayer_6740153794",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusic-WristPlayer_6740153794.png"
+    },
+    {
+      "name": "OfflineMusicMP3Player_6744391209",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicMP3Player_6744391209.png"
+    },
+    {
+      "name": "OfflineMusicPlayer&Editor_6745310867",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer%26Editor_6745310867.png"
+    },
+    {
+      "name": "OfflineMusicPlayer&Media_6532609250",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer%26Media_6532609250.png"
+    },
+    {
+      "name": "OfflineMusicPlayer,MeloPlay_6756110461",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer%2CMeloPlay_6756110461.png"
+    },
+    {
+      "name": "OfflineMusicPlayer-Drift_6789325283",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer-Drift_6789325283.png"
+    },
+    {
+      "name": "OfflineMusicPlayer-MP3Songs_6473737734",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer-MP3Songs_6473737734.png"
+    },
+    {
+      "name": "OfflineMusicPlayerNoBars_6805929959",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayerNoBars_6805929959.png"
+    },
+    {
+      "name": "OfflineMusicPlayer_1259949354",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusicPlayer_1259949354.png"
+    },
+    {
+      "name": "OfflineMusic–mp3Player_1455885086",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OfflineMusic%E2%80%93mp3Player_1455885086.png"
+    },
+    {
       "name": "OnSong2026_1330350343",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OnSong2026_1330350343.png"
+    },
+    {
+      "name": "OneMusicOfflinePlayer_6796222344",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OneMusicOfflinePlayer_6796222344.png"
+    },
+    {
+      "name": "OnePlayerPro-OfflineMusic_1617273967",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/OnePlayerPro-OfflineMusic_1617273967.png"
     },
     {
       "name": "OnePlayer：本地音乐&手表离线音乐播放器&桌面歌_1614115295",
@@ -754,6 +1094,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PerfectPiano-LearntoPlay_942937409.png"
     },
     {
+      "name": "PewPeeMusicPlayerOffline_1483338834",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PewPeeMusicPlayerOffline_1483338834.png"
+    },
+    {
+      "name": "Piano-PianoKeyboardSimulator_1290096743",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Piano-PianoKeyboardSimulator_1290096743.png"
+    },
+    {
       "name": "Piano-Pianokeyboard,Learn_1523632955",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Piano-Pianokeyboard%2CLearn_1523632955.png"
     },
@@ -766,6 +1114,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Piascore%E2%80%93SheetMusicReader_406141702.png"
     },
     {
+      "name": "PitchSnapTuner&Metronome_6784615194",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PitchSnapTuner%26Metronome_6784615194.png"
+    },
+    {
       "name": "PlaylistNote_1332640775",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PlaylistNote_1332640775.png"
     },
@@ -774,12 +1126,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Plexamp_1500797510.png"
     },
     {
+      "name": "PoseMusic-本地音乐播放器网盘流媒体坐姿监测_6450157631",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PoseMusic-%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E7%BD%91%E7%9B%98%E6%B5%81%E5%AA%92%E4%BD%93%E5%9D%90%E5%A7%BF%E7%9B%91%E6%B5%8B_6450157631.png"
+    },
+    {
       "name": "PowerMusicNow_540469794",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PowerMusicNow_540469794.png"
     },
     {
+      "name": "PrankVoiceChanger_975443582",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PrankVoiceChanger_975443582.png"
+    },
+    {
       "name": "PrayerBeads3D-RealPatina_6446806417",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PrayerBeads3D-RealPatina_6446806417.png"
+    },
+    {
+      "name": "Primuse-NAS、网盘、navidrome自托管播_6761675450",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Primuse-NAS%E3%80%81%E7%BD%91%E7%9B%98%E3%80%81navidrome%E8%87%AA%E6%89%98%E7%AE%A1%E6%92%AD_6761675450.png"
+    },
+    {
+      "name": "PrismMusic_1335007451",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/PrismMusic_1335007451.png"
     },
     {
       "name": "QobuzMusic&Editorial_946429340",
@@ -798,6 +1166,18 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RaMusiOfflineMusicPlayer_6544791962.png"
     },
     {
+      "name": "RadioClyde_377894281",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RadioClyde_377894281.png"
+    },
+    {
+      "name": "RadioSingaporeFMLiveOnline_6502572248",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RadioSingaporeFMLiveOnline_6502572248.png"
+    },
+    {
+      "name": "RadioandMusicOnlineTuner_1217267627",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RadioandMusicOnlineTuner_1217267627.png"
+    },
+    {
       "name": "RapFame-RapMusicStudio_1476399789",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RapFame-RapMusicStudio_1476399789.png"
     },
@@ -812,6 +1192,18 @@
     {
       "name": "RepostExchange-PromoteMusic_1288120962",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RepostExchange-PromoteMusic_1288120962.png"
+    },
+    {
+      "name": "RewindEcho：复古磁带音乐播放器_6776126230",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RewindEcho%EF%BC%9A%E5%A4%8D%E5%8F%A4%E7%A3%81%E5%B8%A6%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6776126230.png"
+    },
+    {
+      "name": "Rewindi复古音乐播放器_6823868990",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Rewindi%E5%A4%8D%E5%8F%A4%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6823868990.png"
+    },
+    {
+      "name": "RhythmMIDItempotutor_1604438442",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RhythmMIDItempotutor_1604438442.png"
     },
     {
       "name": "RingTuneRingtonesforiPhone_1036141497",
@@ -830,8 +1222,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingtoneMakerAudioEditor_1404293477.png"
     },
     {
+      "name": "RingtonesforiPhone_1470100930",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/RingtonesforiPhone_1470100930.png"
+    },
+    {
       "name": "Rythmix-AIMusicGenerator_6736849866",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Rythmix-AIMusicGenerator_6736849866.png"
+    },
+    {
+      "name": "SGRadio◎Singaporestation_395605775",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SGRadio%E2%97%8ESingaporestation_395605775.png"
     },
     {
       "name": "STAELLA-MusicVisualizerVJ_1370376584",
@@ -854,6 +1254,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/ScoreSkills-LearnMusicNotes_1439046224.png"
     },
     {
+      "name": "Semitone–LosslessPlayer_6763824037",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Semitone%E2%80%93LosslessPlayer_6763824037.png"
+    },
+    {
       "name": "SepiaPod-复古音乐播放器_6764757127",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SepiaPod-%E5%A4%8D%E5%8F%A4%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6764757127.png"
     },
@@ -874,6 +1278,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SimplePianoPlay%26Learn_1448469792.png"
     },
     {
+      "name": "SimplePlayer-musicplayer_1195415566",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SimplePlayer-musicplayer_1195415566.png"
+    },
+    {
       "name": "SimpleRadioFM&AMStations_891132290",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SimpleRadioFM%26AMStations_891132290.png"
     },
@@ -886,8 +1294,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SingaporeRadios%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%94%B6%E9%9F%B3%E6%9C%BA%21_694569258.png"
     },
     {
+      "name": "SingplayAI_6777958711",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SingplayAI_6777958711.png"
+    },
+    {
       "name": "SiriusXMMusic,Sports&News_317951436",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SiriusXMMusic%2CSports%26News_317951436.png"
+    },
+    {
+      "name": "Sleeve-专辑播放器_6774548921",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Sleeve-%E4%B8%93%E8%BE%91%E6%92%AD%E6%94%BE%E5%99%A8_6774548921.png"
     },
     {
       "name": "SmoothPlayer_314769719",
@@ -922,6 +1338,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SongFinderMusicIdentifier_1625902735.png"
     },
     {
+      "name": "Songsterr谱表和和弦_399211291",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Songsterr%E8%B0%B1%E8%A1%A8%E5%92%8C%E5%92%8C%E5%BC%A6_399211291.png"
+    },
+    {
+      "name": "Sonio-RetroClassicPlayer_6790887946",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Sonio-RetroClassicPlayer_6790887946.png"
+    },
+    {
       "name": "SonosS1Controller_293523031",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SonosS1Controller_293523031.png"
     },
@@ -942,6 +1366,18 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SoundCloudTheMusicYouLove_336353151.png"
     },
     {
+      "name": "SoundConnectforHeadphones_887768699",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SoundConnectforHeadphones_887768699.png"
+    },
+    {
+      "name": "SoundHound∞音乐搜索识别和播放器_284972998",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SoundHound%E2%88%9E%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E8%AF%86%E5%88%AB%E5%92%8C%E6%92%AD%E6%94%BE%E5%99%A8_284972998.png"
+    },
+    {
+      "name": "SpeakerCleaner-WaterEject_6771212387",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SpeakerCleaner-WaterEject_6771212387.png"
+    },
+    {
       "name": "SpireMusicRecorder&Studio_1013021109",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SpireMusicRecorder%26Studio_1013021109.png"
     },
@@ -960,6 +1396,14 @@
     {
       "name": "StarMusic_1375013749",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/StarMusic_1375013749.png"
+    },
+    {
+      "name": "StaticMusicPlayer_987719636",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/StaticMusicPlayer_987719636.png"
+    },
+    {
+      "name": "SteveOfflineMusicPlayer_6751122850",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/SteveOfflineMusicPlayer_6751122850.png"
     },
     {
       "name": "StreetVoice街聲-暢聽獨立音樂、演出活動通知_804704919",
@@ -994,6 +1438,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Tap%26Mix-DJ%E6%89%93%E7%A2%9F%E6%B7%B7%E9%9F%B3%E5%92%8C%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E8%BD%AF%E4%BB%B6_1474654149.png"
     },
     {
+      "name": "TapeEaterMP3音乐播放器_1536182565",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TapeEaterMP3%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_1536182565.png"
+    },
+    {
       "name": "TapeEaterMixtapePlayer_1536182565",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TapeEaterMixtapePlayer_1536182565.png"
     },
@@ -1026,16 +1474,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TrendingMusicPlayer_1139055265.png"
     },
     {
+      "name": "TubecastsBackgroundPlayer_6450131804",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TubecastsBackgroundPlayer_6450131804.png"
+    },
+    {
       "name": "TuneInRadioMusic&Sports_319295332",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TuneInRadioMusic%26Sports_319295332.png"
+    },
+    {
+      "name": "TuneInRadioMusic&Sports_418987775",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TuneInRadioMusic%26Sports_418987775.png"
     },
     {
       "name": "TuneInRadio：音乐、实时新闻_418987775",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TuneInRadio%EF%BC%9A%E9%9F%B3%E4%B9%90%E3%80%81%E5%AE%9E%E6%97%B6%E6%96%B0%E9%97%BB_418987775.png"
     },
     {
+      "name": "TuneoOfflineMusicPlayer_6748915689",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/TuneoOfflineMusicPlayer_6748915689.png"
+    },
+    {
       "name": "UdioAIMusicMaker&Studio_6511211165",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/UdioAIMusicMaker%26Studio_6511211165.png"
+    },
+    {
+      "name": "Uku-UkuleleTuner_6811916826",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Uku-UkuleleTuner_6811916826.png"
     },
     {
       "name": "UltimateGuitar：和弦&乐谱_357828853",
@@ -1078,8 +1542,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VideoCopyVideoEditor%2CPlay_1472976157.png"
     },
     {
+      "name": "VideoToAudioBatchConverter_6698856470",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VideoToAudioBatchConverter_6698856470.png"
+    },
+    {
+      "name": "VideoToMP3OfflinePlayer_1371980030",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VideoToMP3OfflinePlayer_1371980030.png"
+    },
+    {
+      "name": "VinylPod-MusicWidget_6443989711",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VinylPod-MusicWidget_6443989711.png"
+    },
+    {
       "name": "VocalMe：AI音乐生成器，AI翻唱，音色克隆_6479740642",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VocalMe%EF%BC%9AAI%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%8CAI%E7%BF%BB%E5%94%B1%EF%BC%8C%E9%9F%B3%E8%89%B2%E5%85%8B%E9%9A%86_6479740642.png"
+    },
+    {
+      "name": "VocalMonitorSing&Practice_6827037582",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VocalMonitorSing%26Practice_6827037582.png"
     },
     {
       "name": "VocalRemoverEditorMusicLab_6474169349",
@@ -1090,8 +1570,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VocalSepVocalRemover_6806564974.png"
     },
     {
+      "name": "VocalTuner音感·音域检测·声乐练习_1505735245",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/VocalTuner%E9%9F%B3%E6%84%9F%C2%B7%E9%9F%B3%E5%9F%9F%E6%A3%80%E6%B5%8B%C2%B7%E5%A3%B0%E4%B9%90%E7%BB%83%E4%B9%A0_1505735245.png"
+    },
+    {
+      "name": "Voffect-录音变声器·语音变声软件_1595625523",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Voffect-%E5%BD%95%E9%9F%B3%E5%8F%98%E5%A3%B0%E5%99%A8%C2%B7%E8%AF%AD%E9%9F%B3%E5%8F%98%E5%A3%B0%E8%BD%AF%E4%BB%B6_1595625523.png"
+    },
+    {
       "name": "Volumebooster&EqualizerFX_6444477459",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Volumebooster%26EqualizerFX_6444477459.png"
+    },
+    {
+      "name": "WISESmartPlayer_1068383212",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/WISESmartPlayer_1068383212.png"
+    },
+    {
+      "name": "WaterEjectCleanSpeakerHz_6785441468",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/WaterEjectCleanSpeakerHz_6785441468.png"
     },
     {
       "name": "WavePadMusicandAudioEditor_395339564",
@@ -1102,6 +1598,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/WeDrumDrumGames%2CRealDrums_474286241.png"
     },
     {
+      "name": "Weezer-MusicPlayerOffline_6790422768",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Weezer-MusicPlayerOffline_6790422768.png"
+    },
+    {
       "name": "Whatthedogdoing-Woodenfish_6760925662",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Whatthedogdoing-Woodenfish_6760925662.png"
     },
@@ -1110,12 +1610,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/XPlayer-LocalMusicPlayer_6760284753.png"
     },
     {
+      "name": "Xolo-音乐制作，唱歌编曲_6505090068",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Xolo-%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%EF%BC%8C%E5%94%B1%E6%AD%8C%E7%BC%96%E6%9B%B2_6505090068.png"
+    },
+    {
       "name": "Y2002电音-DJ电音音乐播放器_1146785690",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/Y2002%E7%94%B5%E9%9F%B3-DJ%E7%94%B5%E9%9F%B3%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_1146785690.png"
     },
     {
+      "name": "YaPlayerofflinemusicplayer_1103650450",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/YaPlayerofflinemusicplayer_1103650450.png"
+    },
+    {
       "name": "YandexMusicмузыка,книги_520797969",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/YandexMusic%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%2C%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_520797969.png"
+    },
+    {
+      "name": "YokeeKaraoke–StartSinging_547109049",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/YokeeKaraoke%E2%80%93StartSinging_547109049.png"
     },
     {
       "name": "YouTubeMusic_1017492454",
@@ -1124,6 +1636,14 @@
     {
       "name": "[untitled]_6445854828",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%5Buntitled%5D_6445854828.png"
+    },
+    {
+      "name": "alphaSXplayer-是强有力的的音频播放器_1129911490",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/alphaSXplayer-%E6%98%AF%E5%BC%BA%E6%9C%89%E5%8A%9B%E7%9A%84%E7%9A%84%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8_1129911490.png"
+    },
+    {
+      "name": "aueditor-audiocutter_6461416218",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/aueditor-audiocutter_6461416218.png"
     },
     {
       "name": "bandzo_669877337",
@@ -1142,8 +1662,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/djay-DJApp%26AIMixer_450527929.png"
     },
     {
+      "name": "iMusic-OfflineMusicPlayer_1493949573",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/iMusic-OfflineMusicPlayer_1493949573.png"
+    },
+    {
+      "name": "iPlayer-OfflineMusicPlayer_6737089849",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/iPlayer-OfflineMusicPlayer_6737089849.png"
+    },
+    {
       "name": "iSubMusicStreamer_362920532",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/iSubMusicStreamer_362920532.png"
+    },
+    {
+      "name": "musicplayer-NePLAYERLite_1047053453",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/musicplayer-NePLAYERLite_1047053453.png"
     },
     {
       "name": "musicplayer[dliveAD]Let`senj_929859796",
@@ -1154,12 +1686,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/myTunerRadioPlayer-LiveFM_520502858.png"
     },
     {
+      "name": "n-TrackMetronome_679040837",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/n-TrackMetronome_679040837.png"
+    },
+    {
       "name": "n-TrackStudioDAWMakeMusic_1130289718",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/n-TrackStudioDAWMakeMusic_1130289718.png"
     },
     {
+      "name": "n7player-音乐播放器与10波段均衡器_885820283",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/n7player-%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E4%B8%8E10%E6%B3%A2%E6%AE%B5%E5%9D%87%E8%A1%A1%E5%99%A8_885820283.png"
+    },
+    {
       "name": "nugsLiveMusicLivesHere_1032794422",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/nugsLiveMusicLivesHere_1032794422.png"
+    },
+    {
+      "name": "offlinemusicplayer-songs_1448822420",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/offlinemusicplayer-songs_1448822420.png"
     },
     {
       "name": "playSubMusicStreamer_955329386",
@@ -1174,6 +1718,10 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/rekordboxDJ%E7%94%B5%E9%9F%B3%E6%89%93%E7%A2%9F-DJ%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%C2%B7%E6%B7%B7%E9%9F%B3%E7%A5%9E%E5%99%A8_6523422103.png"
     },
     {
+      "name": "scylla-Hi-ResMusicPlayer_1213793301",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/scylla-Hi-ResMusicPlayer_1213793301.png"
+    },
+    {
       "name": "sona_1002827015",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/sona_1002827015.png"
     },
@@ -1186,8 +1734,28 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/triplej_458003957.png"
     },
     {
+      "name": "wavesofhealing_6446135330",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/wavesofhealing_6446135330.png"
+    },
+    {
+      "name": "ラジオ(日本ラジオ)_1208916529",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%28%E6%97%A5%E6%9C%AC%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%29_1208916529.png"
+    },
+    {
+      "name": "一炷香-赛博电子烧香冥想神器_6444104559",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E4%B8%80%E7%82%B7%E9%A6%99-%E8%B5%9B%E5%8D%9A%E7%94%B5%E5%AD%90%E7%83%A7%E9%A6%99%E5%86%A5%E6%83%B3%E7%A5%9E%E5%99%A8_6444104559.png"
+    },
+    {
+      "name": "万能变声器软件音频视频游戏变声器,视频音频提取器音乐剪辑_1541576296",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E4%B8%87%E8%83%BD%E5%8F%98%E5%A3%B0%E5%99%A8%E8%BD%AF%E4%BB%B6%E9%9F%B3%E9%A2%91%E8%A7%86%E9%A2%91%E6%B8%B8%E6%88%8F%E5%8F%98%E5%A3%B0%E5%99%A8%2C%E8%A7%86%E9%A2%91%E9%9F%B3%E9%A2%91%E6%8F%90%E5%8F%96%E5%99%A8%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91_1541576296.png"
+    },
+    {
       "name": "丸音-音乐超好玩_1530505960",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E4%B8%B8%E9%9F%B3-%E9%9F%B3%E4%B9%90%E8%B6%85%E5%A5%BD%E7%8E%A9_1530505960.png"
+    },
+    {
+      "name": "乐斯电鼓陪练_1163664044",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E4%B9%90%E6%96%AF%E7%94%B5%E9%BC%93%E9%99%AA%E7%BB%83_1163664044.png"
     },
     {
       "name": "五线谱-作曲家的乐谱作曲、打谱、音乐创作、扒谱工具_1551925812",
@@ -1200,6 +1768,10 @@
     {
       "name": "佛经大全-佛经诵读日历查一查_590221437",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E4%BD%9B%E7%BB%8F%E5%A4%A7%E5%85%A8-%E4%BD%9B%E7%BB%8F%E8%AF%B5%E8%AF%BB%E6%97%A5%E5%8E%86%E6%9F%A5%E4%B8%80%E6%9F%A5_590221437.png"
+    },
+    {
+      "name": "倾音-离线音乐播放器&歌曲推荐_6744054965",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%80%BE%E9%9F%B3-%E7%A6%BB%E7%BA%BF%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%26%E6%AD%8C%E6%9B%B2%E6%8E%A8%E8%8D%90_6744054965.png"
     },
     {
       "name": "写歌大师-AI写歌·AI生成音乐·AI音乐·音乐创作·音_6740610342",
@@ -1218,6 +1790,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8D%8E%E8%8E%BA%E9%9F%B3%E4%B9%90_1491110953.png"
     },
     {
+      "name": "变声器和恶作剧声音_6502737743",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%98%E5%A3%B0%E5%99%A8%E5%92%8C%E6%81%B6%E4%BD%9C%E5%89%A7%E5%A3%B0%E9%9F%B3_6502737743.png"
+    },
+    {
+      "name": "变声器语音包-游戏开黑实时变声_1492794646",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%98%E5%A3%B0%E5%99%A8%E8%AF%AD%E9%9F%B3%E5%8C%85-%E6%B8%B8%E6%88%8F%E5%BC%80%E9%BB%91%E5%AE%9E%E6%97%B6%E5%8F%98%E5%A3%B0_1492794646.png"
+    },
+    {
       "name": "古典名曲欣賞免费版HD万年历猎豹内存浏览器QQ同步推助手_833461411",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E5%90%8D%E6%9B%B2%E6%AC%A3%E8%B3%9E%E5%85%8D%E8%B4%B9%E7%89%88HD%E4%B8%87%E5%B9%B4%E5%8E%86%E7%8C%8E%E8%B1%B9%E5%86%85%E5%AD%98%E6%B5%8F%E8%A7%88%E5%99%A8QQ%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%8A%A9%E6%89%8B_833461411.png"
     },
@@ -1226,8 +1806,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%A4%A7%E5%B8%88%E4%BD%9C%E5%93%81%E7%B2%BE%E9%80%89%E9%9B%86%EF%BC%9A%E4%B8%96%E7%95%8C%E7%BB%8F%E5%85%B8%E5%90%8D%E6%9B%B2%E7%B3%BB%E5%88%97123%E5%8D%B7_388835399.png"
     },
     {
+      "name": "古典音乐播放器-classicmusic_1451706894",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8-classicmusic_1451706894.png"
+    },
+    {
       "name": "古典音乐钢琴及小提琴名曲精选专辑离线免费版HD-交响乐团_853688701",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E9%92%A2%E7%90%B4%E5%8F%8A%E5%B0%8F%E6%8F%90%E7%90%B4%E5%90%8D%E6%9B%B2%E7%B2%BE%E9%80%89%E4%B8%93%E8%BE%91%E7%A6%BB%E7%BA%BF%E5%85%8D%E8%B4%B9%E7%89%88HD-%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2_853688701.png"
+    },
+    {
+      "name": "古筝世界-古筝谱、课程、调音器,模拟器_6448222378",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%8F%A4%E7%AD%9D%E4%B8%96%E7%95%8C-%E5%8F%A4%E7%AD%9D%E8%B0%B1%E3%80%81%E8%AF%BE%E7%A8%8B%E3%80%81%E8%B0%83%E9%9F%B3%E5%99%A8%2C%E6%A8%A1%E6%8B%9F%E5%99%A8_6448222378.png"
     },
     {
       "name": "古筝和钢琴-学习弹虚拟古筝和钢琴入门_1668770269",
@@ -1254,12 +1842,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%92%AA%E5%92%95%E9%9F%B3%E4%B9%90-%E6%B5%B7%E9%87%8F%E6%AD%A3%E7%89%88%E6%97%A0%E9%99%90%E7%95%85%E5%90%AC_725215315.png"
     },
     {
+      "name": "哈雅Ａ梦-音乐播放器_717639970",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%93%88%E9%9B%85%EF%BC%A1%E6%A2%A6-%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_717639970.png"
+    },
+    {
       "name": "唱鸭-弹唱说唱_1449599979",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%94%B1%E9%B8%AD-%E5%BC%B9%E5%94%B1%E8%AF%B4%E5%94%B1_1449599979.png"
     },
     {
       "name": "啦啦啦音乐_6748666539",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%95%A6%E5%95%A6%E5%95%A6%E9%9F%B3%E4%B9%90_6748666539.png"
+    },
+    {
+      "name": "喜马拉雅极速版-畅听有声小说相声评书_1488281962",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%9E%81%E9%80%9F%E7%89%88-%E7%95%85%E5%90%AC%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E7%9B%B8%E5%A3%B0%E8%AF%84%E4%B9%A6_1488281962.png"
     },
     {
       "name": "圣经英汉对照播放器HolyBible_639943893",
@@ -1272,6 +1868,22 @@
     {
       "name": "大蓝鲸_915733616",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%A4%A7%E8%93%9D%E9%B2%B8_915733616.png"
+    },
+    {
+      "name": "好事聯播網_1045020921",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%A5%BD%E4%BA%8B%E8%81%AF%E6%92%AD%E7%B6%B2_1045020921.png"
+    },
+    {
+      "name": "妙聆播放器-离线音乐视频网课播放器_6467691883",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%A6%99%E8%81%86%E6%92%AD%E6%94%BE%E5%99%A8-%E7%A6%BB%E7%BA%BF%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E7%BD%91%E8%AF%BE%E6%92%AD%E6%94%BE%E5%99%A8_6467691883.png"
+    },
+    {
+      "name": "婴儿睡眠音乐_1390995116",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%A9%B4%E5%84%BF%E7%9D%A1%E7%9C%A0%E9%9F%B3%E4%B9%90_1390995116.png"
+    },
+    {
+      "name": "宝宝英语儿歌故事-睡前童话宝贝儿童拼音_1063696521",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%AE%9D%E5%AE%9D%E8%8B%B1%E8%AF%AD%E5%84%BF%E6%AD%8C%E6%95%85%E4%BA%8B-%E7%9D%A1%E5%89%8D%E7%AB%A5%E8%AF%9D%E5%AE%9D%E8%B4%9D%E5%84%BF%E7%AB%A5%E6%8B%BC%E9%9F%B3_1063696521.png"
     },
     {
       "name": "小宇宙·一起听播客_1488894313",
@@ -1294,8 +1906,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%BA%93%E4%B9%90%E9%98%9F_408709785.png"
     },
     {
+      "name": "弹唱小吉他-有趣的吉他模拟器、动态吉他谱_1564972349",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%BC%B9%E5%94%B1%E5%B0%8F%E5%90%89%E4%BB%96-%E6%9C%89%E8%B6%A3%E7%9A%84%E5%90%89%E4%BB%96%E6%A8%A1%E6%8B%9F%E5%99%A8%E3%80%81%E5%8A%A8%E6%80%81%E5%90%89%E4%BB%96%E8%B0%B1_1564972349.png"
+    },
+    {
       "name": "弹琴吧-钢琴吉他学习平台_1403263259",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%BC%B9%E7%90%B4%E5%90%A7-%E9%92%A2%E7%90%B4%E5%90%89%E4%BB%96%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0_1403263259.png"
+    },
+    {
+      "name": "录音工坊_1609161201",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E5%BD%95%E9%9F%B3%E5%B7%A5%E5%9D%8A_1609161201.png"
     },
     {
       "name": "恩雅音乐-吉他尤克里里弹唱曲谱AI创作_1536109600",
@@ -1306,6 +1926,14 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%89%8B%E6%9C%BA%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9-%E7%A7%92%E6%8B%8D%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E6%92%AD%E6%94%BE%E5%99%A8_1102399925.png"
     },
     {
+      "name": "手机调频收音机-全国交通新闻广播调频电台在线收听_1506920460",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%89%8B%E6%9C%BA%E8%B0%83%E9%A2%91%E6%94%B6%E9%9F%B3%E6%9C%BA-%E5%85%A8%E5%9B%BD%E4%BA%A4%E9%80%9A%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD%E8%B0%83%E9%A2%91%E7%94%B5%E5%8F%B0%E5%9C%A8%E7%BA%BF%E6%94%B6%E5%90%AC_1506920460.png"
+    },
+    {
+      "name": "手表播放器_6446242162",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%89%8B%E8%A1%A8%E6%92%AD%E6%94%BE%E5%99%A8_6446242162.png"
+    },
+    {
       "name": "打击垫-打碟机和电鼓电音乐器_1537352309",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%89%93%E5%87%BB%E5%9E%AB-%E6%89%93%E7%A2%9F%E6%9C%BA%E5%92%8C%E7%94%B5%E9%BC%93%E7%94%B5%E9%9F%B3%E4%B9%90%E5%99%A8_1537352309.png"
     },
@@ -1314,8 +1942,32 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%89%93%E7%A2%9F%E7%94%B5%E9%9F%B3%E8%B4%B4%E8%B4%B4%E4%B9%90%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C_1571494930.png"
     },
     {
+      "name": "拾音播放器_6792596671",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%8B%BE%E9%9F%B3%E6%92%AD%E6%94%BE%E5%99%A8_6792596671.png"
+    },
+    {
+      "name": "掌上小提琴（含小提琴调音器和小提琴模拟器）_1585668449",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%8E%8C%E4%B8%8A%E5%B0%8F%E6%8F%90%E7%90%B4%EF%BC%88%E5%90%AB%E5%B0%8F%E6%8F%90%E7%90%B4%E8%B0%83%E9%9F%B3%E5%99%A8%E5%92%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E6%A8%A1%E6%8B%9F%E5%99%A8%EF%BC%89_1585668449.png"
+    },
+    {
+      "name": "支持高分辨率播放-音乐播放器[NePLAYER]_970389374",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%94%AF%E6%8C%81%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E6%92%AD%E6%94%BE-%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%5BNePLAYER%5D_970389374.png"
+    },
+    {
+      "name": "旋动吉他-同步影音的吉他谱播放器_1109966537",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%97%8B%E5%8A%A8%E5%90%89%E4%BB%96-%E5%90%8C%E6%AD%A5%E5%BD%B1%E9%9F%B3%E7%9A%84%E5%90%89%E4%BB%96%E8%B0%B1%E6%92%AD%E6%94%BE%E5%99%A8_1109966537.png"
+    },
+    {
+      "name": "星光播放器_6761266319",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%98%9F%E5%85%89%E6%92%AD%E6%94%BE%E5%99%A8_6761266319.png"
+    },
+    {
       "name": "星海弹弹-轻松弹唱快乐玩音乐_6448904224",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%98%9F%E6%B5%B7%E5%BC%B9%E5%BC%B9-%E8%BD%BB%E6%9D%BE%E5%BC%B9%E5%94%B1%E5%BF%AB%E4%B9%90%E7%8E%A9%E9%9F%B3%E4%B9%90_6448904224.png"
+    },
+    {
+      "name": "曲谱读谱,大师SheetMusicScanner_884984324",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9B%B2%E8%B0%B1%E8%AF%BB%E8%B0%B1%2C%E5%A4%A7%E5%B8%88SheetMusicScanner_884984324.png"
     },
     {
       "name": "最爱钢琴曲(LovePiano)—工作睡眠必备_1275877336",
@@ -1326,12 +1978,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9C%A8%E9%B1%BC-%E5%BF%B5%E7%BB%8F%E8%A7%A3%E5%8E%8B_6444507425.png"
     },
     {
+      "name": "本地音乐-车载灵动歌词、手表离线音乐听歌听书、无损播放器_6761737044",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%BD%A6%E8%BD%BD%E7%81%B5%E5%8A%A8%E6%AD%8C%E8%AF%8D%E3%80%81%E6%89%8B%E8%A1%A8%E7%A6%BB%E7%BA%BF%E9%9F%B3%E4%B9%90%E5%90%AC%E6%AD%8C%E5%90%AC%E4%B9%A6%E3%80%81%E6%97%A0%E6%8D%9F%E6%92%AD%E6%94%BE%E5%99%A8_6761737044.png"
+    },
+    {
       "name": "来音乐理-视唱练耳音基考级识谱练习_1572795413",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9D%A5%E9%9F%B3%E4%B9%90%E7%90%86-%E8%A7%86%E5%94%B1%E7%BB%83%E8%80%B3%E9%9F%B3%E5%9F%BA%E8%80%83%E7%BA%A7%E8%AF%86%E8%B0%B1%E7%BB%83%E4%B9%A0_1572795413.png"
     },
     {
+      "name": "来音智能陪练-钢琴小提琴练琴实时纠错打分_1580896775",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9D%A5%E9%9F%B3%E6%99%BA%E8%83%BD%E9%99%AA%E7%BB%83-%E9%92%A2%E7%90%B4%E5%B0%8F%E6%8F%90%E7%90%B4%E7%BB%83%E7%90%B4%E5%AE%9E%E6%97%B6%E7%BA%A0%E9%94%99%E6%89%93%E5%88%86_1580896775.png"
+    },
+    {
       "name": "来音架子鼓-打鼓练习架子鼓模拟器伴奏制作_1525856471",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9D%A5%E9%9F%B3%E6%9E%B6%E5%AD%90%E9%BC%93-%E6%89%93%E9%BC%93%E7%BB%83%E4%B9%A0%E6%9E%B6%E5%AD%90%E9%BC%93%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BC%B4%E5%A5%8F%E5%88%B6%E4%BD%9C_1525856471.png"
+    },
+    {
+      "name": "来音节拍器-琴童都在用的节奏打拍器_1593346370",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%9D%A5%E9%9F%B3%E8%8A%82%E6%8B%8D%E5%99%A8-%E7%90%B4%E7%AB%A5%E9%83%BD%E5%9C%A8%E7%94%A8%E7%9A%84%E8%8A%82%E5%A5%8F%E6%89%93%E6%8B%8D%E5%99%A8_1593346370.png"
     },
     {
       "name": "板凳音乐_1495309207",
@@ -1340,6 +2004,10 @@
     {
       "name": "欢乐歌房_6748891695",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%AC%A2%E4%B9%90%E6%AD%8C%E6%88%BF_6748891695.png"
+    },
+    {
+      "name": "歌歌AI写歌-一键写歌发行在线获得版税_6473778078",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%AD%8C%E6%AD%8CAI%E5%86%99%E6%AD%8C-%E4%B8%80%E9%94%AE%E5%86%99%E6%AD%8C%E5%8F%91%E8%A1%8C%E5%9C%A8%E7%BA%BF%E8%8E%B7%E5%BE%97%E7%89%88%E7%A8%8E_6473778078.png"
     },
     {
       "name": "歡歌Live-手機K歌就上歡歌_1481170659",
@@ -1354,12 +2022,24 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90-QQ%E9%9F%B3%E4%B9%90%E7%AE%80%E6%B4%81%E7%89%88_1541981555.png"
     },
     {
+      "name": "海绵音乐-AI为你写好歌_6502927127",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B5%B7%E7%BB%B5%E9%9F%B3%E4%B9%90-AI%E4%B8%BA%E4%BD%A0%E5%86%99%E5%A5%BD%E6%AD%8C_6502927127.png"
+    },
+    {
       "name": "海贝音乐_1048838844",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B5%B7%E8%B4%9D%E9%9F%B3%E4%B9%90_1048838844.png"
     },
     {
       "name": "深度睡眠-白噪音冥想呼吸解压助眠哄睡_1547739620",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0-%E7%99%BD%E5%99%AA%E9%9F%B3%E5%86%A5%E6%83%B3%E5%91%BC%E5%90%B8%E8%A7%A3%E5%8E%8B%E5%8A%A9%E7%9C%A0%E5%93%84%E7%9D%A1_1547739620.png"
+    },
+    {
+      "name": "游戏攻略For秋叶原之旅123_1003693867",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5For%E7%A7%8B%E5%8F%B6%E5%8E%9F%E4%B9%8B%E6%97%85123_1003693867.png"
+    },
+    {
+      "name": "漫播-人魚陷落廣播劇全網獨家播出_6779142190",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E6%BC%AB%E6%92%AD-%E4%BA%BA%E9%AD%9A%E9%99%B7%E8%90%BD%E5%BB%A3%E6%92%AD%E5%8A%87%E5%85%A8%E7%B6%B2%E7%8D%A8%E5%AE%B6%E6%92%AD%E5%87%BA_6779142190.png"
     },
     {
       "name": "爱听-高品质音乐畅快听_1222207449",
@@ -1378,12 +2058,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%95%AA%E8%8C%84%E9%9F%B3%E4%B9%90%EF%BC%88%E5%8E%9F%E7%95%85%E5%90%AC%E9%9F%B3%E4%B9%90%EF%BC%89_6479289916.png"
     },
     {
+      "name": "百灵音乐播放器_6733239203",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%99%BE%E7%81%B5%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6733239203.png"
+    },
+    {
       "name": "益智早教弹钢琴-学习基础乐器游戏_1134874322",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%9B%8A%E6%99%BA%E6%97%A9%E6%95%99%E5%BC%B9%E9%92%A2%E7%90%B4-%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%90%E5%99%A8%E6%B8%B8%E6%88%8F_1134874322.png"
     },
     {
       "name": "益智早教弹钢琴-音乐启蒙钢琴游戏_1134874322",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%9B%8A%E6%99%BA%E6%97%A9%E6%95%99%E5%BC%B9%E9%92%A2%E7%90%B4-%E9%9F%B3%E4%B9%90%E5%90%AF%E8%92%99%E9%92%A2%E7%90%B4%E6%B8%B8%E6%88%8F_1134874322.png"
+    },
+    {
+      "name": "知音播放器_6759907171",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%9F%A5%E9%9F%B3%E6%92%AD%E6%94%BE%E5%99%A8_6759907171.png"
     },
     {
       "name": "离线音乐播放器OfflineMusicPlayer_1259949354",
@@ -1402,8 +2090,16 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%B4%A2%E5%B0%BC%E7%B2%BE%E9%80%89Hi-Res%E9%9F%B3%E4%B9%90-%E5%90%AC%E8%A7%81%E5%A5%BD%E9%9F%B3%E8%B4%A8_1186154877.png"
     },
     {
+      "name": "纯声岛-白噪音录制,睡眠,混音,冥想_6747364915",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%BA%AF%E5%A3%B0%E5%B2%9B-%E7%99%BD%E5%99%AA%E9%9F%B3%E5%BD%95%E5%88%B6%2C%E7%9D%A1%E7%9C%A0%2C%E6%B7%B7%E9%9F%B3%2C%E5%86%A5%E6%83%B3_6747364915.png"
+    },
+    {
       "name": "维克音乐-无损本地与网盘音乐播放器_6544783918",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%BB%B4%E5%85%8B%E9%9F%B3%E4%B9%90-%E6%97%A0%E6%8D%9F%E6%9C%AC%E5%9C%B0%E4%B8%8E%E7%BD%91%E7%9B%98%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6544783918.png"
+    },
+    {
+      "name": "维克音乐专业版-本地与网盘音乐播放器_6740429002",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E7%BB%B4%E5%85%8B%E9%9F%B3%E4%B9%90%E4%B8%93%E4%B8%9A%E7%89%88-%E6%9C%AC%E5%9C%B0%E4%B8%8E%E7%BD%91%E7%9B%98%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8_6740429002.png"
     },
     {
       "name": "网易云音乐HD_871041757",
@@ -1420,6 +2116,14 @@
     {
       "name": "节奏音符-钢琴练习大师老版_6443809818",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%8A%82%E5%A5%8F%E9%9F%B3%E7%AC%A6-%E9%92%A2%E7%90%B4%E7%BB%83%E4%B9%A0%E5%A4%A7%E5%B8%88%E8%80%81%E7%89%88_6443809818.png"
+    },
+    {
+      "name": "节拍器-专业电子节拍器_1374770476",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%8A%82%E6%8B%8D%E5%99%A8-%E4%B8%93%E4%B8%9A%E7%94%B5%E5%AD%90%E8%8A%82%E6%8B%8D%E5%99%A8_1374770476.png"
+    },
+    {
+      "name": "节拍器-节奏器_1546974642",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%8A%82%E6%8B%8D%E5%99%A8-%E8%8A%82%E5%A5%8F%E5%99%A8_1546974642.png"
     },
     {
       "name": "藏龙音乐-本地音乐播放器_6766893378",
@@ -1452,6 +2156,14 @@
     {
       "name": "越剧迷-传统戏曲唱段大全_1513602648",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%B6%8A%E5%89%A7%E8%BF%B7-%E4%BC%A0%E7%BB%9F%E6%88%8F%E6%9B%B2%E5%94%B1%E6%AE%B5%E5%A4%A7%E5%85%A8_1513602648.png"
+    },
+    {
+      "name": "趣味变声_1540235129",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%B6%A3%E5%91%B3%E5%8F%98%E5%A3%B0_1540235129.png"
+    },
+    {
+      "name": "轻松学唱歌-K歌声乐技巧教学_1175269401",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E8%BD%BB%E6%9D%BE%E5%AD%A6%E5%94%B1%E6%AD%8C-K%E6%AD%8C%E5%A3%B0%E4%B9%90%E6%8A%80%E5%B7%A7%E6%95%99%E5%AD%A6_1175269401.png"
     },
     {
       "name": "轻音社_1584504085",
@@ -1510,12 +2222,20 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-%E5%BD%95%E9%9F%B3%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91%2C%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2%E8%AE%BE%E7%BD%AE%E9%93%83%E5%A3%B0_1525054507.png"
     },
     {
+      "name": "铃声制作器TUUNES_1177574580",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C%E5%99%A8TUUNES_1177574580.png"
+    },
+    {
       "name": "银河开拓指南_6695750328",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%93%B6%E6%B2%B3%E5%BC%80%E6%8B%93%E6%8C%87%E5%8D%97_6695750328.png"
     },
     {
       "name": "青元Player_6761592311",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9D%92%E5%85%83Player_6761592311.png"
+    },
+    {
+      "name": "青橙音效助手-主播直播音效播放必备_6737378499",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9D%92%E6%A9%99%E9%9F%B3%E6%95%88%E5%8A%A9%E6%89%8B-%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E9%9F%B3%E6%95%88%E6%92%AD%E6%94%BE%E5%BF%85%E5%A4%87_6737378499.png"
     },
     {
       "name": "音乐下载器和播放器_1447312762",
@@ -1536,6 +2256,18 @@
     {
       "name": "音乐剪辑助手-AI配音&文字转语音&声音克隆_6443975751",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E5%8A%A9%E6%89%8B-AI%E9%85%8D%E9%9F%B3%26%E6%96%87%E5%AD%97%E8%BD%AC%E8%AF%AD%E9%9F%B3%26%E5%A3%B0%E9%9F%B3%E5%85%8B%E9%9A%86_6443975751.png"
+    },
+    {
+      "name": "音乐变速与音频分离扒谱：Transcribe+_1048119179",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E4%B9%90%E5%8F%98%E9%80%9F%E4%B8%8E%E9%9F%B3%E9%A2%91%E5%88%86%E7%A6%BB%E6%89%92%E8%B0%B1%EF%BC%9ATranscribe%2B_1048119179.png"
+    },
+    {
+      "name": "音乐巢：本地音乐无损播放器与歌词歌单_6807442701",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E4%B9%90%E5%B7%A2%EF%BC%9A%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%97%A0%E6%8D%9F%E6%92%AD%E6%94%BE%E5%99%A8%E4%B8%8E%E6%AD%8C%E8%AF%8D%E6%AD%8C%E5%8D%95_6807442701.png"
+    },
+    {
+      "name": "音乐格式转换器-MP3转换音频剪辑&视频转MP3_6776538078",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E4%B9%90%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%99%A8-MP3%E8%BD%AC%E6%8D%A2%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91%26%E8%A7%86%E9%A2%91%E8%BD%ACMP3_6776538078.png"
     },
     {
       "name": "音乐游戏培训-练习和研究困难的乐谱的应用程序_1088874473",
@@ -1582,12 +2314,36 @@
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91%E2%80%93%E9%9F%B3%E9%A2%91%E6%8F%90%E5%8F%96%E7%BC%96%E8%BE%91%E5%89%AA%E8%BE%91%E6%B7%B7%E5%90%88%E5%90%88%E5%B9%B6%E5%88%B6%E4%BD%9C%E8%BD%AF%E4%BB%B6_1339124759.png"
     },
     {
+      "name": "音频剪辑专家_6797370738",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91%E4%B8%93%E5%AE%B6_6797370738.png"
+    },
+    {
+      "name": "音频速剪-音乐剪辑与混音合成，音效调音助手_6787704782",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%9F%B3%E9%A2%91%E9%80%9F%E5%89%AA-%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E4%B8%8E%E6%B7%B7%E9%9F%B3%E5%90%88%E6%88%90%EF%BC%8C%E9%9F%B3%E6%95%88%E8%B0%83%E9%9F%B3%E5%8A%A9%E6%89%8B_6787704782.png"
+    },
+    {
       "name": "飞牛音乐_6775810689",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%A3%9E%E7%89%9B%E9%9F%B3%E4%B9%90_6775810689.png"
     },
     {
+      "name": "饭角_1505305358",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%A5%AD%E8%A7%92_1505305358.png"
+    },
+    {
       "name": "马赛克音乐_6808726785",
       "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%A9%AC%E8%B5%9B%E5%85%8B%E9%9F%B3%E4%B9%90_6808726785.png"
+    },
+    {
+      "name": "麦克风扩音器降噪,高音质音响直播演讲放大器,变声器大师_6755096957",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%89%A9%E9%9F%B3%E5%99%A8%E9%99%8D%E5%99%AA%2C%E9%AB%98%E9%9F%B3%E8%B4%A8%E9%9F%B3%E5%93%8D%E7%9B%B4%E6%92%AD%E6%BC%94%E8%AE%B2%E6%94%BE%E5%A4%A7%E5%99%A8%2C%E5%8F%98%E5%A3%B0%E5%99%A8%E5%A4%A7%E5%B8%88_6755096957.png"
+    },
+    {
+      "name": "黑白块—全民天天随音乐节奏别点白块儿_1095229897",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%BB%91%E7%99%BD%E5%9D%97%E2%80%94%E5%85%A8%E6%B0%91%E5%A4%A9%E5%A4%A9%E9%9A%8F%E9%9F%B3%E4%B9%90%E8%8A%82%E5%A5%8F%E5%88%AB%E7%82%B9%E7%99%BD%E5%9D%97%E5%84%BF_1095229897.png"
+    },
+    {
+      "name": "黑胶音乐播放器·Orbit_6798775906",
+      "url": "https://raw.githubusercontent.com/Zerolost/VqssLs/main/icon/icons/appstore/Music/%E9%BB%91%E8%83%B6%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%C2%B7Orbit_6798775906.png"
     }
   ]
 }
