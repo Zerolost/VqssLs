@@ -1,0 +1,68 @@
+name: Sync icon set
+
+on:
+  push:
+    paths:
+      - 'icon/icons/**'
+      - 'icon/build_icons.py'
+      - 'icon/make_text_icons.py'
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
+      - name: Generate placeholder icons for new names
+        working-directory: icon
+        run: python3 make_text_icons.py
+
+      - name: Rebuild icons.json
+        working-directory: icon
+        run: python3 build_icons.py --rebuild
+
+      - name: Verify JSON
+        working-directory: icon
+        run: |
+          python3 - <<'PY'
+          import json, os, sys
+          data = json.load(open('icons.json'))
+          icons = data['icons']
+          missing = [i['name'] for i in icons if not os.path.exists(os.path.join('icons', i['name']))]
+          if missing:
+              print('missing files:', missing[:10])
+              sys.exit(1)
+          names = [i['name'] for i in icons]
+          dup = {n for n in names if names.count(n) > 1}
+          if dup:
+              print('duplicate names:', sorted(dup)[:10])
+              sys.exit(1)
+          print(f'ok: {len(icons)} icons')
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add icon/icons icon/icons.json
+          if git diff --cached --quiet; then
+            echo 'No icon changes'
+            exit 0
+          fi
+          git commit -m '自动更新图标集'
+          git push
