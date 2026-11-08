@@ -2,15 +2,27 @@ name: Sync App Store icons
 
 on:
   workflow_dispatch:
+    inputs:
+      max:
+        description: 本次最多下载多少个
+        default: '6000'
+      countries:
+        description: 国家代码（逗号分隔，留空为全部）
+        default: ''
   schedule:
     - cron: '37 3 1 * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: appstore-sync
+  cancel-in-progress: false
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
 
@@ -21,10 +33,34 @@ jobs:
       - name: Install Pillow
         run: pip install --quiet pillow
 
-      - name: Crawl App Store icons
-        run: python3 tools/crawl_appstore.py --max 800
+      - name: Cache search results
+        uses: actions/cache@v4
+        with:
+          path: /tmp/appstore_cache
+          key: appstore-search-${{ github.run_id }}
+          restore-keys: appstore-search-
 
-      - name: Rebuild icon index
+      - name: Repo size guard
+        run: |
+          size=$(du -sm . | cut -f1)
+          echo "repo ${size} MB"
+          if [ "$size" -gt 900 ]; then
+            echo "仓库已超过 900MB，跳过本次抓取"
+            exit 0
+          fi
+
+      - name: Crawl App Store icons
+        env:
+          MAX: ${{ github.event.inputs.max || '6000' }}
+          COUNTRIES: ${{ github.event.inputs.countries }}
+        run: |
+          args="--max $MAX --batch 1500"
+          if [ -n "$COUNTRIES" ]; then
+            args="$args --countries $COUNTRIES"
+          fi
+          python3 -u tools/crawl_appstore.py $args
+
+      - name: Rebuild icon index and sets
         working-directory: icon
         run: python3 build_icons.py --rebuild
 
@@ -37,5 +73,6 @@ jobs:
             echo 'No new icons'
             exit 0
           fi
-          git commit -m '同步 App Store 图标'
+          added=$(git diff --cached --numstat | wc -l)
+          git commit -m "同步 App Store 图标（${added} 个文件）"
           git push
