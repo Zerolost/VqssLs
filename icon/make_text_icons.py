@@ -1,9 +1,24 @@
 """为没有现成 PNG 的服务生成文字/双字图标（蓝底白字，256x256）。"""
 from PIL import Image, ImageDraw, ImageFont
+import json
 import os, json
 
 
 FONT_PATH = '/usr/share/fonts/noto/NotoSansCJK-Bold.ttc'
+
+
+CATS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'categories.json')
+
+
+def icon_path(name):
+    """按 categories.json 决定落到哪个分类目录。"""
+    try:
+        cats = json.load(open(CATS_PATH, encoding='utf-8'))
+    except Exception:
+        cats = {}
+    d = os.path.join(OUT, cats.get(name, 'other'))
+    os.makedirs(d, exist_ok=True)
+    return os.path.join(d, name + '.png')
 
 
 def load_font(size):
@@ -50,7 +65,7 @@ def build(name, text, idx):
     font = load_font(size)
     box = d.textbbox((0, 0), text, font=font)
     d.text(((W - (box[2] - box[0])) / 2 - box[0], (W - (box[3] - box[1])) / 2 - box[1]), text, font=font, fill=fg)
-    img.save(os.path.join(OUT, name + '.png'))
+    img.save(icon_path(name))
 
 
 if __name__ == '__main__':

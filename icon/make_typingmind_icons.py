@@ -3,6 +3,7 @@
 来源：https://custom.typingmind.com/assets/models/
 用法：python3 make_typingmind_icons.py
 """
+import json
 import os
 import urllib.request
 from PIL import Image, ImageDraw
@@ -138,6 +139,20 @@ ITEMS = {
 }
 
 
+CATS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'categories.json')
+
+
+def icon_path(name):
+    """按 categories.json 决定落到哪个分类目录。"""
+    try:
+        cats = json.load(open(CATS_PATH, encoding='utf-8'))
+    except Exception:
+        cats = {}
+    d = os.path.join(OUT, cats.get(name, 'other'))
+    os.makedirs(d, exist_ok=True)
+    return os.path.join(d, name + '.png')
+
+
 def download(name):
     cache = os.path.join('/tmp/tm_icons', name)
     if os.path.exists(cache):
@@ -188,7 +203,7 @@ def build(name, src, color):
         tint = dark
 
     canvas.paste(tint, ((256 - tint.size[0]) // 2, (256 - tint.size[1]) // 2), tint)
-    canvas.save(os.path.join(OUT, name + '.png'))
+    canvas.save(icon_path(name))
 
 
 if __name__ == '__main__':

@@ -32,6 +32,16 @@ ALIAS = {
 }
 
 
+def walk_icons():
+    """递归返回 icons/ 下的相对路径，如 ai/OpenAI.png。"""
+    out = []
+    for base, _, files in os.walk(ICON_DIR):
+        for f in files:
+            if f.lower().endswith('.png'):
+                out.append(os.path.relpath(os.path.join(base, f), ICON_DIR).replace(os.sep, '/'))
+    return out
+
+
 def norm(name):
     """统一命名：去扩展名，驼峰分段用下划线保留，非法字符替换。"""
     stem = re.sub(r'\.(png|jpe?g|webp|svg)$', '', name, flags=re.I)
@@ -64,7 +74,7 @@ def load_source(src, kind):
 def main():
     rebuild_only = '--rebuild' in sys.argv
     os.makedirs(ICON_DIR, exist_ok=True)
-    existing = {norm(f): f for f in os.listdir(ICON_DIR) if f.lower().endswith('.png')}
+    existing = {norm(f): f for f in walk_icons()}
 
     if not rebuild_only:
         remote = {}
@@ -91,9 +101,9 @@ def main():
             ok = sum(1 for r in ex.map(save, todo.items()) if r)
         print(f'downloaded={ok}')
 
-    # 重建 JSON
-    files = sorted(f for f in os.listdir(ICON_DIR) if f.lower().endswith('.png'))
-    icons = [{'name': f, 'url': RAW_BASE + urllib.parse.quote(f)} for f in files]
+    # 重建 JSON（按分类子目录递归，URL 保留子路径）
+    files = sorted(walk_icons())
+    icons = [{'name': os.path.basename(f), 'url': RAW_BASE + urllib.parse.quote(f)} for f in files]
     payload = {
         'name': 'Zerolost Icons',
         'description': 'Surge 图标集，新增或删除 icons/ 下的 PNG 后由 GitHub Actions 自动重建',
