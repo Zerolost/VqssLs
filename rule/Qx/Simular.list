@@ -5,7 +5,6 @@ host-suffix, simular.ai, proxy
 # Sai 独立品牌站
 host-suffix, sai.work, proxy
 # MCP 远程服务
-host, mcp.box.simular.ai, proxy
 # 云端中转 gRPC-Web 与终端通道
 host-suffix, simular.cloud, proxy
 # ============ 服务器 ============

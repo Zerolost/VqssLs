@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,simular.ai
 # Sai 独立品牌站
 DOMAIN-SUFFIX,sai.work
 # MCP 远程服务
-DOMAIN,mcp.box.simular.ai
 # 云端中转 gRPC-Web 与终端通道
 DOMAIN-SUFFIX,simular.cloud
 

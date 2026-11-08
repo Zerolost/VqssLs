@@ -1,5 +1,5 @@
-# name: music
+# 音乐服务（自用）
 
-HOST,music.makifx.com,Music  
-HOST,music2.makifx.com,Music
-HOST-SUFFIX,lrc.makifx.com,Music
+host, music.makifx.com, Music
+host, music2.makifx.com, Music
+host-suffix, lrc.makifx.com, Music

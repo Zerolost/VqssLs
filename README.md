@@ -14,10 +14,10 @@
 | 规则集 | 条数 | 内容 | 建议策略 |
 |---|---:|---|---|
 | API | 194 | AI API 中转站（OpenAI / Claude 二次转发的服务商官网与端点） | `PROXY` |
-| Airport | 202 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
+| Airport | 198 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
 | LSP | 210 | 紳士漫畫、喜漫、18漫画、HAnime、JMComic、Pica | `PROXY` |
 | Exhentai | 23 | E-Hentai / ExHentai 生态（含图片 CDN、上传服、H@H） | `PROXY` |
-| Simular | 10 | Simular box 云端桌面与 MCP 端点 | `PROXY` |
+| Simular | 9 | Simular box 云端桌面与 MCP 端点 | `PROXY` |
 
 各客户端目录下都有说明：[`rule/Surge`](rule/Surge/README.md) · [`rule/Loon`](rule/Loon/README.md) · [`rule/Qx`](rule/Qx/README.md)
 
@@ -95,6 +95,10 @@ rule/Surge/         规则源文件（改这里）
 rule/Loon/          Loon 规则（自动生成）
 rule/Qx/            Quantumult X 规则（自动生成）
 rule/convert.py     Surge → Loon / QX 转换脚本
+tools/lint_rules.py 规则检查与整理（语法 / 重复 / 冗余 / 覆盖）
+tools/archive_upstream.py  抓取社区规则与脚本存档
+archive/<作者>/<仓库>/     上游快照，见 archive/README.md
+CREDITS.md          致谢名单
 icon/
   icons/<分类>/      图标源文件（PNG）
   icons.json        自动生成的 Surge 图标索引
@@ -114,7 +118,28 @@ Venera/             漫画源镜像（自动同步）
 | `sync-icons.yml` | 改动 `icon/icons/**`、每周一 | 重建 `icons.json` 并校验：每个条目都有文件、无重名 |
 | `sync-airport.yml` | 每天 21:43 UTC | 从 Telegram `@jichang_list` 抓新机场域名，DoH 校验后追加 |
 | `sync-rule-formats.yml` | 改动 `rule/Surge/**` | 生成 Loon 与 QX 规则并校验 |
+| `lint-rules.yml` | 改动 `rule/**`、`tools/**` | 规则语法与冗余检查 |
 | `sync-venera-sources.yml` | 每周一 | 同步上游漫画源 |
+
+## 存档与致谢
+
+社区作者的规则、脚本、模块与重写按**用户名分类**快照在 [`archive/`](archive)，
+版权归原作者，完整名单见 [`CREDITS.md`](CREDITS.md)。
+
+```sh
+GITHUB_TOKEN=xxx python3 tools/archive_upstream.py   # 重新抓取
+```
+
+存档不参与本仓库的规则生成，也不会自动跟随上游更新。
+
+## 规则检查
+
+```sh
+python3 tools/lint_rules.py           # 检查
+python3 tools/lint_rules.py --fix     # 修掉重复、被更宽规则覆盖的条目
+```
+
+检查项：语法、重复行、`DOMAIN` 被 `DOMAIN-SUFFIX` 覆盖、IP 段被更宽网段覆盖、CIDR 主机位、域名写成 keyword 等。
 
 ## 说明
 

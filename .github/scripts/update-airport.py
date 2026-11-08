@@ -173,6 +173,8 @@ def main():
     for a in added:
         print('  +', a)
 
+    # 已有 DOMAIN-SUFFIX 覆盖的主机不再单独加精确匹配
+    exact = {h for h in exact if not any(h == s or h.endswith('.' + s) for s in existing_providers | set(added))}
     providers = sorted(existing_providers | set(added))
     exact_all = sorted(existing_exact | exact)
     nav = sorted(existing_nav)
