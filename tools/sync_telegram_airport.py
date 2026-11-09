@@ -37,6 +37,14 @@ HOSTING = {
 }
 EXCLUDE = {'t.me', 'telegram.org', 'telegram.me', 'google.com', 'github.com', 'cloudflare.com'}
 
+# 公共动态域名 / 短链平台：整域收录会误伤同一服务下的其他用户，直接跳过
+SHARED = {
+    'duckdns.org', 'ddnsgeek.com', 'ddns.net', 'noip.com', 'hopto.org', 'zapto.org',
+    'sytes.net', 'myftp.org', 'synology.me', 'myqnapcloud.com', 'quickconnect.to',
+    'ngrok.io', 'ngrok-free.app', 'trycloudflare.com', 'serveo.net', 'localhost.run',
+    'bit.ly', 'tinyurl.com', 't.cn', 'url.cn', 's.id', 'shorturl.at',
+}
+
 SEC_PROVIDER = '# 官网、订阅与测速入口'
 SEC_EXACT = '# 托管平台入口（精确匹配）'
 SEC_NAV = '# 机场导航与测评站'
@@ -234,6 +242,8 @@ def main():
     suffix, exact = set(), set()
     for h in hosts:
         r = registrable(h)
+        if r in SHARED:
+            continue
         if r in HOSTING:
             exact.add(h)
         else:
