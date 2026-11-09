@@ -272,6 +272,7 @@ def is_closure(text):
 def message_name(text):
     """从消息里取一个可读的机场名/标题，去掉链接和话题标签。"""
     t = re.sub(r'https?://\S+', ' ', text)
+    t = re.sub(r'\?q=\S*', ' ', t)
     t = urllib.parse.unquote(t)
     m = re.search(r'名称[:：]\s*(.+)', t)
     if m:
