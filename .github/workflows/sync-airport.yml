@@ -2,6 +2,10 @@ name: Sync airport rules
 
 on:
   workflow_dispatch:
+    inputs:
+      pages:
+        description: 往回翻几页（每页 20 条）
+        default: '5'
   schedule:
     - cron: '43 21 * * *'
 
@@ -17,40 +21,32 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Collect new airport domains
-        run: python3 .github/scripts/update-airport.py
+      - name: Fetch airports from Telegram
+        env:
+          PAGES: ${{ github.event.inputs.pages || '5' }}
+        run: python3 -u tools/sync_telegram_airport.py --pages "$PAGES"
 
-      - name: Sync Loon and Quantumult X formats
+      - name: Generate Loon and Quantumult X rules
         run: python3 rule/convert.py
 
-      - name: Validate rule file
-        run: |
-          python3 - <<'PY'
-          import re
-          lines = [l for l in open('rule/Surge/Airport.list') if l.strip() and not l.startswith('#')]
-          bad = [l for l in lines if not re.match(r'^DOMAIN(-SUFFIX)?,[a-z0-9.-]+$', l.strip())]
-          if bad:
-              print('invalid lines:', bad[:5])
-              raise SystemExit(1)
-          print(f'ok: {len(lines)} rules')
-          PY
+      - name: Lint rules
+        run: python3 tools/lint_rules.py
 
       - name: Commit changes
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add rule/Surge/Airport.list rule/Loon rule/Qx
+          git add rule/Surge/Airport.list rule/Loon rule/Qx rule/.airport-state.json
           if git diff --cached --quiet; then
             echo 'No new airports'
             exit 0
           fi
-          git commit -m '同步机场与中转站规则'
+          added=$(git diff --cached --numstat -- rule/Surge/Airport.list | awk '{print $1}')
+          git commit -m "同步机场规则（Airport.list +${added} 行）"
           git push
