@@ -198,6 +198,15 @@ def main():
 
     # 1. 搜索（--no-search 时只用本地缓存，避免被 iTunes 限流）
     no_search = '--no-search' in sys.argv
+    if not no_search:
+        # 探一下 iTunes 是否在限流，被限就直接走缓存，别白跑几千次请求
+        try:
+            probe = fetch_json('https://itunes.apple.com/search?term=app&country=us&entity=software&limit=1')
+            if not probe.get('results'):
+                raise ValueError('empty probe')
+        except Exception as e:
+            print(f'iTunes 不可用（{e}），本次只用缓存')
+            no_search = True
     jobs = [] if no_search else [(t, c) for t in terms for c in countries]
     seen = {}
     if no_search:

@@ -1,96 +1,161 @@
 # API · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
 # ============ AI API 中转站 ============
-# 官网与控制台（来源：公开中转站清单与导航仓库，2026-11-08 校验可解析）
+# 官网与控制台
+# 来源：公开中转站榜单与导航仓库
+host-suffix, 000136.xyz, proxy
 host-suffix, 020212.xyz, proxy
 host-suffix, 100xlabs.space, proxy
 host-suffix, 1tim.com, proxy
+host-suffix, 2coding.com, proxy
 host-suffix, 302.ai, proxy
 host-suffix, 319274.xyz, proxy
+host-suffix, 39ai.me, proxy
 host-suffix, 42x.shop, proxy
 host-suffix, 4router.net, proxy
 host-suffix, 4sapi.com, proxy
 host-suffix, 5201201314.top, proxy
 host-suffix, 52ccl.net, proxy
+host-suffix, 78code.cc, proxy
+host-suffix, 88api.ai, proxy
 host-suffix, 923578.xyz, proxy
+host-suffix, 996444.cn, proxy
 host-suffix, 999554.xyz, proxy
+host-suffix, a6api.vip, proxy
 host-suffix, aaawinn.xyz, proxy
+host-suffix, aabao.vip, proxy
 host-suffix, agentrouter.org, proxy
+host-suffix, ai-pocket.xyz, proxy
+host-suffix, ai-router.dev, proxy
 host-suffix, ai123.one, proxy
 host-suffix, aiaiai001.com, proxy
+host-suffix, aiaimark.com, proxy
+host-suffix, aicodemirror.com, proxy
+host-suffix, aicoding.sh, proxy
 host-suffix, aigc369.com, proxy
 host-suffix, aigcapi.io, proxy
+host-suffix, aigcbest.top, proxy
+host-suffix, aigocode.com, proxy
 host-suffix, aihubmix.com, proxy
 host-suffix, aijws.com, proxy
 host-suffix, aiok.club, proxy
 host-suffix, aisaasgo.org, proxy
+host-suffix, aishop.homes, proxy
 host-suffix, aitokey.top, proxy
 host-suffix, aiyiwei.vip, proxy
 host-suffix, aizzz.xyz, proxy
 host-suffix, alsl.xyz, proxy
+host-suffix, anpin.ai, proxy
 host-suffix, anticode.cn, proxy
 host-suffix, anyaigc.ai, proxy
 host-suffix, anyaigc.com, proxy
 host-suffix, anyrouter.top, proxy
+host-suffix, anytokens.cc, proxy
 host-suffix, aotera.cc, proxy
+host-suffix, api-hub.asia, proxy
 host-suffix, api.airforce, proxy
 host-suffix, api2d.com, proxy
 host-suffix, api456.me, proxy
 host-suffix, api520.pro, proxy
+host-suffix, apiddt.com, proxy
 host-suffix, apikey.fun, proxy
 host-suffix, apikl.ai, proxy
 host-suffix, apimonkey.online, proxy
 host-suffix, apinebula.ai, proxy
+host-suffix, apiok.cc, proxy
 host-suffix, apiyi.com, proxy
+host-suffix, aruhub.com, proxy
 host-suffix, azapi.com.cn, proxy
 host-suffix, baipiao.co, proxy
 host-suffix, beeaicloud.com, proxy
 host-suffix, beeapi.ai, proxy
 host-suffix, berf1.cn, proxy
+host-suffix, bestmodel.dev, proxy
+host-suffix, bluedoai.com, proxy
 host-suffix, boluoapi.cn, proxy
 host-suffix, boombit.online, proxy
 host-suffix, budsin.dev, proxy
 host-suffix, burn.hair, proxy
 host-suffix, bybing.cc, proxy
+host-suffix, bytecatcode.org, proxy
 host-suffix, camel-hub.cn, proxy
 host-suffix, camel-hub.com, proxy
 host-suffix, careke.cn, proxy
+host-suffix, catbeeai.com, proxy
+host-suffix, catrouter.io, proxy
+host-suffix, cctq.ai, proxy
+host-suffix, chaiai.cc, proxy
 host-suffix, chatanywhere.tech, proxy
+host-suffix, chatfire.cn, proxy
 host-suffix, cheapcodex.online, proxy
 host-suffix, cheaprouter.cc, proxy
 host-suffix, chengmo.cc, proxy
 host-suffix, chhlink.xyz, proxy
+host-suffix, chi-yu-ai.com, proxy
+host-suffix, chintao.ai, proxy
 host-suffix, chuyel.top, proxy
 host-suffix, closeai-asia.com, proxy
 host-suffix, cocoapi.top, proxy
 host-suffix, code-relay.com, proxy
+host-suffix, codeproxy.dev, proxy
 host-suffix, coderplan.ai, proxy
+host-suffix, codexcn.com, proxy
+host-suffix, compshare.cn, proxy
+host-suffix, corealgos.com, proxy
+host-suffix, crazyrouter.com, proxy
 host-suffix, creitingameplays.com, proxy
+host-suffix, cubence.ai, proxy
+host-suffix, cubence.com, proxy
+host-suffix, cun.ai, proxy
 host-suffix, daoyivip.com, proxy
+host-suffix, datasea.fun, proxy
 host-suffix, dawclaudecode.com, proxy
 host-suffix, dayway.site, proxy
+host-suffix, ddshub.cc, proxy
+host-suffix, ddtnew.com, proxy
 host-suffix, deepbricks.ai, proxy
 host-suffix, dgbmc.top, proxy
 host-suffix, dialoguedui.com, proxy
+host-suffix, diegeai.com, proxy
+host-suffix, digitalcats.cc, proxy
 host-suffix, discountedtokens.com, proxy
+host-suffix, dmxapi.cn, proxy
 host-suffix, docode.cc, proxy
 host-suffix, docode.pro, proxy
+host-suffix, docusaurus.io, proxy
+host-suffix, dragoncode.codes, proxy
 host-suffix, dzzi.ai, proxy
 host-suffix, easyrouter.io, proxy
 host-suffix, eirouter.ai, proxy
 host-suffix, ekan8.com, proxy
+host-suffix, ephone.ai, proxy
+host-suffix, example.com, proxy
+host-suffix, favicon.im, proxy
+host-suffix, fengchao-api.com, proxy
 host-suffix, ferryapi.io, proxy
+host-suffix, flashcoding.ai, proxy
+host-suffix, flymux.com, proxy
+host-suffix, foxrouter.org, proxy
+host-suffix, free-api.ai, proxy
 host-suffix, freeapi.site, proxy
 host-suffix, fri5.top, proxy
 host-suffix, fuka.win, proxy
 host-suffix, furry.vg, proxy
 host-suffix, futureppo.top, proxy
 host-suffix, geekai.co, proxy
+host-suffix, googleusercontent.com, proxy
 host-suffix, gptapi.io, proxy
 host-suffix, gptgod.cloud, proxy
 host-suffix, gptgod.online, proxy
 host-suffix, gptnb.ai, proxy
+host-suffix, gptoai.cc, proxy
 host-suffix, gptsapi.net, proxy
 host-suffix, gptzzz.ai, proxy
+host-suffix, grok.com, proxy
+host-suffix, grooroute.com, proxy
+host-suffix, grooroute.xyz, proxy
+host-suffix, growupapi.ltd, proxy
+host-suffix, gu28.top, proxy
+host-suffix, hajimi.men, proxy
 host-suffix, happycodeai.com, proxy
 host-suffix, hcnsec.cn, proxy
 host-suffix, helpcoder.cc, proxy
@@ -111,88 +176,209 @@ host-suffix, jixiangai.xyz, proxy
 host-suffix, jucodex.com, proxy
 host-suffix, jumengai.net, proxy
 host-suffix, justwoker.icu, proxy
+host-suffix, juxingai.xyz, proxy
 host-suffix, juziai.cc, proxy
 host-suffix, juziqishui.net, proxy
 host-suffix, kapibala.asia, proxy
 host-suffix, kfcv50.link, proxy
 host-suffix, kiosapi.com, proxy
 host-suffix, kktoken.cc, proxy
+host-suffix, krill-ai.com, proxy
+host-suffix, kuafushe.cc, proxy
 host-suffix, kuaipao.ai, proxy
 host-suffix, kunavo.com, proxy
+host-suffix, kx-api.top, proxy
 host-suffix, laozhang.ai, proxy
+host-suffix, lemondata.cc, proxy
+host-suffix, letaicode.cn, proxy
+host-suffix, leverai.net, proxy
+host-suffix, lingsuan.si, proxy
+host-suffix, lingsuan.top, proxy
 host-suffix, lingyaai.cn, proxy
 host-suffix, linktoagi.com, proxy
 host-suffix, livelove.dev, proxy
+host-suffix, lmuai.ai, proxy
+host-suffix, lmyanyu.com, proxy
+host-suffix, logitstoken.com, proxy
 host-suffix, makelove.cloud, proxy
+host-suffix, maynor1024.live, proxy
+host-suffix, meapi.space, proxy
+host-suffix, micuapi.ai, proxy
+host-suffix, mnapi.com, proxy
+host-suffix, modcon.top, proxy
+host-suffix, modelflare.dev, proxy
 host-suffix, modelport.link, proxy
 host-suffix, modelrush.ai, proxy
+host-suffix, modelsell.com, proxy
+host-suffix, moeapi.cloud, proxy
 host-suffix, molifangapi.com, proxy
 host-suffix, momoapi.top, proxy
+host-suffix, mooko.ai, proxy
+host-suffix, mooproxy.net, proxy
 host-suffix, moyuu.cc, proxy
+host-suffix, mozhevip.top, proxy
+host-suffix, mumumix.com, proxy
+host-suffix, mxzzz.xyz, proxy
 host-suffix, mzsjai.com, proxy
 host-suffix, n1n.ai, proxy
+host-suffix, nekoapi.com, proxy
+host-suffix, nekocloud.vip, proxy
 host-suffix, nemodesk.top, proxy
 host-suffix, nexahub.one, proxy
 host-suffix, nexarelay.com, proxy
+host-suffix, niccom.com.cn, proxy
 host-suffix, nikoapi.xyz, proxy
+host-suffix, niu-niu.de, proxy
 host-suffix, nofx.one, proxy
 host-suffix, oaipro.com, proxy
 host-suffix, ofox.ai, proxy
+host-suffix, omniakey.com, proxy
+host-suffix, onliqiu.com, proxy
 host-suffix, onomeo.com, proxy
+host-suffix, openai-ch.top, proxy
 host-suffix, openai-hk.com, proxy
+host-suffix, openai-labs.com, proxy
 host-suffix, openai-proxy.com, proxy
+host-suffix, openllm.shop, proxy
+host-suffix, openox.tech, proxy
+host-suffix, oranexa.top, proxy
+host-suffix, orbiorbi.com, proxy
 host-suffix, otterl.com, proxy
+host-suffix, packyapi.ai, proxy
+host-suffix, packyapi.com, proxy
+host-suffix, paintbot.top, proxy
+host-suffix, perplexity.ai, proxy
 host-suffix, poixe.com, proxy
+host-suffix, portdan.com, proxy
 host-suffix, primerelay.online, proxy
 host-suffix, qianxing.pro, proxy
+host-suffix, queqiaoapi.com, proxy
 host-suffix, relaycore.cn, proxy
+host-suffix, right.codes, proxy
+host-suffix, rivernexus.vip, proxy
+host-suffix, rly0.com, proxy
+host-suffix, rootflowai.com, proxy
 host-suffix, selart.cc, proxy
 host-suffix, sharellm.net, proxy
+host-suffix, shengsuanyun.com, proxy
 host-suffix, shufulei.net, proxy
+host-suffix, siliconflow.cn, proxy
+host-suffix, sinytra.com, proxy
 host-suffix, smart-agi.com, proxy
+host-suffix, soflash.top, proxy
+host-suffix, sssaicode.com, proxy
 host-suffix, straitapi.com, proxy
+host-suffix, sudocode.chat, proxy
 host-suffix, sudoflow.top, proxy
 host-suffix, suyu.io, proxy
 host-suffix, sylu.cc, proxy
 host-suffix, teamorouter.com, proxy
 host-suffix, teapotrouter.com, proxy
+host-suffix, telegram.me, proxy
 host-suffix, tierflow.cn, proxy
+host-suffix, timicc.com, proxy
+host-suffix, tken.lol, proxy
+host-suffix, toapis.com, proxy
 host-suffix, token-x.com, proxy
 host-suffix, token8341.com, proxy
 host-suffix, tokeness.ai, proxy
 host-suffix, tokeness.io, proxy
 host-suffix, tokenmetro.com, proxy
 host-suffix, tokenskingdom.com, proxy
+host-suffix, tomchat.fun, proxy
+host-suffix, totkn.com, proxy
 host-suffix, true-sota.com, proxy
+host-suffix, ttgptapi.top, proxy
 host-suffix, ultrarouter.org, proxy
+host-suffix, umami.is, proxy
 host-suffix, unity2.ai, proxy
 host-suffix, uselunora.com, proxy
 host-suffix, uu6.top, proxy
 host-suffix, v3.cm, proxy
 host-suffix, vcnovb.cn, proxy
+host-suffix, veridrop.app, proxy
+host-suffix, vibecodingapi.ai, proxy
+host-suffix, voltapi.ai, proxy
 host-suffix, vsllm.cc, proxy
 host-suffix, vsllm.com, proxy
 host-suffix, vyceai.com, proxy
+host-suffix, weilai.chat, proxy
 host-suffix, wellapi.ai, proxy
 host-suffix, wisech.com, proxy
 host-suffix, wjapi.vip, proxy
 host-suffix, wqdsjhaoai.site, proxy
+host-suffix, wukong.support, proxy
 host-suffix, wxctf.com, proxy
 host-suffix, x666.me, proxy
+host-suffix, xeduapi.com, proxy
 host-suffix, xingqiaoapi.cn, proxy
 host-suffix, xingya.site, proxy
 host-suffix, xinjianya.top, proxy
+host-suffix, xjai.cc, proxy
 host-suffix, yangwj.me, proxy
 host-suffix, yes.vg, proxy
+host-suffix, ykh.ai, proxy
+host-suffix, yomiapi.com, proxy
 host-suffix, yonshore.com, proxy
+host-suffix, yundu.lol, proxy
 host-suffix, yunhe.one, proxy
 host-suffix, yunwu.ai, proxy
+host-suffix, yusr.ai, proxy
+host-suffix, zen-ai.top, proxy
 host-suffix, zenmux.ai, proxy
 host-suffix, zhizengzeng.com, proxy
 host-suffix, znbcode.com, proxy
-# 托管平台端点（精确匹配）
 host, 88888.qzz.io, proxy
+host, api-rank-lake.vercel.app, proxy
 host, beizhi.dedyn.io, proxy
 host, huashang.dpdns.org, proxy
 host, newapi.hkkkj.qzz.io, proxy
 host, v-api.de5.net, proxy
+# 独立服务器
+# 只收非共享 CDN 的独立 IP，避免误伤
+ip-cidr, 103.119.1.97/32, proxy, no-resolve
+ip-cidr, 103.86.47.52/32, proxy, no-resolve
+ip-cidr, 106.75.189.92/32, proxy, no-resolve
+ip-cidr, 107.167.95.90/32, proxy, no-resolve
+ip-cidr, 108.186.222.37/32, proxy, no-resolve
+ip-cidr, 110.42.51.129/32, proxy, no-resolve
+ip-cidr, 113.31.124.199/32, proxy, no-resolve
+ip-cidr, 117.50.93.188/32, proxy, no-resolve
+ip-cidr, 131.143.181.230/32, proxy, no-resolve
+ip-cidr, 140.235.98.141/32, proxy, no-resolve
+ip-cidr, 144.34.148.245/32, proxy, no-resolve
+ip-cidr, 149.154.167.99/32, proxy, no-resolve
+ip-cidr, 154.213.246.16/32, proxy, no-resolve
+ip-cidr, 154.7.176.34/32, proxy, no-resolve
+ip-cidr, 179.253.226.158/32, proxy, no-resolve
+ip-cidr, 179.255.101.25/32, proxy, no-resolve
+ip-cidr, 182.16.62.234/32, proxy, no-resolve
+ip-cidr, 185.192.97.72/32, proxy, no-resolve
+ip-cidr, 185.197.250.15/32, proxy, no-resolve
+ip-cidr, 185.209.228.95/32, proxy, no-resolve
+ip-cidr, 185.245.182.239/32, proxy, no-resolve
+ip-cidr, 191.223.43.164/32, proxy, no-resolve
+ip-cidr, 192.243.114.181/32, proxy, no-resolve
+ip-cidr, 194.147.100.81/32, proxy, no-resolve
+ip-cidr, 194.163.164.104/32, proxy, no-resolve
+ip-cidr, 194.163.165.85/32, proxy, no-resolve
+ip-cidr, 194.163.190.11/32, proxy, no-resolve
+ip-cidr, 199.180.118.5/32, proxy, no-resolve
+ip-cidr, 209.248.57.134/32, proxy, no-resolve
+ip-cidr, 212.50.233.205/32, proxy, no-resolve
+ip-cidr, 23.136.252.12/32, proxy, no-resolve
+ip-cidr, 38.175.198.172/32, proxy, no-resolve
+ip-cidr, 38.207.191.149/32, proxy, no-resolve
+ip-cidr, 38.65.91.28/32, proxy, no-resolve
+ip-cidr, 38.76.190.68/32, proxy, no-resolve
+ip-cidr, 43.250.173.110/32, proxy, no-resolve
+ip-cidr, 45.121.138.20/32, proxy, no-resolve
+ip-cidr, 45.155.220.12/32, proxy, no-resolve
+ip-cidr, 45.196.216.135/32, proxy, no-resolve
+ip-cidr, 45.207.196.141/32, proxy, no-resolve
+ip-cidr, 45.207.207.187/32, proxy, no-resolve
+ip-cidr, 45.88.223.207/32, proxy, no-resolve
+ip-cidr, 64.83.27.22/32, proxy, no-resolve
+ip-cidr, 65.49.213.113/32, proxy, no-resolve
+ip-cidr, 70.39.201.211/32, proxy, no-resolve
+ip-cidr, 84.17.37.214/32, proxy, no-resolve

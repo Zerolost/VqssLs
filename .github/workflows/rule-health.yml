@@ -1,0 +1,33 @@
+name: Rule health check
+
+on:
+  workflow_dispatch:
+    inputs:
+      sample:
+        description: 每个规则文件抽查多少个域名
+        default: '150'
+  schedule:
+    - cron: '17 6 * * 1'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rule-health
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sample and resolve
+        env:
+          SAMPLE: ${{ github.event.inputs.sample || '150' }}
+        run: python3 -u tools/check_health.py --sample "$SAMPLE"

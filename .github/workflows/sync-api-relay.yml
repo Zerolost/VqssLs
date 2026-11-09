@@ -1,0 +1,54 @@
+name: Sync API relay rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 22 * * 3'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: api-relay-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Crawl ranking sites
+        run: |
+          for i in 1 2 3; do
+            if python3 -u tools/sync_api_relay.py; then
+              break
+            fi
+            echo "第 $i 次失败，20 秒后重试"
+            sleep 20
+            [ "$i" = "3" ] && exit 1
+          done
+
+      - name: Generate Loon and Quantumult X rules
+        run: python3 rule/convert.py
+
+      - name: Lint rules
+        run: python3 tools/lint_rules.py
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add rule/Surge/API.list rule/Loon rule/Qx
+          if git diff --cached --quiet; then
+            echo 'No new relays'
+            exit 0
+          fi
+          added=$(git diff --cached --numstat -- rule/Surge/API.list | awk '{print $1}')
+          git commit -m "同步 API 中转站规则（API.list +${added} 行）"
+          git push

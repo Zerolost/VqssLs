@@ -23,8 +23,8 @@
 
 | 规则集 | 条数 | 内容 | 建议策略 |
 |---|---:|---|---|
-| `API` | 194 | AI API 中转站：OpenAI / Claude 二次转发的服务商官网与 API 端点 | `PROXY` |
-| `Airport` | 198 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
+| `API` | 378 | AI API 中转站：OpenAI / Claude 二次转发的服务商官网与 API 端点 | `PROXY` |
+| `Airport` | 229 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
 | `LSP` | 210 | 紳士漫畫、喜漫、18漫画、HAnime、JMComic、Pica 六站群 | `PROXY` |
 | `Exhentai` | 23 | E-Hentai / ExHentai 生态：画廊、论坛、Wiki、图片 CDN、上传服、H@H | `PROXY` |
 | `Simular` | 9 | Simular box 云端桌面与 MCP 端点 | `PROXY` |
@@ -145,6 +145,8 @@ python3 tools/gen_credits.py               # 重新生成 CREDITS.md
 python3 icon/build_icons.py --rebuild      # 重建 icons.json 与 sets/
 GITHUB_TOKEN=xxx python3 tools/import_lige.py        # 导入 lige_icon 图标
 python3 tools/crawl_appstore.py --max 3000           # 爬 App Store 图标
+python3 tools/sync_api_relay.py                      # 抓 API 中转站榜单
+python3 tools/check_health.py --sample 150           # 规则体检
 ```
 
 `lint_rules.py` 检查：语法、重复行、`DOMAIN` 被 `DOMAIN-SUFFIX` 覆盖、IP 段被更宽网段覆盖、CIDR 主机位、域名误写成 keyword。
@@ -159,6 +161,8 @@ python3 tools/crawl_appstore.py --max 3000           # 爬 App Store 图标
 | `sync-airport.yml` | 每天 21:43 UTC | 从 Telegram `@jichang_list` 抓新机场域名，校验后追加 |
 | `sync-icons.yml` | 改动 `icon/icons/**`、每周一 | 重建 `icons.json` 并校验条目完整性 |
 | `lint-rules.yml` | 改动 `rule/**`、`tools/**` | 规则语法与冗余检查 |
+| `sync-api-relay.yml` | 每周三 | 从 API 中转站榜单抓新服务商，生成域名与 IP 规则 |
+| `rule-health.yml` | 每周一 | 抽查规则域名的可解析率，输出体检报告（不改规则） |
 | `sync-appstore.yml` | 每月 1 日 | 增量抓取 App Store 图标 |
 | `sync-venera-sources.yml` | 每周一 | 同步上游漫画源 |
 

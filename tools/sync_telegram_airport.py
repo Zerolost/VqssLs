@@ -101,10 +101,18 @@ SEC_NAV = '# 机场导航与测评站'
 
 # ---------------------------------------------------------------- 抓取
 
-def http_get(url, timeout=40):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode('utf-8', 'ignore')
+def http_get(url, timeout=40, retries=2):
+    last = None
+    for i in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode('utf-8', 'ignore')
+        except Exception as e:
+            last = e
+            if i < retries:
+                __import__('time').sleep(3 + i * 4)
+    raise last
 
 
 def fetch_telegram_html(channel, before=None):
@@ -366,7 +374,10 @@ def main():
     pages = 5
     if '--pages' in sys.argv:
         pages = int(sys.argv[sys.argv.index('--pages') + 1])
+    if quick:
+        pages = 1
     no_validate = '--no-validate' in sys.argv
+    quick = '--quick' in sys.argv
 
     state = {}
     if os.path.exists(STATE):
@@ -431,6 +442,10 @@ def main():
     if not hosts and not closed_domains:
         print('[error] 所有频道都没有可用数据')
         return 1
+
+    if quick and max_id <= last_id:
+        print(f'没有新消息（最新 {max_id} ≤ 记录 {last_id}），跳过')
+        return 0
 
     source = '、'.join(sources)
     print(f'共 {total_msgs} 条消息，域名候选 {len(hosts)} 个，关闭通报 {len(closed_notes)} 条')
