@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add rule/Surge/Airport.list rule/Loon rule/Qx rule/.airport-state.json rule/airport-closed.txt
+          git add rule/Surge/Airport.list rule/Loon rule/Qx rule/.airport-state.json rule/.airport-names.json rule/airport-closed.txt
           if git diff --cached --quiet; then
             echo 'No new airports'
             exit 0

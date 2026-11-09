@@ -25,6 +25,7 @@ from concurrent.futures import ThreadPoolExecutor
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TARGET = os.path.join(ROOT, 'rule/Surge/Airport.list')
 STATE = os.path.join(ROOT, 'rule/.airport-state.json')
+NAMES = os.path.join(ROOT, 'rule/.airport-names.json')
 
 # 频道 → 用途。airport = 收集官网域名；closed = 跑路/关闭通报，用来清理规则
 CHANNELS = [
@@ -378,6 +379,12 @@ def main():
 
     # 1. 逐频道抓取
     hosts = set()
+    name_map = {}
+    if os.path.exists(NAMES):
+        try:
+            name_map = json.load(open(NAMES, encoding='utf-8'))
+        except Exception:
+            name_map = {}
     closed_domains = set()
     closed_notes = []
     sources = []
@@ -418,6 +425,10 @@ def main():
 
             if kind == 'closed':
                 if is_closure(text):
+                    # 通报里提到已知机场名，就把对应域名标记为关闭
+                    for nm, dom in name_map.items():
+                        if len(nm) >= 3 and nm in text:
+                            closed_domains.add(dom)
                     sent = False
                     for h in found:
                         if 't.me' in h or h in EXCLUDE:
@@ -427,6 +438,10 @@ def main():
                     closed_notes.append(f"{message_name(text)}\t{','.join(sorted(set(found))) or '-'}")
             else:
                 hosts.update(found)
+                nm = message_name(text)
+                nm = re.sub(r'[#\s]', '', nm)
+                if 2 <= len(nm) <= 20 and found:
+                    name_map.setdefault(nm, registrable(found[0]))
 
     if not hosts and not closed_domains:
         print('[error] 所有频道都没有可用数据')
@@ -473,6 +488,9 @@ def main():
     exact = {h for h in exact if not any(h == s or h.endswith('.' + s) for s in providers)}
     exact -= old_exact
     exact |= old_exact
+
+    if not dry:
+        json.dump(name_map, open(NAMES, 'w', encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
 
     if closed_notes and not dry:
         log = os.path.join(ROOT, 'rule/airport-closed.txt')
