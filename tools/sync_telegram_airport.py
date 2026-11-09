@@ -270,11 +270,18 @@ def is_closure(text):
 
 
 def message_name(text):
-    m = re.search(r'名称[:：]\s*(.+)', text)
+    """从消息里取一个可读的机场名/标题，去掉链接和话题标签。"""
+    t = re.sub(r'https?://\S+', ' ', text)
+    t = urllib.parse.unquote(t)
+    m = re.search(r'名称[:：]\s*(.+)', t)
     if m:
-        return m.group(1).strip().lstrip('#').strip()[:40]
-    first = next((l.strip() for l in text.splitlines() if l.strip()), '')
-    return first[:40]
+        name = m.group(1)
+    else:
+        lines = [l.strip() for l in t.splitlines() if l.strip()]
+        name = lines[0] if lines else ''
+    name = re.sub(r'[#*•·]+', ' ', name)
+    name = re.sub(r'\s+', ' ', name).strip()
+    return name[:40]
 
 
 def urls_from_block(block):
