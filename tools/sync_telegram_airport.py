@@ -400,7 +400,7 @@ def main():
                     continue
                 if r in APP_HOSTS or r in SHORTEN:
                     continue
-                if re.search(r'aff\.(com|net|cc|vip|xyz)$', r):|[-.])aff\.(com|net|cc|vip|xyz)$', r) or 'vipaff' in r:
+                if re.search(r'aff\.(com|net|cc|vip|xyz)$', r):
                     continue
                 if any(len(x) > 20 for x in h.split('.')):
                     continue
