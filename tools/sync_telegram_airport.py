@@ -26,7 +26,28 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TARGET = os.path.join(ROOT, 'rule/Surge/Airport.list')
 STATE = os.path.join(ROOT, 'rule/.airport-state.json')
 
-CHANNEL = os.environ.get('TG_CHANNEL', 'jichang_list')
+# 频道 → 用途。airport = 收集官网域名；closed = 跑路/关闭通报，用来清理规则
+CHANNELS = [
+    ('jichang_list', 'airport'),
+    ('duang_speedtest', 'airport'),
+    ('haitun_channel', 'airport'),
+    ('jichangtj', 'airport'),
+    ('jcplnanmin', 'closed'),
+]
+
+CLOSED_WORDS = ('跑路', '关闭', '停运', '停服', '失联', '挂了', '已关', '退出',
+                '不再运营', '无法访问', '登不进', '注销')
+# 推广/优惠类消息里常出现「跑路风险」这类词，不能当成跑路通报
+AD_WORDS = ('优惠', '折扣', '首单', '专属', '低至', '套餐', '月付', '年付', '抽奖',
+            '福利', '券', '¥', '折后', '限时')
+# 已知的测评/导航站，归到导航分区而不是机场官网
+NAV_KNOWN = {'jichangtuijian.com', 'jichangdaoghang.com', 'jichangdaohang.com', 'jichangblog.net',
+             'clashvps.org', 'jichang100.com', 'jichangbaike.com', 'jichangnav.com',
+             'jichangpai.com', 'jichangs.com', 'jichang.uk', 'jichang.win'}
+
+# 频道消息里出现「官网/网址/地址」等字段时的分隔词
+FIELD_WORDS = ('官网', '官方网站', '网址', '网站', '地址', '主页', '官网地址')
+NEXT_FIELDS = ('协议:', '频道:', '群组:', '时间:', '名称:', '序号:', '标签:', '价格:', '套餐:')
 UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15'}
 
 HOSTING = {
@@ -36,6 +57,25 @@ HOSTING = {
     'qzz.io', 'de5.net', 'cc.cd', 'com.de', 'xyz.cd', 'edu.kg', 'us.ci', 'dedyn.io',
 }
 EXCLUDE = {'t.me', 'telegram.org', 'telegram.me', 'google.com', 'github.com', 'cloudflare.com'}
+
+# 新闻/社交/论坛/云厂商：频道里经常出现，但不是机场官网
+NOISE = {
+    'gov.cn', 'news.cn', 'people.com.cn', 'xinhuanet.com', 'sina.com.cn', 'sina.com',
+    'sohu.com', '163.com', 'qq.com', 'weibo.com', 'weibo.cn', 'zhihu.com', 'bilibili.com',
+    'douyin.com', 'toutiao.com', 'baidu.com', 'aliyun.com', 'alibaba.com', 'tencent.com',
+    'huawei.com', 'xiaomi.com', 'apple.com', 'microsoft.com', 'amazon.com', 'aws.amazon.com',
+    'x.com', 'twitter.com', 'youtube.com', 'facebook.com', 'instagram.com', 'tiktok.com',
+    'reddit.com', 'discord.com', 'medium.com', 'wikipedia.org', 'nodeseek.com',
+    'hostloc.com', 'v2ex.com', 'linux.do', '52pojie.cn', 'hostmonit.com', 'itdog.cn',
+    'jsdelivr.net', 'unpkg.com', 'gstatic.com', 'googleapis.com', 'cloudfront.net',
+    'akamai.net', 'akamaized.net', 'aliyuncs.com', 'myqcloud.com', 'qcloud.com',
+    'chatgpt.com', 'openai.com', 'anthropic.com', 'claude.ai', 'gemini.google.com',
+    'xueqiu.com', 'weixin.qq.com', 'mp.weixin.qq.com', 'ping0.cc', 'itdog.cn',
+}
+
+# 只有出现这些词，才把整条消息里的链接当官网候选（防止把新闻链接当机场）
+AIRPORT_WORDS = ('机场', '加速', '中转', '专线', '节点', '订阅', '流量', '套餐',
+                 'VPS', 'VPN', 'IPLC', 'IEPL', 'BGP', '落地', '月付', '年付')
 
 # 公共动态域名 / 短链平台：整域收录会误伤同一服务下的其他用户，直接跳过
 SHARED = {
@@ -63,6 +103,82 @@ def fetch_telegram_html(channel, before=None):
     if before:
         url += f'?before={before}'
     return http_get(url)
+
+
+def fetch_allorigins(channel, before=None):
+    """第三方 CORS 代理，返回的是 t.me 原始 HTML。"""
+    target = f'https://t.me/s/{channel}'
+    if before:
+        target += f'?before={before}'
+    url = 'https://api.allorigins.win/raw?url=' + urllib.parse.quote(target, safe='')
+    return http_get(url, timeout=60)
+
+
+def fetch_jina(channel):
+    """Jina Reader，把页面转成 Markdown，最后兜底。"""
+    return http_get(f'https://r.jina.ai/https://t.me/s/{channel}', timeout=60)
+
+
+def fetch_messages(channel, pages=5):
+    """按优先级抓取消息：t.me → allorigins → i-c-a.su → jina。"""
+    # 1. t.me 直连（GitHub Actions 可访问）
+    try:
+        out, before = [], None
+        for _ in range(pages):
+            batch = parse_html_messages(fetch_telegram_html(channel, before))
+            if not batch:
+                break
+            out += batch
+            nxt = min(m['id'] for m in batch)
+            if nxt == before:
+                break
+            before = nxt
+        if out:
+            return out, 't.me'
+    except Exception as e:
+        print(f'  [t.me] {channel}: {e}')
+
+    # 2. allorigins 代理拿原始 HTML
+    try:
+        out, before = [], None
+        for _ in range(pages):
+            batch = parse_html_messages(fetch_allorigins(channel, before))
+            if not batch:
+                break
+            out += batch
+            nxt = min(m['id'] for m in batch)
+            if nxt == before:
+                break
+            before = nxt
+        if out:
+            return out, 'allorigins'
+    except Exception as e:
+        print(f'  [allorigins] {channel}: {e}')
+
+    # 3. i-c-a.su 镜像
+    try:
+        out = fetch_mirror_json(channel)
+        if out:
+            return out, 'i-c-a.su'
+    except Exception as e:
+        print(f'  [i-c-a.su] {channel}: {e}')
+
+    # 4. jina reader
+    try:
+        page = fetch_jina(channel)
+        out = []
+        for m in re.finditer(r'\n(\d{3,})\n', page):
+            pass
+        blocks = re.split(r'\n#{1,6} ', page)
+        texts = [b for b in blocks if ('官网' in b or '网址' in b or 'http' in b)]
+        for i, b in enumerate(texts):
+            out.append({'id': i, 'text': html.unescape(re.sub(r'\[([^\]]*)\]\((http[^)]+)\)', r'\2', b))})
+        if out:
+            return out, 'jina'
+    except Exception as e:
+        print(f'  [jina] {channel}: {e}')
+
+    return [], 'none'
 
 
 def fetch_mirror_json(channel, limit=100):
@@ -100,14 +216,56 @@ def parse_html_messages(page):
     return out
 
 
-def extract_block(text, start='官网', stops=('协议:', '频道:', '群组:', '时间:')):
-    """取「官网:」到下一个字段之间的内容。"""
+def extract_block(text, start='官网'):
+    """取字段值：从「官网:」到下一个字段。"""
+    for word in FIELD_WORDS:
+        if word in text and (start in (word, '官网')):
+            pass
     if start not in text:
         return ''
     seg = text.split(start, 1)[1]
-    for stop in stops:
+    seg = re.split(r'[⦁•·]', seg)[0]
+    for stop in NEXT_FIELDS:
         seg = seg.split(stop, 1)[0]
     return seg
+
+
+def links_from_message(text):
+    """先找官网/网址字段；没有字段时，只有机场类消息才退回整条消息的链接。"""
+    for word in FIELD_WORDS:
+        if word in text:
+            block = extract_block(text, word)
+            urls = urls_from_block(block)
+            if urls:
+                return urls
+    if any(w.lower() in text.lower() for w in AIRPORT_WORDS):
+        return urls_from_block(text)
+    return []
+
+
+def is_closure(text):
+    """判断一条消息是不是「某机场跑路/关停」的通报，避开推广文里的「跑路风险」。"""
+    if any(w in text for w in AD_WORDS):
+        return False
+    head = text[:120]
+    for w in CLOSED_WORDS:
+        if w not in text:
+            continue
+        idx = text.find(w)
+        tail = text[idx + len(w): idx + len(w) + 2]
+        if tail.startswith('风险') or tail.startswith('的'):
+            continue
+        if w in head:
+            return True
+    return False
+
+
+def message_name(text):
+    m = re.search(r'名称[:：]\s*(.+)', text)
+    if m:
+        return m.group(1).strip().lstrip('#').strip()[:40]
+    first = next((l.strip() for l in text.splitlines() if l.strip()), '')
+    return first[:40]
 
 
 def urls_from_block(block):
@@ -118,10 +276,15 @@ def urls_from_block(block):
     return urls
 
 
+GOV_TLDS = ('.gov', '.gov.cn', '.edu', '.edu.cn', '.mil')
+
+
 def registrable(host):
     """取 eTLD+1；不下载 PSL，用常见的多段后缀规则兜底。"""
     parts = host.split('.')
     two = ('.'.join(parts[-2:]) if len(parts) >= 2 else host)
+    if host.endswith(GOV_TLDS):
+        return host
     if len(parts) >= 3 and '.'.join(parts[-2:]) in {'com.cn', 'net.cn', 'org.cn', 'gov.cn',
                                                     'co.uk', 'org.uk', 'co.jp', 'ne.jp',
                                                     'com.tw', 'com.hk', 'com.sg', 'com.au',
@@ -196,53 +359,66 @@ def main():
             state = {}
     last_id = int(state.get('last_id', 0))
 
-    # 1. 抓消息，优先 t.me，失败回退镜像
-    messages, source = [], ''
-    try:
-        before = None
-        for _ in range(pages):
-            page = fetch_telegram_html(CHANNEL, before)
-            batch = parse_html_messages(page)
-            if not batch:
-                break
-            messages += batch
-            new_before = min(m['id'] for m in batch)
-            if last_id and new_before <= last_id:
-                break
-            if new_before == before:
-                break
-            before = new_before
-        if messages:
-            source = f'Telegram @{CHANNEL}'
-    except Exception as e:
-        print(f'[warn] t.me 抓取失败：{e}')
-
-    if not messages:
-        try:
-            messages = fetch_mirror_json(CHANNEL)
-            source = f'Telegram @{CHANNEL}（镜像）'
-        except Exception as e:
-            print(f'[error] 备用通道也失败：{e}')
-            return 1
-
-    messages.sort(key=lambda m: m['id'])
-    # 每次都重新合并最新若干页：合并是幂等的，避免漏掉上次解析失败的条目
-    fresh = messages
-    print(f'抓到 {len(messages)} 条消息（来源：{source}，上次记录 id {last_id}）')
-
-    # 2. 抽域名
+    # 1. 逐频道抓取
     hosts = set()
-    for m in fresh:
-        block = extract_block(m['text'])
-        for u in urls_from_block(block):
-            h = (urllib.parse.urlparse(u).hostname or '').lower().strip('.')
-            if h and re.match(r'^[a-z0-9.-]+$', h) and '.' in h and h not in EXCLUDE:
-                hosts.add(h)
+    closed_domains = set()
+    closed_notes = []
+    sources = []
+    total_msgs = 0
+    max_id = last_id
 
-    suffix, exact = set(), set()
+    for channel, kind in CHANNELS:
+        msgs, src = fetch_messages(channel, pages)
+        if not msgs:
+            print(f'[warn] @{channel} 没抓到消息')
+            continue
+        msgs.sort(key=lambda m: m['id'])
+        total_msgs += len(msgs)
+        max_id = max([max_id] + [m['id'] for m in msgs])
+        sources.append(f'{channel}({src})')
+        print(f'@{channel}（{kind}）{len(msgs)} 条，来源 {src}')
+
+        for m in msgs:
+            text = m['text']
+            urls = links_from_message(text)
+            found = []
+            for u in urls:
+                h = (urllib.parse.urlparse(u).hostname or '').lower().strip('.')
+                if not h or not re.match(r'^[a-z0-9.-]+$', h) or '.' not in h:
+                    continue
+                r = registrable(h)
+                if h.endswith(GOV_TLDS):
+                    continue
+                if h in EXCLUDE or any(r == n or r.endswith('.' + n) for n in NOISE):
+                    continue
+                found.append(h)
+
+            if kind == 'closed':
+                if is_closure(text):
+                    sent = False
+                    for h in found:
+                        if 't.me' in h or h in EXCLUDE:
+                            continue
+                        closed_domains.add(registrable(h))
+                        sent = True
+                    closed_notes.append(f"{message_name(text)}\t{','.join(sorted(set(found))) or '-'}")
+            else:
+                hosts.update(found)
+
+    if not hosts and not closed_domains:
+        print('[error] 所有频道都没有可用数据')
+        return 1
+
+    source = '、'.join(sources)
+    print(f'共 {total_msgs} 条消息，域名候选 {len(hosts)} 个，关闭通报 {len(closed_notes)} 条')
+
+    suffix, exact, nav_found = set(), set(), set()
     for h in hosts:
         r = registrable(h)
         if r in SHARED:
+            continue
+        if r in NAV_KNOWN:
+            nav_found.add(r)
             continue
         if r in HOSTING:
             exact.add(h)
@@ -252,6 +428,7 @@ def main():
 
     # 3. 合并
     providers, old_exact, nav = read_sections(TARGET)
+    nav |= nav_found
     candidates = sorted(suffix - providers)
     if no_validate:
         added = candidates
@@ -265,14 +442,29 @@ def main():
     for a in added:
         print('  +', a)
 
+    removed = sorted(d for d in closed_domains if d in providers)
     providers |= set(added)
+    providers -= set(removed)
+    if removed:
+        print(f'按跑路通报移除 {len(removed)} 个：{", ".join(removed)}')
     exact = {h for h in exact if not any(h == s or h.endswith('.' + s) for s in providers)}
     exact -= old_exact
     exact |= old_exact
 
+    if closed_notes and not dry:
+        log = os.path.join(ROOT, 'rule/airport-closed.txt')
+        old = open(log, encoding='utf-8').read() if os.path.exists(log) else '# 跑路/关闭通报记录（频道 @jcplnanmin）\n'
+        stamp = __import__('time').strftime('%Y-%m-%d')
+        for n in closed_notes:
+            line = f'{stamp}\t{n}'
+            if line not in old:
+                old = old.rstrip() + '\n' + line
+        open(log, 'w', encoding='utf-8').write(old.rstrip() + '\n')
+
     if not dry:
         write_sections(TARGET, providers, exact, nav, f'{source}、公开机场测评与导航站')
-        state['last_id'] = max((m['id'] for m in messages), default=last_id)
+        state['last_id'] = max_id
+        state['channels'] = [c for c, _ in CHANNELS]
         state['updated'] = __import__('time').strftime('%Y-%m-%d')
         json.dump(state, open(STATE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         print(f'已写入 {TARGET}：{len(providers)} 主域 / {len(exact)} 精确 / {len(nav)} 导航')

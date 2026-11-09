@@ -43,6 +43,9 @@ RULE-SET,https://raw.githubusercontent.com/Zerolost/VqssLs/main/rule/Surge/Simul
 
 ## 更新
 
-- `Airport.list` 由 `sync-airport.yml` 每天从 Telegram `@jichang_list` 抓取新域名，DoH 校验后追加，不自动删除。
+- `Airport.list` 由 `sync-airport.yml` 每天从 Telegram 抓取，DoH 校验后追加：
+  - 机场频道：`@jichang_list`、`@duang_speedtest`、`@haitun_channel`、`@jichangtj`
+  - 跑路通报：`@jcplnanmin`，命中关闭关键词且能定位到域名时，从规则里移除并记到 `rule/airport-closed.txt`
+  - 抓取通道按 `t.me` → `allorigins` → `i-c-a.su` → `jina` 依次降级
 - 其余规则集按需手动维护。
 - 本目录任何改动推送后，`sync-rule-formats.yml` 会自动重新生成 Loon 与 Quantumult X 版本。

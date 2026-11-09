@@ -1,7 +1,8 @@
 # Airport · 由 rule/convert.py 从 Surge 规则集转换，策略默认 direct
 # ============ 机场与中转站 ============
 # 官网、订阅与测速入口
-# 来源：Telegram @jichang_list、公开机场测评与导航站
+# 来源：jichang_list(t.me)、duang_speedtest(t.me)、haitun_channel(t.me)、jichangtj(t.me)、jcplnanmin(t.me)、公开机场测评与导航站
+host-suffix, 114514417.xyz, direct
 host-suffix, 1fen.bid, direct
 host-suffix, 202611.online, direct
 host-suffix, 22laomao.com, direct
@@ -45,18 +46,21 @@ host-suffix, cceascylink.top, direct
 host-suffix, cfw.cc, direct
 host-suffix, chy11.cc, direct
 host-suffix, chy22.cc, direct
+host-suffix, clashplus.io, direct
 host-suffix, claudeborder.com, direct
 host-suffix, claudeborder.org, direct
 host-suffix, cloudnx.cc, direct
 host-suffix, cronioncircle.space, direct
 host-suffix, crush91.cc, direct
 host-suffix, cutecloud.net, direct
+host-suffix, dengta12.com, direct
 host-suffix, duckcloud.cc, direct
 host-suffix, flybit.vip, direct
 host-suffix, flyvaff.com, direct
 host-suffix, flyvastt.lol, direct
 host-suffix, flyvttt.sbs, direct
 host-suffix, frametone.top, direct
+host-suffix, ganwen.nl, direct
 host-suffix, geph.io, direct
 host-suffix, ggaxx.top, direct
 host-suffix, gohezu.cn, direct
@@ -65,6 +69,7 @@ host-suffix, hankli1214.xyz, direct
 host-suffix, heisfree.net, direct
 host-suffix, henglian.click, direct
 host-suffix, hitomi.ink, direct
+host-suffix, hongx.sbs, direct
 host-suffix, hongxingdl.one, direct
 host-suffix, huanyuyunbest.com, direct
 host-suffix, huanyuyunvip.com, direct
@@ -77,6 +82,8 @@ host-suffix, immtele.com, direct
 host-suffix, j134.net, direct
 host-suffix, jiadewennuangroup.cfd, direct
 host-suffix, jianxunyun.site, direct
+host-suffix, jichanggo.com, direct
+host-suffix, jichangnew.com, direct
 host-suffix, jmy365.com, direct
 host-suffix, jujiasu.com, direct
 host-suffix, jumeng.cc, direct
@@ -103,12 +110,14 @@ host-suffix, longttnode.com, direct
 host-suffix, lurfast.com, direct
 host-suffix, lvzhudh002.top, direct
 host-suffix, mauerfall.uk, direct
+host-suffix, micat.cyou, direct
 host-suffix, mitce.io, direct
 host-suffix, miyuzu.top, direct
 host-suffix, moyu.monster, direct
 host-suffix, mxwljsq.xyz, direct
 host-suffix, mysinglinkweb.com, direct
 host-suffix, naiyovpn.com, direct
+host-suffix, nbvpn.top, direct
 host-suffix, nerabotaet.online, direct
 host-suffix, netflow.work, direct
 host-suffix, nicevela.co, direct
@@ -116,15 +125,19 @@ host-suffix, nicevela.net, direct
 host-suffix, niulaijichang.top, direct
 host-suffix, niulaijichang.xyz, direct
 host-suffix, niva.lol, direct
+host-suffix, nowhere.best, direct
 host-suffix, nthu.cc, direct
 host-suffix, nxonearth.com, direct
 host-suffix, overleaf.buzz, direct
+host-suffix, pikayun.com, direct
+host-suffix, pingnetwork.org, direct
 host-suffix, pinklotsbear.click, direct
 host-suffix, plutocore.vip, direct
 host-suffix, ppap2017.com, direct
 host-suffix, pqjc.my, direct
 host-suffix, pundit.company, direct
 host-suffix, qianlink.link, direct
+host-suffix, qixi.best, direct
 host-suffix, romi1.top, direct
 host-suffix, ronancat.com, direct
 host-suffix, s2c.space, direct
@@ -159,6 +172,7 @@ host-suffix, wgetcloud.ltd, direct
 host-suffix, wgetcloud.net, direct
 host-suffix, widc.dpdns.org, direct
 host-suffix, wjkc66.vip, direct
+host-suffix, wondernetwork.com, direct
 host-suffix, work.gd, direct
 host-suffix, wujie.cc, direct
 host-suffix, xfjyun.tech, direct
@@ -166,9 +180,11 @@ host-suffix, xiaofeixiong.site, direct
 host-suffix, xiaoheijc.top, direct
 host-suffix, xiaoheiyun.top, direct
 host-suffix, xilib.club, direct
+host-suffix, xingvoy.com, direct
 host-suffix, xjyun.pro, direct
 host-suffix, xn--1-q07a56pdss.org, direct
 host-suffix, xn--66tw07h.com, direct
+host-suffix, xn--9kqu2hz1viv3b.com, direct
 host-suffix, xn--9kqz23b19z.com, direct
 host-suffix, xsus.cloud, direct
 host-suffix, yeluyou.com, direct
@@ -187,6 +203,7 @@ host-suffix, zmict.com, direct
 host, academicbest.dpdns.org, direct
 host, aijiasu.pages.dev, direct
 host, kkyqapi.cc.cd, direct
+host, ying.jindy.cc.cd, direct
 # 机场导航与测评站
 host-suffix, 1jichang.uk, direct
 host-suffix, ejichang.com, direct
@@ -197,5 +214,6 @@ host-suffix, jichang.cyou, direct
 host-suffix, jichang.lat, direct
 host-suffix, jichang.study, direct
 host-suffix, jichang.today, direct
+host-suffix, jichangtuijian.com, direct
 host-suffix, tizi.it.com, direct
 host-suffix, w05.tntyunb01.cc, direct

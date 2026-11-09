@@ -1,6 +1,7 @@
 # ============ 机场与中转站 ============
 # 官网、订阅与测速入口
-# 来源：Telegram @jichang_list、公开机场测评与导航站
+# 来源：jichang_list(t.me)、duang_speedtest(t.me)、haitun_channel(t.me)、jichangtj(t.me)、jcplnanmin(t.me)、公开机场测评与导航站
+DOMAIN-SUFFIX,114514417.xyz
 DOMAIN-SUFFIX,1fen.bid
 DOMAIN-SUFFIX,202611.online
 DOMAIN-SUFFIX,22laomao.com
@@ -44,18 +45,21 @@ DOMAIN-SUFFIX,cceascylink.top
 DOMAIN-SUFFIX,cfw.cc
 DOMAIN-SUFFIX,chy11.cc
 DOMAIN-SUFFIX,chy22.cc
+DOMAIN-SUFFIX,clashplus.io
 DOMAIN-SUFFIX,claudeborder.com
 DOMAIN-SUFFIX,claudeborder.org
 DOMAIN-SUFFIX,cloudnx.cc
 DOMAIN-SUFFIX,cronioncircle.space
 DOMAIN-SUFFIX,crush91.cc
 DOMAIN-SUFFIX,cutecloud.net
+DOMAIN-SUFFIX,dengta12.com
 DOMAIN-SUFFIX,duckcloud.cc
 DOMAIN-SUFFIX,flybit.vip
 DOMAIN-SUFFIX,flyvaff.com
 DOMAIN-SUFFIX,flyvastt.lol
 DOMAIN-SUFFIX,flyvttt.sbs
 DOMAIN-SUFFIX,frametone.top
+DOMAIN-SUFFIX,ganwen.nl
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,ggaxx.top
 DOMAIN-SUFFIX,gohezu.cn
@@ -64,6 +68,7 @@ DOMAIN-SUFFIX,hankli1214.xyz
 DOMAIN-SUFFIX,heisfree.net
 DOMAIN-SUFFIX,henglian.click
 DOMAIN-SUFFIX,hitomi.ink
+DOMAIN-SUFFIX,hongx.sbs
 DOMAIN-SUFFIX,hongxingdl.one
 DOMAIN-SUFFIX,huanyuyunbest.com
 DOMAIN-SUFFIX,huanyuyunvip.com
@@ -76,6 +81,8 @@ DOMAIN-SUFFIX,immtele.com
 DOMAIN-SUFFIX,j134.net
 DOMAIN-SUFFIX,jiadewennuangroup.cfd
 DOMAIN-SUFFIX,jianxunyun.site
+DOMAIN-SUFFIX,jichanggo.com
+DOMAIN-SUFFIX,jichangnew.com
 DOMAIN-SUFFIX,jmy365.com
 DOMAIN-SUFFIX,jujiasu.com
 DOMAIN-SUFFIX,jumeng.cc
@@ -102,12 +109,14 @@ DOMAIN-SUFFIX,longttnode.com
 DOMAIN-SUFFIX,lurfast.com
 DOMAIN-SUFFIX,lvzhudh002.top
 DOMAIN-SUFFIX,mauerfall.uk
+DOMAIN-SUFFIX,micat.cyou
 DOMAIN-SUFFIX,mitce.io
 DOMAIN-SUFFIX,miyuzu.top
 DOMAIN-SUFFIX,moyu.monster
 DOMAIN-SUFFIX,mxwljsq.xyz
 DOMAIN-SUFFIX,mysinglinkweb.com
 DOMAIN-SUFFIX,naiyovpn.com
+DOMAIN-SUFFIX,nbvpn.top
 DOMAIN-SUFFIX,nerabotaet.online
 DOMAIN-SUFFIX,netflow.work
 DOMAIN-SUFFIX,nicevela.co
@@ -115,15 +124,19 @@ DOMAIN-SUFFIX,nicevela.net
 DOMAIN-SUFFIX,niulaijichang.top
 DOMAIN-SUFFIX,niulaijichang.xyz
 DOMAIN-SUFFIX,niva.lol
+DOMAIN-SUFFIX,nowhere.best
 DOMAIN-SUFFIX,nthu.cc
 DOMAIN-SUFFIX,nxonearth.com
 DOMAIN-SUFFIX,overleaf.buzz
+DOMAIN-SUFFIX,pikayun.com
+DOMAIN-SUFFIX,pingnetwork.org
 DOMAIN-SUFFIX,pinklotsbear.click
 DOMAIN-SUFFIX,plutocore.vip
 DOMAIN-SUFFIX,ppap2017.com
 DOMAIN-SUFFIX,pqjc.my
 DOMAIN-SUFFIX,pundit.company
 DOMAIN-SUFFIX,qianlink.link
+DOMAIN-SUFFIX,qixi.best
 DOMAIN-SUFFIX,romi1.top
 DOMAIN-SUFFIX,ronancat.com
 DOMAIN-SUFFIX,s2c.space
@@ -158,6 +171,7 @@ DOMAIN-SUFFIX,wgetcloud.ltd
 DOMAIN-SUFFIX,wgetcloud.net
 DOMAIN-SUFFIX,widc.dpdns.org
 DOMAIN-SUFFIX,wjkc66.vip
+DOMAIN-SUFFIX,wondernetwork.com
 DOMAIN-SUFFIX,work.gd
 DOMAIN-SUFFIX,wujie.cc
 DOMAIN-SUFFIX,xfjyun.tech
@@ -165,9 +179,11 @@ DOMAIN-SUFFIX,xiaofeixiong.site
 DOMAIN-SUFFIX,xiaoheijc.top
 DOMAIN-SUFFIX,xiaoheiyun.top
 DOMAIN-SUFFIX,xilib.club
+DOMAIN-SUFFIX,xingvoy.com
 DOMAIN-SUFFIX,xjyun.pro
 DOMAIN-SUFFIX,xn--1-q07a56pdss.org
 DOMAIN-SUFFIX,xn--66tw07h.com
+DOMAIN-SUFFIX,xn--9kqu2hz1viv3b.com
 DOMAIN-SUFFIX,xn--9kqz23b19z.com
 DOMAIN-SUFFIX,xsus.cloud
 DOMAIN-SUFFIX,yeluyou.com
@@ -187,6 +203,7 @@ DOMAIN-SUFFIX,zmict.com
 DOMAIN,academicbest.dpdns.org
 DOMAIN,aijiasu.pages.dev
 DOMAIN,kkyqapi.cc.cd
+DOMAIN,ying.jindy.cc.cd
 
 # 机场导航与测评站
 DOMAIN-SUFFIX,1jichang.uk
@@ -198,5 +215,6 @@ DOMAIN-SUFFIX,jichang.cyou
 DOMAIN-SUFFIX,jichang.lat
 DOMAIN-SUFFIX,jichang.study
 DOMAIN-SUFFIX,jichang.today
+DOMAIN-SUFFIX,jichangtuijian.com
 DOMAIN-SUFFIX,tizi.it.com
 DOMAIN-SUFFIX,w05.tntyunb01.cc
