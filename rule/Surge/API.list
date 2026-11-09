@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,openai-labs.com
 DOMAIN-SUFFIX,openai-proxy.com
 DOMAIN-SUFFIX,openai-sb.com
 DOMAIN-SUFFIX,openllm.shop
+DOMAIN-SUFFIX,openmodel.ai
 DOMAIN-SUFFIX,openox.tech
 DOMAIN-SUFFIX,openqi.sbs
 DOMAIN-SUFFIX,oranexa.top
@@ -607,6 +608,7 @@ DOMAIN,free2ai.pages.dev
 DOMAIN,huashang.dpdns.org
 DOMAIN,kirby.cc.cd
 DOMAIN,newapi.hkkkj.qzz.io
+DOMAIN,saviour.cc.cd
 DOMAIN,v-api.de5.net
 
 # 独立服务器

@@ -407,6 +407,7 @@ host-suffix, openai-labs.com, proxy
 host-suffix, openai-proxy.com, proxy
 host-suffix, openai-sb.com, proxy
 host-suffix, openllm.shop, proxy
+host-suffix, openmodel.ai, proxy
 host-suffix, openox.tech, proxy
 host-suffix, openqi.sbs, proxy
 host-suffix, oranexa.top, proxy
@@ -608,6 +609,7 @@ host, free2ai.pages.dev, proxy
 host, huashang.dpdns.org, proxy
 host, kirby.cc.cd, proxy
 host, newapi.hkkkj.qzz.io, proxy
+host, saviour.cc.cd, proxy
 host, v-api.de5.net, proxy
 # 独立服务器
 # 只收非共享 CDN 的独立 IP，避免误伤
