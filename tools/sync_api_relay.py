@@ -53,6 +53,8 @@ EXCLUDE = {
     'chatgpt.com', 'claude.ai', 'gemini.google.com', 'openrouter.ai',
     'unsplash.com', 'pexels.com', 'iconfont.cn', 'fontawesome.com',
     'google-analytics.com', 'googletagmanager.com', 'bing.com',
+    'aliyun.com', 'aliyuncdn.com', 'apifox.com', 'apifox.cn', 'postman.com',
+    'notion.so', 'feishu.cn', 'larksuite.com', 'yuque.com', 'wps.cn',
 }
 
 HOSTING = {'pages.dev', 'vercel.app', 'netlify.app', 'github.io', 'workers.dev',
@@ -177,10 +179,18 @@ def read_list(path):
 def main():
     dry = '--dry-run' in sys.argv
     hosts = set()
-    for url in SOURCES:
-        got = hosts_from(url)
-        print(f'{url}: {len(got)} 个链接')
-        hosts |= got
+    if '--from-file' in sys.argv:
+        path = sys.argv[sys.argv.index('--from-file') + 1]
+        for line in open(path, encoding='utf-8'):
+            h = line.strip().lower()
+            if h and re.match(r'^[a-z0-9.-]+\.[a-z]{2,}$', h):
+                hosts.add(h)
+        print(f'{path}: {len(hosts)} 个域名')
+    else:
+        for url in SOURCES:
+            got = hosts_from(url)
+            print(f'{url}: {len(got)} 个链接')
+            hosts |= got
 
     cand = set()
     for h in hosts:

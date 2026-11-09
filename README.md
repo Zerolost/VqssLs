@@ -23,7 +23,7 @@
 
 | 规则集 | 条数 | 内容 | 建议策略 |
 |---|---:|---|---|
-| `API` | 378 | AI API 中转站：OpenAI / Claude 二次转发的服务商官网与 API 端点 | `PROXY` |
+| `API` | 710 | AI API 中转站：OpenAI / Claude 二次转发的服务商官网与 API 端点 | `PROXY` |
 | `Airport` | 229 | 机场与中转站官网、订阅入口、导航测评站 | `DIRECT` |
 | `LSP` | 210 | 紳士漫畫、喜漫、18漫画、HAnime、JMComic、Pica 六站群 | `PROXY` |
 | `Exhentai` | 23 | E-Hentai / ExHentai 生态：画廊、论坛、Wiki、图片 CDN、上传服、H@H | `PROXY` |
