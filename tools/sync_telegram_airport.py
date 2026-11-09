@@ -73,6 +73,15 @@ NOISE = {
     'xueqiu.com', 'weixin.qq.com', 'mp.weixin.qq.com', 'ping0.cc', 'itdog.cn',
 }
 
+# 代理客户端官网：不是机场，收进去没意义
+APP_HOSTS = {'nssurge.com', 'surge.sh', 'egernapp.com', 'getbitzapp.com', 'stash.ws',
+             'shadowrocket.com', 'loon.app', 'quantumultx.com', 'clashverge.com',
+             'clash.razord.top', 'mihomo.app', 'sing-box.sagernet.org', 'v2ray.com'}
+
+# 短链与推广跳转
+SHORTEN = {'reurl.cc', 'bit.ly', 'tinyurl.com', 't.co', 't.cn', 'url.cn', 's.id',
+           'cutt.ly', 'rebrand.ly', 'shorturl.at', 'is.gd', 'v.gd', 'suo.im'}
+
 # 只有出现这些词，才把整条消息里的链接当官网候选（防止把新闻链接当机场）
 AIRPORT_WORDS = ('机场', '加速', '中转', '专线', '节点', '订阅', '流量', '套餐',
                  'VPS', 'VPN', 'IPLC', 'IEPL', 'BGP', '落地', '月付', '年付')
@@ -389,6 +398,12 @@ def main():
                 r = registrable(h)
                 if h.endswith(GOV_TLDS):
                     continue
+                if r in APP_HOSTS or r in SHORTEN:
+                    continue
+                if re.search(r'aff\.(com|net|cc|vip|xyz)$', r):|[-.])aff\.(com|net|cc|vip|xyz)$', r) or 'vipaff' in r:
+                    continue
+                if any(len(x) > 20 for x in h.split('.')):
+                    continue
                 if h in EXCLUDE or any(r == n or r.endswith('.' + n) for n in NOISE):
                     continue
                 found.append(h)
@@ -474,8 +489,9 @@ def main():
     # GitHub Actions 摘要
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f:
-            f.write(f'## 机场规则同步\n\n- 来源：{source}\n- 新消息：{len(fresh)}\n'
-                    f'- 新增域名：{len(added)}\n- 主域总数：{len(providers)}\n')
+            f.write(f'## 机场规则同步\n\n- 来源：{source}\n- 消息：{total_msgs}\n'
+                    f'- 新增域名：{len(added)}\n- 移除（跑路）：{len(removed)}\n'
+                    f'- 主域总数：{len(providers)}\n')
     return 0
 
 
