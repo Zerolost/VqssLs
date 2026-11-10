@@ -1,0 +1,28 @@
+# VqssLs_Telegram · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# Surge 规则集 · 由内联规则整理
+host, 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe, proxy
+host-suffix, cdn-telegram.org, proxy
+host-suffix, comments.app, proxy
+host-suffix, contest.com, proxy
+host-suffix, fragment.com, proxy
+host-suffix, graph.org, proxy
+host-suffix, legra.ph, proxy
+host-suffix, quiz.directory, proxy
+host-suffix, stel.com, proxy
+host-suffix, t.me, proxy
+host-suffix, tdesktop.com, proxy
+host-suffix, telega.one, proxy
+host-suffix, telegra.ph, proxy
+host-suffix, telegram-cdn.org, proxy
+host-suffix, telegram.dog, proxy
+host-suffix, telegram.me, proxy
+host-suffix, telegram.org, proxy
+host-suffix, telegram.space, proxy
+host-suffix, telegramdownload.com, proxy
+host-suffix, telesco.pe, proxy
+host-suffix, tg.dev, proxy
+host-suffix, ton.org, proxy
+host-suffix, toncenter.com, proxy
+host-suffix, tx.me, proxy
+host-suffix, usercontent.dev, proxy
+host-keyword, telegram, proxy

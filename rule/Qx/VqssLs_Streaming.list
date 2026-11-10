@@ -1,0 +1,4 @@
+# VqssLs_Streaming · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# Surge 规则集 · 由内联规则整理
+host-suffix, cn2gias.uk, proxy
+host-keyword, emby, proxy

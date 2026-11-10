@@ -1,0 +1,27 @@
+# Surge 规则集 · 由内联规则整理
+DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,Telegram
+DOMAIN-SUFFIX,cdn-telegram.org,Telegram
+DOMAIN-SUFFIX,comments.app,Telegram
+DOMAIN-SUFFIX,contest.com,Telegram
+DOMAIN-SUFFIX,fragment.com,Telegram
+DOMAIN-SUFFIX,graph.org,Telegram
+DOMAIN-SUFFIX,legra.ph,Telegram
+DOMAIN-SUFFIX,quiz.directory,Telegram
+DOMAIN-SUFFIX,stel.com,Telegram
+DOMAIN-SUFFIX,t.me,Telegram
+DOMAIN-SUFFIX,tdesktop.com,Telegram
+DOMAIN-SUFFIX,telega.one,Telegram
+DOMAIN-SUFFIX,telegra.ph,Telegram
+DOMAIN-SUFFIX,telegram-cdn.org,Telegram
+DOMAIN-SUFFIX,telegram.dog,Telegram
+DOMAIN-SUFFIX,telegram.me,Telegram
+DOMAIN-SUFFIX,telegram.org,Telegram
+DOMAIN-SUFFIX,telegram.space,Telegram
+DOMAIN-SUFFIX,telegramdownload.com,Telegram
+DOMAIN-SUFFIX,telesco.pe,Telegram
+DOMAIN-SUFFIX,tg.dev,Telegram
+DOMAIN-SUFFIX,ton.org,Telegram
+DOMAIN-SUFFIX,toncenter.com,Telegram
+DOMAIN-SUFFIX,tx.me,Telegram
+DOMAIN-SUFFIX,usercontent.dev,Telegram
+DOMAIN-KEYWORD,telegram,Telegram

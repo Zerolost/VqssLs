@@ -1,0 +1,575 @@
+# VqssLs_AdBlock · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# Surge 规则集 · 由内联规则整理
+host-suffix, googleads.g.doubleclick.net, proxy
+host-suffix, pubads.g.doubleclick.net, proxy
+host-suffix, securepubads.g.doubleclick.net, proxy
+host-suffix, googlesyndication.com, proxy
+host-suffix, googleadservices.com, proxy
+host, imasdk.googleapis.com, proxy
+host, an.facebook.com, proxy
+host-suffix, amazon-adsystem.com, proxy
+host-suffix, applovin.com, proxy
+host-suffix, applvn.com, proxy
+host-suffix, supersonicads.com, proxy
+host-suffix, ironsrc.mobi, proxy
+host-suffix, unityads.unity3d.com, proxy
+host-suffix, vungle.com, proxy
+host-suffix, inmobi.com, proxy
+host-suffix, rayjump.com, proxy
+host-suffix, mintegral.com, proxy
+host-suffix, pangle.io, proxy
+host-suffix, smaato.net, proxy
+host-suffix, pubmatic.com, proxy
+host-suffix, openx.net, proxy
+host-suffix, adnxs.com, proxy
+host-suffix, rubiconproject.com, proxy
+host-suffix, criteo.com, proxy
+host-suffix, adcolony.com, proxy
+ip-cidr, 203.107.1.1/24, proxy, no-resolve
+host, 180.76.76.200, proxy
+ip-cidr, 180.76.76.200/32, proxy, no-resolve
+host, ad.chelaile.net.cn, proxy
+host, abyss.cyapi.cn, proxy
+host, ad.cyapi.cn, proxy
+host, gather.colorfulclouds.net, proxy
+host, gwp.xiaojukeji.com, proxy
+host, trackercollect.ddxq.mobi, proxy
+host, ddfs-public.ddimg.mobi, proxy
+host, rttrack.ddxq.mobi, proxy
+host, adash-evone.echargenet.com, proxy
+host, zlink.ugsdk.cn, proxy
+host, mon.toutiaocloud.net, proxy
+host, lf-normal-gr-sourcecdn.bytegecko.com, proxy
+host, lf-webcast-gr-sourcecdn.bytegecko.com, proxy
+host, p3-developer.bytemaimg.com, proxy
+host, webcast-open.douyin.com, proxy
+host, p11-webcast-sign.douyinpic.com, proxy
+host, p3-webcast-sign.douyinpic.com, proxy
+host, log3-applog.fqnovel.com, proxy
+host, log5-applog.fqnovel.com, proxy
+host, mon11-misc-lq.fqnovel.com, proxy
+host, mon11-misc.fqnovel.com, proxy
+host, mon3-misc.fqnovel.com, proxy
+host, rtlog3-applog.fqnovel.com, proxy
+host, rtlog5-applog.fqnovel.com, proxy
+host, effect.snssdk.com, proxy
+host, i.snssdk.com, proxy
+host, is-lq.snssdk.com, proxy
+host, is.snssdk.com, proxy
+host, security.snssdk.com, proxy
+host, vas.snssdk.com, proxy
+host, mon.toutiaocloud.com, proxy
+host, abtest3-misc.zijieapi.com, proxy
+host, ads3-normal.zijieapi.com, proxy
+host, ads5-normal.zijieapi.com, proxy
+host, feedback-c.zijieapi.com, proxy
+host, gecko3.zijieapi.com, proxy
+host, gecko5.zijieapi.com, proxy
+host, ma.zijieapi.com, proxy
+host, minigame3-normal.zijieapi.com, proxy
+host, minigame5-normal.zijieapi.com, proxy
+host, mssdk.zijieapi.com, proxy
+host, timon.zijieapi.com, proxy
+host, vcs.zijieapi.com, proxy
+host, kad.gotokeep.com, proxy
+host, ad.seeyouyima.com, proxy
+host, axxd.xmseeyouyima.com, proxy
+host, adui.tg.meitu.com, proxy
+host, titan.pinduoduo.com, proxy
+host, xg.pinduoduo.com, proxy
+host, cdl-1.pddpic.com, proxy
+host, cdl-p2.pddpic.com, proxy
+host, cd-1.pddpic.com, proxy
+host, apm.pinduoduo.com, proxy
+host, th-b.pinduoduo.com, proxy
+host, ta.pinduoduo.com, proxy
+host, th.pinduoduo.com, proxy
+host, th-a.pinduoduo.com, proxy
+host, ta-a.pinduoduo.com, proxy
+host, meta.pinduoduo.com, proxy
+host, apm-a.pinduoduo.com, proxy
+host, adstats.tencentmusic.com, proxy
+host, ad.tencentmusic.com, proxy
+host, adcdn.tencentmusic.com, proxy
+host, adcdn6.tencentmusic.com, proxy
+host, adexpo.tencentmusic.com, proxy
+host, adclick.tencentmusic.com, proxy
+host, mc.tencentmusic.com, proxy
+host, monitor.music.qq.com, proxy
+host, tmead.y.qq.com, proxy
+host, tmeadbak.y.qq.com, proxy
+host, tmeadquic.y.qq.com, proxy
+host, ad-h5-cdn.soulapp.cn, proxy
+host, ad-h5-station-cdn.soulapp.cn, proxy
+host, ad-r.soulapp.cn, proxy
+host, soul-ad.soulapp.cn, proxy
+ip-cidr, 47.56.131.76/32, proxy, no-resolve
+ip-cidr, 47.97.215.55/32, proxy, no-resolve
+ip-cidr, 47.99.42.29/32, proxy, no-resolve
+ip-cidr, 47.110.187.87/32, proxy, no-resolve
+ip-cidr, 47.243.147.125/32, proxy, no-resolve
+ip-cidr, 120.27.235.201/32, proxy, no-resolve
+ip-cidr, 121.196.197.147/32, proxy, no-resolve
+host, adx-api.zdmimg.com, proxy
+host, adashx.m.taobao.com, proxy
+host, ossgw.alicdn.com, proxy
+host, ems.youku.com, proxy
+host, hudong.alicdn.com, proxy
+host, h-adashx.ut.taobao.com, proxy
+host, ut.taobao.com, proxy
+host, wxa.wxs.qq.com, proxy
+host, wximg.wxs.qq.com, proxy
+host, wxsmw.wxs.qq.com, proxy
+host, wxsnsdy.wxs.qq.com, proxy
+host, wxsmsdy.video.qq.com, proxy
+host, wxsnsdythumb.wxs.qq.com, proxy
+host, ads-shopping.shouqianba.com, proxy
+host, ad.maoyan.com, proxy
+host, e.jparking.cn, proxy
+host, nex.163.com, proxy
+host, iadmat.nosdn.127.net, proxy
+host, iadmatapk.nosdn.127.net, proxy
+host, iadmusicmat.music.126.net, proxy
+host, iadmusicmatvideo.music.126.net, proxy
+host, ipv4.music.163.com, proxy
+host, ipv6.music.163.com, proxy
+host, sdk.ad.sfys365.com, proxy
+host-keyword, adstrategy, proxy
+host, lf-ad-ies.bytecdn.cn, proxy
+host, dig.bdurl.net, proxy
+host, extlog.snssdk.com, proxy
+host, mcs.snssdk.com, proxy
+host-suffix, bds.snssdk.com, proxy
+host-suffix, byteadverts.com, proxy
+host-suffix, ctobsnssdk.com, proxy
+host-keyword, pangolin, proxy
+host-keyword, pglstatp, proxy
+host-keyword, panplayable-toutiao, proxy
+host-keyword, -ad-sign.byteimg.com, proxy
+host-keyword, -ad.byteoversea.com, proxy
+host-keyword, asiad.byteactivity, proxy
+host-keyword, iflyad.bj.openstorage.cn, proxy
+host-keyword, bjimp.voiceads.cn, proxy
+host-suffix, 1rtb.net, proxy
+host-suffix, 1rtb.com, proxy
+host-suffix, yfanads.com, proxy
+host-suffix, halomobi.com, proxy
+host-suffix, hubcloud.com.cn, proxy
+host-suffix, inmobi.cn, proxy
+host-suffix, uyunad.com, proxy
+host-suffix, puata.info, proxy
+host, gdfp.gifshow.com, proxy
+host, open.e.kuaishou.com, proxy
+host, open.e.kuaishou.cn, proxy
+host, adtrack.e.kuaishou.com, proxy
+host-suffix, partner.gifshow.com, proxy
+host-suffix, adukwai.com, proxy
+host-suffix, adkwai.com, proxy
+host-suffix, appsad.cn, proxy
+host-suffix, beizi.biz, proxy
+host-suffix, ad-scope.com.cn, proxy
+host-suffix, adn-plus.com.cn, proxy
+host-suffix, adhub.com.cn, proxy
+host-suffix, adnplus.com.cn, proxy
+host-suffix, adscope.com.cn, proxy
+host-suffix, adscope.cn, proxy
+host-suffix, adscope.xyz, proxy
+host-suffix, beizi.info, proxy
+host-suffix, beizi.online, proxy
+host-suffix, miaozhen.com, proxy
+host-suffix, admobile.top, proxy
+host-suffix, tianmu.mobi, proxy
+host-suffix, admobile.mobi, proxy
+host-suffix, admobile.net.cn, proxy
+host-suffix, popadshop.com, proxy
+host-suffix, admobile.vip, proxy
+host-suffix, yksdks.com, proxy
+host-suffix, dutils.com, proxy
+host-suffix, mob.com, proxy
+host-suffix, jiguang.cn, proxy
+host-suffix, jpush.cn, proxy
+host-suffix, jpush.io, proxy
+host, afd.baidu.com, proxy
+host, als.baidu.com, proxy
+host, bgg.baidu.com, proxy
+host, cpro.baidustatic.com, proxy
+host, feed-image.baidu.com, proxy
+host, click-bes.baidu.com, proxy
+host, eclick.baidu.com, proxy
+host, mobads-logs.baidu.com, proxy
+host, mobads-pre-config.cdn.bcebos.com, proxy
+host, mobads.baidu.com, proxy
+host, nadvideo2.baidu.com, proxy
+host, wn.pos.baidu.com, proxy
+host, miniapp-ad.cdn.bcebos.com, proxy
+host, hm.baidu.com, proxy
+host, dlswbr.baidu.com, proxy
+host, miao.baidu.com, proxy
+host-suffix, union.baidu.cn, proxy
+host-suffix, union.baidu.com, proxy
+host, tdid.m.qq.com, proxy
+host, adsmind.gdtimg.com, proxy
+host, adsmind.ugdtimg.com, proxy
+host, ads.privacy.qq.com, proxy
+host, huatuocode.huatuo.qq.com, proxy
+host, info4.video.qq.com, proxy
+host, info6.video.qq.com, proxy
+host, ios.bugly.qq.com, proxy
+host, pro.bugly.qq.com, proxy
+host, ios.video.mpush.qq.com, proxy
+host, otheve.beacon.qq.com, proxy
+host, pgdt.gtimg.cn, proxy
+host, pgdt.ugdtimg.com, proxy
+host, qzs.gdtimg.com, proxy
+host, qzs.qq.com, proxy
+host, rmonitor.qq.com, proxy
+host, sdkconfig.video.qq.com, proxy
+host, tmeadcomm.y.qq.com, proxy
+host, tpns.qq.com, proxy
+host, wup.imtt.qq.com, proxy
+host, tpstelemetry.tencent.com, proxy
+host, stat.y.qq.com, proxy
+host, stat6.y.qq.com, proxy
+host, oth.str.mdt.qq.com, proxy
+host, h.trace.qq.com, proxy
+host, sdk.e.qq.com, proxy
+host, tangram.e.qq.com, proxy
+host-keyword, trace.qq.com, proxy
+host-keyword, trace.video.qq.com, proxy
+host-keyword, ad.hunyuan.tencent.com, proxy
+host-suffix, gdt.qq.com, proxy
+host-suffix, l.qq.com, proxy
+host-suffix, imtmp.net, proxy
+host-suffix, ugdtimg.com, proxy
+host-suffix, opadlink.com, proxy
+host-suffix, staevent.work, proxy
+host-suffix, openinstall.online, proxy
+host-suffix, statchannel.store, proxy
+host-suffix, oplinking.com, proxy
+host-suffix, deepinstall.com, proxy
+host-suffix, openinstall.com, proxy
+host-suffix, installtongji.top, proxy
+host-suffix, openlink.cc, proxy
+host-suffix, opstatistics.com, proxy
+host-suffix, installtongji.online, proxy
+host-suffix, statschannel.xyz, proxy
+host-suffix, staevent.xyz, proxy
+host-suffix, opstatistics.cn, proxy
+host-suffix, openinstall.top, proxy
+host-suffix, openinstall.io, proxy
+host-suffix, statsinstall.xyz, proxy
+host-suffix, statchannel.top, proxy
+host-suffix, getui.com, proxy
+host-suffix, getui.net, proxy
+host-suffix, igexin.com, proxy
+host-suffix, umtrack.com, proxy
+host-suffix, umeng.com, proxy
+host-suffix, umsns.com, proxy
+host-suffix, lydass.net, proxy
+host-suffix, lydass.com.cn, proxy
+host-suffix, lydaas.net, proxy
+host-suffix, lydass.cn, proxy
+host-suffix, lydaas.cn, proxy
+host-suffix, lydaas.com.cn, proxy
+host-suffix, fwosapp.com, proxy
+host-suffix, rhinokeen.com, proxy
+host-suffix, lydaas.com, proxy
+host-suffix, xixikf.com, proxy
+host-suffix, wrating.com, proxy
+host-suffix, mobmore.com, proxy
+host-suffix, um0.cn, proxy
+host-suffix, umv0.com, proxy
+host-suffix, umtrack1.com, proxy
+host-suffix, eshiqi.com, proxy
+host-suffix, umv5.com, proxy
+host-suffix, dratio.com, proxy
+host-suffix, umtrack0.com, proxy
+host-suffix, whalecloud.com, proxy
+host-suffix, umtrack2.com, proxy
+host-suffix, umengcloud.com, proxy
+host-suffix, um1.cn, proxy
+host-suffix, adfunlink.com, proxy
+host-suffix, ubixioe.com, proxy
+host, et.tanx.com, proxy
+host, df.tanx.com, proxy
+host, opehs.tanx.com, proxy
+host, beacon-api.aliyuncs.com, proxy
+host, adash.man.aliyuncs.com, proxy
+host, applog.uc.cn, proxy
+host, atoken.m.taobao.com, proxy
+host, baichuan-sdk.alicdn.com, proxy
+host, acs4baichuan.m.taobao.com, proxy
+host, nbsdk-baichuan.alicdn.com, proxy
+host, api.sm.cn, proxy
+host, c.sm.cn, proxy
+host, content-understand-strategy.sm.cn, proxy
+host, hc-ssp.sm.cn, proxy
+host, sdk-log.partner.sm.cn, proxy
+host, partner.uc.cn, proxy
+host, cpc-service-square.aiclk.com, proxy
+host, logrcv.aiclk.com, proxy
+host, acjs.aliyun.com, proxy
+host, retcode.alicdn.com, proxy
+host, arms-retcode.aliyuncs.com, proxy
+host-suffix, iytcdn.com, proxy
+host, huichuan.sm.cn, proxy
+host, huichuan-mc.sm.cn, proxy
+host, iad.g.163.com, proxy
+host, gorgon.youdao.com, proxy
+host-suffix, ad.xiaomi.com, proxy
+host, al-log.d.meituan.net, proxy
+host, babel-statistics-android.d.meituan.net, proxy
+host, maplocatesdksnapshot.d.meituan.net, proxy
+host, metrics-picture.d.meituan.net, proxy
+host, route-stats.d.meituan.net, proxy
+host, dsp-x.jd.com, proxy
+host, im-x.jd.com, proxy
+host, xlog.jd.com, proxy
+host, janapi.jd.com, proxy
+host-suffix, toponadss.com, proxy
+host-suffix, toponad.com, proxy
+host-suffix, motowoo.com, proxy
+host, guide2.bianxianmao.com, proxy
+host, sdk.zhangyuyidong.cn, proxy
+host, sdklog.zhangyuyidong.cn, proxy
+host-suffix, adintl.cn, proxy
+host-suffix, adtaipo.com, proxy
+host-suffix, adx.yixin.im, proxy
+host-suffix, kuaiyiad.com, proxy
+host-suffix, adtianmai.com, proxy
+host-suffix, readgps.com, proxy
+host-suffix, fanglinad.com, proxy
+host-suffix, 17admob.com, proxy
+host-suffix, slyxmobi.com, proxy
+host-suffix, mobrtb.com, proxy
+host-suffix, maplehaze.cn, proxy
+host-suffix, lnk0.com, proxy
+host-suffix, bridgeoos.com, proxy
+host-suffix, anythinktech.com, proxy
+host-suffix, birdgesdk.com, proxy
+host-suffix, anyrtb.com, proxy
+host-suffix, combocn.com, proxy
+host-suffix, beanxin.com, proxy
+host-suffix, letway.cn, proxy
+host-suffix, newitai.com, proxy
+host-suffix, fireluck.cn, proxy
+host-suffix, setway.cn, proxy
+host-suffix, artcto.com, proxy
+host-suffix, wayio.cn, proxy
+host-suffix, iaddata.com, proxy
+host, ad-evods.tianya.tv, proxy
+host-suffix, tuia.cn, proxy
+host-suffix, 66mobi.com, proxy
+host-suffix, xdplt.com, proxy
+host, ads.cup.com.cn, proxy
+host-suffix, adjust.com, proxy
+host-suffix, adjust.io, proxy
+host-suffix, adjust.net.in, proxy
+host, app-analytics-services.com, proxy
+host, odm.app-ads-services.com, proxy
+host, firebaselogging-pa.googleapis.com, proxy
+host, firebaseinappmessaging.googleapis.com, proxy
+host, fundingchoicesmessages.google.com, proxy
+host-suffix, doubleclick.net, proxy
+host-suffix, doubleclick-cn.net, proxy
+host-suffix, googlesyndication-cn.com, proxy
+host-suffix, xinduoad.com, proxy
+host, statis.miwuad.com, proxy
+host-suffix, sigmob.cn, proxy
+host-suffix, richmob.cn, proxy
+host, ad.shunchangzhixing.com, proxy
+host, redirect.shunchangzhixing.com, proxy
+host, api.touch-moblie.com, proxy
+host-suffix, api.touch-moblie.com, proxy
+host, mercury-gateway.ixiaochuan.cn, proxy
+host, adapi.izuiyou.com, proxy
+host-suffix, domob.cn, proxy
+host-suffix, adwangmai.com, proxy
+host-suffix, bxsnews.com, proxy
+host-suffix, ranfenghd.com, proxy
+host-suffix, qchannel01.cn, proxy
+host-suffix, ad.xelements.cn, proxy
+host-suffix, adsrvr.cn, proxy
+host-suffix, adsrvr.org, proxy
+host-suffix, fancydsp.com, proxy
+host-suffix, xcultur.com, proxy
+host-suffix, bayescom.com, proxy
+host-suffix, etoolads.cn, proxy
+host, ad.aggrxinc.com, proxy
+host-suffix, mentamob.com, proxy
+host-suffix, advlion.com, proxy
+host-suffix, shanghailingye.cn, proxy
+host-suffix, shenshiads.com, proxy
+host-suffix, adshenshi.com, proxy
+host-suffix, qidianad.com, proxy
+host-suffix, kuaichuanad.com, proxy
+host-suffix, statisticslinks.com, proxy
+host, adx.zuoyebang.com, proxy
+host-suffix, cxwlad.com, proxy
+host-suffix, ad.gameley.com, proxy
+host-suffix, yiweiads.com, proxy
+host-suffix, adx.52qumao.com, proxy
+host-suffix, hzjizhun.cn, proxy
+host-suffix, hzjizhun.com, proxy
+host-suffix, sogaha.cn, proxy
+host, zxid-m.mobileservice.cn, proxy
+host-suffix, tradplusad.com, proxy
+host-suffix, fancyapi.com, proxy
+host-suffix, medproad.com, proxy
+host-suffix, iads.unity3d.com, proxy
+host-suffix, unityads.unitychina.cn, proxy
+host-suffix, tapjoy.com, proxy
+host-suffix, adsmoloco.com, proxy
+host-suffix, smadex.com, proxy
+host-suffix, tapad.com, proxy
+host-suffix, adsappier.com, proxy
+host-suffix, inmobicdn.net, proxy
+host-suffix, appsflyersdk.com, proxy
+host-suffix, moloco.com, proxy
+host-suffix, rixengine.com, proxy
+host-suffix, skarb.club, proxy
+host-suffix, skarb.work, proxy
+host-suffix, amplitude.com, proxy
+host-suffix, fivecdm.com, proxy
+host-suffix, doubleverify.com, proxy
+host-suffix, tobidad.cn, proxy
+host-suffix, tobidad.com, proxy
+host, ep7.facebook.com, proxy
+host-keyword, httpdns, proxy
+host-keyword, httpsdns, proxy
+user-agent, httpdns*, proxy
+user-agent, httpsdns*, proxy
+host, yyapp-httpdns.gslb.yy.com, proxy
+host, union-httpdns.gslb.yy.com, proxy
+host, yuyin-httpdns.gslb.yy.com, proxy
+host, httpdns-v6.gslb.yy.com, proxy
+host, dns2.q2cdn.com, proxy
+host, dns.weixin.qq.com, proxy
+host, dns.weixin.qq.com.cn, proxy
+host, aedns.weixin.qq.com, proxy
+ip-cidr, 39.156.140.30/32, proxy, no-resolve
+ip-cidr, 39.156.140.47/32, proxy, no-resolve
+ip-cidr, 39.156.140.245/32, proxy, no-resolve
+ip-cidr, 42.81.232.18/32, proxy, no-resolve
+ip-cidr, 42.187.182.106/32, proxy, no-resolve
+ip-cidr, 42.187.182.123/32, proxy, no-resolve
+ip-cidr, 42.187.184.154/32, proxy, no-resolve
+ip-cidr, 43.130.30.237/32, proxy, no-resolve
+ip-cidr, 43.130.30.240/32, proxy, no-resolve
+ip-cidr, 43.137.153.151/32, proxy, no-resolve
+ip-cidr, 43.137.159.31/32, proxy, no-resolve
+ip-cidr, 43.152.112.101/32, proxy, no-resolve
+ip-cidr, 43.153.248.120/32, proxy, no-resolve
+ip-cidr, 60.28.172.100/32, proxy, no-resolve
+ip-cidr, 61.151.231.157/32, proxy, no-resolve
+ip-cidr, 101.32.104.104/32, proxy, no-resolve
+ip-cidr, 106.39.206.21/32, proxy, no-resolve
+ip-cidr, 106.39.206.25/32, proxy, no-resolve
+ip-cidr, 106.39.206.70/32, proxy, no-resolve
+ip-cidr, 111.31.201.194/32, proxy, no-resolve
+ip-cidr, 111.31.241.76/32, proxy, no-resolve
+ip-cidr, 111.31.241.140/32, proxy, no-resolve
+ip-cidr, 111.206.147.156/32, proxy, no-resolve
+ip-cidr, 111.206.147.210/32, proxy, no-resolve
+ip-cidr, 111.206.148.27/32, proxy, no-resolve
+ip-cidr, 116.128.177.249/32, proxy, no-resolve
+ip-cidr, 116.130.224.150/32, proxy, no-resolve
+ip-cidr, 116.130.224.205/32, proxy, no-resolve
+ip-cidr, 117.185.247.73/32, proxy, no-resolve
+ip-cidr, 123.151.48.171/32, proxy, no-resolve
+ip-cidr, 123.151.48.193/32, proxy, no-resolve
+ip-cidr, 123.151.48.208/32, proxy, no-resolve
+ip-cidr, 123.151.54.50/32, proxy, no-resolve
+ip-cidr, 180.153.202.85/32, proxy, no-resolve
+ip-cidr, 183.192.196.31/32, proxy, no-resolve
+ip-cidr, 203.205.129.102/32, proxy, no-resolve
+ip-cidr, 203.205.234.132/32, proxy, no-resolve
+ip-cidr, 220.196.159.73/32, proxy, no-resolve
+ip6-cidr, 240e:928:1400:10::25/128, proxy, no-resolve
+ip6-cidr, 2402:4e00:8030:1::17/128, proxy, no-resolve
+ip6-cidr, 2402:4e00:1900:1700:0:9554:1ad9:c3a/128, proxy, no-resolve
+ip6-cidr, 2408:8711:10:10::20/128, proxy, no-resolve
+ip6-cidr, 2409:8702:4860:10::4d/128, proxy, no-resolve
+host, httpdns.kg.qq.com, proxy
+host, httpdns.bilivideo.com, proxy
+host, httpdns.browser.miui.com, proxy
+host, resolver.msg.xiaomi.net, proxy
+host, httpdns.alicdn.com, proxy
+host, httpdns-api.aliyuncs.com, proxy
+host, httpdns-sc.aliyuncs.com, proxy
+ip-cidr, 203.107.1.0/24, proxy, no-resolve
+host, amdc.alipay.com, proxy
+host, ucdc.upaas.quark.cn, proxy
+host, httpdns.danuoyi.tbcache.com, proxy
+host, httpdns.cctv.com, proxy
+host, httpdns-browser.platform.dbankcloud.cn, proxy
+host, httpdns.huaweicloud.com, proxy
+host, httpdns.c.cdnhwc2.com, proxy
+host, httpdns.platform.dbankcloud.cn, proxy
+host, httpdns.platform.dbankcloud.com, proxy
+host, httpdns1.cc.cdnhwc5.com, proxy
+host, doh.ptqy.gitv.tv, proxy
+host, httpdns.baidu.com, proxy
+host, httpsdns.baidu.com, proxy
+host, httpdns.bcelive.com, proxy
+host, httpdns.baidubce.com, proxy
+host, dns.iqiyi.com, proxy
+host, doh.iqiyi.com, proxy
+host, dns.qiyipic.iqiyi.com, proxy
+host, httpdns.n.shifen.com, proxy
+ip-cidr, 186.76.76.200/32, proxy, no-resolve
+host, httpdns.ocloud.heytapmobi.com, proxy
+host, httpdns.push.heytapmobi.com, proxy
+host, dns.jd.com, proxy
+ip-cidr, 101.124.19.122/32, proxy, no-resolve
+ip6-cidr, 2402:db40:5100:1011::5/128, proxy, no-resolve
+ip-cidr, 103.224.222.208/32, proxy, no-resolve
+ip-cidr, 119.29.29.98/32, proxy, no-resolve
+ip-cidr, 119.29.29.99/32, proxy, no-resolve
+host, dotserver.douyucdn.cn, proxy
+host, hdns.ksyun.com, proxy
+host, httpdns.push.oppomobile.com, proxy
+host, httpdns.ocloud.oppomobile.com, proxy
+host, cdndns.kwd.inkuai.com, proxy
+host, hdns.k-dyn.com, proxy
+host, kuaishou.httpdns.pro, proxy
+host, httpdns.kwd.inkuai.com, proxy
+host, apidns.kwd.inkuai.com, proxy
+host, apidns-js.kwd.inkuai.com, proxy
+host, httpdns.meituan.com, proxy
+host, httpdnsmultiapi.meituan.com, proxy
+host, httpdnsmultiapivip.meituan.com, proxy
+host, httpdns.music.163.com, proxy
+host, httpdns.n.netease.com, proxy
+host, httpdns-sdk.n.netease.com, proxy
+host, httpdns.yunxindns.com, proxy
+host, lofter.httpdns.c.163.com, proxy
+host, music.httpdns.c.163.com, proxy
+ip-cidr, 59.111.239.61/32, proxy, no-resolve
+ip-cidr, 59.111.239.62/32, proxy, no-resolve
+ip-cidr, 115.236.121.51/32, proxy, no-resolve
+ip-cidr, 115.236.121.195/32, proxy, no-resolve
+host, httpdns.zybang.com, proxy
+host, httpdns.calorietech.com, proxy
+host, dns.weibo.cn, proxy
+ip-cidr, 39.97.130.51/32, proxy, no-resolve
+ip-cidr, 39.97.128.148/32, proxy, no-resolve
+ip-cidr, 103.41.167.237/32, proxy, no-resolve
+ip-cidr, 118.89.204.198/32, proxy, no-resolve
+ip-cidr, 182.61.194.7/32, proxy, no-resolve
+ip6-cidr, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, proxy, no-resolve
+ip6-cidr, 240c:409f:1000::/128, proxy, no-resolve
+host, hd.xiaojukeji.com, proxy
+host, serveraddr.service.kugou.com, proxy
+host, twns.p2ptun.qq.com, proxy
+host, tp2p.kg.qq.com, proxy
+ip-cidr, 81.71.61.216/32, proxy, no-resolve
+host, httpdns.immomo.com, proxy
+host, weather-analytics-events.apple.com, proxy
+host-suffix, tthr.apple.com, proxy
+host, tether.edge.apple, proxy
+host-suffix, szbdyd.com, proxy
+host-wildcard, pcdn.biliapi.net, proxy
+host-suffix, mcdn.bilivideo.cn, proxy
+host-suffix, mcdn.bilivideo.com, proxy
+host-suffix, mountaintoys.cn, proxy

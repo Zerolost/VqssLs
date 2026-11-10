@@ -1,0 +1,15 @@
+# VqssLs_Direct · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
+# Surge 规则集 · 由内联规则整理
+host, ad.12306.cn, proxy
+host, gw.m.163.com, proxy
+host, init.sms.mob.com, proxy
+host, sdkapi.sms.mob.com, proxy
+host, code.sms.mob.com, proxy
+host, smartop-sdkapi.jiguang.cn, proxy
+host, sdk.verification.jiguang.cn, proxy
+host-suffix, is.autonavi.com, proxy
+host, gspe11-2-cn-ssl.ls.apple.com, proxy
+host, gspe12-cn-ssl.ls.apple.com, proxy
+host, gspe19-cn-ssl.ls.apple.com, proxy
+host, gspe19-2-cn-ssl.ls.apple.com, proxy
+host, gspe79-cn-ssl.ls.apple.com, proxy
