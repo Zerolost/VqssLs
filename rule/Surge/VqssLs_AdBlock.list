@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
 DOMAIN-SUFFIX,pubads.g.doubleclick.net,REJECT
 DOMAIN-SUFFIX,securepubads.g.doubleclick.net,REJECT
@@ -153,7 +153,6 @@ DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT,pre-matching,extended-matching
 DOMAIN,ads-shopping.shouqianba.com,REJECT,pre-matching,extended-matching
 DOMAIN,ad.maoyan.com,REJECT,pre-matching,extended-matching
 DOMAIN,e.jparking.cn,REJECT,pre-matching,extended-matching
-DOMAIN,nex.163.com,REJECT,pre-matching,extended-matching
 DOMAIN,iadmat.nosdn.127.net,REJECT,pre-matching,extended-matching
 DOMAIN,iadmatapk.nosdn.127.net,REJECT,pre-matching,extended-matching
 DOMAIN,iadmusicmat.music.126.net,REJECT,pre-matching,extended-matching
@@ -350,6 +349,7 @@ DOMAIN,arms-retcode.aliyuncs.com,REJECT,pre-matching,extended-matching
 DOMAIN-SUFFIX,iytcdn.com,REJECT,pre-matching,extended-matching
 DOMAIN,huichuan.sm.cn,REJECT,pre-matching,extended-matching
 DOMAIN,huichuan-mc.sm.cn,REJECT,pre-matching,extended-matching
+DOMAIN,nex.163.com,REJECT,pre-matching,extended-matching
 DOMAIN,iad.g.163.com,REJECT,pre-matching,extended-matching
 DOMAIN,gorgon.youdao.com,REJECT,pre-matching,extended-matching
 DOMAIN-SUFFIX,ad.xiaomi.com,REJECT,pre-matching,extended-matching
@@ -619,8 +619,21 @@ DOMAIN,weather-analytics-events.apple.com,REJECT-DROP
 DOMAIN-SUFFIX,tthr.apple.com,REJECT-DROP,extended-matching
 DOMAIN,tether.edge.apple,REJECT-DROP,extended-matching
 AND,((OR,((IP-ASN,714,no-resolve), (IP-ASN,6185,no-resolve))), (PROTOCOL,QUIC)),REJECT-DROP
-DOMAIN-SUFFIX,szbdyd.com,REJECT
 DOMAIN-WILDCARD,pcdn.biliapi.net,REJECT
 DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
 DOMAIN-SUFFIX,mcdn.bilivideo.com,REJECT
+DOMAIN-SUFFIX,szbdyd.com,REJECT
 DOMAIN-SUFFIX,mountaintoys.cn,REJECT
+DOMAIN-SUFFIX,pangle.io,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,supersonicads.com,REJECT,pre-matching,extended-matching
+IP-CIDR,47.110.187.87/32,REJECT,pre-matching,extended-matching,no-resolve
+DOMAIN-SUFFIX,googlesyndication.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,applovin.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,unityads.unity3d.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,vungle.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,inmobi.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,applvn.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,rayjump.com,REJECT,pre-matching,extended-matching
+DOMAIN-SUFFIX,amazon-adsystem.com,REJECT,pre-matching,extended-matching
+USER-AGENT,Httpdns*,REJECT,pre-matching,extended-matching
+USER-AGENT,Httpsdns*,REJECT,pre-matching,extended-matching
