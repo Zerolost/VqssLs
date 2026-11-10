@@ -1,5 +1,5 @@
 # VqssLs_Google · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, 2mdn-cn.net, proxy
 host, 2mdn.net, proxy
 host, admob-cn.com, proxy
@@ -1121,3 +1121,5 @@ host-keyword, gmail, proxy
 host-keyword, google, proxy
 host-keyword, googlesource, proxy
 host-keyword, recaptcha, proxy
+ip-cidr, 173.194.0.0/16, proxy, no-resolve
+ip-cidr, 74.125.0.0/16, proxy, no-resolve

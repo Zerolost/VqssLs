@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,disney.my.sentry.io,Disney
 DOMAIN,disneyplus.com.ssl.sc.omtrdc.net,Disney
 DOMAIN,espn.api.edge.bamgrid.com,Disney
@@ -247,3 +247,13 @@ DOMAIN-SUFFIX,waltdisneystudios.com,Disney
 DOMAIN-SUFFIX,watchdisneyfe.com,Disney
 DOMAIN-SUFFIX,watchespn.com,Disney
 DOMAIN-SUFFIX,wwwhuluplus.com,Disney
+DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net,Hulu
+DOMAIN-SUFFIX,cws-hulu.conviva.com,Hulu
+DOMAIN-SUFFIX,happyon.jp,Hulu
+DOMAIN-SUFFIX,hjholdings.jp,Hulu
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net,Hulu
+DOMAIN-SUFFIX,hulu.playback.edge.bamgrid.com,Hulu
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net,Hulu
+DOMAIN-SUFFIX,prod.hjholdings.tv,Hulu
+DOMAIN-SUFFIX,streaks.jp,Hulu
+DOMAIN-SUFFIX,yb.uncn.jp,Hulu

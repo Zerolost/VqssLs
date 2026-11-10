@@ -1,5 +1,8 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,ad.12306.cn,DIRECT
+DOMAIN-SUFFIX,soulapp.cn,DIRECT,extended-matching
+IP-CIDR,8.210.3.170/32,DIRECT,no-resolve
+IP-CIDR,47.75.72.47/32,DIRECT,no-resolve
 DOMAIN,gw.m.163.com,DIRECT
 DOMAIN,init.sms.mob.com,DIRECT
 DOMAIN,sdkapi.sms.mob.com,DIRECT
@@ -12,3 +15,4 @@ DOMAIN,gspe12-cn-ssl.ls.apple.com,DIRECT
 DOMAIN,gspe19-cn-ssl.ls.apple.com,DIRECT
 DOMAIN,gspe19-2-cn-ssl.ls.apple.com,DIRECT
 DOMAIN,gspe79-cn-ssl.ls.apple.com,DIRECT
+DOMAIN,nex.163.com,DIRECT

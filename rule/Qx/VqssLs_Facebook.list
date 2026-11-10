@@ -1,5 +1,5 @@
 # VqssLs_Facebook · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, fbcdn-a.akamaihd.net, proxy
 host-suffix, aboutfacebook.com, proxy
 host-suffix, accessfacebookfromschool.com, proxy
@@ -482,3 +482,39 @@ host-suffix, zuckerberg.com, proxy
 host-suffix, zuckerberg.net, proxy
 host-keyword, facebook, proxy
 host-keyword, fbcdn, proxy
+ip-cidr, 103.4.96.0/22, proxy, no-resolve
+ip-cidr, 108.168.176.192/26, proxy, no-resolve
+ip-cidr, 108.168.177.0/27, proxy, no-resolve
+ip-cidr, 108.168.180.96/27, proxy, no-resolve
+ip-cidr, 108.168.254.65/32, proxy, no-resolve
+ip-cidr, 108.168.255.224/32, proxy, no-resolve
+ip-cidr, 108.168.255.227/32, proxy, no-resolve
+ip-cidr, 108.177.8.0/21, proxy, no-resolve
+ip-cidr, 119.235.224.0/24, proxy, no-resolve
+ip-cidr, 119.235.232.0/24, proxy, no-resolve
+ip-cidr, 119.235.236.0/24, proxy, no-resolve
+ip-cidr, 119.235.237.0/24, proxy, no-resolve
+ip-cidr, 129.134.0.0/17, proxy, no-resolve
+ip-cidr, 157.240.0.0/17, proxy, no-resolve
+ip-cidr, 169.45.248.118/32, proxy, no-resolve
+ip-cidr, 173.252.64.0/18, proxy, no-resolve
+ip-cidr, 173.252.64.0/19, proxy, no-resolve
+ip-cidr, 173.252.96.0/19, proxy, no-resolve
+ip-cidr, 179.60.192.0/22, proxy, no-resolve
+ip-cidr, 185.60.216.0/22, proxy, no-resolve
+ip-cidr, 204.15.20.0/22, proxy, no-resolve
+ip-cidr, 3.123.36.126/32, proxy, no-resolve
+ip-cidr, 31.13.24.0/21, proxy, no-resolve
+ip-cidr, 31.13.64.0/18, proxy, no-resolve
+ip-cidr, 35.157.215.84/32, proxy, no-resolve
+ip-cidr, 35.157.217.255/32, proxy, no-resolve
+ip-cidr, 45.64.40.0/22, proxy, no-resolve
+ip-cidr, 52.58.209.134/32, proxy, no-resolve
+ip-cidr, 54.162.243.80/32, proxy, no-resolve
+ip-cidr, 54.173.34.141/32, proxy, no-resolve
+ip-cidr, 54.235.23.242/32, proxy, no-resolve
+ip-cidr, 54.93.124.31/32, proxy, no-resolve
+ip-cidr, 66.220.144.0/20, proxy, no-resolve
+ip-cidr, 69.171.224.0/19, proxy, no-resolve
+ip-cidr, 69.63.176.0/20, proxy, no-resolve
+ip-cidr, 74.119.76.0/22, proxy, no-resolve

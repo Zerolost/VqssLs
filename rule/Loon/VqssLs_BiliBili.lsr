@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,Bilibili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,Bilibili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,Bilibili
@@ -117,3 +117,10 @@ DOMAIN-SUFFIX,updream.cn,Bilibili
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,Bilibili
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net,Bilibili
 DOMAIN-SUFFIX,yo9.com,Bilibili
+IP-CIDR,106.75.74.76/32,Bilibili,no-resolve
+IP-CIDR,111.206.25.147/32,Bilibili,no-resolve
+IP-CIDR,119.3.238.64/32,Bilibili,no-resolve
+IP-CIDR,120.92.108.182/32,Bilibili,no-resolve
+IP-CIDR,120.92.113.99/32,Bilibili,no-resolve
+IP-CIDR,120.92.153.217/32,Bilibili,no-resolve
+IP-CIDR,134.175.207.130/32,Bilibili,no-resolve

@@ -1,5 +1,5 @@
 # VqssLs_Instagram · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host-suffix, achat-followers-instagram.com, proxy
 host-suffix, acheter-followers-instagram.com, proxy
 host-suffix, acheterdesfollowersinstagram.com, proxy

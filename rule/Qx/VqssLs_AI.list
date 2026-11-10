@@ -1,5 +1,5 @@
 # VqssLs_AI · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, browser-intake-datadoghq.com, proxy
 host, o33249.ingest.sentry.io, proxy
 host, o33249.ingest.us.sentry.io, proxy
@@ -46,6 +46,10 @@ host-keyword, chatgpt, proxy
 host-keyword, chatgpt-async-webps-prod, proxy
 host-keyword, codex, proxy
 host-keyword, openai, proxy
+ip-cidr, 199.47.142.0/23, proxy, no-resolve
+ip-cidr, 24.199.123.28/32, proxy, no-resolve
+ip-cidr, 64.23.132.171/32, proxy, no-resolve
+ip6-cidr, 2604:f20::/32, proxy, no-resolve
 host, cdn.usefathom.com, proxy
 host-suffix, anthropic.com, proxy
 host-suffix, claude.ai, proxy
@@ -391,3 +395,5 @@ host-suffix, zhipucn.com, proxy
 host-keyword, datadog, proxy
 host-keyword, sentry, proxy
 host-keyword, sift, proxy
+ip-cidr, 160.79.104.0/21, proxy, no-resolve
+ip6-cidr, 2607:6bc0::/32, proxy, no-resolve

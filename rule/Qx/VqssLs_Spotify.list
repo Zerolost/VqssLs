@@ -1,5 +1,5 @@
 # VqssLs_Spotify · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, adeventtracker.spotify.com, proxy
 host, adstudio-assets.scdn.co, proxy
 host, audio-ak-spotify-com.akamaized.net, proxy
@@ -38,3 +38,4 @@ host-keyword, -spotify-com, proxy
 host-keyword, spotify, proxy
 host-keyword, spotify.com, proxy
 user-agent, Spotify*, proxy
+ip-cidr, 35.186.224.47/32, proxy, no-resolve

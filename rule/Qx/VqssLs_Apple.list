@@ -1,5 +1,5 @@
 # VqssLs_Apple · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, a1.mzstatic.com, proxy
 host, a2.mzstatic.com, proxy
 host, a3.mzstatic.com, proxy
@@ -2043,3 +2043,16 @@ user-agent, AppleTV*, proxy
 user-agent, com.apple.news*, proxy
 user-agent, com.apple.trustd*, proxy
 user-agent, com.apple.tv*, proxy
+ip-cidr, 139.178.128.0/18, proxy, no-resolve
+ip-cidr, 144.178.0.0/19, proxy, no-resolve
+ip-cidr, 144.178.36.0/22, proxy, no-resolve
+ip-cidr, 144.178.48.0/20, proxy, no-resolve
+ip-cidr, 17.0.0.0/8, proxy, no-resolve
+ip-cidr, 192.35.50.0/24, proxy, no-resolve
+ip-cidr, 198.183.17.0/24, proxy, no-resolve
+ip-cidr, 205.180.175.0/24, proxy, no-resolve
+ip-cidr, 63.92.224.0/19, proxy, no-resolve
+ip-cidr, 65.199.22.0/23, proxy, no-resolve
+ip6-cidr, 2403:300::/32, proxy, no-resolve
+ip6-cidr, 2620:149::/32, proxy, no-resolve
+ip6-cidr, 2a01:b740::/32, proxy, no-resolve

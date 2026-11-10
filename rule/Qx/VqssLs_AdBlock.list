@@ -1,5 +1,5 @@
 # VqssLs_AdBlock · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host-suffix, googleads.g.doubleclick.net, proxy
 host-suffix, pubads.g.doubleclick.net, proxy
 host-suffix, securepubads.g.doubleclick.net, proxy
@@ -126,7 +126,6 @@ host, wxsnsdythumb.wxs.qq.com, proxy
 host, ads-shopping.shouqianba.com, proxy
 host, ad.maoyan.com, proxy
 host, e.jparking.cn, proxy
-host, nex.163.com, proxy
 host, iadmat.nosdn.127.net, proxy
 host, iadmatapk.nosdn.127.net, proxy
 host, iadmusicmat.music.126.net, proxy
@@ -314,6 +313,7 @@ host, arms-retcode.aliyuncs.com, proxy
 host-suffix, iytcdn.com, proxy
 host, huichuan.sm.cn, proxy
 host, huichuan-mc.sm.cn, proxy
+host, nex.163.com, proxy
 host, iad.g.163.com, proxy
 host, gorgon.youdao.com, proxy
 host-suffix, ad.xiaomi.com, proxy
@@ -568,8 +568,21 @@ host, httpdns.immomo.com, proxy
 host, weather-analytics-events.apple.com, proxy
 host-suffix, tthr.apple.com, proxy
 host, tether.edge.apple, proxy
-host-suffix, szbdyd.com, proxy
 host-wildcard, pcdn.biliapi.net, proxy
 host-suffix, mcdn.bilivideo.cn, proxy
 host-suffix, mcdn.bilivideo.com, proxy
+host-suffix, szbdyd.com, proxy
 host-suffix, mountaintoys.cn, proxy
+host-suffix, pangle.io, proxy
+host-suffix, supersonicads.com, proxy
+ip-cidr, 47.110.187.87/32, proxy, no-resolve
+host-suffix, googlesyndication.com, proxy
+host-suffix, applovin.com, proxy
+host-suffix, unityads.unity3d.com, proxy
+host-suffix, vungle.com, proxy
+host-suffix, inmobi.com, proxy
+host-suffix, applvn.com, proxy
+host-suffix, rayjump.com, proxy
+host-suffix, amazon-adsystem.com, proxy
+user-agent, Httpdns*, proxy
+user-agent, Httpsdns*, proxy

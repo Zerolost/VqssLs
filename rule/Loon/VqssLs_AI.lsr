@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,browser-intake-datadoghq.com,ChatGPT
 DOMAIN,o33249.ingest.sentry.io,ChatGPT
 DOMAIN,o33249.ingest.us.sentry.io,ChatGPT
@@ -45,6 +45,10 @@ DOMAIN-KEYWORD,chatgpt,ChatGPT
 DOMAIN-KEYWORD,chatgpt-async-webps-prod,ChatGPT
 DOMAIN-KEYWORD,codex,ChatGPT
 DOMAIN-KEYWORD,openai,ChatGPT
+IP-CIDR,199.47.142.0/23,ChatGPT,no-resolve
+IP-CIDR,24.199.123.28/32,ChatGPT,no-resolve
+IP-CIDR,64.23.132.171/32,ChatGPT,no-resolve
+IP-CIDR6,2604:f20::/32,ChatGPT,no-resolve
 DOMAIN,cdn.usefathom.com,Claude
 DOMAIN-SUFFIX,anthropic.com,Claude
 DOMAIN-SUFFIX,claude.ai,Claude
@@ -390,3 +394,5 @@ DOMAIN-SUFFIX,zhipucn.com,Copilot
 DOMAIN-KEYWORD,datadog,Copilot
 DOMAIN-KEYWORD,sentry,Copilot
 DOMAIN-KEYWORD,sift,Copilot
+IP-CIDR,160.79.104.0/21,Copilot,no-resolve
+IP-CIDR6,2607:6bc0::/32,Copilot,no-resolve

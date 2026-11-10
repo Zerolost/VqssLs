@@ -1,5 +1,5 @@
 # VqssLs_Microsoft · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, az764295.vo.msecnd.net, proxy
 host, azuremigrate.download.prss.microsoft.com, proxy
 host, azuremigratetest.download.prss.microsoft.com, proxy

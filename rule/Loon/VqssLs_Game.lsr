@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net,Steam
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com,Steam
 DOMAIN,f3b7q2p3.ssl.hwcdn.net,Steam
@@ -84,6 +84,18 @@ DOMAIN-SUFFIX,wmsjsteam.com,Steam
 DOMAIN-KEYWORD,steambroadcast,Steam
 DOMAIN-KEYWORD,steamstore,Steam
 DOMAIN-KEYWORD,steamuserimages,Steam
+IP-CIDR,103.10.124.0/23,Steam,no-resolve
+IP-CIDR,103.28.54.0/24,Steam,no-resolve
+IP-CIDR,146.66.152.0/24,Steam,no-resolve
+IP-CIDR,146.66.155.0/24,Steam,no-resolve
+IP-CIDR,155.133.224.0/19,Steam,no-resolve
+IP-CIDR,162.254.192.0/21,Steam,no-resolve
+IP-CIDR,185.25.180.0/22,Steam,no-resolve
+IP-CIDR,192.69.96.0/22,Steam,no-resolve
+IP-CIDR,205.196.6.0/24,Steam,no-resolve
+IP-CIDR,208.64.200.0/22,Steam,no-resolve
+IP-CIDR,208.78.164.0/22,Steam,no-resolve
+IP-CIDR,45.121.184.0/24,Steam,no-resolve
 DOMAIN-SUFFIX,3lateral.com,"Epic Games"
 DOMAIN-SUFFIX,artstation.com,"Epic Games"
 DOMAIN-SUFFIX,artstationmedia.com,"Epic Games"

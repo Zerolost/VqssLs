@@ -1,5 +1,5 @@
 # VqssLs_Twitter · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host-suffix, ads-twitter.com, proxy
 host-suffix, cms-twdigitalassets.com, proxy
 host-suffix, periscope.tv, proxy
@@ -27,3 +27,11 @@ host-suffix, twvid.com, proxy
 host-suffix, vine.co, proxy
 host-suffix, x.com, proxy
 host-keyword, twitter, proxy
+ip-cidr, 104.244.42.0/21, proxy, no-resolve
+ip-cidr, 192.133.76.0/22, proxy, no-resolve
+ip-cidr, 199.16.156.0/22, proxy, no-resolve
+ip-cidr, 199.59.148.0/22, proxy, no-resolve
+ip-cidr, 199.96.56.0/21, proxy, no-resolve
+ip-cidr, 202.160.128.0/22, proxy, no-resolve
+ip-cidr, 209.237.192.0/19, proxy, no-resolve
+ip-cidr, 69.195.160.0/19, proxy, no-resolve

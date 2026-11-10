@@ -1,5 +1,5 @@
 # VqssLs_TikTok · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, lf16-effectcdn.byteeffecttos-g.com, proxy
 host, lf16-pkgcdn.pitaya-clientai.com, proxy
 host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, proxy

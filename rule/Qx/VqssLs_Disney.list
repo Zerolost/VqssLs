@@ -1,5 +1,5 @@
 # VqssLs_Disney · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, disney.my.sentry.io, proxy
 host, disneyplus.com.ssl.sc.omtrdc.net, proxy
 host, espn.api.edge.bamgrid.com, proxy
@@ -248,3 +248,13 @@ host-suffix, waltdisneystudios.com, proxy
 host-suffix, watchdisneyfe.com, proxy
 host-suffix, watchespn.com, proxy
 host-suffix, wwwhuluplus.com, proxy
+host-suffix, assetshuluimcom-a.akamaihd.net, proxy
+host-suffix, cws-hulu.conviva.com, proxy
+host-suffix, happyon.jp, proxy
+host-suffix, hjholdings.jp, proxy
+host-suffix, hulu.hb.omtrdc.net, proxy
+host-suffix, hulu.playback.edge.bamgrid.com, proxy
+host-suffix, hulu.sc.omtrdc.net, proxy
+host-suffix, prod.hjholdings.tv, proxy
+host-suffix, streaks.jp, proxy
+host-suffix, yb.uncn.jp, proxy

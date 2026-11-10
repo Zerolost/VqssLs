@@ -1,5 +1,5 @@
 # VqssLs_BiliBili · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com, proxy
 host, 0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com, proxy
 host, 0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com, proxy
@@ -118,3 +118,10 @@ host-suffix, updream.cn, proxy
 host-suffix, upos-hz-mirrorakam.akamaized.net, proxy
 host-suffix, uposdash-302-bilivideo.yfcdn.net, proxy
 host-suffix, yo9.com, proxy
+ip-cidr, 106.75.74.76/32, proxy, no-resolve
+ip-cidr, 111.206.25.147/32, proxy, no-resolve
+ip-cidr, 119.3.238.64/32, proxy, no-resolve
+ip-cidr, 120.92.108.182/32, proxy, no-resolve
+ip-cidr, 120.92.113.99/32, proxy, no-resolve
+ip-cidr, 120.92.153.217/32, proxy, no-resolve
+ip-cidr, 134.175.207.130/32, proxy, no-resolve

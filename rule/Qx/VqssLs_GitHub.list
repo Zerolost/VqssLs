@@ -1,5 +1,5 @@
 # VqssLs_GitHub · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, github-api.arkoselabs.com, proxy
 host, github-cloud.s3.amazonaws.com, proxy
 host, github-production-release-asset-2e65be.s3.amazonaws.com, proxy

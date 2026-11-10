@@ -1,4 +1,4 @@
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 DOMAIN,github-api.arkoselabs.com,GitHub
 DOMAIN,github-cloud.s3.amazonaws.com,GitHub
 DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com,GitHub

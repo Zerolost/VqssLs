@@ -1,6 +1,9 @@
 # VqssLs_Direct · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, ad.12306.cn, proxy
+host-suffix, soulapp.cn, proxy
+ip-cidr, 8.210.3.170/32, proxy, no-resolve
+ip-cidr, 47.75.72.47/32, proxy, no-resolve
 host, gw.m.163.com, proxy
 host, init.sms.mob.com, proxy
 host, sdkapi.sms.mob.com, proxy
@@ -13,3 +16,4 @@ host, gspe12-cn-ssl.ls.apple.com, proxy
 host, gspe19-cn-ssl.ls.apple.com, proxy
 host, gspe19-2-cn-ssl.ls.apple.com, proxy
 host, gspe79-cn-ssl.ls.apple.com, proxy
+host, nex.163.com, proxy

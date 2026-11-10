@@ -1,5 +1,5 @@
 # VqssLs_Game · 由 rule/convert.py 从 Surge 规则集转换，策略默认 proxy
-# Surge 规则集 · 由内联规则整理
+# Surge 规则集
 host, a4e8s8k3.map2.ssl.hwcdn.net, proxy
 host, alibaba.cdn.steampipe.steamcontent.com, proxy
 host, f3b7q2p3.ssl.hwcdn.net, proxy
@@ -85,6 +85,18 @@ host-suffix, wmsjsteam.com, proxy
 host-keyword, steambroadcast, proxy
 host-keyword, steamstore, proxy
 host-keyword, steamuserimages, proxy
+ip-cidr, 103.10.124.0/23, proxy, no-resolve
+ip-cidr, 103.28.54.0/24, proxy, no-resolve
+ip-cidr, 146.66.152.0/24, proxy, no-resolve
+ip-cidr, 146.66.155.0/24, proxy, no-resolve
+ip-cidr, 155.133.224.0/19, proxy, no-resolve
+ip-cidr, 162.254.192.0/21, proxy, no-resolve
+ip-cidr, 185.25.180.0/22, proxy, no-resolve
+ip-cidr, 192.69.96.0/22, proxy, no-resolve
+ip-cidr, 205.196.6.0/24, proxy, no-resolve
+ip-cidr, 208.64.200.0/22, proxy, no-resolve
+ip-cidr, 208.78.164.0/22, proxy, no-resolve
+ip-cidr, 45.121.184.0/24, proxy, no-resolve
 host-suffix, 3lateral.com, proxy
 host-suffix, artstation.com, proxy
 host-suffix, artstationmedia.com, proxy
