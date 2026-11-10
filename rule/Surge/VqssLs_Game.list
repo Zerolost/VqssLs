@@ -1,0 +1,299 @@
+# Surge 规则集 · 由内联规则整理
+DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net,Steam
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com,Steam
+DOMAIN,f3b7q2p3.ssl.hwcdn.net,Steam
+DOMAIN,lv.queniujq.cn,Steam
+DOMAIN,steambroadcast.akamaized.net,Steam
+DOMAIN,steamcdn-a.akamaihd.net,Steam
+DOMAIN,steamcloudsweden.blob.core.windows.net,Steam
+DOMAIN,steamcommunity-a.akamaihd.net,Steam
+DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net,Steam
+DOMAIN,steammobile.akamaized.net,Steam
+DOMAIN,steampipe-kr.akamaized.net,Steam
+DOMAIN,steampipe-partner.akamaized.net,Steam
+DOMAIN,steampipe.akamaized.net,Steam
+DOMAIN,steamstore-a.akamaihd.net,Steam
+DOMAIN,steamugcquincy.blob.core.windows.net,Steam
+DOMAIN,steamusercontent-a.akamaihd.net,Steam
+DOMAIN,steamuserimages-a.akamaihd.net,Steam
+DOMAIN,steamvideo-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,Steam
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com,Steam
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com,Steam
+DOMAIN-SUFFIX,client-update.queniuqe.com,Steam
+DOMAIN-SUFFIX,csgo.com.cn,Steam
+DOMAIN-SUFFIX,csgo.wmsj.cn,Steam
+DOMAIN-SUFFIX,dl.steam.clngaa.com,Steam
+DOMAIN-SUFFIX,dl.steam.ksyna.com,Steam
+DOMAIN-SUFFIX,dota2.com,Steam
+DOMAIN-SUFFIX,dota2.com.cn,Steam
+DOMAIN-SUFFIX,dota2.wmsj.cn,Steam
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net,Steam
+DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net,Steam
+DOMAIN-SUFFIX,fanatical.com,Steam
+DOMAIN-SUFFIX,gstore.val.manlaxy.com,Steam
+DOMAIN-SUFFIX,humblebundle.com,Steam
+DOMAIN-SUFFIX,playartifact.com,Steam
+DOMAIN-SUFFIX,s.team,Steam
+DOMAIN-SUFFIX,sih-db.com,Steam
+DOMAIN-SUFFIX,sih.app,Steam
+DOMAIN-SUFFIX,st.dl.bscstorage.net,Steam
+DOMAIN-SUFFIX,st.dl.eccdnx.com,Steam
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com,Steam
+DOMAIN-SUFFIX,steam-api.com,Steam
+DOMAIN-SUFFIX,steam-chat.com,Steam
+DOMAIN-SUFFIX,steam.apac.qtlglb.com,Steam
+DOMAIN-SUFFIX,steam.cdn.on.net,Steam
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz,Steam
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz,Steam
+DOMAIN-SUFFIX,steam.cdn.webra.ru,Steam
+DOMAIN-SUFFIX,steam.eca.qtlglb.com,Steam
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com,Steam
+DOMAIN-SUFFIX,steam.ru.qtlglb.com,Steam
+DOMAIN-SUFFIX,steam.tv,Steam
+DOMAIN-SUFFIX,steambroadcast.akamaized.net,Steam
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,steamcommunity.com,Steam
+DOMAIN-SUFFIX,steamconnecttest.com,Steam
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com,Steam
+DOMAIN-SUFFIX,steamdeck.com,Steam
+DOMAIN-SUFFIX,steamgames.com,Steam
+DOMAIN-SUFFIX,steaminventoryhelper.com,Steam
+DOMAIN-SUFFIX,steammobile.akamaized.net,Steam
+DOMAIN-SUFFIX,steamos.cloud,Steam
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net,Steam
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net,Steam
+DOMAIN-SUFFIX,steampipe.akamaized.net,Steam
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com,Steam
+DOMAIN-SUFFIX,steampowered.com,Steam
+DOMAIN-SUFFIX,steampowered.com.8686c.com,Steam
+DOMAIN-SUFFIX,steamserver.net,Steam
+DOMAIN-SUFFIX,steamstat.us,Steam
+DOMAIN-SUFFIX,steamstatic.com,Steam
+DOMAIN-SUFFIX,steamstatic.com.8686c.com,Steam
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,steamunlocked.net,Steam
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,steamvideo-a.akamaihd.net,Steam
+DOMAIN-SUFFIX,underlords.com,Steam
+DOMAIN-SUFFIX,valve.net,Steam
+DOMAIN-SUFFIX,valvesoftware.com,Steam
+DOMAIN-SUFFIX,wmsjsteam.com,Steam
+DOMAIN-KEYWORD,steambroadcast,Steam
+DOMAIN-KEYWORD,steamstore,Steam
+DOMAIN-KEYWORD,steamuserimages,Steam
+DOMAIN-SUFFIX,3lateral.com,"Epic Games"
+DOMAIN-SUFFIX,artstation.com,"Epic Games"
+DOMAIN-SUFFIX,artstationmedia.com,"Epic Games"
+DOMAIN-SUFFIX,battlebreakers.com,"Epic Games"
+DOMAIN-SUFFIX,capturingreality.com,"Epic Games"
+DOMAIN-SUFFIX,cubicmotion.com,"Epic Games"
+DOMAIN-SUFFIX,eac-cdn.com,"Epic Games"
+DOMAIN-SUFFIX,easy.ac,"Epic Games"
+DOMAIN-SUFFIX,easyanticheat.net,"Epic Games"
+DOMAIN-SUFFIX,egdownload.fastly-edge.com,"Epic Games"
+DOMAIN-SUFFIX,epicgames.com,"Epic Games"
+DOMAIN-SUFFIX,epicgames.dev,"Epic Games"
+DOMAIN-SUFFIX,epicgamescdn.com,"Epic Games"
+DOMAIN-SUFFIX,fab.com,"Epic Games"
+DOMAIN-SUFFIX,fortnite-vod.akamaized.net,"Epic Games"
+DOMAIN-SUFFIX,fortnite.com,"Epic Games"
+DOMAIN-SUFFIX,helpshift.com,"Epic Games"
+DOMAIN-SUFFIX,hyprsense.com,"Epic Games"
+DOMAIN-SUFFIX,ol.epicgames.com,"Epic Games"
+DOMAIN-SUFFIX,paragon.com,"Epic Games"
+DOMAIN-SUFFIX,playparagon.com,"Epic Games"
+DOMAIN-SUFFIX,quixel.com,"Epic Games"
+DOMAIN-SUFFIX,quixel.se,"Epic Games"
+DOMAIN-SUFFIX,radgametools.com,"Epic Games"
+DOMAIN-SUFFIX,realityscan.com,"Epic Games"
+DOMAIN-SUFFIX,roborecall.com,"Epic Games"
+DOMAIN-SUFFIX,shadowcomplex.com,"Epic Games"
+DOMAIN-SUFFIX,sketchfab.com,"Epic Games"
+DOMAIN-SUFFIX,spyjinx.com,"Epic Games"
+DOMAIN-SUFFIX,twinmotion.com,"Epic Games"
+DOMAIN-SUFFIX,unrealengine.com,"Epic Games"
+DOMAIN-SUFFIX,unrealtournament.com,"Epic Games"
+DOMAIN-KEYWORD,epicgames,"Epic Games"
+DOMAIN,playstation.com,PlayStation
+DOMAIN,playstation.net,PlayStation
+DOMAIN,playstationnetwork.com,PlayStation
+DOMAIN-SUFFIX,playstation,PlayStation
+DOMAIN-SUFFIX,playstation.com,PlayStation
+DOMAIN-SUFFIX,playstation.net,PlayStation
+DOMAIN-SUFFIX,playstationnetwork.com,PlayStation
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,PlayStation
+DOMAIN,prodforza.blob.core.windows.net,Xbox
+DOMAIN-SUFFIX,beth.games,Xbox
+DOMAIN-SUFFIX,bethesda.net,Xbox
+DOMAIN-SUFFIX,bethesdagamestudios.com,Xbox
+DOMAIN-SUFFIX,bethsoft.com,Xbox
+DOMAIN-SUFFIX,callersbane.com,Xbox
+DOMAIN-SUFFIX,doom.com,Xbox
+DOMAIN-SUFFIX,elderscrolls.com,Xbox
+DOMAIN-SUFFIX,forza.net,Xbox
+DOMAIN-SUFFIX,forzamotorsport.net,Xbox
+DOMAIN-SUFFIX,forzaracingchampionship.com,Xbox
+DOMAIN-SUFFIX,forzarc.com,Xbox
+DOMAIN-SUFFIX,gamepass.com,Xbox
+DOMAIN-SUFFIX,minecraft-services.net,Xbox
+DOMAIN-SUFFIX,minecraft.net,Xbox
+DOMAIN-SUFFIX,minecraftservices.com,Xbox
+DOMAIN-SUFFIX,minecraftshop.com,Xbox
+DOMAIN-SUFFIX,mojang.com,Xbox
+DOMAIN-SUFFIX,msgamestudios.com,Xbox
+DOMAIN-SUFFIX,orithegame.com,Xbox
+DOMAIN-SUFFIX,renovacionxboxlive.com,Xbox
+DOMAIN-SUFFIX,tellmewhygame.com,Xbox
+DOMAIN-SUFFIX,xbox,Xbox
+DOMAIN-SUFFIX,xbox.co,Xbox
+DOMAIN-SUFFIX,xbox.com,Xbox
+DOMAIN-SUFFIX,xbox.eu,Xbox
+DOMAIN-SUFFIX,xbox.org,Xbox
+DOMAIN-SUFFIX,xbox360.co,Xbox
+DOMAIN-SUFFIX,xbox360.com,Xbox
+DOMAIN-SUFFIX,xbox360.eu,Xbox
+DOMAIN-SUFFIX,xbox360.org,Xbox
+DOMAIN-SUFFIX,xboxab.com,Xbox
+DOMAIN-SUFFIX,xboxab.net,Xbox
+DOMAIN-SUFFIX,xboxgamepass.com,Xbox
+DOMAIN-SUFFIX,xboxgamestudios.com,Xbox
+DOMAIN-SUFFIX,xboxlive.cn,Xbox
+DOMAIN-SUFFIX,xboxlive.com,Xbox
+DOMAIN-SUFFIX,xboxone.co,Xbox
+DOMAIN-SUFFIX,xboxone.com,Xbox
+DOMAIN-SUFFIX,xboxone.eu,Xbox
+DOMAIN-SUFFIX,xboxplayanywhere.com,Xbox
+DOMAIN-SUFFIX,xboxservice.com,Xbox
+DOMAIN-SUFFIX,xboxservices.com,Xbox
+DOMAIN-SUFFIX,xboxstudios.com,Xbox
+DOMAIN-SUFFIX,xbx.lv,Xbox
+DOMAIN-SUFFIX,100classicbooks.com,Nintendo
+DOMAIN-SUFFIX,ac-pocketcamp.com,Nintendo
+DOMAIN-SUFFIX,amiibo.com,Nintendo
+DOMAIN-SUFFIX,ayudanintendo.com,Nintendo
+DOMAIN-SUFFIX,bowsersinsidestory.com,Nintendo
+DOMAIN-SUFFIX,dialga.com,Nintendo
+DOMAIN-SUFFIX,diddykongracing.com,Nintendo
+DOMAIN-SUFFIX,dkr.com,Nintendo
+DOMAIN-SUFFIX,donkeykongcountryreturns.com,Nintendo
+DOMAIN-SUFFIX,drmario-world.com,Nintendo
+DOMAIN-SUFFIX,excitebots.com,Nintendo
+DOMAIN-SUFFIX,fire-emblem-heroes.com,Nintendo
+DOMAIN-SUFFIX,fireemblemawakening.com,Nintendo
+DOMAIN-SUFFIX,flipnotestudio.com,Nintendo
+DOMAIN-SUFFIX,giratina.com,Nintendo
+DOMAIN-SUFFIX,gloryofheracles.com,Nintendo
+DOMAIN-SUFFIX,hackyourconsole.com,Nintendo
+DOMAIN-SUFFIX,kirbysepicyarn.com,Nintendo
+DOMAIN-SUFFIX,kirbysuperstarultra.com,Nintendo
+DOMAIN-SUFFIX,kyurem.com,Nintendo
+DOMAIN-SUFFIX,legendofzelda.cn,Nintendo
+DOMAIN-SUFFIX,legendofzelda.com.cn,Nintendo
+DOMAIN-SUFFIX,marioandluigidreamteam.com,Nintendo
+DOMAIN-SUFFIX,mariobroswii.com,Nintendo
+DOMAIN-SUFFIX,mariokart.cn,Nintendo
+DOMAIN-SUFFIX,mariokart.com.cn,Nintendo
+DOMAIN-SUFFIX,mariokart7.com,Nintendo
+DOMAIN-SUFFIX,mariokart8.com,Nintendo
+DOMAIN-SUFFIX,mariosupersluggers.com,Nintendo
+DOMAIN-SUFFIX,miitomo.com,Nintendo
+DOMAIN-SUFFIX,miitomo.com.cn,Nintendo
+DOMAIN-SUFFIX,miiverse.com,Nintendo
+DOMAIN-SUFFIX,nentindo.net,Nintendo
+DOMAIN-SUFFIX,newsupermariobrosu.com,Nintendo
+DOMAIN-SUFFIX,nintendo-europe-sales.com,Nintendo
+DOMAIN-SUFFIX,nintendo-europe.com,Nintendo
+DOMAIN-SUFFIX,nintendo.at,Nintendo
+DOMAIN-SUFFIX,nintendo.be,Nintendo
+DOMAIN-SUFFIX,nintendo.ch,Nintendo
+DOMAIN-SUFFIX,nintendo.co.jp,Nintendo
+DOMAIN-SUFFIX,nintendo.co.kr,Nintendo
+DOMAIN-SUFFIX,nintendo.co.uk,Nintendo
+DOMAIN-SUFFIX,nintendo.co.za,Nintendo
+DOMAIN-SUFFIX,nintendo.com,Nintendo
+DOMAIN-SUFFIX,nintendo.com.au,Nintendo
+DOMAIN-SUFFIX,nintendo.com.hk,Nintendo
+DOMAIN-SUFFIX,nintendo.com.pt,Nintendo
+DOMAIN-SUFFIX,nintendo.de,Nintendo
+DOMAIN-SUFFIX,nintendo.dk,Nintendo
+DOMAIN-SUFFIX,nintendo.es,Nintendo
+DOMAIN-SUFFIX,nintendo.eu,Nintendo
+DOMAIN-SUFFIX,nintendo.fi,Nintendo
+DOMAIN-SUFFIX,nintendo.fr,Nintendo
+DOMAIN-SUFFIX,nintendo.it,Nintendo
+DOMAIN-SUFFIX,nintendo.jp,Nintendo
+DOMAIN-SUFFIX,nintendo.net,Nintendo
+DOMAIN-SUFFIX,nintendo.nl,Nintendo
+DOMAIN-SUFFIX,nintendo.no,Nintendo
+DOMAIN-SUFFIX,nintendo.pt,Nintendo
+DOMAIN-SUFFIX,nintendo.ru,Nintendo
+DOMAIN-SUFFIX,nintendo.se,Nintendo
+DOMAIN-SUFFIX,nintendo.tw,Nintendo
+DOMAIN-SUFFIX,nintendo3ds.com,Nintendo
+DOMAIN-SUFFIX,nintendodsi.com,Nintendo
+DOMAIN-SUFFIX,nintendoeurope.com,Nintendo
+DOMAIN-SUFFIX,nintendolabo.cn,Nintendo
+DOMAIN-SUFFIX,nintendonetwork.net,Nintendo
+DOMAIN-SUFFIX,nintendonyc.com,Nintendo
+DOMAIN-SUFFIX,nintendostore.com,Nintendo
+DOMAIN-SUFFIX,nintendoswitch.cn,Nintendo
+DOMAIN-SUFFIX,nintendoswitch.com,Nintendo
+DOMAIN-SUFFIX,nintendoswitch.com.cn,Nintendo
+DOMAIN-SUFFIX,nintendoswitch.net,Nintendo
+DOMAIN-SUFFIX,nintendoswitchtogether.com,Nintendo
+DOMAIN-SUFFIX,nintendowifi.net,Nintendo
+DOMAIN-SUFFIX,nintendowii.com,Nintendo
+DOMAIN-SUFFIX,personaltrainermath.com,Nintendo
+DOMAIN-SUFFIX,playnintendo.com,Nintendo
+DOMAIN-SUFFIX,pokedex3d.com,Nintendo
+DOMAIN-SUFFIX,pokemon-moon.com,Nintendo
+DOMAIN-SUFFIX,pokemon-sun.com,Nintendo
+DOMAIN-SUFFIX,pokemon-sunmoon.com,Nintendo
+DOMAIN-SUFFIX,pokemon-unitepgame.com,Nintendo
+DOMAIN-SUFFIX,pokemon.com,Nintendo
+DOMAIN-SUFFIX,pokemonbank.com,Nintendo
+DOMAIN-SUFFIX,pokemonblackwhite.com,Nintendo
+DOMAIN-SUFFIX,pokemonbw.com,Nintendo
+DOMAIN-SUFFIX,pokemonchampionships.com,Nintendo
+DOMAIN-SUFFIX,pokemongoldsilver.com,Nintendo
+DOMAIN-SUFFIX,pokemonhome.com,Nintendo
+DOMAIN-SUFFIX,pokemonletsgoeevee.com,Nintendo
+DOMAIN-SUFFIX,pokemonletsgopikachu.com,Nintendo
+DOMAIN-SUFFIX,pokemonmysterydungeon.com,Nintendo
+DOMAIN-SUFFIX,pokemonpicross.com,Nintendo
+DOMAIN-SUFFIX,pokemonplatinum.com,Nintendo
+DOMAIN-SUFFIX,pokemonrubysapphire.com,Nintendo
+DOMAIN-SUFFIX,pokemonsunmoon.com,Nintendo
+DOMAIN-SUFFIX,pokemonswordshield.com,Nintendo
+DOMAIN-SUFFIX,pokemonultrasunmoon.com,Nintendo
+DOMAIN-SUFFIX,pokemonvgc.com,Nintendo
+DOMAIN-SUFFIX,pokemonwifi.net,Nintendo
+DOMAIN-SUFFIX,splatoon2tournament.com,Nintendo
+DOMAIN-SUFFIX,starfox.com,Nintendo
+DOMAIN-SUFFIX,supermario.com,Nintendo
+DOMAIN-SUFFIX,supermario3dworld.com,Nintendo
+DOMAIN-SUFFIX,supermariobros.com.cn,Nintendo
+DOMAIN-SUFFIX,supermariogalaxy.com,Nintendo
+DOMAIN-SUFFIX,supermariorun.com,Nintendo
+DOMAIN-SUFFIX,superpapermario.com,Nintendo
+DOMAIN-SUFFIX,supersmashbros.cn,Nintendo
+DOMAIN-SUFFIX,supersmashbros.com.cn,Nintendo
+DOMAIN-SUFFIX,thelegendarystarfy.com,Nintendo
+DOMAIN-SUFFIX,thewonderful101.com,Nintendo
+DOMAIN-SUFFIX,wariolandshakeit.com,Nintendo
+DOMAIN-SUFFIX,wariowarediy.com,Nintendo
+DOMAIN-SUFFIX,wii-u.com,Nintendo
+DOMAIN-SUFFIX,wiifit.com,Nintendo
+DOMAIN-SUFFIX,wiifitu.com,Nintendo
+DOMAIN-SUFFIX,wiipartyu.com,Nintendo
+DOMAIN-SUFFIX,wiisports.com,Nintendo
+DOMAIN-SUFFIX,wiisportsresort.com,Nintendo
+DOMAIN-SUFFIX,wiiugamepad.com,Nintendo
+DOMAIN-SUFFIX,wiivc.net,Nintendo
+DOMAIN-SUFFIX,xenoblade.com,Nintendo
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn,Nintendo
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net,Nintendo
+DOMAIN-SUFFIX,yoshisnewisland.com,Nintendo
